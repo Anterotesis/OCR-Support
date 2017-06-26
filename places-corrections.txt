@@ -1,5 +1,7 @@
+Balingftoke Basingstoke
+Barnfley Barnsley
 Chefterfield Chesterfield
-Chejier  Chester
+Chejier Chester
 Chejier Chester
 Chelfea Chelsea
 Doncafier Doncaster
@@ -11,6 +13,7 @@ Gloucejler Gloucester
 Hounflow Hounslow
 Kenfington Kensington
 Kingfton Kingston
+Lancafter Lancaster
 Lancajier Lancaster
 Lancajler Lancaster
 Leicejler Leicester
@@ -20,12 +23,14 @@ Manchejler Manchester
 Middiefex Middlesex
 Middlefex Middlesex
 Mtddlefex Middlesex
+Pontefraft Pontefract
 Portfmouth Portsmouth
 Prefton Preston
 Ruffta Russia
 Somcrfet Somerset
 Somerfet Somerset
 Suflex Sussex
+Thame$ Thames
 Wefiminfier Westminster
 Wefiminfler Westminster
 Wefiminfter Westminster
