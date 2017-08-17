@@ -5,6 +5,7 @@ feciindo secundo
 fecnndo secundo
 fecundo secundo
 feptimo septimo
+fexto sexto
 Gborgii Georgii
 Gecrgii Georgii
 Geokgii Georgii
@@ -14,6 +15,7 @@ Georgh Georgii
 GeorgiI Georgii
 GeorgIi Georgii
 GeoRgii Georgii
+GeoRGii Georgii
 Georgji Georgii
 Georgn Georgii
 Georgu Georgii
@@ -32,6 +34,7 @@ quadrageftmo quadragesimo
 quadragelimo quadragesimo
 tcrtio tertio
 terrio  tertio
+tertlo tertio
 tncefimo tricesimo
 trfcefimo tricesimo
 triccfimo tricesimo
@@ -42,10 +45,13 @@ triceiimo tricesimo
 tricejimo tricesimo
 tricelimo tricesimo
 trieefimo tricesimo
+trioefimo tricesimo
 trlcefimo tricesimo
+vfcefimo vicesimo
 viccfimo vicesimo
 vicefimo vicesimo
 viceftmo vicesimo
+viceGmo vicesimo
 vicelimo vicesimo
 vicetimo vicesimo
 vicifimo vicesimo
@@ -53,3 +59,6 @@ vieefimo vicesimo
 vlcefimo vicesimo
 yicefimo vicesimo
 
+GeoRGII Georgii
+Georqii Georgii
+oflavo octavo

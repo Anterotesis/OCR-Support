@@ -1,4 +1,6 @@
 Aberdeenjhire Aberdeenshire
+Alderfgate Aldersgate
+Alhby Ashby
 Balingftoke Basingstoke
 Barnfley Barnsley
 Bermondfey Bermondsey
@@ -6,6 +8,7 @@ Bifbopfgate Bishopsgate
 Bifbopjgate Bishopsgate
 Bifhopfgate Bishopsgate
 Bijhopfgate Bishopsgate
+Bloomlbury Bloomsbury
 Briftol Bristol
 Brighthelmfion Brighthelmston
 Brighthelmfton Brighthelmston
@@ -14,8 +17,11 @@ Buckinghamfhire Buckinghamshire
 Carlifle Carlisle
 Cbefterfield Chesterfield
 Chefhire Cheshire
+Cheftcrfield  Chesterfield 
 Chefterfield Chesterfield
+Chejbire Cheshire
 Chejier Chester
+Chejler Chester
 Chelfea Chelsea
 Chepjlow Chepstow
 Cirencefier Cirencester
@@ -30,6 +36,7 @@ Devonlhire Devonshire
 Doncafier Doncaster
 Dorfet Dorset
 Dunftable Dunstable
+Efsex Essex
 Finijlerre Finisterre
 Glafgow Glasgow
 Glajlonbury Glastonbury
@@ -43,7 +50,9 @@ Glamorganjhire Glamorganshire
 Gloucefier Gloucester
 Gloucefter Gloucester
 Gloucejler Gloucester
+Glouceller Gloucester
 Gofport Gosport
+Gravefend Gravesend
 Guemfey Guernsey
 Hampfhire Hampshire
 Hampfliire Hampshire
@@ -56,11 +65,15 @@ Hertfordjbire Hertfordshire
 Hertfordjhire Hertfordshire
 Horfley Horsley
 Hounflow Hounslow
+Iflington Islington
+Ipfwich Ipswich
 IVejlmorland Westmorland
 Ivelchefter Ivelchester
 Jerfey Jersey
 Kenfington Kensington
+Kidderminfter Kidderminster
 Kingfton Kingston
+Lancafler Lancaster
 Lancafter Lancaster
 Lancajier Lancaster
 Lancajler Lancaster
@@ -68,6 +81,7 @@ Leicefier Leicester
 Leicefler Leicester
 Leiceftcr Leicester
 Leicefterfhire Leicestershire	
+Leicefter  Leicester
 Leicefter Leicester
 Leicejier Leicester
 Leicejler Leicester
@@ -76,6 +90,8 @@ Mancbefter Manchester
 Manchejier Manchester
 Manchejler Manchester
 Middiefex Middlesex
+MiddJesex Middlesex
+Middlcfex Middlseex
 Middlefex Middlesex
 Mtddlefex Middlesex
 Newcaftle Newcastle
@@ -91,7 +107,10 @@ Nottinghamlhire Nottinghamshire
 Ofweftry Oswestry
 Pontefraft Pontefract
 Portfmouth Portsmouth
+Prefteigne  Presteigne 
 Prefton Preston
+Ratdiffe Ratcliffe
+Rochefter Rochester
 Ruffta Russia
 Shropfhirc Shropshire
 Shropfhire Shropshire
@@ -99,8 +118,8 @@ Shropjbire Shropshire
 Shropjhire Shropshire
 Shroplhire Shropshire
 Somcrfet Somerset
-somerfct Somerset
-Somerfetfhire somersetshire
+Somerfct Somerset
+Somerfetfhire Somersetshire
 Somerfet Somerset
 Suflex Sussex
 Tewkejbury Tewkesbury
@@ -120,9 +139,12 @@ Weftmorland Westmorland
 Wejlminfier Westminster
 Wejlminjler Westminster
 Winchefler Winchester
+Winchefter Winchester
 Worcefler Worcester
 Worcefter Worcester
 Worcejler Worcester
 Workfop Worksop
+Yorkfbire Yorkshire
+Yorkjbire Yorkshire
 Zoucb Zouch
 
