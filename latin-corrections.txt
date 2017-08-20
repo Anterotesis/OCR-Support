@@ -1,3 +1,4 @@
+
 (ecundo secundo
 fccundo secundo
 fcptimo septimo
@@ -16,6 +17,7 @@ GeorgiI Georgii
 GeorgIi Georgii
 GeoRgii Georgii
 GeoRGii Georgii
+GeoRGII Georgii
 Georgji Georgii
 Georgn Georgii
 Georgu Georgii
@@ -26,6 +28,7 @@ Geougii Georgii
 Grorgii Georgii
 o&avo octavo
 Oeorgii Georgii
+oflavo octavo
 oftavo octavo
 otfavo octavo
 prirno primo
@@ -59,6 +62,3 @@ vieefimo vicesimo
 vlcefimo vicesimo
 yicefimo vicesimo
 
-GeoRGII Georgii
-Georqii Georgii
-oflavo octavo
