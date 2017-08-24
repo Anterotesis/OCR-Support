@@ -1,4 +1,3 @@
-
 (ecundo secundo
 fccundo secundo
 fcptimo septimo

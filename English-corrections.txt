@@ -1,4 +1,3 @@
-
 ©f of
 0f of
 a<5t act
@@ -28,13 +27,10 @@ aforelaid aforesaid
 afsizes assizes
 aftion action
 againft against
-againft against 
-alcertaining ascertaining
 alcertaining ascertaining 
 alfo also
 amongft amongst
 arife arise
-arife arise 
 arifen arisen
 attomies attornies
 aU all
@@ -440,7 +436,6 @@ treafon treason
 treafurers treasurers
 treafurer treasurer
 Treafurer Treasurer
-treafury treafury
 treafury treasury
 Treafury Treasury
 truft trust
