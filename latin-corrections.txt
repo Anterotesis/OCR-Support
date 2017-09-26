@@ -1,3 +1,4 @@
+dccimo decimo
 (ecundo secundo
 eglife eglise
 fccundo secundo
@@ -14,9 +15,9 @@ Geoegij Georgii
 Geoegji Georgii
 Geoeqii Georgii
 Geokgii Georgii
+Georgh Georgii
 GeorGH Georgii
 GeoRGH Georgii
-Georgh Georgii
 GeorgiI Georgii
 GeorgIi Georgii
 GeoRgii Georgii
@@ -25,10 +26,12 @@ GeoRGII Georgii
 Georgji Georgii
 Georgn Georgii
 Georgu Georgii
+Georgxi Georgii
 Georoii Georgii
 Georqii Georgii
 Geougii Georgii
 Grorgii Georgii
+Guublmi Gulielmi
 o&avo octavo
 Oeorgii Georgii
 oflavo octavo
@@ -40,6 +43,7 @@ quadrageftmo quadragesimo
 quadragelimo quadragesimo
 quihto quinto
 quinfo quinto
+regnl regni
 tcrtio tertio
 terrio  tertio
 tertlo tertio
@@ -60,6 +64,7 @@ trlcefimo tricesimo
 vfcefimo vicesimo
 viccfimo vicesimo
 vicefimo vicesimo
+viceflmo vicesimo
 viceftmo vicesimo
 viceGmo vicesimo
 vicelimo vicesimo

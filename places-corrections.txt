@@ -21,6 +21,7 @@ Carlifle Carlisle
 Cbefterfield Chesterfield
 Chefhire Cheshire
 Cheftcrfield  Chesterfield 
+Chefter Chester
 Chefterfield Chesterfield
 Chejbire Cheshire
 Chejier Chester
@@ -30,6 +31,7 @@ Chepjlow Chepstow
 Cirencefier Cirencester
 Cirencefter Cirencester
 Cirencejler Cirencester
+Colchefter Colchester
 Devonfbire Devonshire
 Devonfhire Devonshire
 Devonfliire Devonshire
@@ -40,6 +42,7 @@ Doncafier Doncaster
 Dorfet Dorset
 Dunftable Dunstable
 Efsex Essex
+Failfworth Failsworth
 Finijlerre Finisterre
 Glafgow Glasgow
 Glajlonbury Glastonbury
@@ -77,6 +80,7 @@ Ipfwich Ipswich
 IVejlmorland Westmorland
 Ivelchefter Ivelchester
 Jerfey Jersey
+Kelfo Kelso
 Kenfington Kensington
 Kidderminfter Kidderminster
 Kingfton Kingston
@@ -88,13 +92,14 @@ Leicefier Leicester
 Leicefler Leicester
 Leiceftcr Leicester
 Leicefterfhire Leicestershire	
-Leicefter  Leicester
 Leicefter Leicester
+Leicefter  Leicester
 Leicejier Leicester
 Leicejler Leicester
 Lijbon Lisbon
 Loudon London
 Mancbefter Manchester
+Manchefter Manchester
 Manchejier Manchester
 Manchejler Manchester
 Middiefex Middlesex
@@ -121,6 +126,7 @@ Portfmouth Portsmouth
 Prefteigne  Presteigne 
 Prefton Preston
 Ratdiffe Ratcliffe
+Rochefter Rochefter
 Rochefter Rochester
 Ruffta Russia
 Shropfhirc Shropshire
@@ -133,6 +139,7 @@ Somerfct Somerset
 Somerfetfhire Somersetshire
 Somerfet Somerset
 Staffordfiiire Staffordshire
+Suffex Sussex
 Suflex Sussex
 Tewkejbury Tewkesbury
 Tewkelbury Tewkesbury
@@ -164,6 +171,4 @@ Workfop Worksop
 Yorkfbire Yorkshire
 Yorkjbire Yorkshire
 Zoucb Zouch
-Colchefter Colchester
 
-Jerfey Jersey
