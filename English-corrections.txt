@@ -26,9 +26,11 @@ afeertaining  ascertaining
 affedting affecting
 affignees assignees
 afiigns assigns
+afl act
 aflembled assembled
 aflemblies assemblies
 aflembling assembling
+afls acts
 aforefaid aforesaid
 aforefajd aforesaid
 aforefeid aforesaid
@@ -456,6 +458,7 @@ majejly majesty
 Majejly Majesty
 Majelly Majesty
 majetty majesty
+Majeuy Majesty
 majtfty majesty
 malicioufiy maliciously
 malicioufly maliciously
@@ -562,6 +565,7 @@ raife raise
 raifing raising
 reafonable reasonable
 reafon reason
+redifying rectifying
 refpectively respectively
 refpective respective
 refpeCt respect
