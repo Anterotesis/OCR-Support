@@ -30,6 +30,8 @@ L,ooQle'
 L,ooQLe
 L,OOQle
 LrOOQle
+ooqle
+ooQle
 )OQle
 •)OQle
 uooqle
@@ -37,5 +39,4 @@ UooQle
 VjOOQie
 vjOOQLC
 VjOOQle
-ooqle
-ooQle
+

@@ -26,6 +26,7 @@ afeertaining  ascertaining
 affedting affecting
 affignees assignees
 afiigns assigns
+afiize assize
 afl act
 aflembled assembled
 aflemblies assemblies
@@ -43,8 +44,10 @@ aftembled assembled
 aftion action
 a<fts acts
 afts acts
+againfi against
 againft against
 againjt against
+againrt against
 aggrieyed aggrieved
 ajsembled assembled
 a£l act
@@ -65,6 +68,7 @@ aU all
 Auguft August
 authoriled authorised
 backfides backsides
+ballaftage ballastage
 (ball shall
 Baptijl Baptist
 beajls beasts
@@ -176,6 +180,7 @@ difeontinue discontinue
 difeontinuing discontinuing
 difeover discover
 difeovery discovery
+diferetion discretion
 difperse disperse
 difpofed disposed
 difpofe dispose
@@ -236,6 +241,8 @@ fefiion session
 fefiions sessions
 feflion session
 feifion session
+feignur seignur
+feizures seizures
 fejfion session
 fellion session
 feparate separate
@@ -370,6 +377,7 @@ houfes houses
 iffue issue
 ifiue issue
 ifle isle
+Ifle Isle
 ihall shall
 Iheriff sheriff
 Iheriffs sheriffs
@@ -402,6 +410,7 @@ jberiff sheriff
 Jberiff sheriff
 jbould should
 Jbould should
+Jcwifh Jewish
 jerfey jersey
 Jerve serve
 Jeven seven
@@ -416,12 +425,14 @@ jlatutes statutes
 Jlatutes statutes
 jlatute statute
 Jlatute statute
+Jlreets streets
 Juch such
 juffices justices
 juftice justice
 juftices justices
 Juftices Justices
 jujtices justices
+laftage lastage
 leafes leases
 leveral several
 lhall shall
@@ -553,6 +564,7 @@ punifti punish
 punijbing punishing
 punilhed punished
 punilhing punishing
+punilhment punishment
 purchafe purchase
 purchafing purchasing
 purpofe purpose
@@ -575,6 +587,7 @@ refpeltively respectively
 reftify rectify
 reftoring restoring
 reft rest
+regifired registred
 reprefent represent
 requefts requests
 reyoked revoked
@@ -599,7 +612,9 @@ thoujand thousand
 thouland thousand
 thpufand thousand
 tneir their
+townfhips township
 townfhip township
+townihip township
 townlhips townships
 townlhip township
 tranfmit transmit
@@ -623,10 +638,12 @@ ufually usually
 uncuftomed uncustomed
 unfubfcribed unsubscribed
 unlefs unless
+untefs unless
 updn upon
 utmojl utmost
 veffels vessels
 veflel vessel
+veflry vestry
 veftel vessel
 veftrymen vestrymen
 vejfels vessels
