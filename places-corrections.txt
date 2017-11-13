@@ -1,3 +1,4 @@
+
 Aberdeenjhire Aberdeenshire
 Alderfgate Aldersgate
 Alhby Ashby
@@ -156,10 +157,12 @@ Somerfet Somerset
 Staffordfiiire Staffordshire
 Suffex Sussex
 Suflex Sussex
+Sujsex Sussex
 Tewkejbury Tewkesbury
 Tewkelbury Tewkesbury
 Tewkfbury Tewksbury
 Thame$ Thames
+Wcftminfter Westminster
 Wcftminster Westminster
 Wefiminfier Westminster
 Wefiminfler Westminster

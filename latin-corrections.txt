@@ -3,6 +3,7 @@ dccimo decimo
 eglife eglise
 fccundo secundo
 fcptimo septimo
+fcxto sexto
 feciindo secundo
 fecnndo secundo
 fecundo secundo
@@ -71,8 +72,12 @@ viceGmo vicesimo
 vicelimo vicesimo
 vicetimo vicesimo
 vicifimo vicesimo
+victfimo vicesimo
 vieefimo vicesimo
 vieelimo vicesimo
 vlcefimo vicesimo
 yicefimo vicesimo
+GeosgIi Georgii
+declmo decimo
+
 

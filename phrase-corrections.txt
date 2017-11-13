@@ -1,28 +1,71 @@
+act\ fir act\ for
+ad\ for act\ for
+adl\ for act\ for
+adl\ made act\ made
+adl\ to act\ to
+ad\ made act\ made
 ad\ of\ parliament act\ of\ parliament
 ads\ of\ parliament acts\ of\ parliament
+ad\ to act\ to
+aft\ for act\ for
+aft\ made act\ made
 aft\ of\ parliament act\ of\ parliament
 afts\ of\ parliament acts\ of\ parliament
+aft\ to act\ to
 alt\ of\ parliament act\ of\ parliament
 alts\ of\ parliament acts\ of\ parliament
 an\ act\ parted an\ act\ passed
+An\ ail\ for An\ act\ for
+An\ ail\ to An\ act\ to
+An\ ait\ for An\ act\ for
+An\ ait\ to An\ act\ to
+An\ eft An\ act
+Anna\ tricesimo Anno\ tricesimo
+Anna\ vicesimo Anno\ vicesimo
+Anno\ qumto Anno\ quinto
 any\ fort\ of any\ sort\ of
+any\ (uch any\ such
 any\ wife\ notwithftanding any\ wise\ notwithstanding
 any\ wife\ notwithstanding any\ wise\ notwithstanding
 be\ fold\ for be\ sold\ for
+be\ it\ enaded be\ it\ enacted
 bis\ Majesty his\ Majesty
+bis\ present bis\ present
 bis\ present\ Majesty his\ present\ Majesty
+C\ A\ P CAP
 fail\ cloth sail\ cloth
+fb\ much so\ much
+fifty\ fix fifty\ six
+fix\ acres six\ acres
 fix\ days six\ days
 fix\ hundred six\ hundred 
 fix\ millions six\ millions
+fix\ months six\ months
 fix\ pence six\ pence
+fix\ pounds six\ pounds
+fix\ thousand six\ thousand
+fix\ weeks six\ weeks
+fix\ years six\ years
+former\ ad former\ act
+former\ aft former\ act
+for\ tne for\ the
+General\ ifiuc General\ issue
 Georgii\ 11 Georgii\ II
 Georgii\ H Georgii\ II
+he\ or\ (he he\ or\ she
+hundred\ ana hundred\ and
 in\ any\ wife in\ any\ wise 
+in\ cafe\ his in\ case\ his
+(inking\ fund sinking\ fund
+in\ tne in\ the
+linking\ fund sinking\ fund
+made\ m\ the made\ in\ the
 mod\ excellent most\ excellent
 Nift\ Prius Nisi\ Prius
 particular\ cafes particular\ cases
 pleading\ the\ fame pleading\ the\ same
+prelent\ Majesty present\ Majesty
+present\ aft present\ act
 publick\ aft publick\ act
 Publick\ aft Publick\ act
 railing\ money raising\ money
@@ -31,16 +74,12 @@ railing\ the\ sum raising\ the\ sum
 said\ adt said\ act
 said\ aft said\ act
 several\ afts several\ acts
+the\ aft the\ act
 the\ fame\ act the\ same\ act
 the\ fame\ aft the\ same\ act
+the\ fame\ manner the same\ manner
 the\ fame\ time the\ same\ time
+Treble\ cods Treble\ costs
+twenty\ lixth twenty\ sixth
 vended\ or\ fold vended\ or\ fold
-fix\ pounds six\ pounds
-linking\ fund sinking\ fund
-fifty\ fix fifty\ six
-be\ fold\ for be\ sold\ for
-An\ ail\ for An\ act\ for
-An\ ail\ to An\ act\ to
-An\ ait\ for An\ act\ for
-An\ ait\ to An\ act\ to
-be\ it\ enaded be\ it\ enacted
+

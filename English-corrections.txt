@@ -23,6 +23,7 @@ afbresaid aforesaid
 afeertained ascertained
 afeertaining ascertaining
 afeertaining  ascertaining
+affaulting assaulting
 affedting affecting
 affignees assignees
 afiigns assigns
@@ -49,6 +50,7 @@ againft against
 againjt against
 againrt against
 aggrieyed aggrieved
+ajfo also
 ajsembled assembled
 a£l act
 alcertaining ascertaining
@@ -120,6 +122,7 @@ claufes clauses
 clerkfhip clerkship
 cnaCted enacted
 cnadted enacted
+Cockfpur Cockspur
 cofts costs
 cohftrued construed
 coilector collector
@@ -149,6 +152,7 @@ confent consent
 confider consider
 Conftable Constable
 conftables constables
+conftabtes constables
 couneil council
 crofs cross
 Crofs Cross
@@ -179,6 +183,7 @@ difeharging discharging
 difeontinue discontinue
 difeontinuing discontinuing
 difeover discover
+difeovering discovering
 difeovery discovery
 diferetion discretion
 difperse disperse
@@ -214,6 +219,7 @@ efq esq
 efquire esquire
 eftablifhing establishing
 eftabliihment establishment
+eftafc estate
 eftate estate
 eftates estates
 eledtion election
@@ -221,15 +227,18 @@ enaCted enacted
 enadted enacted
 ena&ed enacted
 enafted enacted
+enalted enacted
 eriafted enacted
 (everal several
 excifeable exciseable
+excife excise
 extenftve extensive
 fadtories factories
 faid said
 fait salt
 falefmen salesmen
 fale sale
+fbips ships
 fcience science
 feal seal
 fecond second
@@ -244,6 +253,7 @@ feifion session
 feignur seignur
 feizures seizures
 fejfion session
+felfion session
 fellion session
 feparate separate
 ferve serve
@@ -272,9 +282,17 @@ filhery fishery
 filk silk
 finifbing finishing
 finking sinking
+firfi first
 firft first
 Firft First
+firji first
+Firji First
 firjl first
+firjl first 
+Firjl First
+FirJl First
+firjt first
+Firjt First
 Firtt First
 fithery fishery
 fixtb sixth
@@ -398,6 +416,7 @@ infolvent insolvent
 infolyent insolvent
 inftead instead
 ingrofled ingrossed
+inoft most
 interejl interest
 ioffes losses
 Ipeedy speedy
@@ -415,6 +434,7 @@ jerfey jersey
 Jerve serve
 Jeven seven
 Jewifh Jewish
+Jewilh Jewish
 Jhall shall
 jheriffs sheriffs
 Jhips ships
@@ -432,6 +452,12 @@ juftice justice
 juftices justices
 Juftices Justices
 jujtices justices
+jurifdidlion jurisdiction
+jurifdidlions jurisdictions
+jurifdidtion jurisdiction
+jurifdidtions jurisdictions
+jurifdiflion jurisdiction
+jurifdiflions jurisdictions
 laftage lastage
 leafes leases
 leveral several
@@ -467,6 +493,7 @@ majejiy majesty
 Majejiy Majesty
 majejly majesty
 Majejly Majesty
+MajeJly Majesty
 Majelly Majesty
 majetty majesty
 Majeuy Majesty
@@ -477,6 +504,10 @@ manufadlure manufacture
 manufadturer manufacturer
 manufaftures manufactures
 manvfafture manufacture
+marfhalsea marshalsea
+Marfhalsea Marshalsea
+marjhalsea marshalsea
+Marjhalsea Marshalsea
 marlhand marshland
 Mdjefty Majesty
 mdjesty majesty
@@ -486,6 +517,7 @@ mifchiefs mischiefs
 mifehief mischief
 miftake mistake
 milfion million
+Moft Most
 Msjefty Majesty
 mufter muster
 ncverthelefs nevertheless
@@ -508,6 +540,7 @@ otherwife otherwise
 Overfeers Overseers
 paffages passages
 paflages passages
+pafTed passed
 pajfed passed
 pajfengers passengers
 pajjed passed
@@ -552,11 +585,18 @@ Prefident President
 prelent present
 premifies premises
 premisles  premisses
+prifoner prisoner
 Prifoner Prisoner
+prifoners prisoners
 prifon prison
 prifons prisons
+profeeuted prosecuted
 provifo proviso
 provilion provision
+publiek publick
+Publiek Publick
+punifbing punishing
+punifb punish
 punifhment punishment
 punifhments punishments
 punifh punish
@@ -571,6 +611,7 @@ purpofe purpose
 purpofes purposes
 Qreat Great
 queftions questions
+queft quest
 quefts quests
 raifed raised
 raife raise
@@ -600,6 +641,7 @@ spanilh spanish
 Spanilh Spanish
 subfcribers subscribers
 tbe the
+tbirty thirty
 tboufand thousand
 tboujand thousand
 Thefe These
@@ -630,6 +672,7 @@ trealurer treasurer
 Truftees Trustees
 truft trust
 trulfees trustees
+TT7HEREAS WHEREAS
 ufcd used
 ufed used
 ufeful useful
@@ -642,6 +685,7 @@ untefs unless
 updn upon
 utmojl utmost
 veffels vessels
+vefiels vessels
 veflel vessel
 veflry vestry
 veftel vessel
@@ -652,6 +696,7 @@ vifcount viscount
 Vifcount Viscount
 vifeount viscount
 Vifeount Viscount
+warehoufes warehouses
 wbatsoever whatsoever
 wbofe whose
 weftward westward
@@ -669,3 +714,21 @@ workboufe workhouse
 zvhereas whereas
 zvhich which
 
+lhillings shillings
+7HEREAS WHEREAS
+puhlick publick
+a& act
+Majefty Majesty
+GAP CAP
+rofemary rosemary
+Manufadlure Manufacture
+manufadlure manufacture
+Manufadtured Manufactured
+manufadtured manufactured
+efeapes escapes
+Commiflioners Commissioners
+furrender surrender
+furrendered surrendered
+premiftes premisses
+Premiftes premisses
+premifTes premisses
