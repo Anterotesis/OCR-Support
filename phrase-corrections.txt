@@ -15,6 +15,10 @@ aft\ to act\ to
 alt\ of\ parliament act\ of\ parliament
 alts\ of\ parliament acts\ of\ parliament
 an\ act\ parted an\ act\ passed
+An\ Ad\ for An\ Act\ for
+an\ ad\ passed an\ act\ passed
+An\ Aft An\ Act
+An\ aft\ far An\ act\ for
 An\ ail\ for An\ act\ for
 An\ ail\ to An\ act\ to
 An\ ait\ for An\ act\ for
@@ -22,6 +26,7 @@ An\ ait\ to An\ act\ to
 An\ eft An\ act
 Anna\ tricesimo Anno\ tricesimo
 Anna\ vicesimo Anno\ vicesimo
+Anno\ dedmo Anno\ decimo
 Anno\ qumto Anno\ quinto
 any\ fort\ of any\ sort\ of
 any\ (uch any\ such
@@ -33,6 +38,7 @@ bis\ Majesty his\ Majesty
 bis\ present bis\ present
 bis\ present\ Majesty his\ present\ Majesty
 C\ A\ P CAP
+County\ of\ Tork County\ of\ York
 fail\ cloth sail\ cloth
 fb\ much so\ much
 fifty\ fix fifty\ six
@@ -73,13 +79,18 @@ railing\ the\ said raising\ the\ said
 railing\ the\ sum raising\ the\ sum
 said\ adt said\ act
 said\ aft said\ act
+several\ ads several\ acts
 several\ afts several\ acts
 the\ aft the\ act
 the\ fame\ act the\ same\ act
 the\ fame\ aft the\ same\ act
 the\ fame\ manner the same\ manner
 the\ fame\ time the\ same\ time
+treble\ cods treble\ costs
 Treble\ cods Treble\ costs
 twenty\ lixth twenty\ sixth
 vended\ or\ fold vended\ or\ fold
+year\ bf\ the year\ of\ the
+the\ (aid the\ said
+G\ O\ D GOD
 
