@@ -17,6 +17,7 @@ alts\ of\ parliament acts\ of\ parliament
 an\ act\ parted an\ act\ passed
 An\ Ad\ for An\ Act\ for
 an\ ad\ passed an\ act\ passed
+an\ aft an\ act
 An\ Aft An\ Act
 An\ aft\ far An\ act\ for
 An\ ail\ for An\ act\ for
@@ -58,6 +59,7 @@ for\ tne for\ the
 General\ ifiuc General\ issue
 Georgii\ 11 Georgii\ II
 Georgii\ H Georgii\ II
+G\ O\ D GOD
 he\ or\ (he he\ or\ she
 hundred\ ana hundred\ and
 in\ any\ wife in\ any\ wise 
@@ -82,15 +84,15 @@ said\ aft said\ act
 several\ ads several\ acts
 several\ afts several\ acts
 the\ aft the\ act
+the\ (aid the\ said
 the\ fame\ act the\ same\ act
 the\ fame\ aft the\ same\ act
 the\ fame\ manner the same\ manner
 the\ fame\ time the\ same\ time
+this\ aft this\ act
 treble\ cods treble\ costs
 Treble\ cods Treble\ costs
 twenty\ lixth twenty\ sixth
 vended\ or\ fold vended\ or\ fold
 year\ bf\ the year\ of\ the
-the\ (aid the\ said
-G\ O\ D GOD
 

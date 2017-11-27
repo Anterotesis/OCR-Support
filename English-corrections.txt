@@ -57,6 +57,7 @@ ajfo also
 ajsembled assembled
 a£l act
 alcertaining ascertaining
+(ale sale
 alfo also
 a£ls acts
 amongfi amongst
@@ -232,6 +233,7 @@ eftate estate
 eftates estates
 eledion election
 eledtion election
+enaAed enacted
 ena&cd enacted
 enaCted enacted
 enadted enacted
@@ -270,6 +272,7 @@ feparate separate
 ferved served
 ferve serve
 fervice service
+ferviee service
 fervjce service
 fettlement settlement
 fettling settling
@@ -307,6 +310,7 @@ firjt first
 Firjt First
 Firtt First
 fithery fishery
+fixlb sixth
 fixtb sixth
 fixteenth sixteenth
 fixth sixth
@@ -384,7 +388,6 @@ Gatehoufe Gatehouse
 grindftones grindstones
 grofsing grossing
 (hall shall
-(hall shall
 {hall shall
 (hare share
 (hares shares
@@ -409,6 +412,7 @@ Houfe House
 houfes houses
 (hould should
 iffue issue
+Ifiands Islands
 ifiue issue
 ifle isle
 Ifle Isle
@@ -417,6 +421,7 @@ Iheriff sheriff
 Iheriffs sheriffs
 ihould should
 iile isle
+IJland Island
 ijle isle
 IJle Isle
 Ilish Irish
@@ -437,8 +442,11 @@ inoft most
 interejl interest
 ioffes losses
 Ipeedy speedy
+iuftice justice
+Iuftice Justice
 iuftices justices
 IVilliam William
+(ixty sixty
 jaid said
 Jaid said
 Jball shall
@@ -500,6 +508,7 @@ maiefty majesty
 Maiefty Majesty
 Majcfty Majesty
 majedy majesty
+Majeffy Majesty
 majefiy majesty
 Majefiy Majesty
 majefly majesty
@@ -619,9 +628,11 @@ premiftes premisses
 premifTes premisses
 Premiftes premisses
 premisles  premisses
+prifbn prison
 prifoner prisoner
 Prifoner Prisoner
 prifoners prisoners
+Prifoners Prisoners
 prifon prison
 prifons prisons
 profeeuted prosecuted
@@ -670,6 +681,7 @@ reftify rectify
 reftoring restoring
 reft rest
 regifired registred
+rejpeftively respectively
 reprefent represent
 requefts requests
 reyoked revoked
@@ -704,6 +716,7 @@ townlhips townships
 townlhip township
 tranfmit transmit
 Tranfportation Transportation
+Tranfport Transport
 treafiirer treasurer
 treafon treason
 treafurers treasurers
@@ -730,6 +743,7 @@ updn upon
 utmojl utmost
 veffels vessels
 vefiels vessels
+vefiel vessel
 veflel vessel
 veflry vestry
 veftel vessel

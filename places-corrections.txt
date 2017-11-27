@@ -49,6 +49,7 @@ Droitwicb Droitwich
 Dunftable Dunstable
 Efsex Essex
 EJsex Essex
+ElTex Essex
 Failfworth Failsworth
 Finijlerre Finisterre
 Glafgow Glasgow
@@ -63,6 +64,7 @@ Glamorganjhire Glamorganshire
 Gloucefier Gloucester
 Gloucefter Gloucester
 Gloucejler Gloucester
+Gloucejlershire Gloucestershire
 Glouceller Gloucester
 Gloueejler Gloucester
 Gofport Gosport
@@ -114,6 +116,7 @@ Mancbefter Manchester
 Manchefter Manchester
 Manchejier Manchester
 Manchejler Manchester
+Marlhalfea Marshalsea
 Merfey Mersey 
 Middiefex Middlesex
 MiddJesex Middlesex
@@ -156,11 +159,13 @@ Somerfet Somerset
 Staffordfiiire Staffordshire
 Suffex Sussex
 Suflex Sussex
+Sufsex Sussex
 Sujsex Sussex
 Tewkejbury Tewkesbury
 Tewkelbury Tewkesbury
 Tewkfbury Tewksbury
 Thame$ Thames
+Torkjhire Yorkshire
 Wcftminfter Westminster
 Wcftminster Westminster
 Wefiminfier Westminster
@@ -187,9 +192,6 @@ Worcejler Worcester
 Workfop Worksop
 Yorkfbire Yorkshire
 Yorkjbire Yorkshire
+Yorklhire Yorkshire
 Zoucb Zouch
-Gloucejlershire Gloucestershire
-ElTex Essex
-Sufsex Sussex
-
 
