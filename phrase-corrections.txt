@@ -24,6 +24,7 @@ An\ ail\ for An\ act\ for
 An\ ail\ to An\ act\ to
 An\ ait\ for An\ act\ for
 An\ ait\ to An\ act\ to
+An\ a£l An\ act
 An\ eft An\ act
 Anna\ tricesimo Anno\ tricesimo
 Anna\ vicesimo Anno\ vicesimo
@@ -35,12 +36,14 @@ any\ wife\ notwithftanding any\ wise\ notwithstanding
 any\ wife\ notwithstanding any\ wise\ notwithstanding
 be\ fold\ for be\ sold\ for
 be\ it\ enaded be\ it\ enacted
+bis\ heirs his\ heirs
 bis\ Majesty his\ Majesty
 bis\ present bis\ present
 bis\ present\ Majesty his\ present\ Majesty
 C\ A\ P CAP
 County\ of\ Tork County\ of\ York
 fail\ cloth sail\ cloth
+fame\ session same\ session
 fb\ much so\ much
 fifty\ fix fifty\ six
 fix\ acres six\ acres
@@ -65,10 +68,14 @@ hundred\ ana hundred\ and
 in\ any\ wife in\ any\ wise 
 in\ cafe\ his in\ case\ his
 (inking\ fund sinking\ fund
+inoft\ excellent most\ excellent
 in\ tne in\ the
+is\ to\ fay is\ to\ say
 linking\ fund sinking\ fund
 made\ m\ the made\ in\ the
+many\ wife many\ wise
 mod\ excellent most\ excellent
+mod\ humbly most\ humbly
 Nift\ Prius Nisi\ Prius
 particular\ cafes particular\ cases
 pleading\ the\ fame pleading\ the\ same
@@ -89,6 +96,7 @@ the\ fame\ act the\ same\ act
 the\ fame\ aft the\ same\ act
 the\ fame\ manner the same\ manner
 the\ fame\ time the\ same\ time
+this\ ad this\ act
 this\ aft this\ act
 treble\ cods treble\ costs
 Treble\ cods Treble\ costs

@@ -66,6 +66,7 @@ apprenticelhip apprenticeship
 archbilhoprick archbishoprick
 arife arise
 arifen arisen
+a&s acts
 aSt act
 a£t act
 A€t Act
@@ -112,6 +113,7 @@ caftle castle
 Caftle Castle
 cancelied cancelled
 ceafe cease
+cfquire esquire
 chaneery chancery
 Chaneery Chancery
 chofen chosen
@@ -151,6 +153,7 @@ commiflioners commissioners
 Commiflioners Commissioners
 commiftioners commissioners
 commiifioners commissioners
+Commijfioners Commissioners
 commijftoners commissioners
 compenfation compensation
 confeffion confession
@@ -228,6 +231,7 @@ efquire esquire
 eftabiifhing establishing
 eftablifhing establishing
 eftabliihment establishment
+eftablilhing establishing
 eftafc estate
 eftate estate
 eftates estates
@@ -379,6 +383,7 @@ fupervisor supervisor
 fuppfies supplies
 fupplying supplying
 fupply supply
+fupporting supporting
 furcharge surcharge
 furnilhing furnishing
 furrendered surrendered
@@ -438,6 +443,7 @@ infolvent insolvent
 infolyent insolvent
 inftead instead
 ingrofled ingrossed
+ingrofs ingross
 inoft most
 interejl interest
 ioffes losses
@@ -485,8 +491,11 @@ jurifdidtion jurisdiction
 jurifdidtions jurisdictions
 jurifdiflion jurisdiction
 jurifdiflions jurisdictions
+Jwear swear
+jwear swear
 laftage lastage
 (lamped stamped
+leafchold leasehold
 leafes leases
 leveral several
 lhall shall
@@ -526,9 +535,11 @@ Majejiy Majesty
 majejly majesty
 Majejly Majesty
 MajeJly Majesty
+Majejty Majesty
 Majelly Majesty
 majetty majesty
 Majeuy Majesty
+Majftty Majesty
 majtfty majesty
 malicioufiy maliciously
 malicioufly maliciously
@@ -573,6 +584,7 @@ Odober October
 oforejaid aforesaid
 oppofite opposite
 otberwife otherwise
+othef other
 otherwife otherwise
 Overfeers Overseers
 paffages passages
@@ -726,6 +738,7 @@ treafury treasury
 Treafury Treasury
 treajury treasury
 trealurer treasurer
+trefpass trespass
 Truftees Trustees
 truft trust
 trulfees trustees
@@ -771,4 +784,5 @@ worfteds worsteds
 workboufe workhouse
 zvhereas whereas
 zvhich which
+(hall shall
 
