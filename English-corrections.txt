@@ -128,8 +128,10 @@ clandeftine clandestine
 claufe clause
 claufes clauses
 clerkfhip clerkship
+clerklhip clerkship
 cnaCted enacted
 cnadted enacted
+cna&ed enacted
 Cockfpur Cockspur
 cofts costs
 cohftrued construed
@@ -185,6 +187,7 @@ deftroy destroy
 deftroyed destroyed
 dejlroy destroy
 dejlroyed destroyed
+di(charge discharge
 difcharged discharged
 difcoverv discovery
 difeharged discharged
@@ -192,6 +195,7 @@ difeharge discharge
 difeharging discharging
 difeontinue discontinue
 difeontinuing discontinuing
+difeouragement discouragement
 difeover discover
 difeovering discovering
 difeovery discovery
@@ -242,8 +246,10 @@ ena&cd enacted
 enaCted enacted
 enadted enacted
 ena&ed enacted
+enafled enacted
 enafted enacted
 enalted enacted
+e(quire esquire
 eriafted enacted
 (everal several
 excifeable exciseable
@@ -257,6 +263,8 @@ fale sale
 fbips ships
 fcience science
 feal seal
+feamen seamen
+feamens seamens
 fecond second
 fecuring securing
 fecurity security
@@ -265,6 +273,7 @@ feffions sessions
 fefiion session
 fefiions sessions
 feflion session
+feflions sessions
 feifion session
 feignur seignur
 feized seized
@@ -278,7 +287,9 @@ ferve serve
 fervice service
 ferviee service
 fervjce service
+fettled settled
 fettlement settlement
+fettlements settlements
 fettling settling
 fevcn seven
 feven seven
@@ -369,6 +380,7 @@ fubieft subject
 fubjects subjects
 fubjeCt subject
 fubjeft subject
+fublequent subsequent
 fucb such
 fucceffors successors
 fucceflbrs successors
@@ -426,6 +438,7 @@ Iheriff sheriff
 Iheriffs sheriffs
 ihould should
 iile isle
+ijland island
 IJland Island
 ijle isle
 IJle Isle
@@ -458,6 +471,7 @@ Jaid said
 Jball shall
 jberiff sheriff
 Jberiff sheriff
+Jberiffs sheriffs
 jbould should
 Jbould should
 Jcwifh Jewish
@@ -477,6 +491,10 @@ jlatutes statutes
 Jlatutes statutes
 jlatute statute
 Jlatute statute
+jlave slave
+Jlave slave
+jlaves slaves
+Jlaves slaves
 Jlreets streets
 Juch such
 juffices justices
@@ -485,14 +503,16 @@ Juftice Justice
 juftices justices
 Juftices Justices
 jujtices justices
+Jums sums
 jurifdidlion jurisdiction
 jurifdidlions jurisdictions
 jurifdidtion jurisdiction
 jurifdidtions jurisdictions
 jurifdiflion jurisdiction
 jurifdiflions jurisdictions
-Jwear swear
+jurifidi&ion jurisdiction
 jwear swear
+Jwear swear
 laftage lastage
 (lamped stamped
 leafchold leasehold
@@ -537,6 +557,7 @@ Majejly Majesty
 MajeJly Majesty
 Majejty Majesty
 Majelly Majesty
+Majelty Majesty
 majetty majesty
 Majeuy Majesty
 Majftty Majesty
@@ -564,6 +585,7 @@ mifehief mischief
 miftake mistake
 milfion million
 Moft Most
+molt most
 Msjefty Majesty
 mufter muster
 ncverthelefs nevertheless
@@ -616,6 +638,8 @@ perfon person
 Perfon Person
 perfons persons
 Perfons Persons
+peribns persons
+Peribns Persons
 perjons persons
 perlon person
 pleafe please
@@ -678,6 +702,7 @@ quefts quests
 raifed raised
 raife raise
 raifing raising
+reafonabje reasonable
 reafonable reasonable
 reafon reason
 redifying rectifying
@@ -743,6 +768,7 @@ Truftees Trustees
 truft trust
 trulfees trustees
 TT7HEREAS WHEREAS
+(uch such
 ufcd used
 ufed used
 ufeful useful
@@ -768,6 +794,9 @@ Vifcount Viscount
 vifeount viscount
 Vifeount Viscount
 warehoufes warehouses
+warehoufe warehouse
+Warehoufe Warehouse
+wbatfoever whatsoever
 wbatsoever whatsoever
 wbofe whose
 weftward westward
@@ -784,5 +813,5 @@ worfteds worsteds
 workboufe workhouse
 zvhereas whereas
 zvhich which
-(hall shall
+warehoufed warehoused
 

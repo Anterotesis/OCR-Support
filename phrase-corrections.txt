@@ -14,10 +14,12 @@ afts\ of\ parliament acts\ of\ parliament
 aft\ to act\ to
 alt\ of\ parliament act\ of\ parliament
 alts\ of\ parliament acts\ of\ parliament
+An\ aCl An\ act
 an\ act\ parted an\ act\ passed
 An\ Ad\ for An\ Act\ for
 an\ ad\ passed an\ act\ passed
 an\ aft an\ act
+An\ a\ ft An\ act
 An\ Aft An\ Act
 An\ aft\ far An\ act\ for
 An\ ail\ for An\ act\ for
@@ -25,6 +27,8 @@ An\ ail\ to An\ act\ to
 An\ ait\ for An\ act\ for
 An\ ait\ to An\ act\ to
 An\ a£l An\ act
+An\ alt\ for An\ act\ for
+and\ tor and\ for
 An\ eft An\ act
 Anna\ tricesimo Anno\ tricesimo
 Anna\ vicesimo Anno\ vicesimo
@@ -34,6 +38,7 @@ any\ fort\ of any\ sort\ of
 any\ (uch any\ such
 any\ wife\ notwithftanding any\ wise\ notwithstanding
 any\ wife\ notwithstanding any\ wise\ notwithstanding
+authority\ of\ the\ lame authority\ of\ the\ same
 be\ fold\ for be\ sold\ for
 be\ it\ enaded be\ it\ enacted
 bis\ heirs his\ heirs
@@ -59,6 +64,7 @@ fix\ years six\ years
 former\ ad former\ act
 former\ aft former\ act
 for\ tne for\ the
+forts\ of\ bread sorts\ of\ bread
 General\ ifiuc General\ issue
 Georgii\ 11 Georgii\ II
 Georgii\ H Georgii\ II
@@ -77,6 +83,7 @@ many\ wife many\ wise
 mod\ excellent most\ excellent
 mod\ humbly most\ humbly
 Nift\ Prius Nisi\ Prius
+of\ the\ fame of\ the\ fame
 particular\ cafes particular\ cases
 pleading\ the\ fame pleading\ the\ same
 prelent\ Majesty present\ Majesty
@@ -88,6 +95,7 @@ railing\ the\ said raising\ the\ said
 railing\ the\ sum raising\ the\ sum
 said\ adt said\ act
 said\ aft said\ act
+said\ alts said\ acts
 several\ ads several\ acts
 several\ afts several\ acts
 the\ aft the\ act
@@ -96,11 +104,16 @@ the\ fame\ act the\ same\ act
 the\ fame\ aft the\ same\ act
 the\ fame\ manner the same\ manner
 the\ fame\ time the\ same\ time
+the\ feme\ is the\ same\ is
 this\ ad this\ act
 this\ aft this\ act
+This\ aft This\ act
 treble\ cods treble\ costs
 Treble\ cods Treble\ costs
 twenty\ lixth twenty\ sixth
 vended\ or\ fold vended\ or\ fold
 year\ bf\ the year\ of\ the
+ana\ enforcing and\ enforcing
+bis\ late his\ late
+
 
