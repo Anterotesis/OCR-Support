@@ -53,7 +53,7 @@ quihto quinto
 quinfo quinto
 regnl regni
 tcrtio tertio
-terrio  tertio
+terrio tertio
 tertlo tertio
 tncefimo tricesimo
 trfcefimo tricesimo
@@ -89,4 +89,6 @@ Gsorgii Georgii
 Quadragefimo Quadragesimo
 Yicefimo vicesimo
 qmnto quinto
+vicefitno vicesimo
+vicdimo vicesimo
 

@@ -9,20 +9,27 @@ ads\ of\ parliament acts\ of\ parliament
 ad\ to act\ to
 aft\ for act\ for
 aft\ made act\ made
+aft\ of act\ of
 aft\ of\ parliament act\ of\ parliament
 afts\ of\ parliament acts\ of\ parliament
 aft\ to act\ to
 alt\ of\ parliament act\ of\ parliament
 alts\ of\ parliament acts\ of\ parliament
+An\ a& An\ act
+An\ a# An\ act
 An\ aCl An\ act
 an\ act\ parted an\ act\ passed
+An\ adf An\ act
 An\ Ad\ for An\ Act\ for
 an\ ad\ passed an\ act\ passed
+ana\ enforcing and\ enforcing
 an\ aft an\ act
 An\ a\ ft An\ act
 An\ Aft An\ Act
 An\ aft\ far An\ act\ for
 An\ ail\ for An\ act\ for
+an\ ail\ made an\ act\ made
+an\ ail\ of an\ act\ of
 An\ ail\ to An\ act\ to
 An\ ait\ for An\ act\ for
 An\ ait\ to An\ act\ to
@@ -42,15 +49,20 @@ authority\ of\ the\ lame authority\ of\ the\ same
 be\ fold\ for be\ sold\ for
 be\ it\ enaded be\ it\ enacted
 bis\ heirs his\ heirs
+bis\ late his\ late
 bis\ Majesty his\ Majesty
 bis\ present bis\ present
+bis\ present his\ present
 bis\ present\ Majesty his\ present\ Majesty
+bis\ said his\ said
 C\ A\ P CAP
 County\ of\ Tork County\ of\ York
 fail\ cloth sail\ cloth
 fame\ session same\ session
 fb\ much so\ much
+fhali\ be  shall\ be
 fifty\ fix fifty\ six
+fir\ ft  first
 fix\ acres six\ acres
 fix\ days six\ days
 fix\ hundred six\ hundred 
@@ -61,13 +73,22 @@ fix\ pounds six\ pounds
 fix\ thousand six\ thousand
 fix\ weeks six\ weeks
 fix\ years six\ years
+fo\ far so\ far
+fold\ pursuant sold\ pursuant
+fo\ much so\ much
 former\ ad former\ act
 former\ aft former\ act
 for\ tne for\ the
+fort\ of\ grain sort\ of\ grain
 forts\ of\ bread sorts\ of\ bread
+further\ enaded further\ enacted
+further\ enadted further\ enacted
+further\ enafted further\ enacted
 General\ ifiuc General\ issue
 Georgii\ 11 Georgii\ II
 Georgii\ H Georgii\ II
+Georgii\ IL Georgii\ II
+Georgii\ It Georgii\ II
 G\ O\ D GOD
 he\ or\ (he he\ or\ she
 hundred\ ana hundred\ and
@@ -84,6 +105,7 @@ mod\ excellent most\ excellent
 mod\ humbly most\ humbly
 Nift\ Prius Nisi\ Prius
 of\ the\ fame of\ the\ fame
+other\ wife other\ wise
 particular\ cafes particular\ cases
 pleading\ the\ fame pleading\ the\ same
 prelent\ Majesty present\ Majesty
@@ -95,6 +117,7 @@ railing\ the\ said raising\ the\ said
 railing\ the\ sum raising\ the\ sum
 said\ adt said\ act
 said\ aft said\ act
+said\ ait said\ act
 said\ alts said\ acts
 several\ ads several\ acts
 several\ afts several\ acts
@@ -105,7 +128,12 @@ the\ fame\ aft the\ same\ act
 the\ fame\ manner the same\ manner
 the\ fame\ time the\ same\ time
 the\ feme\ is the\ same\ is
+the\ ifle the\ isle
+the\ laft the\ last
+the\ laid\ county the\ said\ county
+the\ laid the\ said
 this\ ad this\ act
+this\ adt this\ act
 this\ aft this\ act
 This\ aft This\ act
 treble\ cods treble\ costs
@@ -113,7 +141,5 @@ Treble\ cods Treble\ costs
 twenty\ lixth twenty\ sixth
 vended\ or\ fold vended\ or\ fold
 year\ bf\ the year\ of\ the
-ana\ enforcing and\ enforcing
-bis\ late his\ late
-
-
+An\ at1 An\ act
+An\ a51 An\ act

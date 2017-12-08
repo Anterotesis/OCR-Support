@@ -249,6 +249,7 @@ ena&ed enacted
 enafled enacted
 enafted enacted
 enalted enacted
+endorfe endorse
 e(quire esquire
 eriafted enacted
 (everal several
@@ -260,6 +261,7 @@ faid said
 fait salt
 falefmen salesmen
 fale sale
+fatisfadfion satisfaction
 fbips ships
 fcience science
 feal seal
@@ -299,6 +301,7 @@ feventh seventh
 feventy seventy
 feveral several
 feyen seven
+fhali shall
 fhall shall
 fheir their
 fheriffdom sheriffdom
@@ -330,6 +333,7 @@ fixtb sixth
 fixteenth sixteenth
 fixth sixth
 fixty sixty
+flaves slaves
 flewards stewards
 fmall small
 foch such
@@ -376,6 +380,7 @@ fubferibed subscribed
 fubferibe subscribe
 fubfeription subscription
 fubfidy subsidy
+fubfitutes substitutes
 fubieft subject
 fubjects subjects
 fubjeCt subject
@@ -436,10 +441,13 @@ Ifle Isle
 ihall shall
 Iheriff sheriff
 Iheriffs sheriffs
+ihoufand thousand
 ihould should
 iile isle
 ijland island
 IJland Island
+ijlands islands
+IJlands Islands
 ijle isle
 IJle Isle
 Ilish Irish
@@ -556,11 +564,21 @@ majejly majesty
 Majejly Majesty
 MajeJly Majesty
 Majejty Majesty
+majelly majesty
 Majelly Majesty
+majelty majesty
 Majelty Majesty
+majerty majesty
+Majerty Majesty
+majessy majesty
+Majessy Majesty
 majetty majesty
 Majeuy Majesty
 Majftty Majesty
+majler master
+Majler Master
+majlers masters
+Majlers Masters
 majtfty majesty
 malicioufiy maliciously
 malicioufly maliciously
@@ -610,6 +628,7 @@ othef other
 otherwife otherwise
 Overfeers Overseers
 paffages passages
+pafjed passed
 paflages passages
 pafTed passed
 pajfed passed
@@ -793,6 +812,7 @@ vifcount viscount
 Vifcount Viscount
 vifeount viscount
 Vifeount Viscount
+warehoufed warehoused
 warehoufes warehouses
 warehoufe warehouse
 Warehoufe Warehouse
@@ -800,6 +820,7 @@ wbatfoever whatsoever
 wbatsoever whatsoever
 wbofe whose
 weftward westward
+weft west
 Weft West
 whatfoever whatsoever
 whatfoeyer whatsoever
@@ -811,7 +832,25 @@ wnereas whereas
 wnole whole
 worfteds worsteds
 workboufe workhouse
+zuhich which
+zvas was
+zvere were
+zvhatsoever whatsoever
+zvhen when
 zvhereas whereas
 zvhich which
-warehoufed warehoused
+zvho who
+zvithin within
+zvith with
+commiftion commission
+interji interest
+fhail shall
+fhali shall
+petfons persons
+thole those
+amongjl amongst
+difeovered discovered
+fubjeCts subjects
+Wejl West
+wejl west
 
