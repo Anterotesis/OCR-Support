@@ -1,4 +1,5 @@
 a-bove above
+a-forefaid aforesaid
 afore-faid aforesaid
 a-gainft against
 alehoufe-keepers alehouse-keepers
@@ -20,10 +21,12 @@ fe-veral  several
 fuccef-fors successors
 fur-plus surplus
 im-powered impowered
+im-prifonment imprisonment
 ma-jefty majesty
 Ma-jefty Majesty
 not-withftanding notwithstanding
 notwith-ftanding notwithstanding
+other-wife otherwise
 out-penfioners out-pensioners
 paf-sages passages
 per-fons persons
@@ -32,14 +35,17 @@ pri-foner prisoner
 pri-foners prisoners
 pri-fon prison
 pro-fecuted prosecuted
+purchafe-money purchase-money
 pur-pofes purposes
 quarter-feflions quarter-sessions
 refpec-tively respectively
 refpec-tive respective
+them-felves themselves
 thou-fand thousand
 twenty-fecond twenty-second
 warehoufe-keeper warehouse-keeper
 warehoufe-room warehouse-room
+whatfo-ever whatsoever
 what-soever whatsoever
 work-houfe work-house
 

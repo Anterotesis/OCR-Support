@@ -15,6 +15,7 @@ afts\ of\ parliament acts\ of\ parliament
 aft\ to act\ to
 alt\ of\ parliament act\ of\ parliament
 alts\ of\ parliament acts\ of\ parliament
+An\ a51 An\ act
 An\ a& An\ act
 An\ a# An\ act
 An\ aCl An\ act
@@ -35,6 +36,7 @@ An\ ait\ for An\ act\ for
 An\ ait\ to An\ act\ to
 An\ a£l An\ act
 An\ alt\ for An\ act\ for
+An\ at1 An\ act
 and\ tor and\ for
 An\ eft An\ act
 Anna\ tricesimo Anno\ tricesimo
@@ -45,6 +47,9 @@ any\ fort\ of any\ sort\ of
 any\ (uch any\ such
 any\ wife\ notwithftanding any\ wise\ notwithstanding
 any\ wife\ notwithstanding any\ wise\ notwithstanding
+Arid\ be\ it And\ be\ it
+Arid\ it\ is And\ it\ is
+a&s\ of acts\ of
 authority\ of\ the\ lame authority\ of\ the\ same
 be\ fold\ for be\ sold\ for
 be\ it\ enaded be\ it\ enacted
@@ -89,6 +94,7 @@ Georgii\ 11 Georgii\ II
 Georgii\ H Georgii\ II
 Georgii\ IL Georgii\ II
 Georgii\ It Georgii\ II
+Georgii\ IT Georgii\ II
 G\ O\ D GOD
 he\ or\ (he he\ or\ she
 hundred\ ana hundred\ and
@@ -115,6 +121,7 @@ Publick\ aft Publick\ act
 railing\ money raising\ money
 railing\ the\ said raising\ the\ said
 railing\ the\ sum raising\ the\ sum
+recited\ aft recited\ act
 said\ adt said\ act
 said\ aft said\ act
 said\ ait said\ act
@@ -141,5 +148,4 @@ Treble\ cods Treble\ costs
 twenty\ lixth twenty\ sixth
 vended\ or\ fold vended\ or\ fold
 year\ bf\ the year\ of\ the
-An\ at1 An\ act
-An\ a51 An\ act
+
