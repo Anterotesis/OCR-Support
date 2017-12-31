@@ -18,6 +18,7 @@ Brighthelmftone Brighthelmstone
 Bromfgrove Bromsgrove
 Brunfwick Brunswick
 Buckinghamfhire Buckinghamshire
+Cardiganjhire Cardiganshire
 Carlifle Carlisle
 Cbeflerfield Chesterfield 
 Cbefterfield Chesterfield
@@ -45,6 +46,7 @@ Doncajter Doncaster
 Doneaster Doncaster
 Dorchefter  Dorchester
 Dorfet Dorset
+Dorfiet Dorset
 Droitwicb Droitwich
 Dunftable Dunstable
 Eaft-India East-India

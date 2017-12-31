@@ -1,4 +1,6 @@
 andfingular and\ singular
+Annodecimo Anno\ decimo
+Annofexto Anno\ sexto
 Annoregni Anno\ regni
 Annosecundo Anno\ secundo
 dutyof duty\ of
@@ -12,7 +14,7 @@ offuch of\ such
 oftbe of\ the
 ofthe of\ the
 orfuch or\ such
-quadragesimoquinto quadragesimo quinto
+quadragesimoquinto quadragesimo\ quinto
 thefaid the\ said
 tricesimosecundo tricesimo\ secundo
 

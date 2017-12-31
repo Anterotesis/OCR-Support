@@ -7,12 +7,14 @@ ad\ made act\ made
 ad\ of\ parliament act\ of\ parliament
 ads\ of\ parliament acts\ of\ parliament
 ad\ to act\ to
+adt\ of\ parliament act\ of\ parliament
+advice\ ana\ consent advice\ and\ consent
 aft\ for act\ for
 aft\ made act\ made
 aft\ of act\ of
-aft\ of\ parliament act\ of\ parliament
 afts\ of\ parliament acts\ of\ parliament
 aft\ to act\ to
+Aimo\ tricesimo Anno\ tricesimo
 alt\ of\ parliament act\ of\ parliament
 alts\ of\ parliament acts\ of\ parliament
 An\ a51 An\ act
@@ -21,11 +23,15 @@ An\ a# An\ act
 An\ aCl An\ act
 an\ act\ parted an\ act\ passed
 An\ adf An\ act
+An\ ad\ far An\ act\ for
 An\ Ad\ for An\ Act\ for
+An\ adi\ for An\ act\ for
+An\ adl An\ act
 an\ ad\ passed an\ act\ passed
 ana\ enforcing and\ enforcing
 an\ aft an\ act
 An\ a\ ft An\ act
+An\ aft An\ act
 An\ Aft An\ Act
 An\ aft\ far An\ act\ for
 An\ ail\ for An\ act\ for
@@ -43,6 +49,7 @@ Anna\ tricesimo Anno\ tricesimo
 Anna\ vicesimo Anno\ vicesimo
 Anno\ dedmo Anno\ decimo
 Anno\ qumto Anno\ quinto
+any\ aft any\ act
 any\ fort\ of any\ sort\ of
 any\ (uch any\ such
 any\ wife\ notwithftanding any\ wise\ notwithstanding
@@ -53,6 +60,7 @@ a&s\ of acts\ of
 authority\ of\ the\ lame authority\ of\ the\ same
 be\ fold\ for be\ sold\ for
 be\ it\ enaded be\ it\ enacted
+be\ railed\ in be\ raised\ in
 bis\ heirs his\ heirs
 bis\ late his\ late
 bis\ Majesty his\ Majesty
@@ -61,6 +69,7 @@ bis\ present his\ present
 bis\ present\ Majesty his\ present\ Majesty
 bis\ said his\ said
 C\ A\ P CAP
+county\ of\ Tork county\ of\ York
 County\ of\ Tork County\ of\ York
 fail\ cloth sail\ cloth
 fame\ session same\ session
@@ -89,6 +98,7 @@ forts\ of\ bread sorts\ of\ bread
 further\ enaded further\ enacted
 further\ enadted further\ enacted
 further\ enafted further\ enacted
+General\ iffue General\ issue
 General\ ifiuc General\ issue
 Georgii\ 11 Georgii\ II
 Georgii\ H Georgii\ II
@@ -116,18 +126,21 @@ particular\ cafes particular\ cases
 pleading\ the\ fame pleading\ the\ same
 prelent\ Majesty present\ Majesty
 present\ aft present\ act
+Publick\ ad Publick\ act
 publick\ aft publick\ act
 Publick\ aft Publick\ act
 railing\ money raising\ money
 railing\ the\ said raising\ the\ said
 railing\ the\ sum raising\ the\ sum
 recited\ aft recited\ act
+recited\ afts recited\ acts
 said\ adt said\ act
 said\ aft said\ act
 said\ ait said\ act
 said\ alts said\ acts
 several\ ads several\ acts
 several\ afts several\ acts
+sixty\ fix sixty\ six
 the\ aft the\ act
 the\ (aid the\ said
 the\ fame\ act the\ same\ act
@@ -146,6 +159,8 @@ This\ aft This\ act
 treble\ cods treble\ costs
 Treble\ cods Treble\ costs
 twenty\ lixth twenty\ sixth
+two\ afts two\ acts
 vended\ or\ fold vended\ or\ fold
+weft\ riding west\ riding
 year\ bf\ the year\ of\ the
 
