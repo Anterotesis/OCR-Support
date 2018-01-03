@@ -12,9 +12,9 @@ advice\ ana\ consent advice\ and\ consent
 aft\ for act\ for
 aft\ made act\ made
 aft\ of act\ of
+Aft\ of\ Parliament Act\ of\ Parliament
 afts\ of\ parliament acts\ of\ parliament
 aft\ to act\ to
-Aimo\ tricesimo Anno\ tricesimo
 alt\ of\ parliament act\ of\ parliament
 alts\ of\ parliament acts\ of\ parliament
 An\ a51 An\ act
@@ -29,6 +29,7 @@ An\ adi\ for An\ act\ for
 An\ adl An\ act
 an\ ad\ passed an\ act\ passed
 ana\ enforcing and\ enforcing
+ana\ for and\ for
 an\ aft an\ act
 An\ a\ ft An\ act
 An\ aft An\ act
@@ -42,6 +43,7 @@ An\ ait\ for An\ act\ for
 An\ ait\ to An\ act\ to
 An\ a£l An\ act
 An\ alt\ for An\ act\ for
+an\ alt\ of an\ act\ of
 An\ at1 An\ act
 and\ tor and\ for
 An\ eft An\ act
@@ -49,6 +51,7 @@ Anna\ tricesimo Anno\ tricesimo
 Anna\ vicesimo Anno\ vicesimo
 Anno\ dedmo Anno\ decimo
 Anno\ qumto Anno\ quinto
+another\ aft another\ act
 any\ aft any\ act
 any\ fort\ of any\ sort\ of
 any\ (uch any\ such
@@ -69,11 +72,13 @@ bis\ present his\ present
 bis\ present\ Majesty his\ present\ Majesty
 bis\ said his\ said
 C\ A\ P CAP
+C\ AP CAP
 county\ of\ Tork county\ of\ York
 County\ of\ Tork County\ of\ York
 fail\ cloth sail\ cloth
 fame\ session same\ session
 fb\ much so\ much
+felling\ annuities selling\ annuities
 fhali\ be  shall\ be
 fifty\ fix fifty\ six
 fir\ ft  first
@@ -92,9 +97,15 @@ fold\ pursuant sold\ pursuant
 fo\ much so\ much
 former\ ad former\ act
 former\ aft former\ act
+fort\ and\ manner sort\ and\ manner
 for\ tne for\ the
 fort\ of\ grain sort\ of\ grain
 forts\ of\ bread sorts\ of\ bread
+fub-divifions sub-divisions
+fub-divifion sub-division
+fub-feribe subscribe
+fub-jefts subjects
+fub-jeft subject
 further\ enaded further\ enacted
 further\ enadted further\ enacted
 further\ enafted further\ enacted
@@ -123,8 +134,10 @@ Nift\ Prius Nisi\ Prius
 of\ the\ fame of\ the\ fame
 other\ wife other\ wise
 particular\ cafes particular\ cases
+per-sons persons
 pleading\ the\ fame pleading\ the\ same
 prelent\ Majesty present\ Majesty
+present\ ad present\ act
 present\ aft present\ act
 Publick\ ad Publick\ act
 publick\ aft publick\ act
@@ -138,8 +151,11 @@ said\ adt said\ act
 said\ aft said\ act
 said\ ait said\ act
 said\ alts said\ acts
+Same\ ad Same\ act
+Same\ aft Same\ act
 several\ ads several\ acts
 several\ afts several\ acts
+shall\ ad shall\ act
 sixty\ fix sixty\ six
 the\ aft the\ act
 the\ (aid the\ said
@@ -152,6 +168,7 @@ the\ ifle the\ isle
 the\ laft the\ last
 the\ laid\ county the\ said\ county
 the\ laid the\ said
+Thirty-fecond Thirty-second
 this\ ad this\ act
 this\ adt this\ act
 this\ aft this\ act
@@ -163,4 +180,6 @@ two\ afts two\ acts
 vended\ or\ fold vended\ or\ fold
 weft\ riding west\ riding
 year\ bf\ the year\ of\ the
+per\ sons persons
+fub\ feribe subscribe
 

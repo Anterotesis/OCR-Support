@@ -1,3 +1,5 @@
+Aimo\ tricesimo Anno\ tricesimo
+Annovicesimo Anno\ vicesimo
 dccimo decimo
 declmo decimo
 dedmo decimo
@@ -38,7 +40,9 @@ Georqii Georgii
 GeosgIi Georgii
 Geougii Georgii
 Grorgii Georgii
+Gsorgii Georgii
 Guublmi Gulielmi
+noftre nostre
 o&avo octavo
 odavo octavo
 Oeorgii Georgii
@@ -46,11 +50,14 @@ oflavo octavo
 oftavo octavo
 otfavo octavo
 prirno primo
+qmnto quinto
 quadragefimo quadragesimo
+Quadragefimo Quadragesimo
 quadrageftmo quadragesimo
 quadragelimo quadragesimo
 quihto quinto
 quinfo quinto
+qumto quinto
 regnl regni
 tcrtio tertio
 terrio tertio
@@ -71,7 +78,9 @@ trioefimo tricesimo
 trlcefimo tricesimo
 vfcefimo vicesimo
 viccfimo vicesimo
+vicdimo vicesimo
 vicefimo vicesimo
+vicefitno vicesimo
 viceflmo vicesimo
 viceftmo vicesimo
 vicefuno vicesimo
@@ -85,10 +94,5 @@ vieefimo vicesimo
 vieelimo vicesimo
 vlcefimo vicesimo
 yicefimo vicesimo
-Gsorgii Georgii
-Quadragefimo Quadragesimo
 Yicefimo vicesimo
-qmnto quinto
-vicefitno vicesimo
-vicdimo vicesimo
-qumto quinto
+
