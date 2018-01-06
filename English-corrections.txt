@@ -1,3 +1,4 @@
+
 0f of
 7HEREAS WHEREAS
 a£1 act
@@ -13,6 +14,8 @@ accuftomably accustomably
 accuftom accustom
 aCt act
 aCts acts
+adf act
+adfs acts
 adion action
 adjulting  adjusting
 adl act
@@ -74,6 +77,7 @@ arifen arisen
 a&s acts
 aSt act
 a£t act
+a€t act
 A€t Act
 a£ts acts
 A£ts Acts
@@ -158,6 +162,7 @@ commiffions commissions
 commiffoners commissioners
 commifftoners commissioners
 commifiioners commissioners
+commifjioners commissioners
 commiflion commission
 commiflioners commissioners
 Commiflioners Commissioners
@@ -208,7 +213,9 @@ difeharge discharge
 difeharging discharging
 difeontinue discontinue
 difeontinuing discontinuing
+difeouraged discouraged
 difeouragement discouragement
+difeouraging discouraging
 difeover discover
 difeovered discovered
 difeovering discovering
@@ -267,6 +274,7 @@ enaAed enacted
 ena&cd enacted
 enaCled enacted
 enaCted enacted
+enadfed enacted
 enadted enacted
 ena&ed enacted
 enafled enacted
@@ -338,9 +346,11 @@ fheriffdom sheriffdom
 fheriff sheriff
 fhips ships
 fhould should
+fiatutes statutes
 fifti fish
 figning signing
 fi(h fish
+fiich such
 filhery fishery
 filk silk
 finifbing finishing
@@ -394,6 +404,8 @@ francbifes franchises
 frcehold freehold
 frefh fresh
 ftage stage
+ftamped stamped
+ftamp stamp
 ftarch starch
 ftatutes statutes
 ftatute statute
@@ -422,6 +434,7 @@ fubjeft subject
 fubjidy subsidy
 fublequent subsequent
 fucb such
+fuccceding succceding
 fucceffors successors
 fucceflbrs successors
 fucceftors successors
@@ -442,6 +455,7 @@ furnilhing furnishing
 furpluffes surplusses
 furrendered surrendered
 furrender surrender
+fuspend suspend
 GAP CAP
 Gatehoufe Gatehouse
 grindftones grindstones
@@ -461,6 +475,7 @@ hi$ his
 (hillings shillings
 {hillings shillings
 (hipped shipped
+(hipping shipping
 (hip ship
 (hips ships
 (hire shire
@@ -586,6 +601,7 @@ lingular singular
 lome some
 lovereign sovereign
 luch such
+(luffs stuffs
 luftice justice
 luftices justices
 lunatlck lunatick
@@ -677,14 +693,17 @@ Odober October
 oforejaid aforesaid
 o£ of
 oppofite opposite
+oppolite opposite
 otberwife otherwise
 othef other
 otherwife otherwise
 Overfeers Overseers
 paffages passages
+paffed passed
 pafied passed
 pafjed passed
 paflages passages
+pafling passing
 pafTed passed
 pajfage passage
 pajfed passed
@@ -714,8 +733,10 @@ perfon person
 Perfon Person
 perfons persons
 Perfons Persons
+peribn person
 peribns persons
 Peribns Persons
+perion person
 perjons persons
 perlon person
 petfons persons
@@ -755,6 +776,8 @@ provilion provision
 PUBL1CK PUBLICK
 publiek publick
 Publiek Publick
+publkk publick
+Publkk Publick
 puhlick publick
 punifbing punishing
 punifb punish
@@ -801,6 +824,7 @@ reftify rectify
 reftoring restoring
 reft rest
 regifired registred
+regiftring registring
 rejpeftively respectively
 reprefent represent
 requefts requests
@@ -811,11 +835,13 @@ Seffion Session
 Selfion Session
 Sicknefs Sickness
 soidlers soldiers
+Spanifh Spanish
 spanijb spanish
 Spanijb Spanish
 spanilh spanish
 Spanilh Spanish
 subfcribers subscribers
+tbefe these
 Tbefe These
 tbe the
 tbirty thirty
@@ -856,6 +882,7 @@ truft trust
 trulfees trustees
 trullees trustees
 TT7HEREAS WHEREAS
+twenfy twenty
 (uch such
 ufcd used
 ufed used
@@ -905,33 +932,7 @@ wnatfoever whatsoever
 wnereas whereas
 wnole whole
 worfteds worsteds
-workboufe workhousecommifjioners commissioners
-difeouraged discouraged
-difeouraging discouraging
-enadfed enacted
-fiatutes statutes
-fiich such
-ftamped stamped
-ftamp stamp
-fuccceding succceding
-fuspend suspend
-(hipping shipping
-(luffs stuffs
-oppolite opposite
-peribn person
-perion person
-publkk publick
-Publkk Publick
-regiftring registring
-adf act
-adfs acts
-paffed passed
-pafling passing
-a€t act
-Spanifh Spanish
-tbefe these
-twenfy twenty
-
+workboufe workhouse
 zuhich which
 zvas was
 zvere were

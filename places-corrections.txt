@@ -154,6 +154,7 @@ Ratdiffe Ratcliffe
 Rochefter Rochefter
 Rochefter Rochester
 Ruffta Russia
+RuJJia Russia
 Saltafh Saltash
 Sbipton Shipton
 Scot-land Scotland
@@ -206,7 +207,7 @@ Worcejler Worcester
 Workfop Worksop
 Yorkfbire Yorkshire
 Yorkjbire Yorkshire
+Yorkjhire Yorkshire
 Yorklhire Yorkshire
 Zoucb Zouch
-RuJJia Russia
-Yorkjhire Yorkshire
+
