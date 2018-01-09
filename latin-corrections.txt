@@ -1,8 +1,20 @@
+Aano Anno
 Aimo\ tricesimo Anno\ tricesimo
+Anao Anno
+Annodecimo Anno\ decimo
+Annofexto Anno\ sexto
+Annonono Anno\ nono
+Annoo&avo Anno\ octavo
+Anno\ prime Anno\ primo
+Annoregni Anno\ regni
+Annosecundo Anno\ secundo
+Annoseptimo Anno\ septimo
 Annovicesimo Anno\ vicesimo
 dccimo decimo
 declmo decimo
 dedmo decimo
+deeimo decimo
+duodedmo duodecimo
 (ecundo secundo
 eglife eglise
 fccundo secundo
@@ -50,11 +62,13 @@ oflavo octavo
 oftavo octavo
 otfavo octavo
 prirno primo
+prlmo primo
 qmnto quinto
 quadragefimo quadragesimo
 Quadragefimo Quadragesimo
 quadrageftmo quadragesimo
 quadragelimo quadragesimo
+quadragesimoquinto quadragesimo\ quinto
 quihto quinto
 quinfo quinto
 qumto quinto
@@ -73,9 +87,11 @@ tricefnno tricesimo
 triceiimo tricesimo
 tricejimo tricesimo
 tricelimo tricesimo
+tricesimosecundo tricesimo\ secundo
 trieefimo tricesimo
 trioefimo tricesimo
 trlcefimo tricesimo
+undccimo undecimo
 vfcefimo vicesimo
 viccfimo vicesimo
 vicdimo vicesimo
@@ -92,9 +108,12 @@ vicifimo vicesimo
 victfimo vicesimo
 vieefimo vicesimo
 vieelimo vicesimo
+vkefimo vicesimo
 vlcefimo vicesimo
 yicefimo vicesimo
 Yicefimo vicesimo
-deeimo decimo
-prlmo primo
+Anna\ tricesimo Anno\ tricesimo
+Anna\ vicesimo Anno\ vicesimo
+Anno\ dedmo Anno\ decimo
+Anno\ qumto Anno\ quinto
 

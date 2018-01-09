@@ -16,6 +16,7 @@ aCt act
 aCts acts
 adf act
 adfs acts
+Adi Act
 adion action
 adjulting  adjusting
 adl act
@@ -49,6 +50,8 @@ aforejaid aforesaid
 aforelaid aforesaid
 afsizes assizes
 a<ft act
+afteftors assessors
+AfTefTors Assessors
 aftembled assembled
 aftion action
 a<fts acts
@@ -58,6 +61,7 @@ againft against
 againjt against
 againrt against
 aggrieyed aggrieved
+(aid said
 ajfo also
 AJhes Ashes
 ajsembled assembled
@@ -71,6 +75,7 @@ amongfi amongst
 amongft amongst
 amongjl amongst
 apprenticelhip apprenticeship
+aqd and
 archbilhoprick archbishoprick
 arife arise
 arifen arisen
@@ -84,6 +89,7 @@ A£ts Acts
 attomies attornies
 aU all
 Auguft August
+Augujl August
 authoriled authorised
 backfides backsides
 ballaftage ballastage
@@ -100,6 +106,7 @@ bifhop bishop
 bifhoprick bishoprick
 bifhopricks bishopricks
 bifhops bifhops
+bi(hop bishop
 bijhop bishop
 bilhop  bishop
 bilhoprick bishoprick
@@ -195,6 +202,7 @@ dcceafcd deceased
 dcceafed deceased
 deceafed deceased
 defauiters defaulters
+defcrtion desertion
 deferibed described
 defeription description
 defiruftion destruction
@@ -236,6 +244,7 @@ dlfcharged discharged
 doivn down
 drfcharged discharged
 drfcharge discharge
+dtfcbarge discharge
 eafl east
 eaft east
 Eaft East
@@ -243,6 +252,7 @@ eaji east
 eajl east
 Eajl East
 edate estate
+eertain certain
 efeapes escapes
 effedlual effectual
 effedtual effectual
@@ -271,6 +281,7 @@ eftates estates
 eledion election
 eledtion election
 enaAed enacted
+enab1e enable
 ena&cd enacted
 enaCled enacted
 enaCted enacted
@@ -281,6 +292,7 @@ enafled enacted
 enafted enacted
 enalted enacted
 endorfe endorse
+Enliftment Enlistment
 eommiffioners commissioners
 e(quire esquire
 eriafted enacted
@@ -347,6 +359,7 @@ fheriff sheriff
 fhips ships
 fhould should
 fiatutes statutes
+fide side
 fifti fish
 figning signing
 fi(h fish
@@ -417,6 +430,7 @@ ftores stores
 ftreets streets
 ftreet street
 fturdy sturdy
+ftxth sixth
 fubdivision subdivision
 fubfcription subscription
 fubferibed subscribed
@@ -436,6 +450,7 @@ fublequent subsequent
 fucb such
 fuccceding succceding
 fucceffors successors
+fuccefjors successors
 fucceflbrs successors
 fucceftors successors
 fuch such
@@ -453,6 +468,7 @@ fupporting supporting
 furcharge surcharge
 furnilhing furnishing
 furpluffes surplusses
+furplusage surplusage
 furrendered surrendered
 furrender surrender
 fuspend suspend
@@ -479,8 +495,10 @@ hi$ his
 (hip ship
 (hips ships
 (hire shire
+(hires shires
 hofpital hospital
 holpital hospital
+(hore shore
 Horfe Horse
 (hortened shortened
 houfe house
@@ -494,6 +512,7 @@ iffiued issued
 iffiue issue
 iffue issue
 Ifiands Islands
+ifiued issued
 ifiue issue
 ifle isle
 Ifle Isle
@@ -506,6 +525,8 @@ ihoufand thousand
 ihould should
 iile isle
 ijfue issue
+ijjued issued
+iJJued issued
 ijland island
 IJland Island
 ijlands islands
@@ -587,6 +608,7 @@ jurifidi&ion jurisdiction
 jwear swear
 Jwear swear
 laftage lastage
+lajt last
 (lamped stamped
 leafchold leasehold
 leafes leases
@@ -663,6 +685,7 @@ Marjhalsea Marshalsea
 marlhand marshland
 Mdjefty Majesty
 mdjesty majesty
+Meffengers Messengers
 mereliant merchant
 meritioned mentioned
 mifchiefs mischiefs
@@ -686,6 +709,8 @@ notwithdanding notwithstanding
 notwithffanding notwithstanding
 notwithfianding notwithstanding
 notwithftanding notwithstanding
+notwithftandiog notwithstanding
+notwithftandiug notwithstanding
 notwithjlanding notwithstanding
 notwithttanding notwithstanding
 notwitnftanding notwithstanding
@@ -710,6 +735,7 @@ pajfed passed
 pajfengers passengers
 pajjed passed
 pajjing passing
+palled passed
 papifts papists
 parifhes parishes
 parifh parish
@@ -737,9 +763,11 @@ peribn person
 peribns persons
 Peribns Persons
 perion person
+Perion Person
 perjons persons
 perlon person
 petfons persons
+(piritual spiritual
 pleafe please
 pleajed pleased
 pleaje please
@@ -750,6 +778,8 @@ pofitions positions
 poftage postage
 poftmafter postmaster
 poorhoufes poorhouses
+popijh popish
+popilh popish
 prefence presence
 prefent present
 preferibed prescribed
@@ -773,6 +803,7 @@ profccutor prosecutor
 profeeuted prosecuted
 provifo proviso
 provilion provision
+pubiick publick
 PUBL1CK PUBLICK
 publiek publick
 Publiek Publick
@@ -786,6 +817,7 @@ punifhments punishments
 punifh punish
 puniftiing punishing
 punifti punish
+puni(hing punishing
 puniihment punishment
 Puniihment Punishment
 punijbing punishing
@@ -801,6 +833,7 @@ purpofes purposes
 Purpofes Purposes
 qf of
 Qreat Great
+quarfer quarter
 queftions questions
 queft quest
 quefts quests
@@ -819,6 +852,7 @@ refpeCt respect
 refpedfively respectively
 refpeftively respectively
 refpeft respect
+Refpeft Respect
 refpeltively respectively
 reftify rectify
 reftoring restoring
@@ -845,6 +879,7 @@ tbefe these
 Tbefe These
 tbe the
 tbirty thirty
+tbofe those
 tboufand thousand
 tboujand thousand
 Thefe These
@@ -852,12 +887,14 @@ themfelves themselves
 themselyes themselves
 thofe those
 thole those
+thonfand thousand
 thoufand thousand
 thoufend thousand
 thoujand thousand
 thouland thousand
 thpufand thousand
 tjie the
+tncreafe increase
 tneir their
 townfhips township
 townfhip township
@@ -904,19 +941,25 @@ veftel vessel
 veftrymen vestrymen
 vejfels vessels
 vejfel vessel
+verting vesting
 vifcount viscount
 Vifcount Viscount
+vifeountefs viscountess
 vifeount viscount
 Vifeount Viscount
+vvhatsoever whatsoever
+vvhich which
 vvhofe whose
 vvho who
 Vvho who
+vvrit writ
 warehoufed warehoused
 warehoufes warehouses
 warehoufe warehouse
 Warehoufe Warehouse
 wbatfoever whatsoever
 wbatsoever whatsoever
+wbicb which
 wbofe whose
 weftward westward
 weft west
@@ -933,6 +976,7 @@ wnereas whereas
 wnole whole
 worfteds worsteds
 workboufe workhouse
+£XP EXP
 zuhich which
 zvas was
 zvere were
@@ -943,17 +987,4 @@ zvhich which
 zvho who
 zvithin within
 zvith with
-aqd and
-fide side
-tbofe those
-verting vesting
-enab1e enable
-lajt last
-vifeountefs viscountess
-ijjued issued
-iJJued issued
-popijh popish
-dtfcbarge discharge
-puni(hing punishing
-(hore shore
 

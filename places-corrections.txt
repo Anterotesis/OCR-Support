@@ -132,6 +132,7 @@ Middlejex Middlesex
 Middlelex Middlesex
 MiddUfex Middlesex
 Mtddlefex Middlesex
+Mtddlesex Middlesex
 Newcaflle Newcastle
 Newcaftle Newcastle
 Newcajlle Newcastle
@@ -191,14 +192,17 @@ Weftminftcr Westminster
 Weft-minfter Westminster
 Weftminfter Westminster
 Weftminjler Westminster
+Weftminlter Westminster
 Weftminster Westminster
 Weftmorland Westmorland
 Wejiminjier Westminster
 Wejlminfier Westminster
 Wejlminfler Westminster
+Wejlminfter Westminster
 Wejlminjler Westminster
 Wejlminster Westminster
 Wejlmorland Westmorland
+Wifiminfler Westminster
 Winchefler Winchester
 Winchefter Winchester
 Worcefler Worcester
@@ -210,5 +214,4 @@ Yorkjbire Yorkshire
 Yorkjhire Yorkshire
 Yorklhire Yorkshire
 Zoucb Zouch
-Mtddlesex Middlesex
 

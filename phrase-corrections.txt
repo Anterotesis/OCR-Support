@@ -1,4 +1,5 @@
 act\ fir act\ for
+Ad\ act An\ act
 ad\ for act\ for
 adl\ for act\ for
 adl\ made act\ made
@@ -13,6 +14,8 @@ aft\ for act\ for
 aft\ made act\ made
 aft\ of act\ of
 Aft\ of\ Parliament Act\ of\ Parliament
+Aft\ or\ Acts Act\ or\ Acts
+Aft\ or\ Afts Act\ or\ Acts
 afts\ of\ parliament acts\ of\ parliament
 aft\ to act\ to
 alt\ of\ parliament act\ of\ parliament
@@ -47,10 +50,7 @@ an\ alt\ of an\ act\ of
 An\ at1 An\ act
 and\ tor and\ for
 An\ eft An\ act
-Anna\ tricesimo Anno\ tricesimo
-Anna\ vicesimo Anno\ vicesimo
-Anno\ dedmo Anno\ decimo
-Anno\ qumto Anno\ quinto
+
 another\ aft another\ act
 any\ aft any\ act
 any\ fort\ of any\ sort\ of
@@ -79,6 +79,7 @@ fail\ cloth sail\ cloth
 fame\ session same\ session
 fb\ much so\ much
 felling\ annuities selling\ annuities
+fever\ al everal
 fhali\ be  shall\ be
 fifty\ fix fifty\ six
 fir\ ft  first
@@ -97,6 +98,8 @@ fold\ pursuant sold\ pursuant
 fo\ much so\ much
 former\ ad former\ act
 former\ aft former\ act
+for\ railing\ a for\ raising\ a
+for\ railing\ the for\ raising\ the
 fort\ and\ manner sort\ and\ manner
 for\ tne for\ the
 fort\ of\ grain sort\ of\ grain
@@ -104,6 +107,7 @@ forts\ of\ bread sorts\ of\ bread
 fub-divifions sub-divisions
 fub-divifion sub-division
 fub-feribe subscribe
+fub\ feribe subscribe
 fub-jefts subjects
 fub-jeft subject
 further\ enaded further\ enacted
@@ -116,6 +120,7 @@ Georgii\ H Georgii\ II
 Georgii\ IL Georgii\ II
 Georgii\ It Georgii\ II
 Georgii\ IT Georgii\ II
+Gnat\ Britain Great\ Britain
 G\ O\ D GOD
 he\ or\ (he he\ or\ she
 hundred\ ana hundred\ and
@@ -135,6 +140,7 @@ of\ the\ fame of\ the\ fame
 other\ wife other\ wise
 particular\ cafes particular\ cases
 per-sons persons
+per\ sons persons
 pleading\ the\ fame pleading\ the\ same
 prelent\ Majesty present\ Majesty
 present\ ad present\ act
@@ -157,6 +163,7 @@ several\ ads several\ acts
 several\ afts several\ acts
 shall\ ad shall\ act
 sixty\ fix sixty\ six
+That\ ail\ and That\ all\ and
 the\ aft the\ act
 the\ (aid the\ said
 the\ fame\ act the\ same\ act
@@ -172,6 +179,7 @@ Thirty-fecond Thirty-second
 this\ ad this\ act
 this\ adt this\ act
 this\ aft this\ act
+this\ Aft this\ Act
 This\ aft This\ act
 treble\ cods treble\ costs
 Treble\ cods Treble\ costs
@@ -180,6 +188,4 @@ two\ afts two\ acts
 vended\ or\ fold vended\ or\ fold
 weft\ riding west\ riding
 year\ bf\ the year\ of\ the
-per\ sons persons
-fub\ feribe subscribe
 
