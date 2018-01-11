@@ -7,6 +7,8 @@ a<5t act
 a61 act
 a6t act
 a& act
+aad and
+Aad And
 abfeonding absconding
 abfolutely absolutely
 abufed abused
@@ -43,6 +45,7 @@ aflembling assembling
 Aflignees Assignees
 afls acts
 aforefaid aforesaid
+aforefaio aforesaid
 aforefajd aforesaid
 aforefeid aforesaid
 afore&id aforesaid
@@ -74,6 +77,7 @@ Amerita America
 amongfi amongst
 amongft amongst
 amongjl amongst
+annulied annulled
 apprenticelhip apprenticeship
 aqd and
 archbilhoprick archbishoprick
@@ -270,6 +274,7 @@ efquire esquire
 efsects effects
 eftabiifhing establishing
 eftablifhing establishing
+eftablifti establish
 eftabliihment establishment
 eftablilhed established
 eftablilh establish
@@ -283,6 +288,7 @@ eledtion election
 enaAed enacted
 enab1e enable
 ena&cd enacted
+enacfed enacted
 enaCled enacted
 enaCted enacted
 enadfed enacted
@@ -310,6 +316,7 @@ fale sale
 fatisfadfion satisfaction
 fbips ships
 fcience science
+fcven seven
 feal seal
 feamen seamen
 feamens seamens
@@ -351,6 +358,7 @@ feventy seventy
 feveral several
 feyen seven
 fhail shall
+fhajl shall
 fhali shall
 fhall shall
 fheir their
@@ -590,6 +598,7 @@ Jlave slave
 jlaves slaves
 Jlaves slaves
 Jlreets streets
+jncreafe increase
 Juch such
 juffices justices
 juftice justice
@@ -610,6 +619,7 @@ Jwear swear
 laftage lastage
 lajt last
 (lamped stamped
+(lave slave
 leafchold leasehold
 leafes leases
 Le&ure Lecture
@@ -776,6 +786,7 @@ poffejfion possession
 pofiefled possessed
 pofitions positions
 poftage postage
+pofteffion possession
 poftmafter postmaster
 poorhoufes poorhouses
 popijh popish
@@ -854,6 +865,7 @@ refpeftively respectively
 refpeft respect
 Refpeft Respect
 refpeltively respectively
+refriftions restrictions
 reftify rectify
 reftoring restoring
 reft rest

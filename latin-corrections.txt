@@ -1,11 +1,15 @@
 Aano Anno
 Aimo\ tricesimo Anno\ tricesimo
 Anao Anno
+Anna\ tricesimo Anno\ tricesimo
+Anna\ vicesimo Anno\ vicesimo
 Annodecimo Anno\ decimo
+Anno\ dedmo Anno\ decimo
 Annofexto Anno\ sexto
 Annonono Anno\ nono
 Annoo&avo Anno\ octavo
 Anno\ prime Anno\ primo
+Anno\ qumto Anno\ quinto
 Annoregni Anno\ regni
 Annosecundo Anno\ secundo
 Annoseptimo Anno\ septimo
@@ -17,6 +21,7 @@ deeimo decimo
 duodedmo duodecimo
 (ecundo secundo
 eglife eglise
+(eptimo septimo
 fccundo secundo
 fcptimo septimo
 fcxto sexto
@@ -25,6 +30,7 @@ fecnndo secundo
 fecundo secundo
 feptimo septimo
 fexto sexto
+ftptimo septimo
 Gborgii Georgii
 Gbougii Georgii
 Gecrgii Georgii
@@ -43,6 +49,7 @@ GeorGII Georgii
 GeoRgii Georgii
 GeoRGii Georgii
 GeoRGII Georgii
+GEorgii Georgii
 Georgji Georgii
 Georgn Georgii
 Georgu Georgii
@@ -112,8 +119,4 @@ vkefimo vicesimo
 vlcefimo vicesimo
 yicefimo vicesimo
 Yicefimo vicesimo
-Anna\ tricesimo Anno\ tricesimo
-Anna\ vicesimo Anno\ vicesimo
-Anno\ dedmo Anno\ decimo
-Anno\ qumto Anno\ quinto
 

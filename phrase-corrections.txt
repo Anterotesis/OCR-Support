@@ -50,7 +50,6 @@ an\ alt\ of an\ act\ of
 An\ at1 An\ act
 and\ tor and\ for
 An\ eft An\ act
-
 another\ aft another\ act
 any\ aft any\ act
 any\ fort\ of any\ sort\ of
@@ -188,4 +187,6 @@ two\ afts two\ acts
 vended\ or\ fold vended\ or\ fold
 weft\ riding west\ riding
 year\ bf\ the year\ of\ the
+an\ at\ made an\ act\ made
+a\ 51 act
 
