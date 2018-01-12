@@ -1,3 +1,4 @@
+a\ 51 act
 act\ fir act\ for
 Ad\ act An\ act
 ad\ for act\ for
@@ -16,6 +17,7 @@ aft\ of act\ of
 Aft\ of\ Parliament Act\ of\ Parliament
 Aft\ or\ Acts Act\ or\ Acts
 Aft\ or\ Afts Act\ or\ Acts
+a\ ft\ or\ afts act\ or\ afts
 afts\ of\ parliament acts\ of\ parliament
 aft\ to act\ to
 alt\ of\ parliament act\ of\ parliament
@@ -48,6 +50,7 @@ An\ a£l An\ act
 An\ alt\ for An\ act\ for
 an\ alt\ of an\ act\ of
 An\ at1 An\ act
+an\ at\ made an\ act\ made
 and\ tor and\ for
 An\ eft An\ act
 another\ aft another\ act
@@ -77,7 +80,9 @@ County\ of\ Tork County\ of\ York
 fail\ cloth sail\ cloth
 fame\ session same\ session
 fb\ much so\ much
+fell\ and\ dispose sell\ and\ dispose
 felling\ annuities selling\ annuities
+fending\ and\ receiving sending\ and\ receiving
 fever\ al everal
 fhali\ be  shall\ be
 fifty\ fix fifty\ six
@@ -89,6 +94,7 @@ fix\ millions six\ millions
 fix\ months six\ months
 fix\ pence six\ pence
 fix\ pounds six\ pounds
+fix\ shillings six\ shillings
 fix\ thousand six\ thousand
 fix\ weeks six\ weeks
 fix\ years six\ years
@@ -169,6 +175,7 @@ the\ fame\ act the\ same\ act
 the\ fame\ aft the\ same\ act
 the\ fame\ manner the same\ manner
 the\ fame\ time the\ same\ time
+the\ feid the\ said
 the\ feme\ is the\ same\ is
 the\ ifle the\ isle
 the\ laft the\ last
@@ -187,6 +194,4 @@ two\ afts two\ acts
 vended\ or\ fold vended\ or\ fold
 weft\ riding west\ riding
 year\ bf\ the year\ of\ the
-an\ at\ made an\ act\ made
-a\ 51 act
 

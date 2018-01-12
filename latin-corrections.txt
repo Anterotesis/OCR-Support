@@ -1,6 +1,7 @@
 Aano Anno
 Aimo\ tricesimo Anno\ tricesimo
 Anao Anno
+Ann6 Anno
 Anna\ tricesimo Anno\ tricesimo
 Anna\ vicesimo Anno\ vicesimo
 Annodecimo Anno\ decimo
@@ -40,6 +41,7 @@ Geoeqii Georgii
 Geo&gii Georgii
 Geokgii Georgii
 GeoKgii Georgii
+georgh Georgii
 Georgh Georgii
 GeorGH Georgii
 GeoRGH Georgii
@@ -80,6 +82,7 @@ quihto quinto
 quinfo quinto
 qumto quinto
 regnl regni
+regnt regni
 tcrtio tertio
 terrio tertio
 tertlo tertio
@@ -89,7 +92,10 @@ triccfimo tricesimo
 tricclimo tricesimo
 tricefimo tricesimo
 tricefinio tricesimo
+tricefirno tricesimo
+tricefitno tricesimo
 triceflmo tricesimo
+tricefmio tricesimo
 tricefnno tricesimo
 triceiimo tricesimo
 tricejimo tricesimo
