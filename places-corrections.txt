@@ -50,6 +50,7 @@ Dorfiet Dorset
 Droitwicb Droitwich
 Dunftable Dunstable
 Eaft-India East-India
+Eajl-Indies East-Indies
 Efsex Essex
 EJsex Essex
 ElTex Essex
@@ -103,6 +104,7 @@ Kelfo Kelso
 Kenfington Kensington
 Kidderminfter Kidderminster
 Kingfton Kingston
+Kingjlon Kingston
 Lancafler Lancaster
 Lancafter Lancaster
 Lancajier Lancaster
@@ -150,6 +152,7 @@ Nottinghamjhire Nottinghamshire
 Nottinghamlhire Nottinghamshire
 Ofweftry Oswestry
 Pontefraft Pontefract
+Portf-mouth Portsmouth
 Portfmouth Portsmouth
 Prefteigne  Presteigne 
 Prefton Preston
@@ -181,6 +184,7 @@ Tewkelbury Tewkesbury
 Tewkfbury Tewksbury
 Thame$ Thames
 Torkjhire Yorkshire
+Wcflminfter Westminster
 Wcftminfter Westminster
 Wcftminster Westminster
 Wefiminfier Westminster
@@ -197,7 +201,10 @@ Weftminjler Westminster
 Weftminlter Westminster
 Weftminster Westminster
 Weftmorland Westmorland
+Wejhninfter Westminster
+Wejhninjler Westminster
 Wejiminjier Westminster
+Wejiminjler Westminster
 Wejlminfier Westminster
 Wejlminfler Westminster
 Wejlminfter Westminster

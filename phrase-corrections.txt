@@ -20,6 +20,7 @@ Aft\ or\ Afts Act\ or\ Acts
 a\ ft\ or\ afts act\ or\ afts
 afts\ of\ parliament acts\ of\ parliament
 aft\ to act\ to
+Ah\ act An\ act
 alt\ of\ parliament act\ of\ parliament
 alts\ of\ parliament acts\ of\ parliament
 An\ a51 An\ act
@@ -84,6 +85,8 @@ fell\ and\ dispose sell\ and\ dispose
 felling\ annuities selling\ annuities
 fending\ and\ receiving sending\ and\ receiving
 fever\ al everal
+fever\ ally severally
+fever\ a\ l several
 fhali\ be  shall\ be
 fifty\ fix fifty\ six
 fir\ ft  first
@@ -153,11 +156,14 @@ present\ aft present\ act
 Publick\ ad Publick\ act
 publick\ aft publick\ act
 Publick\ aft Publick\ act
+pur\ chafed purchased
 railing\ money raising\ money
 railing\ the\ said raising\ the\ said
 railing\ the\ sum raising\ the\ sum
+recited\ ad recited\ act
 recited\ aft recited\ act
 recited\ afts recited\ acts
+said\ ad said\ act
 said\ adt said\ act
 said\ aft said\ act
 said\ ait said\ act
@@ -182,15 +188,19 @@ the\ laft the\ last
 the\ laid\ county the\ said\ county
 the\ laid the\ said
 Thirty-fecond Thirty-second
+thirty\ fix thirty\ six
 this\ ad this\ act
 this\ adt this\ act
 this\ aft this\ act
 this\ Aft this\ Act
 This\ aft This\ act
+thou\ (and thousand
 treble\ cods treble\ costs
 Treble\ cods Treble\ costs
+trice\ fimo tricesimo
 twenty\ lixth twenty\ sixth
 two\ afts two\ acts
+veiling\ in vesting\ in
 vended\ or\ fold vended\ or\ fold
 weft\ riding west\ riding
 year\ bf\ the year\ of\ the
