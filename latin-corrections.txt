@@ -11,6 +11,7 @@ Annonono Anno\ nono
 Annoo&avo Anno\ octavo
 Anno\ prime Anno\ primo
 Anno\ qumto Anno\ quinto
+Annoregm Anno\ regni
 Annoregni Anno\ regni
 Annosecundo Anno\ secundo
 Annoseptimo Anno\ septimo
@@ -35,6 +36,7 @@ ftptimo septimo
 Gborgii Georgii
 Gbougii Georgii
 Gecrgii Georgii
+Gegrgii Georgii
 Geoegij Georgii
 Geoegji Georgii
 Geoeqii Georgii
@@ -60,10 +62,15 @@ Georoii Georgii
 Georqii Georgii
 GeosgIi Georgii
 Geougii Georgii
+Geqrgii Georgii
+GEQRGII GEORGII
+G£orgii Georgii
+G&orgii Georgii
 Grorgii Georgii
 Gsorgii Georgii
 Guublmi Gulielmi
 noftre nostre
+o6lavo octavo
 o&avo octavo
 odavo octavo
 Oeorgii Georgii
@@ -90,12 +97,15 @@ tncefimo tricesimo
 trfcefimo tricesimo
 triccfimo tricesimo
 tricclimo tricesimo
+trice-fimo tricesimo
+trice\ fimo tricesimo
 tricefimo tricesimo
 tricefinio tricesimo
 tricefirno tricesimo
 tricefitno tricesimo
 triceflmo tricesimo
 tricefmio tricesimo
+tricefmo tricesimo
 tricefnno tricesimo
 triceiimo tricesimo
 tricejimo tricesimo
@@ -103,6 +113,7 @@ tricelimo tricesimo
 tricesimosecundo tricesimo\ secundo
 trieefimo tricesimo
 trioefimo tricesimo
+trlccfimo tricesimo
 trlcefimo tricesimo
 undccimo undecimo
 vfcefimo vicesimo
@@ -125,14 +136,20 @@ vkefimo vicesimo
 vlcefimo vicesimo
 yicefimo vicesimo
 Yicefimo vicesimo
-Annoregm Anno\ regni
-o6lavo octavo
-Gegrgii Georgii
-tricefmo tricesimo
-trice-fimo tricesimo
-trice\ fimo tricesimo
-G&orgii Georgii
-G£orgii Georgii
-GEQRGII GEORGII
-Geqrgii Georgii
+Arino Anno
+Geoegii Georgii
+Geohgii Georgii
+Geokgii Georgii
+geokgii Georgii
+Georcii Georgii
+georcii Georgii
+Georgi! Georgii
+georgi! Georgii
+Georgij Georgii
+Georgit Georgii
+Georgti Georgii
+Georgu Georgii
+Georoii Georgii
+georoii Georgii
+GeoUgii Georgii
 

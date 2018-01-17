@@ -1,10 +1,14 @@
+lajl-mentioned last-mentioned
 a-bove above
+ad-mitted admitted
+afore-(aid aforesaid
 a-forefaid aforesaid
 afore-faid aforesaid
 afore-feid aforesaid
 a-foresaid aforesaid
 a-gainft against
 alehoufe-keepers alehouse-keepers
+a-mending amending
 appoint-ed appointed
 Bri-\ tain Britain
 Bri-tain Britain
@@ -12,6 +16,8 @@ Bri-tifh British
 Bri-tijh British
 cleanf-ing cleansing
 commif-fioners commissioners
+com-mitted committed
+con-fent consent
 con-fideration consideration
 con-fumption consumption
 cuf-tom custom
@@ -25,6 +31,8 @@ difeo-vered discovered
 difeo-very discovery
 dif-proved disproved
 dwelling-houfe dwelling-house
+ef-fedual effectual
+efta-blifhing establishing
 eftablifh-ing establishing
 e-ftate estate
 en-afted enacted
@@ -33,10 +41,13 @@ fatisfac-tion satisfaction
 fea-men seamen
 fe-cond second
 fef-fions sessions
+fe-ven seven
 feven-teen seventeen
 fe-veral  several
 fix-teenth sixteenth
 fixty-fix sixty-six
+ftamp-duties stamp-duties
+ftamp-duty stamp-duty
 fta-tutes statutes
 fta-tute statute
 ftore-bouse store-house
@@ -44,12 +55,15 @@ ftore-houfe store-house
 ftore-house store-house
 fub-divilion sub-division
 fub-fidy subsidy
+fub-mitted submitted
 fuccef-fors successors
 fur-plus surplus
 im-powered impowered
 im-prifonment imprisonment
 in-tereft interest
+Judg-ment Judgment
 jurifdic-tion jurisdiction
+laft-recited last-recited
 (lamp-duties stamp-duties
 (lamp-duty stamp-duty
 lord-fhips lordships
@@ -61,6 +75,9 @@ ninety-fix ninety-six
 not-withftanding notwithstanding
 notwith-ftanding notwithstanding
 notwithftand-ing notwithstanding
+ob-ftrufted obstructed
+ob-ftruft obstruct
+ob-ftru&ing obstructing
 other-wife otherwise
 out-penfioners out-pensioners
 paf-sages passages
@@ -75,6 +92,7 @@ pro-fecuted prosecuted
 pub-lick publick
 purchafe-money purchase-money
 pur-chafe purchase
+pur-chafing purchasing
 pur-fuant pursuant
 pur-pofes purposes
 quarter-feffions quarter-sessions
@@ -82,6 +100,7 @@ quarter-feflions quarter-sessions
 rc-fpeftively respectively
 refpec-tively respectively
 refpec-tive respective
+refped-ive respective
 refpeft-ing respecting
 re-fpeftively respectively
 re-fpeftive respective
@@ -91,6 +110,8 @@ sixty-fix sixty-six
 them-felves themselves
 thirty-fecond thirty-second
 thou-fand thousand
+thou-fond thousand
+tranf-mitted transmitted
 tranfporta-tion transportation
 twenty-fecond twenty-second
 uni-verfity university
@@ -99,23 +120,8 @@ warehoufe-room warehouse-room
 Weftmin-fter Westminster
 Weft-minster Westminster
 Weft-riding West-riding
+what-foever whatsoever
 whatfo-ever whatsoever
 what-soever whatsoever
 work-houfe work-house
-efta-blifhing establishing
-refped-ive respective
-con-fent consent
-thou-fond thousand
-a-mending amending
-ef-fedual effectual
-fe-ven seven
-what-foever whatsoever
-Judg-ment Judgment
-laft-recited last-recited
-ad-mitted admitted
-com-mitted committed
-fub-mitted submitted
-tranf-mitted transmitted
-ftamp-duties stamp-duties
-ftamp-duty stamp-duty
 

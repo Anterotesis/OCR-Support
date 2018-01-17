@@ -1,4 +1,6 @@
 a\ 51 act
+act\ fbr act\ for
+Act\ fbr Act\ for
 act\ fir act\ for
 Ad\ act An\ act
 ad\ for act\ for
@@ -7,14 +9,17 @@ adl\ made act\ made
 adl\ to act\ to
 ad\ made act\ made
 ad\ of\ parliament act\ of\ parliament
+ad\ or\ acts act\ or\ acts
 ads\ of\ parliament acts\ of\ parliament
 ad\ to act\ to
 adt\ of\ parliament act\ of\ parliament
 advice\ ana\ consent advice\ and\ consent
+afore\ fa\ id aforesaid
 aft\ for act\ for
 aft\ made act\ made
 aft\ of act\ of
 Aft\ of\ Parliament Act\ of\ Parliament
+A\ ft\ or\ Acts Act\ or\ Acts
 Aft\ or\ Acts Act\ or\ Acts
 Aft\ or\ Afts Act\ or\ Acts
 a\ ft\ or\ afts act\ or\ afts
@@ -24,12 +29,16 @@ Ah\ act An\ act
 alt\ of\ parliament act\ of\ parliament
 alts\ of\ parliament acts\ of\ parliament
 An\ a51 An\ act
+An\ A\ 61 An\ Act
 An\ a& An\ act
 An\ a# An\ act
 An\ aCl An\ act
 an\ act\ parted an\ act\ passed
+an\ ad an\ act
+An\ ad An\ act
 An\ adf An\ act
 An\ ad\ far An\ act\ for
+An\ Ad\ fbr An\ Act\ for
 An\ Ad\ for An\ Act\ for
 An\ adi\ for An\ act\ for
 An\ adl An\ act
@@ -51,9 +60,14 @@ An\ a£l An\ act
 An\ alt\ for An\ act\ for
 an\ alt\ of an\ act\ of
 An\ at1 An\ act
+an\ at\ for an\ act\ for
+An\ at\ for An\ act\ for
 an\ at\ made an\ act\ made
+and\ fbr and\ for
 and\ tor and\ for
 An\ eft An\ act
+an\ oft an\ act
+An\ oft An\ act
 another\ aft another\ act
 any\ aft any\ act
 any\ fort\ of any\ sort\ of
@@ -69,6 +83,7 @@ be\ it\ enaded be\ it\ enacted
 be\ railed\ in be\ raised\ in
 bis\ heirs his\ heirs
 bis\ late his\ late
+bis\ majesty his\ majesty
 bis\ Majesty his\ Majesty
 bis\ present bis\ present
 bis\ present his\ present
@@ -88,6 +103,8 @@ fever\ al everal
 fever\ ally severally
 fever\ a\ l several
 fhali\ be  shall\ be
+Fifh\ Curer Fish\ Curer
+Fifh\ Curers Fish\ Curers
 fifty\ fix fifty\ six
 fir\ ft  first
 fix\ acres six\ acres
@@ -98,6 +115,7 @@ fix\ months six\ months
 fix\ pence six\ pence
 fix\ pounds six\ pounds
 fix\ shillings six\ shillings
+fixtb\ Tear sixth\ Year
 fix\ thousand six\ thousand
 fix\ weeks six\ weeks
 fix\ years six\ years
@@ -112,6 +130,7 @@ fort\ and\ manner sort\ and\ manner
 for\ tne for\ the
 fort\ of\ grain sort\ of\ grain
 forts\ of\ bread sorts\ of\ bread
+fpr\ the for\ the
 fub-divifions sub-divisions
 fub-divifion sub-division
 fub-feribe subscribe
@@ -131,6 +150,8 @@ Georgii\ IT Georgii\ II
 Gnat\ Britain Great\ Britain
 G\ O\ D GOD
 he\ or\ (he he\ or\ she
+he\ or\ lhe he\ or\ she
+hun-4\ dred hundred
 hundred\ ana hundred\ and
 in\ any\ wife in\ any\ wise 
 in\ cafe\ his in\ case\ his
@@ -138,29 +159,37 @@ in\ cafe\ his in\ case\ his
 inoft\ excellent most\ excellent
 in\ tne in\ the
 is\ to\ fay is\ to\ say
+Judg-4\ ment Judgment
+Judg\ ment Judgment
 linking\ fund sinking\ fund
 made\ m\ the made\ in\ the
 many\ wife many\ wise
 mod\ excellent most\ excellent
 mod\ humbly most\ humbly
 Nift\ Prius Nisi\ Prius
+of\ bis of\ his
 of\ the\ fame of\ the\ fame
 other\ wife other\ wise
 particular\ cafes particular\ cases
+patted\ in passed\ in
 per-sons persons
 per\ sons persons
 pleading\ the\ fame pleading\ the\ same
 prelent\ Majesty present\ Majesty
 present\ ad present\ act
 present\ aft present\ act
+Public\ ad Public\ act
 Publick\ ad Publick\ act
 publick\ aft publick\ act
 Publick\ aft Publick\ act
+punching\ mutiny punishing\ mutiny
+punching\ Mutiny punishing\ Mutiny
 pur\ chafed purchased
 railing\ money raising\ money
 railing\ the\ said raising\ the\ said
 railing\ the\ sum raising\ the\ sum
 recited\ ad recited\ act
+recited\ Ad recited\ Act
 recited\ aft recited\ act
 recited\ afts recited\ acts
 said\ ad said\ act
@@ -187,9 +216,11 @@ the\ ifle the\ isle
 the\ laft the\ last
 the\ laid\ county the\ said\ county
 the\ laid the\ said
+the\ (pace the\ space
 Thirty-fecond Thirty-second
 thirty\ fix thirty\ six
 this\ ad this\ act
+this\ Ad this\ Act
 this\ adt this\ act
 this\ aft this\ act
 this\ Aft this\ Act
@@ -204,22 +235,7 @@ veiling\ in vesting\ in
 vended\ or\ fold vended\ or\ fold
 weft\ riding west\ riding
 year\ bf\ the year\ of\ the
-Judg\ ment Judgment
-Judg-4\ ment Judgment
-recited\ Ad recited\ Act
-this\ Ad this\ Act
 yin\ Ad an\ Act
 yin\ Aft an\ Act
-An\ A\ 61 An\ Act
-An\ Ad\ fbr An\ Act\ for
-Act\ fbr Act\ for
-act\ fbr act\ for
-and\ fbr and\ for
-Fifh\ Curer Fish\ Curer
-Fifh\ Curers Fish\ Curers
-the\ (pace the\ space
-fpr\ the for\ the
-he\ or\ lhe he\ or\ she
-patted\ in passed\ in
-A\ ft\ or\ Acts Act\ or\ Acts
+Georgii\ HI Georgii\ III
 
