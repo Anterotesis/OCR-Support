@@ -32,6 +32,8 @@ An\ a51 An\ act
 An\ A\ 61 An\ Act
 An\ a& An\ act
 An\ a# An\ act
+an\ acl an\ act
+An\ acl An\ act
 An\ aCl An\ act
 an\ act\ parted an\ act\ passed
 an\ ad an\ act
@@ -44,6 +46,7 @@ An\ adi\ for An\ act\ for
 An\ adl An\ act
 an\ ad\ passed an\ act\ passed
 ana\ enforcing and\ enforcing
+An\ a\ for An\ act\ for
 ana\ for and\ for
 an\ aft an\ act
 An\ a\ ft An\ act
@@ -144,6 +147,7 @@ General\ iffue General\ issue
 General\ ifiuc General\ issue
 Georgii\ 11 Georgii\ II
 Georgii\ H Georgii\ II
+Georgii\ HI Georgii\ III
 Georgii\ IL Georgii\ II
 Georgii\ It Georgii\ II
 Georgii\ IT Georgii\ II
@@ -166,6 +170,7 @@ made\ m\ the made\ in\ the
 many\ wife many\ wise
 mod\ excellent most\ excellent
 mod\ humbly most\ humbly
+Mojl\ gracious Most\ gracious
 Nift\ Prius Nisi\ Prius
 of\ bis of\ his
 of\ the\ fame of\ the\ fame
@@ -179,6 +184,7 @@ prelent\ Majesty present\ Majesty
 present\ ad present\ act
 present\ aft present\ act
 Public\ ad Public\ act
+Public\ aft Public\ act
 Publick\ ad Publick\ act
 publick\ aft publick\ act
 Publick\ aft Publick\ act
@@ -219,6 +225,7 @@ the\ laid the\ said
 the\ (pace the\ space
 Thirty-fecond Thirty-second
 thirty\ fix thirty\ six
+this\ acl this\ act
 this\ ad this\ act
 this\ Ad this\ Act
 this\ adt this\ act
@@ -237,5 +244,4 @@ weft\ riding west\ riding
 year\ bf\ the year\ of\ the
 yin\ Ad an\ Act
 yin\ Aft an\ Act
-Georgii\ HI Georgii\ III
 

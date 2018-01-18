@@ -1,15 +1,26 @@
 affign assign
 aforesaidy aforesaid,
 agefimo agesimo
+amongft amongst
+Annoduo Anno\ duo
+Annoprimo Anno\ primo
+Annoquin Anno\ quin
+Annorcgn Anno\ reg
+Annoregn Anno\ reg
+Annotric Anno\ tric
+Annovic Anno\ vic
 borougb borough
 Britifb British
 Britifh British
 Britijh British
+chefter chester
 commiffion commission
+commijjion commission
 CommiJJion Commission
 crofs cross
 cuftom custom
 Cuftom Custom
+deftroy destroy
 dfhire dshire
 djhire dshire
 effedual effectual
@@ -18,6 +29,7 @@ enaded enacted
 englijb english
 Englijb English
 fecond second
+fecurity security
 fetfhire setshire
 feven seven
 fieid field
@@ -28,39 +40,29 @@ fubfcrib subscrib
 fufpend suspend
 fvejlmin Westmin
 fvejtmin Westmin
+Ge0 Geo
+GeorgiiIII Georgii\ III
 houfe house
 jhirc shire
 jlaple staple
+juftice justice
 majelt majest
 mifchief mischief
+minfter minster
+prifon prison
+regniquad regni\ quad
+regnitri regni\ tri
 tbirty thirty
 tbou thou
+tricefi tricesi
+tricesimopri tricesimo\ pri
+tricesimose tricesimo\ se
 twenfy twenty
+vefifels vessels
+warehoul warehous
+Wcft West
 Weflmin Westmin
 Weftmin Westmin
 withftanding withstanding
-commijjion commission
-vefifels vessels
-Wcft West
-minfter minster
 zvhicb which
-amongft amongst
-prifon prison
-fecurity security
-warehoul warehous
-deftroy destroy
-chefter chester
-Annoprimo Anno\ primo
-Annoduo Anno\ duo
-Annotric Anno\ tric
-Annovic Anno\ vic
-Annorcgn Anno\ reg
-Annoregn Anno\ reg
-Annoquin Anno\ quin
-regnitri regni\ tri
-regniquad regni\ quad
-Ge0 Geo
-tricesimose tricesimo\ se
-tricesimopri tricesimo\ pri
-GeorgiiIII Georgii\ III
 
