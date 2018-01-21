@@ -84,6 +84,7 @@ Grorgii Georgii
 Gsorgii Georgii
 Guublmi Gulielmi
 noftre nostre
+o£lavo octavo
 o6lavo octavo
 o&avo octavo
 odavo octavo
@@ -152,4 +153,5 @@ vkefimo vicesimo
 vlcefimo vicesimo
 yicefimo vicesimo
 Yicefimo vicesimo
+geo&gii georgii
 

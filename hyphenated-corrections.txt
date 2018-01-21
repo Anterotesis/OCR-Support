@@ -1,6 +1,7 @@
 lajl-mentioned last-mentioned
 a-bove above
 ad-mitted admitted
+afore-said aforesaid
 afore-(aid aforesaid
 a-forefaid aforesaid
 afore-faid aforesaid
@@ -124,4 +125,11 @@ what-foever whatsoever
 whatfo-ever whatsoever
 what-soever whatsoever
 work-houfe work-house
+
+de-ftroying destroying
+de-ftroyed destroyed
+ex-cife excise
+one-fixth one-sixth
+thirty-fixth thirty-sixth
+twenty-fixth twenty-sixth
 
