@@ -32,3 +32,6 @@ thehoufe the\ house
 yearof year\ of
 enactedby enacted\ by
 
+thousandfix thousand\ six
+thousandseven thousand\ seven
+

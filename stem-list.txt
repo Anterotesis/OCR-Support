@@ -15,6 +15,7 @@ Britifh British
 Britijh British
 chefter chester
 commiffion commission
+commijfion commission
 commijjion commission
 CommiJJion Commission
 crofs cross
@@ -43,13 +44,28 @@ fvejtmin Westmin
 Ge0 Geo
 GeorgiiIII Georgii\ III
 houfe house
+iveftmin Westmin
+Iveftmin Westmin
+IVeJimin Westmin
+ivejlmin Westmin
+Ivejlmin Westmin
+IVejlmin Westmin
 jhirc shire
 jlaple staple
 juftice justice
+juftic justic
+jveftmin Westmin
+Jveftmin Westmin
+maieft majest
+majeft majest
 majelt majest
 mifchief mischief
 minfter minster
 prifon prison
+proviflon provision
+punijb punish
+punijh punish
+punilh punish
 regniquad regni\ quad
 regnitri regni\ tri
 tbirty thirty
@@ -65,8 +81,4 @@ Weflmin Westmin
 Weftmin Westmin
 withftanding withstanding
 zvhicb which
-majeft majest
-maieft majest
-juftic justic
-proviflon provision
 

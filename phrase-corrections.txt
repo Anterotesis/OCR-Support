@@ -1,8 +1,10 @@
+this\ abl this\ act
 a\ 51 act
 act\ fbr act\ for
 Act\ fbr Act\ for
 act\ fir act\ for
 Ad\ act An\ act
+ad\ ditional additional
 ad\ for act\ for
 adl\ for act\ for
 adl\ made act\ made
@@ -169,6 +171,8 @@ is\ to\ fay is\ to\ say
 Judg-4\ ment Judgment
 Judg\ ment Judgment
 linking\ fund sinking\ fund
+live\ hundred five\ hundred
+live\ pounds five\ pounds
 loft\ or\ destroyed lost\ or\ destroyed
 made\ m\ the made\ in\ the
 many\ wife many\ wise
@@ -181,6 +185,7 @@ of\ the\ fame of\ the\ fame
 other\ wife other\ wise
 particular\ cafes particular\ cases
 patted\ in passed\ in
+pay\ ment payment
 per-sons persons
 per\ sons persons
 pleading\ the\ fame pleading\ the\ same
@@ -248,4 +253,5 @@ weft\ riding west\ riding
 year\ bf\ the year\ of\ the
 yin\ Ad an\ Act
 yin\ Aft an\ Act
+which\ aft which\ act
 
