@@ -1,4 +1,3 @@
-this\ abl this\ act
 a\ 51 act
 act\ fbr act\ for
 Act\ fbr Act\ for
@@ -18,6 +17,7 @@ adt\ of\ parliament act\ of\ parliament
 advice\ ana\ consent advice\ and\ consent
 afore\ fa\ id aforesaid
 aft\ for act\ for
+Aft\ ion Action
 aft\ made act\ made
 aft\ of act\ of
 Aft\ of\ Parliament Act\ of\ Parliament
@@ -32,6 +32,7 @@ alt\ of\ parliament act\ of\ parliament
 alts\ of\ parliament acts\ of\ parliament
 An\ a51 An\ act
 An\ A\ 61 An\ Act
+An\ AA An\ Act
 An\ a& An\ act
 An\ a# An\ act
 an\ acl an\ act
@@ -51,6 +52,7 @@ ana\ enforcing and\ enforcing
 An\ a\ for An\ act\ for
 ana\ for and\ for
 an\ aft an\ act
+an\ Aft an\ Act
 An\ a\ ft An\ act
 An\ aft An\ act
 An\ Aft An\ Act
@@ -62,6 +64,7 @@ An\ ail\ to An\ act\ to
 An\ ait\ for An\ act\ for
 An\ ait\ to An\ act\ to
 An\ a£l An\ act
+An\ Alt An\ Act
 An\ alt\ for An\ act\ for
 an\ alt\ of an\ act\ of
 An\ at1 An\ act
@@ -105,6 +108,11 @@ fb\ much so\ much
 fell\ and\ dispose sell\ and\ dispose
 felling\ annuities selling\ annuities
 fending\ and\ receiving sending\ and\ receiving
+fet\ apart set\ apart
+fet\ down set\ down
+fet\ forth set\ forth
+fet\ out set\ out
+fet\ upon set\ upon
 fever\ al everal
 fever\ ally severally
 fever\ a\ l several
@@ -146,7 +154,11 @@ fub-jefts subjects
 fub-jeft subject
 further\ enaded further\ enacted
 further\ enadted further\ enacted
+further\ ena&ed further\ enacted
+further\ ena#ed further\ enacted
 further\ enafted further\ enacted
+further\ eoa&ed further\ enacted
+further\ eua&ed further\ enacted
 General\ iffue General\ issue
 General\ ifiuc General\ issue
 Georgii\ 11 Georgii\ II
@@ -166,6 +178,7 @@ in\ any\ wife in\ any\ wise
 in\ cafe\ his in\ case\ his
 (inking\ fund sinking\ fund
 inoft\ excellent most\ excellent
+inter\ eft interest
 in\ tne in\ the
 is\ to\ fay is\ to\ say
 Judg-4\ ment Judgment
@@ -179,20 +192,19 @@ many\ wife many\ wise
 mod\ excellent most\ excellent
 mod\ humbly most\ humbly
 Mojl\ gracious Most\ gracious
-Nift\ Prius Nisi\ Prius
 of\ bis of\ his
 of\ the\ fame of\ the\ fame
 other\ wife other\ wise
 particular\ cafes particular\ cases
 patted\ in passed\ in
 pay\ ment payment
-per-sons persons
 per\ sons persons
 pleading\ the\ fame pleading\ the\ same
 prelent\ Majesty present\ Majesty
 present\ ad present\ act
 present\ aft present\ act
 Public\ ad Public\ act
+public\ Aft public\ Act
 Public\ aft Public\ act
 Publick\ ad Publick\ act
 publick\ aft publick\ act
@@ -210,6 +222,7 @@ recited\ afts recited\ acts
 said\ ad said\ act
 said\ adt said\ act
 said\ aft said\ act
+said\ Aft said\ Act
 said\ ait said\ act
 said\ alts said\ acts
 Same\ ad Same\ act
@@ -234,6 +247,7 @@ the\ laid the\ said
 the\ (pace the\ space
 Thirty-fecond Thirty-second
 thirty\ fix thirty\ six
+this\ abl this\ act
 this\ acl this\ act
 this\ ad this\ act
 this\ Ad this\ Act
@@ -241,17 +255,17 @@ this\ adt this\ act
 this\ aft this\ act
 this\ Aft this\ Act
 This\ aft This\ act
+this\ alt this\ act
 thou\ (and thousand
 treble\ cods treble\ costs
 Treble\ cods Treble\ costs
-trice\ fimo tricesimo
 twenty\ lixth twenty\ sixth
 two\ afts two\ acts
 veiling\ in vesting\ in
 vended\ or\ fold vended\ or\ fold
 weft\ riding west\ riding
+which\ aft which\ act
 year\ bf\ the year\ of\ the
 yin\ Ad an\ Act
 yin\ Aft an\ Act
-which\ aft which\ act
 

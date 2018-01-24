@@ -36,12 +36,14 @@ fexto sexto
 ftptimo septimo
 Gborgii Georgii
 Gbougii Georgii
+GE0RGII GEORGII
 Gecrgii Georgii
 Gegrgii Georgii
 Geoegii Georgii
 Geoegij Georgii
 Geoegji Georgii
 Geoeqii Georgii
+geo&gii georgii
 Geo&gii Georgii
 Geohgii Georgii
 geokgii Georgii
@@ -53,6 +55,7 @@ georgh Georgii
 Georgh Georgii
 GeorGH Georgii
 GeoRGH Georgii
+GEORGH GEORGII
 georgi! Georgii
 Georgi! Georgii
 GeorgiI Georgii
@@ -62,6 +65,8 @@ GeoRgii Georgii
 GeoRGii Georgii
 GeoRGII Georgii
 GEorgii Georgii
+G-EORGII GEORGII
+GE\ ORGII GEORGII
 Georgij Georgii
 georgil Georgii
 Georgit Georgii
@@ -83,15 +88,18 @@ G&orgii Georgii
 Grorgii Georgii
 Gsorgii Georgii
 Guublmi Gulielmi
+Nift\ Prius Nisi\ Prius
 noftre nostre
-o£lavo octavo
 o6lavo octavo
 o&avo octavo
 odavo octavo
-Oeorgii Georgii
 odlavo octavo
+Oeorgii Georgii
+OEORGII GEORGII
 oflavo octavo
 oftavo octavo
+o£lavo octavo
+o£tavo octavo
 otfavo octavo
 primoGeorgii primo\ Georgii
 prirno primo
@@ -140,6 +148,7 @@ vicdimo vicesimo
 vicefimo vicesimo
 vicefitno vicesimo
 viceflmo vicesimo
+vicefmio vicesimo
 viceftmo vicesimo
 vicefuno vicesimo
 viceGmo vicesimo
@@ -154,5 +163,4 @@ vkefimo vicesimo
 vlcefimo vicesimo
 yicefimo vicesimo
 Yicefimo vicesimo
-geo&gii georgii
 

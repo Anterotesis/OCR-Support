@@ -15,6 +15,7 @@ Briftol Bristol
 Brighthelmfion Brighthelmston
 Brighthelmfton Brighthelmston
 Brighthelmftone Brighthelmstone
+Brijlol Bristol
 Bromfgrove Bromsgrove
 Brunfwick Brunswick
 Buckinghamfhire Buckinghamshire
@@ -95,6 +96,7 @@ Iflington Islington
 Ipfwich Ipswich
 IVefminster Westminster
 IVeftminster Westminster
+IVeJiminJler Westminster
 IVeJlminjler Westminster
 IVejlmorland Westmorland
 Ivelchefter Ivelchester
@@ -196,9 +198,11 @@ Weftminfier Westminster
 Weftminfler Westminster
 Weftminftcr Westminster
 Weft-minfter Westminster
+Weftmin-fter Westminster
 Weftminfter Westminster
 Weftminjler Westminster
 Weftminlter Westminster
+Weft-minster Westminster
 Weftminster Westminster
 Weftmorland Westmorland
 Wejhninfter Westminster
@@ -211,6 +215,8 @@ Wejlminfter Westminster
 Wejlminjler Westminster
 Wejlminster Westminster
 Wejlmorland Westmorland
+Westminijler Westminster
+Wifbech Wisbech
 Wifiminfler Westminster
 Winchefler Winchester
 Winchefter Winchester
@@ -223,8 +229,4 @@ Yorkjbire Yorkshire
 Yorkjhire Yorkshire
 Yorklhire Yorkshire
 Zoucb Zouch
-Brijlol Bristol
-Westminijler Westminster
-Wifbech Wisbech
-IVeJiminJler Westminster
 
