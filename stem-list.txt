@@ -23,14 +23,18 @@ cuftom custom
 Cuftom Custom
 deftroy destroy
 dfhire dshire
+dijcont discont
 djhire dshire
 effedual effectual
 eftablifh establish
 enaded enacted
+Englifh English
 englijb english
 Englijb English
+Englijh English
 fecond second
 fecurity security
+fervice service
 fetfhire setshire
 feven seven
 fieid field
@@ -66,6 +70,9 @@ proviflon provision
 punijb punish
 punijh punish
 punilh punish
+quadragcfimo quadragesimo
+quadragesimopri quadragesimo\ pri
+re-ferving reserving
 regniquad regni\ quad
 regnitri regni\ tri
 tbirty thirty
@@ -79,12 +86,8 @@ warehoul warehous
 Wcft West
 Weflmin Westmin
 Weftmin Westmin
-withftanding withstanding
-zvhicb which
 Weftmtn Westmin
 Wejimin Westmin
-Englijh English
-Englifh English
-re-ferving reserving
-fervice service
+withftanding withstanding
+zvhicb which
 

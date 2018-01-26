@@ -57,6 +57,7 @@ EJsex Essex
 ElTex Essex
 Failfworth Failsworth
 Finijlerre Finisterre
+Folkeftone Folkestone
 Folkftone Folkstone
 Glafgow Glasgow
 Glajlonbury Glastonbury
@@ -121,6 +122,7 @@ Leicejler Leicester
 Lijbon Lisbon
 Loudon London
 Maffachufets Massachusets
+Maidjlone Maidstone
 Mancbefter Manchester
 Manchefter Manchester
 Manchejier Manchester
@@ -139,8 +141,11 @@ Middlelex Middlesex
 MiddUfex Middlesex
 Mtddlefex Middlesex
 Mtddlesex Middlesex
+Newcafle Newcastle
 Newcaflle Newcastle
+Newcaftie Newcastle
 Newcaftle Newcastle
+Newcajile Newcastle
 Newcajlle Newcastle
 Northamptonfhire Northamptonshire
 Northamptonfliire Northamptonshire
@@ -154,6 +159,7 @@ Nottinghamjhire Nottinghamshire
 Nottinghamlhire Nottinghamshire
 Ofweftry Oswestry
 Pontefraft Pontefract
+Portfea Portsea
 Portf-mouth Portsmouth
 Portfmouth Portsmouth
 Prefteigne  Presteigne 

@@ -17,6 +17,7 @@ Bri-tain Britain
 Bri-tifh British
 Bri-tijh British
 cleanf-ing cleansing
+commif-\ fioners commissioners
 commif-fioners commissioners
 commission-ers commissioners
 com-mitted committed
@@ -50,11 +51,15 @@ fea-men seamen
 fe-cond second
 fef-fion session
 fef-fions sessions
+fer-vant servant
+fer-vice service
+fer-vices services
 fe-ven seven
 feven-teen seventeen
 fe-veral  several
 fix-teenth sixteenth
 fixty-fix sixty-six
+fpe-cified specified
 ftamp-duties stamp-duties
 ftamp-duty stamp-duty
 fta-tutes statutes
@@ -62,8 +67,13 @@ fta-tute statute
 ftore-bouse store-house
 ftore-houfe store-house
 ftore-house store-house
+fub-divifions sub-divisions
+fub-divifion sub-division
 fub-divilion sub-division
+fub-feribe subscribe
 fub-fidy subsidy
+fub-jefts subjects
+fub-jeft subject
 fub-mitted submitted
 fuccef-fors successors
 fur-plus surplus
@@ -76,13 +86,18 @@ inftal-ments installments
 in-tereft interest
 Judg-ment Judgment
 jurifdic-tion jurisdiction
+lad-mentioned last-mentioned
 laft-recited last-recited
 lajl-mentioned last-mentioned
 (lamp-duties stamp-duties
 (lamp-duty stamp-duty
 lord-fhips lordships
+ma-giftrate magistrate
+ma-giftrates magistrates
 ma-jefty majesty
 Ma-jefty Majesty
+marjb-land arshland
+marriage-fettlement marriage-settlement
 mef-fuages messuages
 men-tioned mentioned
 ninety-fix ninety-six
@@ -108,6 +123,7 @@ pri-fon prison
 pro-fecuted prosecuted
 pro-vifion provision
 pub-lick publick
+Pub-lick Publick
 purchafe-money purchase-money
 pur-chafe purchase
 pur-chafer puchaser
@@ -130,6 +146,7 @@ sixty-fix sixty-six
 Sun-fet Sunset
 them-felves themselves
 thirty-fecond thirty-second
+Thirty-fecond Thirty-second
 thirty-fixth thirty-sixth
 thirty-lecond thirty-second
 thou-fand thousand

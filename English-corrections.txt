@@ -2,11 +2,13 @@
 7HEREAS WHEREAS
 a£1 act
 a£1s acts
+a\ 51 act
 a5l act
 a<5t act
 a61 act
 a6l act
 a6t act
+a6ts acts
 a& act
 aad and
 Aad And
@@ -20,6 +22,7 @@ accuftom accustom
 aCt act
 aCts acts
 adf act
+adfion action
 adfs acts
 Adi Act
 adion action
@@ -53,6 +56,7 @@ aflembling assembling
 Aflignees Assignees
 afls acts
 afore(aid aforesaid
+afore\ fa\ id aforesaid
 aforefaid aforesaid
 aforefaio aforesaid
 aforefajd aforesaid
@@ -69,6 +73,7 @@ afteftors assessors
 AfTefTors Assessors
 aftembled assembled
 aftion action
+Aft\ ion Action
 a<fts acts
 afts acts
 againfi against
@@ -160,9 +165,12 @@ Cafile Castle
 caftle castle
 Caftle Castle
 cancelied cancelled
+C\ A\ P CAP
+C\ AP CAP
 Caufe Cause
 cauje cause
 ceafe cease
+cffe&ual effectual
 cfquire esquire
 chaneery chancery
 Chaneery Chancery
@@ -236,6 +244,7 @@ Conftable Constable
 conftables constables
 conftabtes constables
 Confumption Consumption
+contradts contracts
 contraft contract
 Corrc&ion Correction
 corredion correction
@@ -268,6 +277,7 @@ deftroyed destroyed
 dejired desired
 dejlroy destroy
 dejlroyed destroyed
+depafturing depasturing
 di(charge discharge
 difcbarged discharged
 difcbarging discharging
@@ -324,6 +334,7 @@ Eajl East
 edate estate
 eertain certain
 efeapes escapes
+effc&ual effectual
 effedlual effectual
 effedtual effectual
 effeduallv effectually
@@ -352,6 +363,8 @@ eftafc estate
 eftate estate
 eftates estates
 Eftimate Estimate
+ejfeftual effectual
+ejfeftually effectually
 eledion election
 eledtion election
 enaAed enacted
@@ -363,12 +376,15 @@ enaCted enacted
 enadfed enacted
 enadted enacted
 ena&ed enacted
+enaefted enacted
 enafled enacted
 enafted enacted
 enalted enacted
 endorfe endorse
+Englilh English
 Enliftment Enlistment
 eommiffioners commissioners
+eommiflioners commissioners
 e(quire esquire
 eriafted enacted
 (everal several
@@ -403,11 +419,16 @@ fecurity security
 feffion session
 feffions sessions
 feffipn session
+fefflon session
 feffton session
+fefftons sessions
 fefiion session
 fefiions sessions
+fefjion session
 feflion session
 feflions sessions
+fefllon session
+fefllons sessions
 feifion session
 feignur seignur
 feizc seize
@@ -426,7 +447,9 @@ ferved served
 ferve serve
 fervice service
 ferviee service
+ferving serving
 fervjce service
+fettiement settlement
 fettled settled
 fettlement settlement
 fettlements settlements
@@ -440,6 +463,9 @@ feventh feventh
 feventh seventh
 feventy seventy
 feverai several
+fever\ al everal
+fever\ ally severally
+fever\ a\ l several
 feveral several
 feyen seven
 feyeral several
@@ -465,6 +491,7 @@ filk silk
 finifbing finishing
 finking sinking
 firfi first
+fir\ ft  first
 firft first
 Firft First
 firji first
@@ -495,6 +522,7 @@ forafmucb forasmuch
 forajmuch forasmuch
 foreftall forestall
 foreft forest
+forejls forests
 fo so
 fouth south
 fpace space
@@ -525,6 +553,7 @@ ftatute statute
 fterling sterling
 ftewartries stewartries
 ftewartry stewartry
+ftinting stinting
 ftolen stolen
 ftores stores
 ftreets streets
@@ -546,6 +575,7 @@ fubjects subjects
 fubjeCts subjects
 fubjeCt subject
 fubjeft subject
+fubjetts subjects
 fubjidy subsidy
 fublequent subsequent
 fucb such
@@ -579,6 +609,7 @@ GAP CAP
 Gatehoufe Gatehouse
 glafs glass
 Glafs Glass
+G\ O\ D GOD
 grindftones grindstones
 grofsing grossing
 (hall shall
@@ -680,6 +711,8 @@ Ipeedy speedy
 iuftice justice
 Iuftice Justice
 iuftices justices
+ivefi west
+IVefi West
 IVilliam William
 (ixty sixty
 jaid said
@@ -695,8 +728,12 @@ Jbips ships
 jbould should
 Jbould should
 Jcwifh Jewish
+jecurity security
+Jecurity security
 jerfey jersey
 Jerve serve
+jervice service
+Jervice service
 Jeven seven
 Jewifh Jewish
 Jewilh Jewish
@@ -704,6 +741,8 @@ Jhall shall
 Jhares shares
 jheriffs sheriffs
 Jhillings shillings
+jhipping shipping
+Jhipping shipping
 jhip ship
 Jhip ship
 Jhips ships
@@ -722,8 +761,12 @@ jlock stock
 Jlock stock
 Jlreets streets
 jncreafe increase
+jpirits spirits
+Jpirits spirits
 juch such
 Juch such
+Judg-4\ ment Judgment
+Judg\ ment Judgment
 juffices justices
 jufice justice
 jufices justices
@@ -749,6 +792,8 @@ jurif-diftion jurisdiction
 jurif-diftions jurisdictions
 Jurifdi&ion Jurisdiction
 jurifidi&ion jurisdiction
+juttices justices
+Juttices Justices
 jwear swear
 Jwear swear
 (kins skins
@@ -800,8 +845,13 @@ majefties majesties
 Majefties Majesties
 majeftv majesty
 Majeftv Majesty
+ma-\ jefty majesty
+ma-jefty majesty
 ma\ jefty majesty
 majefty majesty
+Ma-\ jefty Majesty
+Ma-jefty Majesty
+Ma\ jefty Majesty
 Majefty Majesty
 majefy majesty
 Majefy Majesty
@@ -813,7 +863,13 @@ Majejiy Majesty
 Majejiys Majestys
 majejlies majesties
 Majejlies Majesties
+ma-\ jejly majesty
+ma-jejly majesty
+ma\ jejly majesty
 majejly majesty
+Ma-\ jejly Majesty
+Ma-jejly Majesty
+Ma\ jejly Majesty
 Majejly Majesty
 MajeJly Majesty
 majejty majesty
@@ -826,7 +882,12 @@ majerty majesty
 Majerty Majesty
 majessy majesty
 Majessy Majesty
+ma-\ jetty majesty
+ma-jetty majesty
+ma\ jetty majesty
 majetty majesty
+Ma-\ jetty Majesty
+Ma-jetty Majesty
 Majeuy Majesty
 Majftty Majesty
 majler master
@@ -847,6 +908,8 @@ manufaftures manufactures
 manvfafture manufacture
 marfhalsea marshalsea
 Marfhalsea Marshalsea
+marjb marsh
+Marjb Marsh
 Marjhalfea Marshalsea
 marjhalsea marshalsea
 Marjhalsea Marshalsea
@@ -858,7 +921,9 @@ mereliant merchant
 meritioned mentioned
 mifchiefs mischiefs
 mifehief mischief
+mifiaid mislaid
 miftake mistake
+miilion million
 milfion million
 Moft Most
 mojl most
@@ -890,6 +955,9 @@ notwithftandiug notwithstanding
 notwithjlanding notwithstanding
 notwithttanding notwithstanding
 notwitnftanding notwithstanding
+obftruCtion obstruction
+obftruCtions obstructions
+obftrudlions obstructions
 Odober October
 Oflober October
 oforejaid aforesaid
@@ -909,6 +977,8 @@ pafied passed
 pafjed passed
 paflages passages
 pafling passing
+pafs pass
+Pafs Pass
 pafTed passed
 pajfage passage
 pajfed passed
@@ -918,7 +988,10 @@ pajjing passing
 palled passed
 palling passing
 papifts papists
+pa-r(fh parish
+pa\ r(fh parish
 parifhes parishes
+pa-rifh parish
 parifh parish
 Parifh Parish
 parifti parish
@@ -935,15 +1008,20 @@ parilh parish
 Parilh Parish
 paristi parish
 Paristi Parish
+pa(Ted passed
+pa\ (Ted passed
 paymafter paymaster
 paymajler paymaster
+pay\ ment payment
 penfions pensions
 perfbn person
 perfbns persons
 perfonal personal
 perfon person
 Perfon Person
+per-\ fons persons
 perfons persons
+Per-fons Persons
 Perfons Persons
 perfpns persons
 Perfpns Persons
@@ -954,9 +1032,12 @@ perion person
 Perion Person
 perions persons
 perjons persons
+perlbn person
 perlon person
 perlons persons
 per\^on person
+perrons persons
+per\ sons persons
 petfons persons
 (piritual spiritual
 pleafe please
@@ -973,6 +1054,8 @@ pofitions positions
 poftage postage
 pofteffion possession
 poftmafter postmaster
+pojl post
+Pojl Post
 poorhoufes poorhouses
 popijh popish
 popilh popish
@@ -996,6 +1079,7 @@ Prifoner Prisoner
 prifoners prisoners
 Prifoners Prisoners
 prifon prison
+pri-fons prisons
 prifons prisons
 Procefs Process
 profccutor prosecutor
@@ -1003,11 +1087,13 @@ profecution prosecution
 profeeuted prosecuted
 propofals proposals
 Prote&ion Protection
+provifibns provisions
 provifion provision
 Provifion Provision
 provifions provisions
 Provifions Provisions
 provifo proviso
+proviftons provisions
 provilion provision
 pubiick publick
 PUBL1CK PUBLICK
@@ -1032,6 +1118,7 @@ punijbing punishing
 punilhed punished
 punilhing punishing
 punilhment punishment
+pur\ chafed purchased
 purchafe purchase
 Purchafer Purchaser
 Purchafers Purchasers
@@ -1054,10 +1141,13 @@ raifing raising
 raifmg raising
 reafonabje reasonable
 reafonable reasonable
+rea-fon reason
 reafon reason
+Rea-fon Reason
 redifying rectifying
 refiding residing
 refidue residue
+refiriftions restrictions
 refpe6fively respectively
 refpe6tively respectively
 refpecftively respectively
@@ -1127,6 +1217,7 @@ thofe those
 thole those
 thonfand thousand
 thou(and thousand
+thou\ (and thousand
 thoufand thousand
 thoufaud thousand
 thoufend thousand
@@ -1150,6 +1241,7 @@ tranfmit transmit
 Tranfportation Transportation
 Tranfport Transport
 treafiirer treasurer
+trea-fon treason
 treafon treason
 treafurers treasurers
 treafurer treasurer
@@ -1164,6 +1256,7 @@ truft trust
 trujlees trustees
 trulfees trustees
 trullees trustees
+trurtees trustees
 Trustees Trujlees
 TT7HEREAS WHEREAS
 TTTHEREAS WHEREAS
@@ -1190,6 +1283,8 @@ vefiel vessel
 veflel vessel
 veflry vestry
 veftel vessel
+vefTel vessel
+VefTel Vessel
 veftl vessel
 veftrymen vestrymen
 Veftry Vestry
@@ -1202,6 +1297,7 @@ Vifcount Viscount
 vifeountefs viscountess
 vifeount viscount
 Vifeount Viscount
+vi&ual victual
 vvhatsoever whatsoever
 vvhich which
 vvhofe whose
@@ -1244,27 +1340,4 @@ zvhich which
 zvho who
 zvithin within
 zvith with
-deferter deserter
-ma\ jefty majesty
-lofs loss
-profecution prosecution
-sefiion session
-difcretion discretion
-refidue residue
-courfe course
-abfence absence
-witneffes witnesses
-veftl vessel
-foreft forest
-succeftors successors
-succeftor successor
-diftrift district
-propofals proposals
-ferving serving
-pafs pass
-Pafs Pass
-Englilh English
-Majefty Majesty
-VefTel Vessel
-vefTel vessel
 

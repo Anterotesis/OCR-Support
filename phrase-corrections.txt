@@ -1,4 +1,3 @@
-a\ 51 act
 act\ fbr act\ for
 Act\ fbr Act\ for
 act\ fir act\ for
@@ -15,9 +14,7 @@ ads\ of\ parliament acts\ of\ parliament
 ad\ to act\ to
 adt\ of\ parliament act\ of\ parliament
 advice\ ana\ consent advice\ and\ consent
-afore\ fa\ id aforesaid
 aft\ for act\ for
-Aft\ ion Action
 aft\ made act\ made
 aft\ of act\ of
 Aft\ of\ Parliament Act\ of\ Parliament
@@ -30,6 +27,7 @@ aft\ to act\ to
 Ah\ act An\ act
 alt\ of\ parliament act\ of\ parliament
 alts\ of\ parliament acts\ of\ parliament
+An\  a51 An\ act
 An\ a51 An\ act
 An\ A\ 61 An\ Act
 An\ AA An\ Act
@@ -64,9 +62,11 @@ An\ ail\ to An\ act\ to
 An\ ait\ for An\ act\ for
 An\ ait\ to An\ act\ to
 An\ a£l An\ act
+An\ all\ for An\ act\ for
+An\ all\ to An\ act\ to
+an\ alt an\ act
+An\ alt An\ act
 An\ Alt An\ Act
-An\ alt\ for An\ act\ for
-an\ alt\ of an\ act\ of
 An\ at1 An\ act
 an\ at\ for an\ act\ for
 An\ at\ for An\ act\ for
@@ -88,6 +88,7 @@ a&s\ of acts\ of
 authority\ of\ the\ lame authority\ of\ the\ same
 be\ fold\ for be\ sold\ for
 be\ it\ enaded be\ it\ enacted
+be\ jt\ further be\ it\ further
 be\ railed\ in be\ raised\ in
 bis\ heirs his\ heirs
 bis\ late his\ late
@@ -97,9 +98,7 @@ bis\ present bis\ present
 bis\ present his\ present
 bis\ present\ Majesty his\ present\ Majesty
 bis\ said his\ said
-C\ A\ P CAP
-C\ AP CAP
-commif-\ fioners commissioners
+colts\ of\ suit costs\ of\ suit
 county\ of\ Tork county\ of\ York
 County\ of\ Tork County\ of\ York
 fail\ cloth sail\ cloth
@@ -113,14 +112,10 @@ fet\ down set\ down
 fet\ forth set\ forth
 fet\ out set\ out
 fet\ upon set\ upon
-fever\ al everal
-fever\ ally severally
-fever\ a\ l several
 fhali\ be  shall\ be
 Fifh\ Curer Fish\ Curer
 Fifh\ Curers Fish\ Curers
 fifty\ fix fifty\ six
-fir\ ft  first
 fix\ acres six\ acres
 fix\ days six\ days
 fix\ hundred six\ hundred 
@@ -146,12 +141,7 @@ for\ tne for\ the
 fort\ of\ grain sort\ of\ grain
 forts\ of\ bread sorts\ of\ bread
 fpr\ the for\ the
-fub-divifions sub-divisions
-fub-divifion sub-division
-fub-feribe subscribe
 fub\ feribe subscribe
-fub-jefts subjects
-fub-jeft subject
 further\ enaded further\ enacted
 further\ enadted further\ enacted
 further\ ena&ed further\ enacted
@@ -169,7 +159,8 @@ Georgii\ It Georgii\ II
 Georgii\ IT Georgii\ II
 Georgii\ TIL Georgii\ III
 Gnat\ Britain Great\ Britain
-G\ O\ D GOD
+gold\ and\ fiver gold\ and\ silver
+gold\ or\ fiver gold\ or\ silver
 he\ or\ (he he\ or\ she
 he\ or\ lhe he\ or\ she
 hun-4\ dred hundred
@@ -181,8 +172,10 @@ inoft\ excellent most\ excellent
 inter\ eft interest
 in\ tne in\ the
 is\ to\ fay is\ to\ say
-Judg-4\ ment Judgment
-Judg\ ment Judgment
+Jin\ act An\ act
+lad\ session last\ session
+lame\ county same\ county
+lame\ uses same\ uses
 linking\ fund sinking\ fund
 live\ hundred five\ hundred
 live\ pounds five\ pounds
@@ -197,8 +190,6 @@ of\ the\ fame of\ the\ fame
 other\ wife other\ wise
 particular\ cafes particular\ cases
 patted\ in passed\ in
-pay\ ment payment
-per\ sons persons
 pleading\ the\ fame pleading\ the\ same
 prelent\ Majesty present\ Majesty
 present\ ad present\ act
@@ -209,9 +200,9 @@ Public\ aft Public\ act
 Publick\ ad Publick\ act
 publick\ aft publick\ act
 Publick\ aft Publick\ act
+PUB\ LICK PUBLICK
 punching\ mutiny punishing\ mutiny
 punching\ Mutiny punishing\ Mutiny
-pur\ chafed purchased
 railing\ money raising\ money
 railing\ the\ said raising\ the\ said
 railing\ the\ sum raising\ the\ sum
@@ -224,6 +215,7 @@ said\ adt said\ act
 said\ aft said\ act
 said\ Aft said\ Act
 said\ ait said\ act
+said\ alt said\ act
 said\ alts said\ acts
 Same\ ad Same\ act
 Same\ aft Same\ act
@@ -245,7 +237,6 @@ the\ laft the\ last
 the\ laid\ county the\ said\ county
 the\ laid the\ said
 the\ (pace the\ space
-Thirty-fecond Thirty-second
 thirty\ fix thirty\ six
 this\ abl this\ act
 this\ acl this\ act
@@ -256,9 +247,11 @@ this\ aft this\ act
 this\ Aft this\ Act
 This\ aft This\ act
 this\ alt this\ act
-thou\ (and thousand
+to\ be\ railed to\ be\ raised
 treble\ cods treble\ costs
 Treble\ cods Treble\ costs
+treble\ colts treble\ costs
+Treble\ colts Treble\ costs
 twenty\ lixth twenty\ sixth
 two\ afts two\ acts
 veiling\ in vesting\ in
@@ -268,4 +261,5 @@ which\ aft which\ act
 year\ bf\ the year\ of\ the
 yin\ Ad an\ Act
 yin\ Aft an\ Act
+younger\ fons younger\ sons
 
