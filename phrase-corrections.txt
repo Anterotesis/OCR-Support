@@ -262,4 +262,15 @@ year\ bf\ the year\ of\ the
 yin\ Ad an\ Act
 yin\ Aft an\ Act
 younger\ fons younger\ sons
+last\ section\ of\ parliament last\ session\ of\ parliament
+An\ act\ fir An\ act\ for
+an\ act\ fir an\ act\ for
+fir\ John sir\ John
+fir\ William sir\ William
+vended\ or\ fold vended\ or\ sold
+An\ dft An\ act
+pur\ chafe purchase
+pur\ chafe-money purchase-money
+twenty-fir\ ft twenty-first
+thirty-fir\ ft thirty-first
 

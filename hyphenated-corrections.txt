@@ -16,6 +16,7 @@ Bri-\ tain Britain
 Bri-tain Britain
 Bri-tifh British
 Bri-tijh British
+clean-fing cleansing
 cleanf-ing cleansing
 commif-\ fioners commissioners
 commif-fioners commissioners
@@ -110,12 +111,14 @@ ob-ftru&ing obstructing
 one-fixth one-sixth
 other-wife otherwise
 out-penfioners out-pensioners
+paf-fing passing
 paf-sages passages
 pay-ment payment
 per-fon person
 per-fons persons
 per-sons persons
 pof-feflions possessions
+poft-office post-office
 pre-fent present
 pri-foner prisoner
 pri-foners prisoners
@@ -136,6 +139,7 @@ rc-fpeftively respectively
 refpec-tively respectively
 refpec-tive respective
 refped-ive respective
+re-fpedtive respective
 refpeft-ing respecting
 re-fpeftively respectively
 re-fpeftive respective
@@ -164,4 +168,8 @@ what-foever whatsoever
 whatfo-ever whatsoever
 what-soever whatsoever
 work-houfe work-house
+admif-fion admission
+admif-fions admissions
+fubal-tern subaltern
+pur-chafe-money purchase-money
 
