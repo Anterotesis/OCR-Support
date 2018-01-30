@@ -11,36 +11,40 @@ andsixty and\ sixty
 andthe and\ the
 andto and\ to
 annoprimo anno\ primo
+bankof bank\ of
+bankofEngland bank\ of\ England
 dutyof duty\ of
+enactedby enacted\ by
 enadtedby enacted\ by
 enaftedby enacted\ by
 fomuch so\ much
+forthe for\ the
+Forthe For\ the
 GeorgiiII Georgii\ II
 GreatBritain Great\ Britain
 ingthe ing\ the
 noperson no\ person
+Octoberone October\ one
+octoberyearly October\ yearly
+ofexcife of\ excise
 offuch of\ such
 ofhis of\ his
 ofparliament of\ parliament
 oftbe of\ the
+ofthc of\ the
+ofthefaid of\ the\ said
+oftheir of\ their
+ofthem of\ them
 ofthe of\ the
 ofthis of\ this
 orfuch or\ such
+roadfrom road\ from
+roadsfrom roads\ from
+smallfums small\ sums
 sofar so\ far
 thefaid the\ said
 thehoufe the\ house
-yearof year\ of
-enactedby enacted\ by
 thousandfix thousand\ six
 thousandseven thousand\ seven
-ofthefaid of\ the\ said
-ofthe of\ the
-ofthc of\ the
-oftheir of\ their
-ofthem of\ them
-ofexcife of\ excise
-roadfrom road\ from
-roadsfrom roads\ from
-Forthe For\ the
-forthe for\ the
+yearof year\ of
 

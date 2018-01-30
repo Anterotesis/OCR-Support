@@ -1,9 +1,14 @@
+0£tavo Octavo
 Aano Anno
+Aanonono Anno\ nono
+Aanoquinto Anno\ quinto
+Aanoregni Anno\ regni
 Aimo\ tricesimo Anno\ tricesimo
 Anao Anno
 Ann6 Anno
 Anna\ tricesimo Anno\ tricesimo
 Anna\ vicesimo Anno\ vicesimo
+AnnO Anno
 Annodecimo Anno\ decimo
 Anno\ dedmo Anno\ decimo
 Annofexto Anno\ sexto
@@ -51,15 +56,23 @@ Geokgii Georgii
 GeoKgii Georgii
 georcii Georgii
 Georcii Georgii
+Georg\ 11 Georgii
 georgh Georgii
 Georgh Georgii
+GeorgH Georgii
 GeorGH Georgii
+GeoRgh Georgii
+GeoRgH Georgii
 GeoRGH Georgii
+GeORGH Georgii
+GEorGH Georgii
 GEORGH GEORGII
 georgi! Georgii
 Georgi! Georgii
+Georg\ ii Georgii
 GeorgiI Georgii
 GeorgIi Georgii
+Georg\ II Georgii
 GeorGII Georgii
 GeoRgii Georgii
 GeoRGii Georgii
@@ -71,16 +84,49 @@ Georgij Georgii
 georgil Georgii
 Georgit Georgii
 Georgji Georgii
+GeorgjI Georgii
+GeoRgji Georgii
+GeoRGJI Georgii
+Georgjj Georgii
 Georgn Georgii
+georgti Georgii
 Georgti Georgii
+GeorgTi Georgii
+GeoRgti Georgii
+GeoRGTI Georgii
+georgtj Georgii
 Georgu Georgii
 Georgxi Georgii
 georoii Georgii
 Georoii Georgii
+GeoroiI Georgii
+GeoroIi Georgii
+GeorOii Georgii
+GeorOiI Georgii
+GeorOIi Georgii
+GeorOII Georgii
+GeoRoii Georgii
+GeoRoiI Georgii
+GeoRoIi Georgii
+GeoROii Georgii
+GeoROIi Georgii
+GeoROII Georgii
+GeOroii Georgii
+georqii Georgii
 Georqii Georgii
+GeorqIi Georgii
+GeoRqii Georgii
+GeOrqii Georgii
+Georqij Georgii
 GeosgIi Georgii
+geougii Georgii
 Geougii Georgii
+GeougiI Georgii
+GeouGii Georgii
 GeoUgii Georgii
+GeoUgIi Georgii
+GeoUGII Georgii
+GEougii Georgii
 Geqrgii Georgii
 GEQRGII GEORGII
 G£orgii Georgii
@@ -88,6 +134,7 @@ G&orgii Georgii
 Grorgii Georgii
 Gsorgii Georgii
 Guublmi Gulielmi
+iecundo secundo
 Nift\ Prius Nisi\ Prius
 noftre nostre
 o6lavo octavo
@@ -100,16 +147,50 @@ oflavo octavo
 oftavo octavo
 o£lavo octavo
 o£tavo octavo
+O£tavo Octavo
 otfavo octavo
 primoGeorgii primo\ Georgii
 prirno primo
 prlmo primo
 qmnto quinto
+quadragcsimo quadragesimo
+quadragefiiho quadragesimo
+quadragefiimo quadragesimo
+quadragefiino quadragesimo
 quadragefimo quadragesimo
+quadragefimO quadragesimo
+quadrAgefimo quadragesimo
 Quadragefimo Quadragesimo
+quadragefimp quadragesimo
+quadragefimq quadragesimo
+quadragefinio quadragesimo
+quadragefinjo quadragesimo
+quadragefinro quadragesimo
+quadragefinso quadragesimo
+quadragefioio quadragesimo
+quadragefirao quadragesimo
+quadragefirho quadragesimo
 quadrageftmo quadragesimo
+quadrageifimo quadragesimo
+quadrageiimo quadragesimo
 quadragelimo quadragesimo
 quadragesimoquinto quadragesimo\ quinto
+quadragesljno quadragesimo
+quadrageslmo quadragesimo
+quadragesltno quadragesimo
+quadragesrmo quadragesimo
+quadragestmo quadragesimo
+quadragetimo quadragesimo
+quadragpsimo quadragesimo
+quadragriimo quadragesimo
+quadragtfimo quadragesimo
+quadragttimo quadragesimo
+quadrigefimb quadragesimo
+quadrigefimo quadragesimo
+quadrigesimo quadragesimo
+quadrkgefimo quadragesimo
+quadrkgesimo quadragesimo
+quadrngefimo quadragesimo
 quihto quinto
 quinfo quinto
 qumto quinto
@@ -133,6 +214,7 @@ tricefmio tricesimo
 tricefmo tricesimo
 tricefnno tricesimo
 triceftmo tricesimo
+tricefxmo tricesimo
 triceiimo tricesimo
 tricejimo tricesimo
 tricelimo tricesimo
@@ -143,9 +225,20 @@ trlccfimo tricesimo
 trlcefimo tricesimo
 undccimo undecimo
 vfcefimo vicesimo
+viccfimd vicesimo
+viccfime vicesimo
 viccfimo vicesimo
+viccfimO vicesimo
+Viccfimo Vicesimo
+viccfimp vicesimo
+viccfimq vicesimo
+viccfimQ vicesimo
+viccgmo vicesimo
+viccGmo vicesimo
 vicdimo vicesimo
 vicefimo vicesimo
+vicefimO vicesimo
+VicefimO Vicesimo
 vicefitno vicesimo
 viceflmo vicesimo
 vicefmio vicesimo
@@ -159,76 +252,13 @@ vicifimo vicesimo
 victfimo vicesimo
 vieefimo vicesimo
 vieelimo vicesimo
-vkefimo vicesimo
-vlcefimo vicesimo
-yicefimo vicesimo
-Yicefimo vicesimo
-O£tavo Octavo
-0£tavo Octavo
-triccfimo tricesimo
 vioefimo vicesimo
-viccGmo vicesimo
-viccgmo vicesimo
-Georg\ ii Georgii
-Georg\ II Georgii
-Georg\ 11 Georgii
-iecundo secundo
-quadragcsimo quadragesimo
-tricefxmo tricesimo
-GEorGH Georgii
-GeORGH Georgii
-GeoRgH Georgii
-GeoRgh Georgii
-GeorgH Georgii
-georgh Georgii
-GeoRGJI Georgii
-GeoRgji Georgii
-GeorgjI Georgii
-Georgjj Georgii
-GeoRGTI Georgii
-GeoRgti Georgii
-GeorgTi Georgii
-georgti Georgii
-georgtj Georgii
-GeOroii Georgii
-GeoROII Georgii
-GeoROIi Georgii
-GeoROii Georgii
-GeoRoIi Georgii
-GeoRoiI Georgii
-GeoRoii Georgii
-GeorOII Georgii
-GeorOIi Georgii
-GeorOiI Georgii
-GeorOii Georgii
-GeoroIi Georgii
-GeoroiI Georgii
-GeOrqii Georgii
-GeoRqii Georgii
-GeorqIi Georgii
-Georqii Georgii
-georqii Georgii
-Georqij Georgii
-GEougii Georgii
-GeoUGII Georgii
-GeoUgIi Georgii
-GeouGii Georgii
-GeougiI Georgii
-geougii Georgii
+vkefimo vicesimo
 vlcefimb vicesimo
 vlcefimd vicesimo
 vlcefimo vicesimo
 vlceiimo vicesimo
 vlcelimo vicesimo
-viccfimd vicesimo
-viccfime vicesimo
-Viccfimo Vicesimo
-viccfimO vicesimo
-viccfimo vicesimo
-viccfimp vicesimo
-viccfimQ vicesimo
-viccfimq vicesimo
-VicefimO Vicesimo
-vicefimO vicesimo
-vicefimo vicesimo
-AnnO Anno
+yicefimo vicesimo
+Yicefimo vicesimo
+

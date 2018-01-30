@@ -2,11 +2,14 @@ affign assign
 aforesaidy aforesaid,
 agefimo agesimo
 amongft amongst
+Annodec Anno\ dec
 Annoduo Anno\ duo
 Annoprimo Anno\ primo
 Annoquin Anno\ quin
 Annorcgn Anno\ reg
+Annoregfti Anno\ regni
 Annoregn Anno\ reg
+Annotertio Anno\ tertio
 Annotric Anno\ tric
 Annovic Anno\ vic
 borougb borough
@@ -21,7 +24,9 @@ CommiJJion Commission
 crofs cross
 cuftom custom
 Cuftom Custom
+decimofexto decimo\ sexto
 deftroy destroy
+dejtroy destroy
 dfhire dshire
 dijcont discont
 djhire dshire
@@ -40,16 +45,30 @@ feven seven
 fieid field
 fixty sixty
 foever soever
+fpecifi specifi
+fpirit spirit
 fubdiv subdiv
 fubfcrib subscrib
+fubftant substant
 fufpend suspend
+furpluf surplus
 fvejlmin Westmin
 fvejtmin Westmin
 Ge0 Geo
 GeorgiiIII Georgii\ III
+Gloucejler Gloucester
+GlouceJler Gloucester
+hismaj his\ maj
+hisMaj his\ Maj
+Hismaj His\ maj
+HisMaj His\ Maj
+HisMaJ His\ Maj
 houfe house
+IVefim Westm
+IVeflm Westm
 iveftmin Westmin
 Iveftmin Westmin
+IVeftm Westm
 IVeJimin Westmin
 ivejlmin Westmin
 Ivejlmin Westmin
@@ -60,10 +79,15 @@ juftice justice
 juftic justic
 jveftmin Westmin
 Jveftmin Westmin
+JVeft West
+JVeJ Wes
 maieft majest
 majeft majest
 majelt majest
+majestv majesty
+Majestv Majesty
 mifchief mischief
+milfioner missioner
 minfter minster
 prifon prison
 proviflon provision
@@ -72,50 +96,32 @@ punijh punish
 punilh punish
 quadragcfimo quadragesimo
 quadragesimopri quadragesimo\ pri
+quadragesimoq quadragesimo\ q
+recoyer recover
+reCt rectTheAuthor The\ Author
 re-ferving reserving
+refpeftiv respectiv
 regniquad regni\ quad
 regnitri regni\ tri
 tbirty thirty
 tbou thou
+theauthor the\ author
+theAuthor the\ Author
+Theauthor The\ author
 tricefi tricesi
 tricesimopri tricesimo\ pri
 tricesimose tricesimo\ se
 twenfy twenty
 vefifels vessels
+vifcount viscount
+Vifcount Viscount
 warehoul warehous
 Wcft West
 Weflmin Westmin
 Weftmin Westmin
 Weftmtn Westmin
 Wejimin Westmin
+Weslmin Westmin
 withftanding withstanding
 zvhicb which
-reCt rect
-recoyer recover
-JVeJ Wes
-JVeft West
-IVefim Westm
-IVeflm Westm
-IVeftm Westm
-refpeftiv respectiv
-Weslmin Westmin
-decimofexto decimo\ sexto
-Annodec Anno\ dec
-fubftant substant
-milfioner missioner
-majestv majesty
-Majestv Majesty
-HisMaj His\ Maj
-HisMaJ His\ Maj
-hisMaj his\ Maj
-vifcount viscount
-Vifcount Viscount
-fpecifi specifi
-fpirit spirit
-hisMaj his\ Maj
-hismaj his\ maj
-HisMaj His\ Maj
-Hismaj His\ maj
-GlouceJler Gloucester
-Gloucejler Gloucester
 
