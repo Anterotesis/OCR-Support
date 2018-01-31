@@ -1,3 +1,4 @@
+abftrac abstrac
 affign assign
 aforesaidy aforesaid,
 agefimo agesimo
@@ -21,6 +22,9 @@ commiffion commission
 commijfion commission
 commijjion commission
 CommiJJion Commission
+cornmiffion commission
+correfpond correspond
+Correfpond Correspond
 crofs cross
 cuftom custom
 Cuftom Custom
@@ -28,7 +32,9 @@ decimofexto decimo\ sexto
 deftroy destroy
 dejtroy destroy
 dfhire dshire
+difturb disturb
 dijcont discont
+dis-ting disting
 djhire dshire
 effedual effectual
 eftablifh establish
@@ -42,6 +48,8 @@ fecurity security
 fervice service
 fetfhire setshire
 feven seven
+-fhire -shire
+fhire- shire-
 fieid field
 fixty sixty
 foever soever
@@ -58,6 +66,7 @@ Ge0 Geo
 GeorgiiIII Georgii\ III
 Gloucejler Gloucester
 GlouceJler Gloucester
+havebeen have\ been
 hismaj his\ maj
 hisMaj his\ Maj
 Hismaj His\ maj
@@ -75,20 +84,26 @@ Ivejlmin Westmin
 IVejlmin Westmin
 jhirc shire
 jlaple staple
+jpirit spirit
+Jpirit spirit
 juftice justice
 juftic justic
+jurifdid jurisdict
 jveftmin Westmin
 Jveftmin Westmin
 JVeft West
 JVeJ Wes
+loyalfub loyal\ sub
 maieft majest
 majeft majest
 majelt majest
 majestv majesty
 Majestv Majesty
+meafure measure
 mifchief mischief
 milfioner missioner
 minfter minster
+poffeff possess
 prifon prison
 proviflon provision
 punijb punish
@@ -97,17 +112,23 @@ punilh punish
 quadragcfimo quadragesimo
 quadragesimopri quadragesimo\ pri
 quadragesimoq quadragesimo\ q
+quadragesimoquin quadragesimo\ quin
+quintoGeo quinto\ Geo
+quintoGu quinto\ Gu
 recoyer recover
-reCt rectTheAuthor The\ Author
 re-ferving reserving
 refpeftiv respectiv
+refpeft respect
 regniquad regni\ quad
 regnitri regni\ tri
+Somerfct Somerset
+Somerfet Somerset
 tbirty thirty
 tbou thou
 theauthor the\ author
 theAuthor the\ Author
 Theauthor The\ author
+TheAuthor The\ Author
 tricefi tricesi
 tricesimopri tricesimo\ pri
 tricesimose tricesimo\ se
@@ -116,7 +137,6 @@ vefifels vessels
 vifcount viscount
 Vifcount Viscount
 warehoul warehous
-Wcft West
 Weflmin Westmin
 Weftmin Westmin
 Weftmtn Westmin
