@@ -36,15 +36,24 @@ An\ a# An\ act
 an\ acl an\ act
 An\ acl An\ act
 An\ aCl An\ act
+An\ act\ far An\ act\ for
+An\ act\ fer An\ act\ for
+an\ act\ fir an\ act\ for
+An\ act\ fir An\ act\ for
+an\ act\ palled an\ act\ passed
 an\ act\ parted an\ act\ passed
 an\ ad an\ act
 An\ ad An\ act
 An\ adf An\ act
 An\ ad\ far An\ act\ for
 An\ Ad\ fbr An\ Act\ for
+an\ ad\ for an\ act\ for
 An\ Ad\ for An\ Act\ for
 An\ adi\ for An\ act\ for
 An\ adl An\ act
+An\ adl\ for An\ act\ for
+an\ adl\ made an\ act\ made
+an\ ad\ made an\ act\ made
 an\ ad\ passed an\ act\ passed
 ana\ enforcing and\ enforcing
 An\ a\ for An\ act\ for
@@ -72,6 +81,8 @@ an\ at\ for an\ act\ for
 An\ at\ for An\ act\ for
 an\ at\ made an\ act\ made
 and\ fbr and\ for
+An\ dft An\ act
+and\ lhall and\ shall
 and\ tor and\ for
 An\ eft An\ act
 an\ oft an\ act
@@ -101,6 +112,8 @@ bis\ said his\ said
 colts\ of\ suit costs\ of\ suit
 county\ of\ Tork county\ of\ York
 County\ of\ Tork County\ of\ York
+Excifeofficcrs Excise\ officers
+Excifeofficers Excise\ officers
 fail\ cloth sail\ cloth
 fame\ session same\ session
 fb\ much so\ much
@@ -116,6 +129,8 @@ fhali\ be  shall\ be
 Fifh\ Curer Fish\ Curer
 Fifh\ Curers Fish\ Curers
 fifty\ fix fifty\ six
+fir\ John sir\ John
+fir\ William sir\ William
 fix\ acres six\ acres
 fix\ days six\ days
 fix\ hundred six\ hundred 
@@ -142,12 +157,20 @@ fort\ of\ grain sort\ of\ grain
 forts\ of\ bread sorts\ of\ bread
 fpr\ the for\ the
 fub\ feribe subscribe
+furthcrenadted further\ enacted
+furtherenacted further\ enacted
 further\ enaded further\ enacted
+furtherenadled further\ enacted
 further\ enadted further\ enacted
+furtherenadted further\ enacted
 further\ ena&ed further\ enacted
 further\ ena#ed further\ enacted
+furtherenafled further\ enacted
 further\ enafted further\ enacted
+furtherenafted further\ enacted
+furtherenaited further\ enacted
 further\ eoa&ed further\ enacted
+furthereradted further\ enacted
 further\ eua&ed further\ enacted
 General\ iffue General\ issue
 General\ ifiuc General\ issue
@@ -163,6 +186,15 @@ gold\ and\ fiver gold\ and\ silver
 gold\ or\ fiver gold\ or\ silver
 he\ or\ (he he\ or\ she
 he\ or\ lhe he\ or\ she
+his\ laid\ Majesty his\ said\ Majesty
+hisMajeftv his\ Majesty
+HisMajeftv His\ Majesty
+HisMaJefty His\ Majesty
+hisMajeiiy his\ Majesty
+HisMajeity His\ Majesty
+hisMajeJly his\ Majesty
+hismajejty his\ majesty
+hisMajessy his\ Majesty
 hun-4\ dred hundred
 hundred\ ana hundred\ and
 in\ any\ wife in\ any\ wise 
@@ -176,6 +208,7 @@ Jin\ act An\ act
 lad\ session last\ session
 lame\ county same\ county
 lame\ uses same\ uses
+last\ section\ of\ parliament last\ session\ of\ parliament
 linking\ fund sinking\ fund
 live\ hundred five\ hundred
 live\ pounds five\ pounds
@@ -203,6 +236,9 @@ Publick\ aft Publick\ act
 PUB\ LICK PUBLICK
 punching\ mutiny punishing\ mutiny
 punching\ Mutiny punishing\ Mutiny
+pur\ chafe-money purchase-money
+pur\ chafe purchase
+railed\ in\ Great raised\ in\ Great
 railing\ money raising\ money
 railing\ the\ said raising\ the\ said
 railing\ the\ sum raising\ the\ sum
@@ -219,10 +255,13 @@ said\ alt said\ act
 said\ alts said\ acts
 Same\ ad Same\ act
 Same\ aft Same\ act
+several\ adls several\ acts
 several\ ads several\ acts
 several\ afts several\ acts
 shall\ ad shall\ act
 sixty\ fix sixty\ six
+statutesat statutes\ at
+STATUTESat STATUTES\ at
 That\ ail\ and That\ all\ and
 the\ aft the\ act
 the\ (aid the\ said
@@ -237,6 +276,7 @@ the\ laft the\ last
 the\ laid\ county the\ said\ county
 the\ laid the\ said
 the\ (pace the\ space
+thirty-fir\ ft thirty-first
 thirty\ fix thirty\ six
 this\ abl this\ act
 this\ acl this\ act
@@ -252,45 +292,16 @@ treble\ cods treble\ costs
 Treble\ cods Treble\ costs
 treble\ colts treble\ costs
 Treble\ colts Treble\ costs
+twenty-fir\ ft twenty-first
 twenty\ lixth twenty\ sixth
 two\ afts two\ acts
 veiling\ in vesting\ in
 vended\ or\ fold vended\ or\ fold
+vended\ or\ fold vended\ or\ sold
 weft\ riding west\ riding
 which\ aft which\ act
 year\ bf\ the year\ of\ the
 yin\ Ad an\ Act
 yin\ Aft an\ Act
 younger\ fons younger\ sons
-last\ section\ of\ parliament last\ session\ of\ parliament
-An\ act\ fir An\ act\ for
-an\ act\ fir an\ act\ for
-fir\ John sir\ John
-fir\ William sir\ William
-vended\ or\ fold vended\ or\ sold
-An\ dft An\ act
-pur\ chafe purchase
-pur\ chafe-money purchase-money
-twenty-fir\ ft twenty-first
-thirty-fir\ ft thirty-first
-furtherenacted further\ enacted
-furtherenadled further\ enacted
-furtherenadted further\ enacted
-furtherenafled further\ enacted
-furtherenafted further\ enacted
-furtherenaited further\ enacted
-furthereradted further\ enacted
-furthcrenadted further\ enacted
-Excifeofficers Excise\ officers
-Excifeofficcrs Excise\ officers
-HisMajeftv His\ Majesty
-hisMajeftv his\ Majesty
-HisMaJefty His\ Majesty
-hisMajeiiy his\ Majesty
-HisMajeity His\ Majesty
-hisMajeJly his\ Majesty
-hismajejty his\ majesty
-hisMajessy his\ Majesty
-STATUTESat STATUTES\ at
-statutesat statutes\ at
 
