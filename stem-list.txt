@@ -1,7 +1,12 @@
 abftrac abstrac
+advertife advertise
+Advertife Advertise
+advife advise
+advowfon advowson
 affign assign
 aforesaidy aforesaid,
 agefimo agesimo
+almfhouse almshouse
 amongft amongst
 Annodec Anno\ dec
 Annoduo Anno\ duo
@@ -18,10 +23,26 @@ Britifb British
 Britifh British
 Britijh British
 chefter chester
+commiffioh commission
+commiffiom commission
 commiffion commission
+commiffon commission
+commiffton commission
+commifhon commission
+commifiion commission
+commifjion commission
+commifllon commission
+commifsion commission
+commiftion commission
+commifTion commission
+commiifion commission
 commijfion commission
+commijfon commission
 commijjion commission
 CommiJJion Commission
+commilfion commission
+commiliion commission
+commilTion commission
 cornmiffion commission
 correfpond correspond
 Correfpond Correspond
@@ -31,6 +52,8 @@ Cuftom Custom
 decimofexto decimo\ sexto
 deftroy destroy
 dejtroy destroy
+demolijh demolish
+demolilh demolish
 dfhire dshire
 difturb disturb
 dijcont discont
@@ -38,8 +61,8 @@ dis-ting disting
 djhire dshire
 effedual effectual
 eftablifh establish
-eftahlifh establish
 eftablijh establish
+eftahlifh establish
 eftahlijh establish
 enaded enacted
 Englifh English
@@ -58,6 +81,7 @@ fixty sixty
 foever soever
 fpecifi specifi
 fpirit spirit
+franchife franchise
 fubdiv subdiv
 fubfcrib subscrib
 fubftant substant
@@ -67,6 +91,7 @@ fvejlmin Westmin
 fvejtmin Westmin
 Ge0 Geo
 GeorgiiIII Georgii\ III
+Gloucefter Gloucester
 Gloucejler Gloucester
 GlouceJler Gloucester
 havebeen have\ been
@@ -97,6 +122,7 @@ Jveftmin Westmin
 JVeft West
 JVeJ Wes
 loyalfub loyal\ sub
+magijlrate magijlrate
 maieft majest
 majeft majest
 majelt majest
@@ -106,6 +132,7 @@ meafure measure
 mifchief mischief
 milfioner missioner
 minfter minster
+minifter minister
 poffeff possess
 prifon prison
 proviflon provision
@@ -124,6 +151,8 @@ refpeftiv respectiv
 refpeft respect
 regniquad regni\ quad
 regnitri regni\ tri
+Somcrfct Somerset
+Somcrfet Somerset
 Somerfct Somerset
 Somerfet Somerset
 tbirty thirty
