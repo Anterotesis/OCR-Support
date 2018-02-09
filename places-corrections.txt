@@ -99,6 +99,7 @@ Englaiid England
 Englaitd England
 Englajid England
 Englancl England
+Eng-land England
 Failfworth Failsworth
 Finijlerre Finisterre
 Folkeftone Folkestone
@@ -214,6 +215,7 @@ IVejlmorland Westmorland
 Ivelchefter Ivelchester
 IVorceJler Worcester
 Jerfey Jersey
+Jerjey Jersey
 JVeflminJler Westminster
 JVeflminster Westminster
 JVeflrmnfter Westminster
@@ -554,5 +556,30 @@ YorkJJnre Yorkshire
 Yorklhire Yorkshire
 Yorldhire Yorkshire
 Zoucb Zouch
-Eng-land England
+AJhford Ashford
+Winchejler Winchester
+Chelfea Chelsea
+Chelhire Cheshire
+fVeJlminfler Westminster
+fVefiminster Westminster
+Wifimlnfier Westminster
+Wifimnjtar Westminster
+Wifimnstir Westminster
+Wieflminfler Westminster
+Wiftminjier Westminster
+Wiftminster Westminster
+Wijlminfitr Westminster
+Wijlminfler Westminster
+Wijlminfltr Westminster
+Wijlminjier Westminster
+Wijiminfler Westminster
+Wijiminjler Westminster
+Westminfier Westminster
+Wincheller Winchester
+Winchelter Winchester
+Wincheiler Winchester
+Wincbejier Winchester
+Winckester Winchester
+Winchtjler Winchester
+Eajl-India East-India
 

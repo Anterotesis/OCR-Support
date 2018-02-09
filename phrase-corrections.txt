@@ -56,6 +56,8 @@ an\ adl\ made an\ act\ made
 an\ ad\ made an\ act\ made
 an\ ad\ passed an\ act\ passed
 ana\ enforcing and\ enforcing
+An\ aff\ for An\ act\ for
+An\ aff\ to An\ act\ to
 An\ a\ for An\ act\ for
 ana\ for and\ for
 an\ aft an\ act
@@ -93,13 +95,21 @@ any\ fort\ of any\ sort\ of
 any\ (uch any\ such
 any\ wife\ notwithftanding any\ wise\ notwithstanding
 any\ wife\ notwithstanding any\ wise\ notwithstanding
+arid\ after and\ after
+arid\ also and\ also
+arid\ be and\ be
 Arid\ be\ it And\ be\ it
+arid\ by and\ by
+arid\ consent and\ consent
+arid\ for and\ for
+Arid\ for And\ for
 Arid\ it\ is And\ it\ is
 a&s\ of acts\ of
 authority\ of\ the\ lame authority\ of\ the\ same
 be\ fold\ for be\ sold\ for
 be\ it\ enaded be\ it\ enacted
 be\ jt\ further be\ it\ further
+be\ lt\ enacted be\ it\ enacted
 be\ railed\ in be\ raised\ in
 bis\ heirs his\ heirs
 bis\ late his\ late
@@ -174,6 +184,7 @@ furthereradted further\ enacted
 further\ eua&ed further\ enacted
 General\ iffue General\ issue
 General\ ifiuc General\ issue
+George\ the\ Fir\ ft George\ the\ First
 Georgii\ 11 Georgii\ II
 Georgii\ H Georgii\ II
 Georgii\ HI Georgii\ III
@@ -197,6 +208,7 @@ hismajejty his\ majesty
 hisMajessy his\ Majesty
 hun-4\ dred hundred
 hundred\ ana hundred\ and
+hundred\ arid hundred\ and
 in\ any\ wife in\ any\ wise 
 in\ cafe\ his in\ case\ his
 (inking\ fund sinking\ fund
@@ -213,13 +225,20 @@ linking\ fund sinking\ fund
 live\ hundred five\ hundred
 live\ pounds five\ pounds
 loft\ or\ destroyed lost\ or\ destroyed
+made\ and\ pajfed made\ and\ passed
 made\ m\ the made\ in\ the
+making\ the\ fame making\ the\ same
 many\ wife many\ wise
+marine\ farces marine\ forces
 mod\ excellent most\ excellent
 mod\ humbly most\ humbly
 Mojl\ gracious Most\ gracious
+moll\ excellent most\ excellent
+moll\ gracious most\ gracious
+Moll\ gracious Most\ gracious
 of\ bis of\ his
 of\ the\ fame of\ the\ fame
+of\ this\ aff of\ this\ act
 other\ wife other\ wise
 particular\ cafes particular\ cases
 patted\ in passed\ in
@@ -259,7 +278,9 @@ several\ adls several\ acts
 several\ ads several\ acts
 several\ afts several\ acts
 shall\ ad shall\ act
+Shank\ of\ England bank\ of\ England
 sixty\ fix sixty\ six
+spiritual\ ana\ temporal spiritual\ and\ temporal
 statutesat statutes\ at
 STATUTESat STATUTES\ at
 That\ ail\ and That\ all\ and
@@ -304,9 +325,8 @@ year\ bf\ the year\ of\ the
 yin\ Ad an\ Act
 yin\ Aft an\ Act
 younger\ fons younger\ sons
-marine\ farces marine\ forces
-Shank\ of\ England bank\ of\ England
-moll\ excellent most\ excellent
-be\ lt\ enacted be\ it\ enacted
-moll\ gracious most\ gracious
-Moll\ gracious Most\ gracious
+said\ Jum said\ sum
+mod\ noble most\ noble
+Ana\ be And\ be
+Advice\ ana\ Consent Advice\ and\ Consent
+
