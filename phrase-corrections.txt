@@ -14,6 +14,7 @@ ads\ of\ parliament acts\ of\ parliament
 ad\ to act\ to
 adt\ of\ parliament act\ of\ parliament
 advice\ ana\ consent advice\ and\ consent
+Advice\ ana\ Consent Advice\ and\ Consent
 aft\ for act\ for
 aft\ made act\ made
 aft\ of act\ of
@@ -33,6 +34,7 @@ An\ A\ 61 An\ Act
 An\ AA An\ Act
 An\ a& An\ act
 An\ a# An\ act
+Ana\ be And\ be
 an\ acl an\ act
 An\ acl An\ act
 An\ aCl An\ act
@@ -48,14 +50,16 @@ An\ adf An\ act
 An\ ad\ far An\ act\ for
 An\ Ad\ fbr An\ Act\ for
 an\ ad\ for an\ act\ for
+An\ adfor An\ act\ for
 An\ Ad\ for An\ Act\ for
 An\ adi\ for An\ act\ for
 An\ adl An\ act
-An\ adl\ for An\ act\ for
 an\ adl\ made an\ act\ made
 an\ ad\ made an\ act\ made
 an\ ad\ passed an\ act\ passed
 ana\ enforcing and\ enforcing
+An\ aEt An\ act
+An\ a&fbr An\ act\ for
 An\ aff\ for An\ act\ for
 An\ aff\ to An\ act\ to
 An\ a\ for An\ act\ for
@@ -78,6 +82,7 @@ An\ all\ to An\ act\ to
 an\ alt an\ act
 An\ alt An\ act
 An\ Alt An\ Act
+An\ aS An\ act
 An\ at1 An\ act
 an\ at\ for an\ act\ for
 An\ at\ for An\ act\ for
@@ -115,10 +120,12 @@ bis\ heirs his\ heirs
 bis\ late his\ late
 bis\ majesty his\ majesty
 bis\ Majesty his\ Majesty
+bis\ or\ her his\ or\ her
 bis\ present bis\ present
 bis\ present his\ present
 bis\ present\ Majesty his\ present\ Majesty
 bis\ said his\ said
+bis\ wife his\ wife
 colts\ of\ suit costs\ of\ suit
 county\ of\ Tork county\ of\ York
 County\ of\ Tork County\ of\ York
@@ -127,6 +134,7 @@ Excifeofficers Excise\ officers
 fail\ cloth sail\ cloth
 fame\ session same\ session
 fb\ much so\ much
+fbr\ the for\ the
 fell\ and\ dispose sell\ and\ dispose
 felling\ annuities selling\ annuities
 fending\ and\ receiving sending\ and\ receiving
@@ -232,6 +240,8 @@ many\ wife many\ wise
 marine\ farces marine\ forces
 mod\ excellent most\ excellent
 mod\ humbly most\ humbly
+mod\ noble most\ noble
+Mofi\ gracious Most\ gracious
 Mojl\ gracious Most\ gracious
 moll\ excellent most\ excellent
 moll\ gracious most\ gracious
@@ -272,6 +282,7 @@ said\ Aft said\ Act
 said\ ait said\ act
 said\ alt said\ act
 said\ alts said\ acts
+said\ Jum said\ sum
 Same\ ad Same\ act
 Same\ aft Same\ act
 several\ adls several\ acts
@@ -325,8 +336,4 @@ year\ bf\ the year\ of\ the
 yin\ Ad an\ Act
 yin\ Aft an\ Act
 younger\ fons younger\ sons
-said\ Jum said\ sum
-mod\ noble most\ noble
-Ana\ be And\ be
-Advice\ ana\ Consent Advice\ and\ Consent
 

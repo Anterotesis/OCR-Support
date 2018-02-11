@@ -1,4 +1,6 @@
 abftrac abstrac
+accomplijb accomplish
+accomplijh accomplish
 advertife advertise
 Advertife Advertise
 advife advise
@@ -10,19 +12,36 @@ almfhouse almshouse
 amongft amongst
 Annodec Anno\ dec
 Annoduo Anno\ duo
+Annofexto Anno\ sexto
 Annoprimo Anno\ primo
 Annoquin Anno\ quin
 Annorcgn Anno\ reg
+Annoreg Anno\ reg
 Annoregfti Anno\ regni
 Annoregn Anno\ reg
 Annotertio Anno\ tertio
 Annotric Anno\ tric
+Announ Anno\ un
 Annovic Anno\ vic
+bis\ Maj his\ Maj
+blifhed blished
 borougb borough
 Britifb British
 Britifh British
+Britifi British
+Britifl British
+britifti british
+Britifti British
+britijb british
+Britijb British
+BritiJb British
 Britijh British
+BritiJh British
+Britilh British
+cburcb church
+cburch church
 chefter chester
+churcb church
 commiffioh commission
 commiffiom commission
 commiffion commission
@@ -43,6 +62,8 @@ CommiJJion Commission
 commilfion commission
 commiliion commission
 commilTion commission
+confent consent
+confider consider
 cornmiffion commission
 correfpond correspond
 Correfpond Correspond
@@ -59,6 +80,7 @@ difturb disturb
 dijcont discont
 dis-ting disting
 djhire dshire
+Eaft-Ind East-Ind
 effedual effectual
 eftablifh establish
 eftablijh establish
@@ -74,6 +96,7 @@ fecurity security
 fervice service
 fetfhire setshire
 feven seven
+fextoG sexto\ G
 -fhire -shire
 fhire- shire-
 fieid field
@@ -85,10 +108,16 @@ franchife franchise
 fubdiv subdiv
 fubfcrib subscrib
 fubftant substant
+fucccff success
+fucceff success
 fufpend suspend
 furpluf surplus
+fVeftmin Westmin
+fVeJimin Westmin
 fvejlmin Westmin
+fVeJlmin Westmin
 fvejtmin Westmin
+fVeJtmin Westmin
 Ge0 Geo
 GeorgiiIII Georgii\ III
 Gloucefter Gloucester
@@ -110,6 +139,7 @@ IVeJimin Westmin
 ivejlmin Westmin
 Ivejlmin Westmin
 IVejlmin Westmin
+jefty jesty
 jhirc shire
 jlaple staple
 jpirit spirit
@@ -130,10 +160,15 @@ majestv majesty
 Majestv Majesty
 meafure measure
 mifchief mischief
+miffioners missioners
+miflioner missioner
 milfioner missioner
 minfter minster
 minifter minister
+moGeo mo\ Geo
+notwithftand notwithstand
 poffeff possess
+preferv preserv
 prifon prison
 proviflon provision
 punijb punish
@@ -142,8 +177,10 @@ punilh punish
 quadragcfimo quadragesimo
 quadragesimopri quadragesimo\ pri
 quadragesimoq quadragesimo\ q
-quadragesimoquin quadragesimo\ quin
-quintoGeo quinto\ Geo
+quartoGe quarto\ Ge
+quartoGE quarto\ GE
+quintoGe quinto\ Ge
+quintoGE quinto\ GE
 quintoGu quinto\ Gu
 recoyer recover
 re-ferving reserving
@@ -157,39 +194,28 @@ Somerfct Somerset
 Somerfet Somerset
 tbirty thirty
 tbou thou
+tcrtio tertio
 theauthor the\ author
 theAuthor the\ Author
 Theauthor The\ author
 TheAuthor The\ Author
+triccfimo tricesimo
 tricefi tricesi
 tricesimopri tricesimo\ pri
 tricesimose tricesimo\ se
 twenfy twenty
 vefifels vessels
+vicefimo vicesimo
 vifcount viscount
 Vifcount Viscount
+vifions visions
 warehoul warehous
 Weflmin Westmin
 Weftmin Westmin
 Weftmtn Westmin
 Wejimin Westmin
 Weslmin Westmin
+Westminft Westminst
 withftanding withstanding
 zvhicb which
-accomplijb accomplish
-accomplijh accomplish
-preferv preserv
-vicefimo vicesimo
-tcrtio tertio
-triccfimo tricesimo
-Annofexto Anno\ sexto
-fVeftmin Westmin
-fVeJimin Westmin
-fVeJlmin Westmin
-fVeJtmin Westmin
-Westminft Westminst
-confider consider
-confent consent
-fucceff success
-fucccff success
 
