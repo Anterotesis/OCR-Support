@@ -249,6 +249,7 @@ Qeoroii Georgii
 Qeorou Georgii
 Qeqrgii Georgii
 Qeqroij Georgii
+qiiinto quinto
 qmdragdimo quadragesimo
 qmdrageftmo quadragesimo
 qmdragesimo quadragesimo
@@ -262,6 +263,8 @@ qnadragefitno quadragesimo
 qnadrageirmo quadragesimo
 qnadragelimo quadragesimo
 qnadragesimo quadragesimo
+qninto quinto
+qointo quinto
 quadcagesimo quadragesimo
 quadfagcsimo quadragesimo
 quadfagdimo quadragesimo
@@ -433,20 +436,30 @@ viccfimQ vicesimo
 viccgmo vicesimo
 viccGmo vicesimo
 vicdimo vicesimo
+vicedmo vicesimo
 vicefifno vicesimo
 vicefiino vicesimo
+vicefima vicesimo
+vicefimd vicesimo
 vicefimoquinto vicesimo\ quinto
 vicefimo vicesimo
 vicefimO vicesimo
 VicefimO Vicesimo
+vicefimp vicesimo
+vicefimq vicesimo
+vicefirao vicesimo
 vicefirfio vicesimo
+vicefirno vicesimo
 vicefitno vicesimo
 vicefitrto vicesimo
 viceflmo vicesimo
 vicefmio vicesimo
+vicefnno vicesimo
 viceftmo vicesimo
 vicefuno vicesimo
+vicegmo vicesimo
 viceGmo vicesimo
+viceiimo vicesimo
 vicejimo vicesimo
 vicelimo vicesimo
 vicetimo vicesimo
@@ -478,5 +491,4 @@ yiccfimo vicesimo
 yicefimo vicesimo
 Yicefimo vicesimo
 ylcefimo vicesimo
-qiiinto quinto
 

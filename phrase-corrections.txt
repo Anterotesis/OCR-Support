@@ -203,6 +203,7 @@ Georgii\ TIL Georgii\ III
 Gnat\ Britain Great\ Britain
 gold\ and\ fiver gold\ and\ silver
 gold\ or\ fiver gold\ or\ silver
+Henrici\ VHI Henrici\ VII
 he\ or\ (he he\ or\ she
 he\ or\ lhe he\ or\ she
 his\ laid\ Majesty his\ said\ Majesty
@@ -311,14 +312,20 @@ the\ (pace the\ space
 thirty-fir\ ft thirty-first
 thirty\ fix thirty\ six
 this\ abl this\ act
+This\ abl This\ act
 this\ acl this\ act
+This\ acl This\ act
 this\ ad this\ act
 this\ Ad this\ Act
+This\ ad This\ act
+This\ Ad This\ Act
 this\ adt this\ act
+This\ adt This\ act
 this\ aft this\ act
 this\ Aft this\ Act
 This\ aft This\ act
 this\ alt this\ act
+This\ alt This\ act
 to\ be\ railed to\ be\ raised
 treble\ cods treble\ costs
 Treble\ cods Treble\ costs

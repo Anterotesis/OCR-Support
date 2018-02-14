@@ -42,7 +42,9 @@ abftracf abstract
 abftracft abstract
 abftract abstract
 abftralt abstract
+abovefaid abovesaid
 abufed abused
+accejfary accessary
 accuftomably accustomably
 accuftom accustom
 aCls acts
@@ -100,9 +102,11 @@ affaulting assaulting
 affedting affecting
 af-feflors assessors
 affeflors assessors
+affem-bled assembled
 affignees assignees
 af-fignment assignment
 afiembled assembled
+Afiignees Assignees
 afiigns assigns
 afiize assize
 afl act
@@ -186,6 +190,9 @@ aftion action
 Aft\ ion Action
 a<fts acts
 afts acts
+aftualiy actually
+aftuallv actually
+aftually actually
 againfi against
 againft against
 againji against
@@ -212,6 +219,7 @@ alcertaining ascertaining
 (ale sale
 alfo also
 almihouses almshouses
+al(o also
 a£ls acts
 altually actually
 Amerita America
@@ -233,6 +241,7 @@ archbiftiop archbishop
 archbiihop archbishop
 archbijbop archbishop
 Archbijbop Archbishop
+archbijhops archbishops
 archbilhop archbishop
 archbilhoprick archbishoprick
 arife arise
@@ -292,6 +301,7 @@ bilhoprick bishoprick
 Bilhops Bishops
 (billing shilling
 (billings shillings
+Blackfmith Blacksmith
 blejfed blessed
 bouse house
 bouses houses
@@ -438,6 +448,7 @@ com-pany company
 com-penfation compensation
 compen-fation compensation
 compenfation compensation
+com-pulfory compulsory
 confeffion confession
 confeflton confession
 confent consent
@@ -472,6 +483,7 @@ couneil council
 courfe course
 crofs cross
 Crofs Cross
+csquire esquire
 cufiom custom
 cuflomer customer
 cuftodv custody
@@ -547,6 +559,7 @@ difeovered discovered
 difeovering discovering
 difeovery discovery
 diferetion discretion
+Difiridts Districts
 difperse disperse
 difpofed disposed
 difpofe dispose
@@ -563,6 +576,7 @@ diftrift district
 difturbances disturbances
 difturbing disturbing
 difturhance disturbance
+Diicharge Discharge
 diipofed disposed
 dire61ed directed
 direft direct
@@ -618,15 +632,22 @@ eftafc estate
 eftate estate
 eftates estates
 Eftimate Estimate
+eiquire esquire
 ejfeftual effectual
 ejfeftually effectually
 ejlablifbed established
 ejlablifhing establishing
+ejlablijbed established
 ejlablijb establish
+ejlablijbing establishing
 ejlablijhed established
+ejlablijh establish
 ejlablijhing establishing
+ejlablished established
 eledion election
 eledtion election
+elquire esquire
+Elquire Esquire
 ena&ad enacted
 enaAed enacted
 enab1e enable
@@ -691,6 +712,7 @@ fbips ships
 fbould should
 fcaleboard scaleboard
 fcbedule schedule
+fcbolars scholars
 fchedulc schedule
 fcience science
 fcven seven
@@ -771,6 +793,7 @@ fheriff sheriff
 fhihings shillings
 fhiHings shillings
 fhiHLngs shillings
+fhiilings shillings
 fhilfings shillings
 fhilflngs shillings
 fhilHng  shilling
@@ -789,8 +812,10 @@ fhips ships
 fhipwrcck shipwreck
 fhipwreck shipwreck
 fhipwreeked shipwrecked
+fhnll shall
 fhoufand thousand
 fHOufand thousand
+fhouid should
 fhould should
 fiatutes statutes
 fide side
@@ -837,6 +862,7 @@ fixtv sixty
 fixty sixty
 flaves slaves
 flewards stewards
+flmilar similar
 fmall small
 foch such
 ©f of
@@ -912,11 +938,14 @@ fubferiptions subscriptions
 fubfeription subscription
 fubfidy subsidy
 fubfitutes substitutes
+fubiefts subjects
 fubieft subject
+fubjctls subjects
 fubjeCl subject
 fubjects subjects
 fubjeCts subjects
 fubjeCt subject
+fubjeffs subjects
 fubjeft subject
 fubjetts subjects
 fubjidy subsidy
@@ -933,8 +962,10 @@ fucceftor successor
 fuccejfors successors
 fuccejfor successor
 fuccelfors successors
+(fuch (such
 fuch such
 fuCh such
+fucli such
 fuf-fer suffer
 fuffer suffer
 fuf-ficient sufficient
@@ -966,6 +997,9 @@ Gatehoufe Gatehouse
 glafs glass
 Glafs Glass
 G\ O\ D GOD
+goldfmith goldsmith
+Goldfmith Goldsmith
+gommissioners commissioners
 grindftones grindstones
 grofsing grossing
 halipenny halfpenny
@@ -980,6 +1014,7 @@ haljpenny halfpenny
 (heriffdom sheriffdom
 (heriff sheriff
 (hewn shewn
+high-nefs highness
 highnefs highness
 Highnefs Highness
 hi$ his
@@ -1113,6 +1148,7 @@ ivefi west
 IVefi West
 ivhich which
 IVilliam William
+ivithin within
 (ixty sixty
 jaid said
 Jaid said
@@ -1169,6 +1205,8 @@ jlaves slaves
 Jlaves slaves
 jlock stock
 Jlock stock
+Jlrangers strangers
+Jlranger stranger
 Jlreets streets
 Jlrongly strongly
 jlrong strong
@@ -1212,6 +1250,7 @@ jujtices justices
 Jummoned summoned
 Jums sums
 Juperiority superiority
+jurifdicftion jurisdiction
 jurif-diction jurisdiction
 jurif-didion jurisdiction
 jurifdidlion jurisdiction
@@ -1238,6 +1277,7 @@ lajt last
 latisfy satisfy
 (lave slave
 leafchold leasehold
+leafed leased
 leafes leases
 lecond second
 Le&ure Lecture
@@ -1366,6 +1406,10 @@ Majlers Masters
 majtfty majesty
 malicioufiy maliciously
 malicioufly maliciously
+manflaughtcr manslaughter
+Manflaughtcr Manslaughter
+manflaughter manslaughter
+Manflaughter Manslaughter
 manufadlure manufacture
 Manufadlure Manufacture
 manufadtured manufactured
@@ -1407,6 +1451,7 @@ Midfuminer Midsummer
 Midfummcr Midsummer
 Midfummef Midsummer
 Midfummer Midsummer
+mifbehaving misbehaving
 mifchiefs mischiefs
 mifehief mischief
 mifiaid mislaid
@@ -1542,6 +1587,7 @@ nptwithftancjing notwithstanding
 nptwithstanding notwithstanding
 nptWtbfranding notwithstanding
 nuifanccs nuisances
+obfervcd observed
 obftruCtion obstruction
 obftruCtions obstructions
 obftrudlions obstructions
@@ -1565,7 +1611,16 @@ otberwife otherwise
 othef other
 otherwife otherwise
 otkerwife otherwise
+overfccrs overseers
+overfcer overseer
+overfcers overseers
+overfecr overseer
+overfecrs overseers
+overfeer overseer
+overfeers overseers
 Overfeers Overseers
+overleer overseer
+overleers overseers
 oyjler oyster
 paffages passages
 paffed passed
@@ -1592,6 +1647,7 @@ parifhes parishes
 pa-rifh parish
 parifh parish
 Parifh Parish
+Parifii Parish
 parifti parish
 pari(hes parishes
 pari(h parish
@@ -1697,6 +1753,7 @@ prijoners prisoners
 prijon  prison
 prilbn prison
 Procefs Process
+procejfes processes
 profccutor prosecutor
 profecution prosecution
 profeeuted prosecuted
@@ -1771,12 +1828,29 @@ punilhed punished
 punilhing punishing
 punilhment punishment
 punish-ment punishment
+purcbafe purchase
+purcbafer purchaser
+purcbafers purchasers
+purchafcer purchaser
+purchafcers purchasers
+purchafc purchase
 pur\ chafed purchased
+purchafed purchased
 purchafe purchase
+purchafer purchaser
 Purchafer Purchaser
+purchafers purchasers
 Purchafers Purchasers
+purchafes purchases
 purchafing purchasing
+purchafmg purchasing
+purchaled purchased
+purchale purchase
+purchaling purchasing
 purebafe  purchase
+purehafed purchased
+purehafe purchase
+purehafer purchaser
 purpofe purpose
 Purpofe Purpose
 purpofes purposes
@@ -1983,6 +2057,7 @@ tncreafe increase
 tneir their
 townfbips townships
 townfhips township
+town-fhips townships
 townfhip township
 townfihip township
 townfiiip township
@@ -2024,17 +2099,12 @@ trefpas trespas
 Truftees Trustees
 truft trust
 trujlees trustees
+Trujlees Trustees
 trulfees trustees
 trullees trustees
 trurtees trustees
-Trujlees Trustees
-Manflaughter Manslaughter
-Manflaughtcr Manslaughter
-manflaughter manslaughter
-manflaughtcr manslaughter
-high-nefs highness
-jurifdicftion jurisdiction
 TT7HEREAS WHEREAS
+TTEM ITEM
 TTTHEREAS WHEREAS
 tvhereas whereas
 twenfy twenty
@@ -2068,6 +2138,7 @@ veftel vessel
 vefTel vessel
 VefTel Vessel
 veftl vessel
+veftmg vesting
 veftrymen vestrymen
 Veftry Vestry
 vejfels vessels
@@ -2145,11 +2216,4 @@ zvriting writing
 zvrits writs
 zvritten written
 zvrit writ
-fcbolars scholars
-leafed leased
-veftmg vesting
-eiquire esquire
-Elquire Esquire
-elquire esquire
-csquire esquire
 

@@ -61,6 +61,7 @@ Carmarthenjbire Carmarthenshire
 Cbeflerfield Chesterfield 
 Cbefterfield Chesterfield
 Cbester Chester
+Cheapfide Cheapside
 Chefhire Cheshire
 Cheftcrfield  Chesterfield 
 Chefter Chester
@@ -108,6 +109,7 @@ Eajl-India East-India
 Eajl-Indies East-Indies
 Efsex Essex
 EJfex Essex
+Ejjex Essex
 EJsex Essex
 ElTex Essex
 Englahd England
@@ -116,6 +118,7 @@ Englaitd England
 Englajid England
 Englancl England
 Eng-land England
+Exhamfhire Exhamshire
 Failfworth Failsworth
 Finijlerre Finisterre
 Folkeftone Folkestone
@@ -543,6 +546,7 @@ Wejlminfter Westminster
 Wejlminjler Westminster
 Wejlminster Westminster
 Wejlmorland Westmorland
+Wejlmtnjler Westminster
 Westminfier Westminster
 Westminfitr Westminster
 Westminflcr Westminster
@@ -611,5 +615,4 @@ YorkJJnre Yorkshire
 Yorklhire Yorkshire
 Yorldhire Yorkshire
 Zoucb Zouch
-Exhamfhire Exhamshire
 

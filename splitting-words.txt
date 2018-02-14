@@ -21,6 +21,8 @@ authorityaforesaid authority\ aforesaid
 authorityof authority\ of
 bankof bank\ of
 bankofEngland bank\ of\ England
+beenacted been\ acted
+beenafted been\ acted
 Britijbcolonies British\ colonies
 britishfugar british\ sugar
 confentof consent\ of
@@ -28,6 +30,7 @@ dutyof duty\ of
 enactedby enacted\ by
 enadtedby enacted\ by
 enaftedby enacted\ by
+fhouldbe should\ be
 fomuch so\ much
 forthe for\ the
 Forthe For\ the
@@ -83,6 +86,7 @@ onethouland one\ thousand
 onethousand one\ thousand
 orfuch or\ such
 orthemfelves or\ themselves
+purchafeof purchase\ of
 roadfrom road\ from
 roadsfrom roads\ from
 smallfums small\ sums
