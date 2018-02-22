@@ -11,6 +11,7 @@ Aberyjlwyth Aberystwyth
 AJhford Ashford
 Alderfgate Aldersgate
 Alhby Ashby
+Amfterdam Amsterdam
 Anglefey Anglesey
 Anglefeyshire Angleseyshire
 Anglejea Anglesea
@@ -264,6 +265,7 @@ Kidderminfter Kidderminster
 Kingfbridge Kingsbridge
 Kingfton Kingston
 Kingjlon Kingston
+Kinrofs Kinross
 Knarefbrough Knaresbrough
 Knarelborough Knaresborough
 Knigbtley Knightley
@@ -300,6 +302,7 @@ Leicejlerjhire Leicestershire
 Leicejlerjhirr Leicestershire
 Leicejler Leicester
 Leominjier Leominster
+Lifbon Lisbon
 Lijbon Lisbon
 Loudon London
 Maffachufets Massachusets
@@ -615,5 +618,4 @@ YorkJJnre Yorkshire
 Yorklhire Yorkshire
 Yorldhire Yorkshire
 Zoucb Zouch
-Lifbon Lisbon
 
