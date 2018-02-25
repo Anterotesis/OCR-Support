@@ -1,3 +1,5 @@
+aa\ Ad an\ Act
+Act\ far Act\ for
 act\ fbr act\ for
 Act\ fbr Act\ for
 act\ fir act\ for
@@ -10,6 +12,7 @@ adl\ to act\ to
 ad\ made act\ made
 ad\ of\ parliament act\ of\ parliament
 ad\ or\ acts act\ or\ acts
+Ad\ or\ Acts Act\ or\ Acts
 ads\ of\ parliament acts\ of\ parliament
 ad\ to act\ to
 adt\ of\ parliament act\ of\ parliament
@@ -19,8 +22,10 @@ aft\ for act\ for
 aft\ made act\ made
 aft\ of act\ of
 Aft\ of\ Parliament Act\ of\ Parliament
+aft\ or\ acts act\ or\ acts
 A\ ft\ or\ Acts Act\ or\ Acts
 Aft\ or\ Acts Act\ or\ Acts
+Aft\ or\ Afta Act\ or\ Acts
 Aft\ or\ Afts Act\ or\ Acts
 a\ ft\ or\ afts act\ or\ afts
 afts\ of\ parliament acts\ of\ parliament
@@ -31,25 +36,29 @@ alts\ of\ parliament acts\ of\ parliament
 An\  a51 An\ act
 An\ a51 An\ act
 An\ A\ 61 An\ Act
+An\ A8 An\ Act
 An\ AA An\ Act
 An\ a& An\ act
 An\ a# An\ act
 Ana\ be And\ be
+An\ AC! An\ Act
 an\ acl an\ act
 An\ acl An\ act
 An\ aCl An\ act
 An\ act\ far An\ act\ for
+An\ act\ fdr An\ act\ for
 An\ act\ fer An\ act\ for
 an\ act\ fir an\ act\ for
 An\ act\ fir An\ act\ for
 an\ act\ palled an\ act\ passed
 an\ act\ parted an\ act\ passed
-An\ A<ft An\ Act
-An\ Ad\ to An\ Act\ to
 an\ ad an\ act
+an\ Ad an\ Act
 An\ ad An\ act
+An\ AD An\ Act
 An\ adf An\ act
 An\ ad\ far An\ act\ for
+An\ Ad\ far An\ Act\ for
 An\ Ad\ fbr An\ Act\ for
 an\ ad\ for an\ act\ for
 An\ adfor An\ act\ for
@@ -58,7 +67,9 @@ An\ adi\ for An\ act\ for
 An\ adl An\ act
 an\ adl\ made an\ act\ made
 an\ ad\ made an\ act\ made
+an\ Ad\ made an\ Act\ made
 an\ ad\ passed an\ act\ passed
+An\ Ad\ to An\ Act\ to
 ana\ enforcing and\ enforcing
 An\ aEt An\ act
 An\ a&fbr An\ act\ for
@@ -70,12 +81,16 @@ an\ aft an\ act
 an\ Aft an\ Act
 An\ a\ ft An\ act
 An\ aft An\ act
+An\ aft\ An\ act
+An\ A<ft An\ Act
 An\ Aft An\ Act
 An\ aft\ far An\ act\ for
+An\ AH An\ Act
 An\ ail\ for An\ act\ for
 an\ ail\ made an\ act\ made
 an\ ail\ of an\ act\ of
 An\ ail\ to An\ act\ to
+An\ Ait An\ Act
 An\ ait\ for An\ act\ for
 An\ ait\ to An\ act\ to
 An\ a£l An\ act
@@ -111,6 +126,8 @@ arid\ consent and\ consent
 arid\ for and\ for
 Arid\ for And\ for
 Arid\ it\ is And\ it\ is
+arid\ the and\ the
+arid\ to and\ to
 a&s\ of acts\ of
 authority\ of\ the\ lame authority\ of\ the\ same
 be\ fold\ for be\ sold\ for
@@ -192,6 +209,10 @@ furtherenaited further\ enacted
 further\ eoa&ed further\ enacted
 furthereradted further\ enacted
 further\ eua&ed further\ enacted
+futn\ and sum\ and
+futn\ not sum\ not
+futn\ of sum\ of
+futn\ or sum\ or
 General\ iffue General\ issue
 General\ ifiuc General\ issue
 George\ the\ Fir\ ft George\ the\ First
@@ -228,6 +249,8 @@ inter\ eft interest
 in\ tne in\ the
 is\ to\ fay is\ to\ say
 Jin\ act An\ act
+Jin\ Ad An\ Act
+Jin\ Aft An\ Act
 lad\ session last\ session
 lame\ county same\ county
 lame\ uses same\ uses
@@ -252,13 +275,21 @@ Moll\ gracious Most\ gracious
 of\ bis of\ his
 of\ the\ fame of\ the\ fame
 of\ this\ aff of\ this\ act
+other\ aft other\ act
 other\ wife other\ wise
+ot\ his of\ his
 particular\ cafes particular\ cases
 patted\ in passed\ in
+pf\ any of\ any
+pf\ his of\ his
+pf\ them of\ them
+pf\ the of\ the
+pf\ this of\ this
 pleading\ the\ fame pleading\ the\ same
 prelent\ Majesty present\ Majesty
 present\ ad present\ act
 present\ aft present\ act
+private\ Aft private\ Act
 Public\ ad Public\ act
 public\ Aft public\ Act
 Public\ aft Public\ act
@@ -277,8 +308,10 @@ railing\ the\ sum raising\ the\ sum
 recited\ ad recited\ act
 recited\ Ad recited\ Act
 recited\ aft recited\ act
+recited\ Aft recited\ Act
 recited\ afts recited\ acts
 said\ ad said\ act
+said\ Ad said\ Act
 said\ adt said\ act
 said\ aft said\ act
 said\ Aft said\ Act
@@ -311,6 +344,7 @@ the\ laft the\ last
 the\ laid\ county the\ said\ county
 the\ laid the\ said
 the\ (pace the\ space
+the\ Ufc\ of the\ Use\ of
 thirty-fir\ ft thirty-first
 thirty\ fix thirty\ six
 this\ abl this\ act
@@ -345,23 +379,4 @@ year\ bf\ the year\ of\ the
 yin\ Ad an\ Act
 yin\ Aft an\ Act
 younger\ fons younger\ sons
-pf\ his of\ his
-pf\ any of\ any
-pf\ the of\ the
-pf\ them of\ them
-pf\ this of\ this
-futn\ not sum\ not
-futn\ and sum\ and
-futn\ of sum\ of
-futn\ or sum\ or
-an\ Ad\ made an\ Act\ made
-An\ Ad\ for An\ Act\ for
-arid\ to and\ to
-arid\ the and\ the
-said\ Ad said\ Act
-aa\ Ad an\ Act
-an\ Ad an\ Act
-An\ A8 An\ Act
-An\ act\ fdr An\ act\ for
-Aft\ or\ Afta Act\ or\ Acts
 

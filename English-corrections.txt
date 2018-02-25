@@ -45,6 +45,7 @@ abftralt abstract
 abolilh abolish
 abovefaid abovesaid
 abufed abused
+ac1 act
 accejfary accessary
 accuftomably accustomably
 accuftom accustom
@@ -95,6 +96,7 @@ afbrtfidd aforesaid
 afbrtsaid aforesaid
 afbtefaid aforesaid
 afbtesaid aforesaid
+afeending ascending
 afeertain ascertain
 afeertained ascertained
 afeertaining ascertaining
@@ -181,7 +183,12 @@ afqresaid aforesaid
 afQresaid aforesaid
 a£fs acts
 afsizes assizes
+Afta Acts
 a<ft act
+afteftment assessment
+AfTefTment Assessment
+afteftments assessments
+AfTefTments Assessments
 afteftors assessors
 AfTefTors Assessors
 aftembled assembled
@@ -207,6 +214,7 @@ aGt act
 AGt Act
 a£i act
 (aid said
+{aid said
 A&ion Action
 ajfembled assembled
 ajfign assign
@@ -237,6 +245,7 @@ annulied annulled
 ap-pointed appointed
 apprenticelhip apprenticeship
 aqd and
+Archbifhop Archbishop
 archbifhopricks archbishopricks
 archbiftiop archbishop
 archbiihop archbishop
@@ -262,6 +271,7 @@ atoresaid aforesaid
 a£ts acts
 A£ts Acts
 attomies attornies
+Attomies Attornies
 aU all
 Auguft August
 Augujl August
@@ -340,6 +350,7 @@ Brrtijk British
 bufband husband
 bufbandry husbandry
 bufbands husbands
+Bufhel Bushel
 bu(hel bushel
 burgejfes burgesses
 cafe case
@@ -358,6 +369,7 @@ C\ AP CAP
 cathoiick catholick
 cathoiicks catholicks
 catholtck catholick
+caufe cause
 Caufe Cause
 cauje cause
 ceafe cease
@@ -390,6 +402,7 @@ cnaaed enacted
 Cnaaed enacted
 cna&cd enacted
 cnaCted enacted
+cnadled enacted
 cnadted enacted
 cna&ed enacted
 Cna&ed enacted
@@ -414,9 +427,13 @@ colledors collectors
 Colledors Collectors
 colledtors collectors
 Colleftor Collector
+Colleftors Collectors
 colle&ors collectors
 Colle&ors Collectors
 cominiffioners commissioners
+Commiffioacr Commissioner
+Commiffioacrs Commissioners
+Commiffioaers Commissioners
 commiffion commission
 com-miffioners commissioners
 com\ miffioners commissioners
@@ -460,6 +477,7 @@ Confideration Consideration
 confider consider
 confolidated consolidated
 Confolidated Consolidated
+Confort  Consort
 Conftable Constable
 conftablery constablery
 conftables constables
@@ -492,6 +510,7 @@ Crofs Cross
 csquire esquire
 cufiom custom
 cuflomer customer
+Cufloms Customs
 cuftodv custody
 cuftody custody
 cuftomed customed
@@ -565,6 +584,8 @@ difeovered discovered
 difeovering discovering
 difeovery discovery
 diferetion discretion
+diferetions discretions
+Diferetions Discretions
 Difiridts Districts
 difperse disperse
 difpofed disposed
@@ -574,6 +595,7 @@ diftemper distemper
 diftiliers distillers
 diftiller distiller
 Diftiller Distiller
+diftingui(hing distinguishing
 diftrefs distress
 diftri-bution distribution
 diftriCt district
@@ -584,8 +606,11 @@ difturbing disturbing
 difturhance disturbance
 Diicharge Discharge
 diipofed disposed
+dilTolve dissolve
+dimini(hing diminishing
 dire61ed directed
 direft direct
+di(temper distemper
 di-vifion division
 divifion division
 Divifion Division
@@ -657,7 +682,9 @@ ejlablijh establish
 ejlablijhing establishing
 ejlablished established
 eledion election
+Eledions Elections
 eledtion election
+elfe else
 elquire esquire
 Elquire Esquire
 ena&ad enacted
@@ -669,14 +696,18 @@ enaCled enacted
 enactcd enacted
 enaCted enacted
 enadfed enacted
+enadied enacted
 enadked enacted
+enadled enacted
 enadted enacted
 ena&ed enacted
 enaefted enacted
 enafled enacted
 ena<fted enacted
 enafted enacted
+ena£lcd enacted
 enalted enacted
+ena&rd enacted
 endorfe endorse
 Englilh English
 Enliftment Enlistment
@@ -705,6 +736,9 @@ excife excise
 exCife excise
 eXcife excise
 Excife Excise
+Exciie Excise
+exer-cife exercise
+Exer-cife Exercise
 exprefied expressed
 exprefted expressed
 exprejfed expressed
@@ -831,6 +865,7 @@ fhouid should
 fhould should
 fiatutes statutes
 fide side
+Fifheries Fisheries
 fifh fish
 fiftiery fishery
 fifti fish
@@ -838,6 +873,7 @@ figning signing
 fi(hery fishery
 fi(h fish
 fiich such
+fiiould should
 fijbery fishery
 fijheries fisheries
 fijh fish
@@ -1058,8 +1094,11 @@ houfe house
 Houfe House
 houfes houses
 (hould should
+houle house
+Houle House
 hufband husband
 Hufband Husband
+Hufbandry Husbandry
 hujband husband
 Hujband Husband
 hujbandry husbandry
@@ -1101,6 +1140,7 @@ IJlands Islands
 ijle isle
 IJle Isle
 Ilish Irish
+ilTues issues
 impofed imposed
 imprefilon impression
 imprefjion impression
@@ -1122,6 +1162,7 @@ inclcfing inclosing
 inclofihg inclosing
 inclo-fing inclosing
 inclofing inclosing
+inclofmg inclosing
 inclofures inclosures
 inclulive inclusive
 increafing increasing
@@ -1211,6 +1252,7 @@ Jhouid should
 jhould should
 Jhould should
 Jiatute statute
+Jixteen sixteen
 Jixteenth sixteenth
 jlatutes statutes
 Jlatutes statutes
@@ -1266,12 +1308,15 @@ Juftices Justices
 juftiee justice
 juftiees justices
 jujtices justices
+jullices justices
+Jullices Justices
 Jummoned summoned
 Jums sums
 Juperiority superiority
 jurifdicftion jurisdiction
 jurif-diction jurisdiction
 jurif-didion jurisdiction
+Jurifdidion Jurisdiction
 jurifdidlion jurisdiction
 jurifdidlions jurisdictions
 jurifdidtion jurisdiction
@@ -1284,12 +1329,17 @@ Jurifdi&ion Jurisdiction
 jurifidi&ion jurisdiction
 juttices justices
 Juttices Justices
+JVhereas Whereas
 JVlajefty Majesty
 jwear swear
 Jwear swear
+kerfie kersie
+kerfies kersies
 (kins skins
 lafl last
 laftage lastage
+laftJy lastly
+laft last
 lajl last
 lajt last
 (lamped stamped
@@ -1309,6 +1359,7 @@ licenfmg licensing
 lighthoufes lighthouses
 likewife likewise
 lingular singular
+lnduftry industry
 lofs loss
 lome some
 lordlhip lordship
@@ -1316,6 +1367,8 @@ lovereign sovereign
 loyalitts loyalists
 lpeakcr speaker
 lpeaker speaker
+lubfidy subsidy
+lubjedt subject
 luch such
 lufficient sufficient
 (luffs stuffs
@@ -1660,10 +1713,12 @@ overfcers overseers
 overfecr overseer
 overfecrs overseers
 overfeer overseer
+Overfeer Overseer
 overfeers overseers
 Overfeers Overseers
 overleer overseer
 overleers overseers
+Oyfter Oyster
 oyjler oyster
 paffages passages
 paffed passed
@@ -1697,6 +1752,7 @@ pari(hes parishes
 pari(h parish
 Pari(h Parish
 pariihioners parishioners
+Pariih Parish
 parijbes parishes
 parijb parish
 parijhes parishes
@@ -1707,6 +1763,7 @@ parilh parish
 Parilh Parish
 paristi parish
 Paristi Parish
+Parlia-ment Parliament
 pa(Ted passed
 pa\ (Ted passed
 paymafter paymaster
@@ -1716,7 +1773,9 @@ pay\ ment payment
 penfions pensions
 perfbn person
 perfbns persons
+Perfcns Persons
 perfoh person
+perfohs persons
 perfonal personal
 perfon person
 Perfon Person
@@ -1807,6 +1866,7 @@ promifTory promissory
 promijfory promissory
 propofals proposals
 Prote&ion Protection
+pro-vide provide
 provifibns provisions
 provifion provision
 Provifion Provision
@@ -1953,6 +2013,7 @@ refpedhve respective
 refpedHve respective
 refpediively respectively
 refpedive respective
+refpedtivc respective
 refpedt respect
 refpedttvely respectively
 refpeeftively respectively
@@ -1984,6 +2045,10 @@ refriftions restrictions
 reftify rectify
 reftoring restoring
 reft rest
+reftriftion restriction
+Reftriftion Restriction
+reftriftions restrictions
+Reftriftions Restrictions
 Refufal Refusal
 regifired registred
 regifter register
@@ -2000,18 +2065,21 @@ respectivcly respectively
 respectivc respective
 respectiveiy respectively
 respectivejy respectively
+respectivelv respectively
 reverfion reversion
 reveriion reversion
 reverjion reversion
 reyoked revoked
 riotwithstanding notwithstanding
 rofemary rosemary
+Satisfaftion Satisfaction
 Satisfa&ion Satisfaction
 seffion session
 Seffion Session
 Seffions Sessions
 sefiion session
 Seflion Session
+Seflions Sessions
 Sejfion Session
 Sejfions Sessions
 Sejftons Sessions
@@ -2022,6 +2090,8 @@ SeJJions Sessions
 Selfion Session
 seventeentb seventeenth
 Sicknefs Sickness
+silverfmith silversmith
+Silverfmith Silversmith
 soidlers soldiers
 Spanifh Spanish
 spanijb spanish
@@ -2084,6 +2154,7 @@ themlelves themselves
 themlelyes themselves
 themselyes themselves
 thernfelves themselves
+thetnfelves themselves
 thicknefc thickness
 thicknels thickness
 thofe those
@@ -2106,6 +2177,8 @@ tjie the
 tnajefty majesty
 tncreafe increase
 tneir their
+tnere there
+tne the
 townfbips townships
 townfhips township
 town-fhips townships
@@ -2167,6 +2240,7 @@ ufeful useful
 ufes uses
 Ufe Use
 ufmg using
+ufuaily usually
 ufually usually
 uncuftomed uncustomed
 unfubfcribed unsubscribed
@@ -2175,6 +2249,7 @@ unlefs unless
 unlels unless
 untefs unless
 updn upon
+Utenfil Utensil
 utmojl utmost
 veffels vessels
 veffel vessel
@@ -2222,6 +2297,8 @@ weft west
 Weft West
 wejl west
 Wejl West
+Weljhmen Welshmen
+whatfbever whatsoever
 whatfoever whatsoever
 whatfoeyer whatsoever
 Whitfuntide Whitsuntide
@@ -2243,6 +2320,7 @@ worfteds worsteds
 workboufes workhouses
 workboufe workhouse
 £XP EXP
+YTTHEREAS WHEREAS
 yvhatfoeyer whatsoever
 zuhich which
 zvas was
@@ -2268,36 +2346,4 @@ zvriting writing
 zvrits writs
 zvritten written
 zvrit writ
-cnadled enacted
-ena&rd enacted
-Utenfil Utensil
-ac1 act
-tne the
-Attomies Attornies
-Jixteen sixteen
-laftJy lastly
-tnere there
-inclofmg inclosing
-kerfie kersie
-kerfies kersies
-elfe else
-dimini(hing diminishing
-Seflions Sessions
-Hufbandry Husbandry
-ilTues issues
-pro-vide provide
-caufe cause
-Eledions Elections
-Exciie Excise
-reftriftion restriction
-Reftriftion Restriction
-reftriftions restrictions
-Reftriftions Restrictions
-{aid said
-dilTolve dissolve
-Parlia-ment Parliament
-Commiffioaers Commissioners
-Commiffioacrs Commissioners
-Commiffioacr Commissioner
-enadied enacted
-enadled enacted
+
