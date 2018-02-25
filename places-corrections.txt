@@ -550,15 +550,26 @@ Wejlminjler Westminster
 Wejlminster Westminster
 Wejlmorland Westmorland
 Wejlmtnjler Westminster
+Westminfer Westminster
 Westminfier Westminster
 Westminfitr Westminster
 Westminflcr Westminster
 Westminflef Westminster
 Westminfler Westminster
+Westmin-ftcr Westminster
 Westminftir Westminster
 Westminfttr Westminster
 Westminijler Westminster
+Westminjier Westminster
+WestminJier Westminster
+Westminjlcr Westminster
+WestminJlcr Westminster
 Westminjler Westminster
+Westmin-Jler Westminster
+WestminJler Westminster
+Westminjter Westminster
+WestminJter Westminster
+Westminstcr Westminster
 Westminstir Westminster
 Westmintler Westminster
 Westmintter Westminster
@@ -618,6 +629,4 @@ YorkJJnre Yorkshire
 Yorklhire Yorkshire
 Yorldhire Yorkshire
 Zoucb Zouch
-Scot-land Scotland
-Westminjlcr Westminster
-WestminJlcr Westminster
+

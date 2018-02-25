@@ -52,6 +52,7 @@ lovingJubjefls loving\ subjects
 lovingjubjests loving\ subjects
 lovingJubjests loving\ subjects
 lprdsfpiritual lords\ spiritual
+Middlesexand Middlesex\ and
 noperson no\ person
 Octoberone October\ one
 octoberyearly October\ yearly
@@ -86,6 +87,7 @@ onethouland one\ thousand
 onethousand one\ thousand
 orfuch or\ such
 orthemfelves or\ themselves
+pfthe of\ the
 purchafeof purchase\ of
 roadfrom road\ from
 roadsfrom roads\ from
@@ -108,6 +110,9 @@ thehoufe the\ house
 theirMajesties their\ Majesties
 thejustices the\ justices
 themilitia the\ militia
+thenavy the\ navy
+theofficer the\ officer
+thepaffing the\ passing
 theprincipal the\ principal
 theprisons the\ prisons
 theprodudion the\ production
@@ -132,7 +137,5 @@ toferve to\ serve
 tofuch to\ such
 tohis to\ his
 yearof year\ of
-Middlesexand Middlesex\ and
-pfthe of\ the
 YTTHEREASan WHEREAS\ an
 

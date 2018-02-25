@@ -19,6 +19,8 @@ abfehce absence
 abfehec absence
 abfelutely absolutely
 abfence absence
+abfenoe absence
+Abfenoe Absence
 abfent absent
 abfeond abscond
 abfeonded absconded
@@ -130,6 +132,7 @@ aforefcid aforesaid
 aforefeid aforesaid
 aforefiud aforesaid
 aforefsud aforesaid
+aforefuid aforesaid
 aforeiaad aforesaid
 aforeiafd aforesaid
 aforeiaia aforesaid
@@ -216,6 +219,8 @@ a£i act
 (aid said
 {aid said
 A&ion Action
+ajbrefaid aforesaid
+ajbresaid aforesaid
 ajfembled assembled
 ajfign assign
 ajfo also
@@ -1198,6 +1203,7 @@ interejl interest
 interji interest
 ioffes losses
 Ipeedy speedy
+Irijb Irish
 iuftice justice
 Iuftice Justice
 iuftices justices
@@ -1254,6 +1260,11 @@ Jhould should
 Jiatute statute
 Jixteen sixteen
 Jixteenth sixteenth
+Jlated stated
+Jlate state
+jlat stat
+Jlat stat
+JLat stat
 jlatutes statutes
 Jlatutes statutes
 jlatute statute
@@ -1329,6 +1340,7 @@ Jurifdi&ion Jurisdiction
 jurifidi&ion jurisdiction
 juttices justices
 Juttices Justices
+JVelchmen Welchmen
 JVhereas Whereas
 JVlajefty Majesty
 jwear swear
@@ -1454,13 +1466,18 @@ Majelby Majesty
 Majelfty Majesty
 majelfy majesty
 Majelfy Majesty
+Majeliy Majesty
+Majellies Majesties
+Majellv Majesty
 majelly majesty
 Majelly Majesty
+Majelties Majesties
 Majeltv Majesty
 majelty majesty
 Majelty Majesty
 majerty majesty
 Majerty Majesty
+MajeRy Majesty
 majessy majesty
 Majessy Majesty
 majesty\*s majesty's
@@ -1475,6 +1492,7 @@ Ma-jetty Majesty
 Majetty Majesty
 Majeuy Majesty
 Majftty Majesty
+Majjesty Majesty
 majler master
 Majler Master
 majlers masters
@@ -1533,6 +1551,7 @@ mifchiefs mischiefs
 mifehief mischief
 mifiaid mislaid
 miftake mistake
+Miftakes Mistakes
 miilion million
 milfion million
 M\^jefty Majesty
@@ -2229,10 +2248,12 @@ trullees trustees
 trurtees trustees
 TT7HEREAS WHEREAS
 TTEM ITEM
+TTT\ HEREAS WHEREAS
 TTTHEREAS WHEREAS
 tvhereas whereas
 twenfy twenty
 TX7HEREAS WHEREAS
+TY7HEREAS WHEREAS
 (uch such
 ufcd used
 ufed used
@@ -2271,6 +2292,7 @@ vejfels vessels
 vejfel vessel
 velfel vessel
 verting vesting
+VI7HEREAS WHEREAS
 vifcount viscount
 Vifcount Viscount
 vifeountefs viscountess
@@ -2278,6 +2300,7 @@ vifeount viscount
 Vifeount Viscount
 vi&ual victual
 vjhereas whereas
+VT7HEREAS WHEREAS
 vvhatsoever whatsoever
 vvhich which
 vvhofe whose
@@ -2320,8 +2343,10 @@ worfteds worsteds
 workboufes workhouses
 workboufe workhouse
 £XP EXP
+YT7HEREAS WHEREAS
 YTTHEREAS WHEREAS
 yvhatfoeyer whatsoever
+YY7HEREAS WHEREAS
 zuhich which
 zvas was
 zvbereas whereas

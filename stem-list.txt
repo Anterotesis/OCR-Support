@@ -1,7 +1,3 @@
-anjwer answer
-miffion mission
-fhilling shilling
-filver silver
 abftrac abstrac
 accomplijb accomplish
 accomplijh accomplish
@@ -12,8 +8,11 @@ advowfon advowson
 affign assign
 aforesaidy aforesaid,
 agefimo agesimo
+ajcertain ascertain
 almfhouse almshouse
 amongft amongst
+anfvver answer
+anjwer answer
 Annodec Anno\ dec
 Annoduo Anno\ duo
 Annofexto Anno\ sexto
@@ -46,12 +45,14 @@ cburcb church
 cburch church
 chefter chester
 churcb church
+Commiffio Commissio
 commiffioh commission
 commiffiom commission
 commiffion commission
 commiffon commission
 commiffton commission
 commifhon commission
+Commifhon Commission
 commifiion commission
 commifjion commission
 commifllon commission
@@ -68,6 +69,7 @@ commiliion commission
 commilTion commission
 confent consent
 confider consider
+conftable constable
 cornmiffion commission
 correfpond correspond
 Correfpond Correspond
@@ -95,15 +97,18 @@ Englifh English
 englijb english
 Englijb English
 Englijh English
+ertablish establish
 fecond second
 fecurity security
 fervice service
 fetfhire setshire
 feven seven
 fextoG sexto\ G
+fhilling shilling
 -fhire -shire
 fhire- shire-
 fieid field
+filver silver
 fixty sixty
 foever soever
 fpecifi specifi
@@ -112,10 +117,18 @@ franchife franchise
 fubdiv subdiv
 fubfcrib subscrib
 fubftant substant
+fubjeft subject
 fucccff success
 fucceff success
 fufpend suspend
 furpluf surplus
+furrender surrender
+furtber further
+furtheren further\ en
+furvcy survey
+furvey survey
+furviv surviv
+futnmon summon
 fVeftmin Westmin
 fVeJimin Westmin
 fvejlmin Westmin
@@ -134,6 +147,7 @@ Hismaj His\ maj
 HisMaj His\ Maj
 HisMaJ His\ Maj
 houfe house
+Houfes Houses
 IVefim Westm
 IVeflm Westm
 iveftmin Westmin
@@ -165,12 +179,17 @@ Majestv Majesty
 meafure measure
 mifchief mischief
 miffioners missioners
+miffion mission
 miflioner missioner
 milfioner missioner
 minfter minster
 minifter minister
 moGeo mo\ Geo
 notwithftand notwithstand
+othcrw otherw
+otherwife otherwise
+parifb parish
+Parifb Parish
 poffeff possess
 preferv preserv
 prifon prison
@@ -203,6 +222,8 @@ theauthor the\ author
 theAuthor the\ Author
 Theauthor The\ author
 TheAuthor The\ Author
+theparifh the\ parish
+theParifh the\ Parish
 triccfimo tricesimo
 tricefi tricesi
 tricesimopri tricesimo\ pri
@@ -222,18 +243,4 @@ Weslmin Westmin
 Westminft Westminst
 withftanding withstanding
 zvhicb which
-ertablish establish
-conftable constable
-furrender surrender
-furtber further
-furtheren further\ en
-furvcy survey
-furvey survey
-furviv surviv
-futnmon summon
-othcrw otherw
-otherwife otherwise
-Commiffio Commissio
-Commifhon Commission
-fubjeft subject
 

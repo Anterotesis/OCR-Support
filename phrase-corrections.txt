@@ -33,6 +33,7 @@ aft\ to act\ to
 Ah\ act An\ act
 alt\ of\ parliament act\ of\ parliament
 alts\ of\ parliament acts\ of\ parliament
+amending\ the\ fame amending\ the\ same
 An\  a51 An\ act
 An\ a51 An\ act
 An\ A\ 61 An\ Act
@@ -135,11 +136,16 @@ be\ it\ enaded be\ it\ enacted
 be\ jt\ further be\ it\ further
 be\ lt\ enacted be\ it\ enacted
 be\ railed\ in be\ raised\ in
+bis\ hand his\ hand
+bis\ Hand his\ Hand
+bis\ hands his\ hands
+bis\ Hands his\ Hands
 bis\ heirs his\ heirs
 bis\ late his\ late
 bis\ majesty his\ majesty
 bis\ Majesty his\ Majesty
 bis\ or\ her his\ or\ her
+bis\ or\ their his\ or\ their
 bis\ present bis\ present
 bis\ present his\ present
 bis\ present\ Majesty his\ present\ Majesty
