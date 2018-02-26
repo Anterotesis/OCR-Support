@@ -109,6 +109,7 @@ thefum the\ sum
 thehoufe the\ house
 theirMajesties their\ Majesties
 thejustices the\ justices
+thelaft the\ last
 themilitia the\ militia
 thenavy the\ navy
 theofficer the\ officer

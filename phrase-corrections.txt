@@ -100,6 +100,7 @@ An\ all\ to An\ act\ to
 an\ alt an\ act
 An\ alt An\ act
 An\ Alt An\ Act
+An\ aQ An\ act
 An\ aS An\ act
 An\ at1 An\ act
 an\ at\ for an\ act\ for
@@ -118,6 +119,8 @@ any\ fort\ of any\ sort\ of
 any\ (uch any\ such
 any\ wife\ notwithftanding any\ wise\ notwithstanding
 any\ wife\ notwithstanding any\ wise\ notwithstanding
+aq\ act An\ act
+Aq\ act An\ act
 arid\ after and\ after
 arid\ also and\ also
 arid\ be and\ be
@@ -247,6 +250,8 @@ hisMajessy his\ Majesty
 hun-4\ dred hundred
 hundred\ ana hundred\ and
 hundred\ arid hundred\ and
+hy\ an by\ an
+hy\ the by\ the
 in\ any\ wife in\ any\ wise 
 in\ cafe\ his in\ case\ his
 (inking\ fund sinking\ fund
@@ -357,6 +362,7 @@ this\ abl this\ act
 This\ abl This\ act
 this\ acl this\ act
 This\ acl This\ act
+this\ adb this\ act
 this\ ad this\ act
 this\ Ad this\ Act
 This\ ad This\ act
