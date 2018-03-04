@@ -5,12 +5,14 @@ Aanoquinto Anno\ quinto
 Aanoregni Anno\ regni
 abfencia absencia
 Abfencia Absencia
+Aftno Anno
 Ahno\ decimo Anno\ decimo
 Aimo\ tricesimo Anno\ tricesimo
 Anao Anno
 Ann6 Anno
 Anna\ tricesimo Anno\ tricesimo
 Anna\ vicesimo Anno\ vicesimo
+Annd Anno
 AnnO Anno
 Annodecimo Anno\ decimo
 Anno\ dedmo Anno\ decimo
@@ -59,6 +61,7 @@ ftptimo septimo
 Gborgii Georgii
 Gboroii Georgii
 Gbougii Georgii
+Gcorgii Georgii
 GE0RGII GEORGII
 Gecrgii Georgii
 Gedrgii Georgii
@@ -109,6 +112,7 @@ GeoKGIi Georgii
 GeoKGII Georgii
 GEokGii Georgii
 GEOkGii Georgii
+GEOKGII GEORGII
 georcii Georgii
 Georcii Georgii
 GeorciI Georgii
@@ -148,6 +152,7 @@ GEORGii Georgii
 G-EORGII GEORGII
 GE\ ORGII GEORGII
 GeorgiiIII Georgii\ III
+Georgii\ TIT Georgii\ III
 Georgij Georgii
 georgil Georgii
 Georgit Georgii
@@ -219,6 +224,7 @@ Nift\ Prius Nisi\ Prius
 noftre nostre
 o6lavo octavo
 o&avo octavo
+O&avo Octavo
 odavo octavo
 odlavo octavo
 oeorgii Georgii
@@ -423,6 +429,7 @@ trlcefipno tricesimo
 trlceiimo tricesimo
 tticefimo tricesimo
 undccimo undecimo
+undedmo undecimo
 vfcefimo vicesimo
 viccfimd vicesimo
 viccfime vicesimo
@@ -491,8 +498,4 @@ yiccfimo vicesimo
 yicefimo vicesimo
 Yicefimo vicesimo
 ylcefimo vicesimo
-Gcorgii Georgii
-undedmo undecimo
-Aftno Anno
-Annd Anno
-Georgii\ TIT Georgii\ III
+

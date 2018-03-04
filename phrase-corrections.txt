@@ -84,6 +84,7 @@ An\ a\ ft An\ act
 An\ aft An\ act
 An\ aft\ An\ act
 An\ A<ft An\ Act
+An\ A\ ft An\ Act
 An\ Aft An\ Act
 An\ aft\ far An\ act\ for
 An\ AH An\ Act
@@ -224,6 +225,7 @@ futn\ of sum\ of
 futn\ or sum\ or
 General\ iffue General\ issue
 General\ ifiuc General\ issue
+GEORGE\ Ill GEORGE\ III
 George\ the\ Fir\ ft George\ the\ First
 Georgii\ 11 Georgii\ II
 Georgii\ H Georgii\ II
@@ -247,6 +249,7 @@ HisMajeity His\ Majesty
 hisMajeJly his\ Majesty
 hismajejty his\ majesty
 hisMajessy his\ Majesty
+Houles\ of\ Correction Houles\ of\ Correction
 hun-4\ dred hundred
 hundred\ ana hundred\ and
 hundred\ arid hundred\ and
