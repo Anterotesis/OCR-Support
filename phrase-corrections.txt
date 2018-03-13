@@ -18,6 +18,8 @@ ad\ to act\ to
 adt\ of\ parliament act\ of\ parliament
 advice\ ana\ consent advice\ and\ consent
 Advice\ ana\ Consent Advice\ and\ Consent
+aforesaid\ aft aforesaid\ act
+aforesaid\ Aft aforesaid\ Act
 aft\ for act\ for
 aft\ made act\ made
 aft\ of act\ of
@@ -31,8 +33,11 @@ a\ ft\ or\ afts act\ or\ afts
 afts\ of\ parliament acts\ of\ parliament
 aft\ to act\ to
 Ah\ act An\ act
+a\ lift a\ list
+a\ Lift a\ List
 alt\ of\ parliament act\ of\ parliament
 alts\ of\ parliament acts\ of\ parliament
+Am\ Act An\ Act
 amending\ the\ fame amending\ the\ same
 An\  a51 An\ act
 An\ a51 An\ act
@@ -46,6 +51,7 @@ An\ AC! An\ Act
 an\ acl an\ act
 An\ acl An\ act
 An\ aCl An\ act
+An\ Acl An\ Act
 An\ act\ far An\ act\ for
 An\ act\ fdr An\ act\ for
 An\ act\ fer An\ act\ for
@@ -53,6 +59,7 @@ an\ act\ fir an\ act\ for
 An\ act\ fir An\ act\ for
 an\ act\ palled an\ act\ passed
 an\ act\ parted an\ act\ passed
+an\ Act\ parted an\ Act\ passed
 an\ ad an\ act
 an\ Ad an\ Act
 An\ ad An\ act
@@ -65,6 +72,7 @@ an\ ad\ for an\ act\ for
 An\ adfor An\ act\ for
 An\ Ad\ for An\ Act\ for
 An\ adi\ for An\ act\ for
+An\ adJ An\ act
 An\ adl An\ act
 an\ adl\ made an\ act\ made
 an\ ad\ made an\ act\ made
@@ -101,8 +109,12 @@ An\ all\ to An\ act\ to
 an\ alt an\ act
 An\ alt An\ act
 An\ Alt An\ Act
+An\ apt\ for An\ act\ for
+An\ Apt\ for An\ Act\ for
 An\ aQ An\ act
+An\ AQ An\ Act
 An\ aS An\ act
+An\ AS An\ Act
 An\ at1 An\ act
 an\ at\ for an\ act\ for
 An\ at\ for An\ act\ for
@@ -114,9 +126,12 @@ and\ tor and\ for
 An\ eft An\ act
 an\ oft an\ act
 An\ oft An\ act
+another\ Ad another\ Act
 another\ aft another\ act
 any\ aft any\ act
 any\ fort\ of any\ sort\ of
+any\ lift any\ list
+any\ Lift any\ List
 any\ (uch any\ such
 any\ wife\ notwithftanding any\ wise\ notwithstanding
 any\ wife\ notwithstanding any\ wise\ notwithstanding
@@ -145,6 +160,7 @@ bis\ Hand his\ Hand
 bis\ hands his\ hands
 bis\ Hands his\ Hands
 bis\ heirs his\ heirs
+bis\ Heirs his\ Heirs
 bis\ late his\ late
 bis\ majesty his\ majesty
 bis\ Majesty his\ Majesty
@@ -155,9 +171,14 @@ bis\ present his\ present
 bis\ present\ Majesty his\ present\ Majesty
 bis\ said his\ said
 bis\ wife his\ wife
+civil\ lift civil\ list
+Civil\ lift Civil\ list
+Civil\ Lift Civil\ List
+cods\ of\ suit costs\ of\ suit
 colts\ of\ suit costs\ of\ suit
 county\ of\ Tork county\ of\ York
 County\ of\ Tork County\ of\ York
+Double\ Cods Double\ Costs
 Excifeofficcrs Excise\ officers
 Excifeofficers Excise\ officers
 fail\ cloth sail\ cloth
@@ -260,11 +281,15 @@ in\ cafe\ his in\ case\ his
 (inking\ fund sinking\ fund
 inoft\ excellent most\ excellent
 inter\ eft interest
+intituled\ jin intituled\ an
 in\ tne in\ the
 is\ to\ fay is\ to\ say
 Jin\ act An\ act
 Jin\ Ad An\ Act
 Jin\ Aft An\ Act
+Jive\ hundred five\ hundred
+Jive\ pounds five\ pounds
+Jive\ thousand five\ thousand
 lad\ session last\ session
 lame\ county same\ county
 lame\ uses same\ uses
@@ -278,7 +303,11 @@ made\ m\ the made\ in\ the
 making\ the\ fame making\ the\ same
 many\ wife many\ wise
 marine\ farces marine\ forces
+mentioned\ aft mentioned\ act
+mentioned\ Aft mentioned\ Act
 mod\ excellent most\ excellent
+Mod\ Excellent Most\ Excellent
+mod\ honourable most\ honourable
 mod\ humbly most\ humbly
 mod\ noble most\ noble
 Mofi\ gracious Most\ gracious
@@ -310,6 +339,7 @@ Public\ aft Public\ act
 Publick\ ad Publick\ act
 publick\ aft publick\ act
 Publick\ aft Publick\ act
+Publick\ Aft Publick\ Act
 PUB\ LICK PUBLICK
 punching\ mutiny punishing\ mutiny
 punching\ Mutiny punishing\ Mutiny
@@ -366,6 +396,8 @@ This\ abl This\ act
 this\ acl this\ act
 This\ acl This\ act
 this\ adb this\ act
+this\ adj this\ act
+this\ Adj this\ Act
 this\ ad this\ act
 this\ Ad this\ Act
 This\ ad This\ act
@@ -377,9 +409,14 @@ this\ Aft this\ Act
 This\ aft This\ act
 this\ alt this\ act
 This\ alt This\ act
+thou-4\ sand thousand
+thou\ 4\ sand thousand
+thou\ fan\ d thousand
+thou\ sand thousand
 to\ be\ railed to\ be\ raised
 treble\ cods treble\ costs
 Treble\ cods Treble\ costs
+Treble\ Cods Treble\ Costs
 treble\ colts treble\ costs
 Treble\ colts Treble\ costs
 twenty-fir\ ft twenty-first

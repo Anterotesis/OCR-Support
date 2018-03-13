@@ -26,8 +26,11 @@ Bifbopfgate Bishopsgate
 Bifbopjgate Bishopsgate
 Bifhopfgate Bishopsgate
 Biglefwade Bigleswade
+Bijbopfgate Bishopsgate
 Bijhopfgate Bishopsgate
+Bilhopfgate Bishopsgate
 Bloomlbury Bloomsbury
+Botolpbs Botolphs
 Brecknockfhire Brecknockshire
 Brecknockfliire Brecknockshire
 BriftoI Bristol
@@ -50,6 +53,7 @@ Buckinghamjhirt Buckinghamshire
 Buckinghamlhire Buckinghamshire
 Budinghamjhire Buckinghamshire
 Buokinghamthire Buckinghamshire
+Camarvon Carnarvon
 Cardiganfbire Cardiganshire
 Cardiganffiire Cardiganshire
 Cardiganfliire Cardiganshire
@@ -64,6 +68,7 @@ Cbefterfield Chesterfield
 Cbester Chester
 Cheapfide Cheapside
 Chefhire Cheshire
+Chefier Chester
 Cheftcrfield  Chesterfield 
 Chefter Chester
 Chefterfield Chesterfield
@@ -77,6 +82,7 @@ Cirencefier Cirencester
 Cirencefter Cirencester
 Cirencejler Cirencester
 Colchefter Colchester
+Cumber-land Cumberland
 Devonfbire Devonshire
 Devonfhire Devonshire
 Devonfliirc Devonshire
@@ -105,6 +111,9 @@ Dorfetshire Dorsetshire
 Dorfiet Dorset
 Droitwicb Droitwich
 Dunftable Dunstable
+Eafi\ Indies East\ Indies
+Eaf\ Indies East\ Indies
+Eafl-Indies East-Indies
 Eaft-India East-India
 Eajl-India East-India
 Eajl-Indies East-Indies
@@ -147,6 +156,7 @@ Gloucciter Gloucester
 Glouccjlcr Gloucester
 Glouccjler Gloucester
 Glouccjter Gloucester
+Gloucefer Gloucester
 Gloucefier Gloucester
 Gloucefter Gloucester
 Gloucejitr Gloucester
@@ -173,7 +183,9 @@ Gofport Gosport
 Gravefend Gravesend
 Grimfby Grimsby
 Grimlby Grimsby
+Grinjlead Grinstead
 Grtmfby Grimsby
+Gucrnfey Guernsey
 Guemfey Guernsey
 Guernfcy Guernsey
 Guernfej Guernsey
@@ -187,6 +199,7 @@ Hampfhire Hampshire
 Hampfliire Hampshire
 Hampftead Hampstead
 Herefordfhire Herefordshire
+Here-ford Hereford
 Herefordjbire Herefordshire
 Herefordjhire Herefordshire
 Hertfordfbire Hertfordshire
@@ -203,12 +216,14 @@ Horfley Horsley
 Hounflow Hounslow
 Iflington Islington
 Ipfwich Ipswich
+Ire-land Ireland
 IVcJlminJler Westminster
 IVefminster Westminster
 iveftmijifter Westminster
 iVeftminfler Westminster
 iVeftminster Westminster
 IVeftminster Westminster
+iveftmorland Westmorland
 IVeJhninfer Westminster
 IVeJhninfier Westminster
 IVejhninfler Westminster
@@ -229,6 +244,7 @@ ivejiminjler Westminster
 IVejiminjler Westminster
 IVeJiminJler Westminster
 ivejiminster Westminster
+IVeJl\ Indies West\ Indies
 IVeJlminfier Westminster
 IVeJlminfler Westminster
 IVeJlminJier Westminster
@@ -244,13 +260,17 @@ Ivelchefter Ivelchester
 IVinchejler Winchester
 IVorcefier Worcester
 IVorcefler Worcester
+ivorcefter Worcester
 IVorceJler Worcester
+Jerfcy Jersey
 Jerfey Jersey
 Jerjey Jersey
+JVefl\ Indies West\ Indies
 JVeflminJler Westminster
 JVeflminster Westminster
 JVeflrmnfter Westminster
 JVefltmnfier Westminster
+jvejhninjler Westminster
 JVejiminfier Westminster
 JVejiminfttr Westminster
 jvejiminjler Westminster
@@ -262,6 +282,7 @@ JVejlminfler Westminster
 Kelfo Kelso
 Kenfington Kensington
 Kidderminfter Kidderminster
+Kidderminjler Kidderminster
 Kingfbridge Kingsbridge
 Kingfton Kingston
 Kingjlon Kingston
@@ -270,6 +291,7 @@ Knarefbrough Knaresbrough
 Knarelborough Knaresborough
 Knigbtley Knightley
 Knightfbridge Knightsbridge
+Lancafer Lancaster
 Lancaffer Lancaster
 Lancafler Lancaster
 Lancaftcr Lancaster
@@ -308,6 +330,7 @@ Loudon London
 Maffachufets Massachusets
 Maidjlone Maidstone
 Mancbefter Manchester
+Manchefer Manchester
 Manchefter Manchester
 Manchejier Manchester
 Manchejler Manchester
@@ -364,6 +387,7 @@ Mlddlesex Middlesex
 Mlddlrfcx Middlesex
 Mtddlefex Middlesex
 Mtddlesex Middlesex
+Najfau Nassau
 Newcafle Newcastle
 Newcaflie Newcastle
 Newcaflle Newcastle
@@ -417,6 +441,7 @@ Prefton Preston
 Ratdiffe Ratcliffe
 Rochefter Rochefter
 Rochefter Rochester
+Rochejler Rochester
 Ruffta Russia
 RuJJia Russia
 Saltafh Saltash
@@ -436,6 +461,7 @@ Somcrfet Somerset
 Somerfct Somerset
 Somerfetfhire Somersetshire
 Somerfet Somerset
+Sornerfet Somerset
 Staffordfiiire Staffordshire
 Staffordftiire Staffordshire
 staffordihire staffordshire
@@ -448,6 +474,7 @@ Stebonbeath Stebonheath
 Stebonkeath Stebonheath
 Suernfey Guernsey
 Suffex Sussex
+Sufiex Sussex
 Suflex Sussex
 Sufsex Sussex
 SufTex Sussex
@@ -463,6 +490,7 @@ Tewkelbury Tewkesbury
 Tewkfbury Tewksbury
 Thame$ Thames
 Torkjhire Yorkshire
+Tunjlall Tunstall
 uponThames upon\ Thames
 vveftminster Westminster
 Wcflminfter Westminster
@@ -567,6 +595,7 @@ WestminJlcr Westminster
 Westminjler Westminster
 Westmin-Jler Westminster
 WestminJler Westminster
+WestminJltr Westminster
 Westminjter Westminster
 WestminJter Westminster
 Westminstcr Westminster
@@ -596,15 +625,24 @@ Wiltjbire Wiltshire
 Wiltjhire Wiltshire
 Wiltjlnre Wiltshire
 Wiltlhire Wiltshire
+Wincbefer Winchester
+Wincbefier Winchester
 Wincbejier Winchester
+Winchcfter Winchester
+Winchcjier Winchester
+Winchcjler Winchester
+Winchefier Winchester
 Winchefler Winchester
 Winchefter Winchester
 Wincheiler Winchester
 Winchejler Winchester
+Winchelfea Winchelsea
 Wincheller Winchester
 Winchelter Winchester
 Winchtjler Winchester
 Winckester Winchester
+Windfor Windsor
+Worcefier Worcester
 Worcefler Worcester
 Worcefter Worcester
 Worcejler Worcester
@@ -629,6 +667,4 @@ YorkJJnre Yorkshire
 Yorklhire Yorkshire
 Yorldhire Yorkshire
 Zoucb Zouch
-Sornerfet Somerset
-Gucrnfey Guernsey
 

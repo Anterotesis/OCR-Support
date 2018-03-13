@@ -73,6 +73,8 @@ conftable constable
 cornmiffion commission
 correfpond correspond
 Correfpond Correspond
+coun-fel counsel
+coun-terfeit counterfeit
 crofs cross
 cuftom custom
 Cuftom Custom
@@ -82,6 +84,10 @@ dejtroy destroy
 demolijh demolish
 demolilh demolish
 dfhire dshire
+difcbar dischar
+difchai dischar
+difchar dischar
+\ difem \ disem
 difturb disturb
 dijcont discont
 dis-ting disting
@@ -104,6 +110,7 @@ fervice service
 fetfhire setshire
 feven seven
 fextoG sexto\ G
+fhall shall
 fhilling shilling
 -fhire -shire
 fhire- shire-
@@ -111,7 +118,11 @@ fieid field
 filver silver
 fixty sixty
 foever soever
+forefaid foresaid
+forefeid foresaid
+forejlall forestall
 fpecifi specifi
+fpeftive spective
 fpirit spirit
 franchife franchise
 fubdiv subdiv
@@ -148,6 +159,9 @@ HisMaj His\ Maj
 HisMaJ His\ Maj
 houfe house
 Houfes Houses
+Iriffi Irish
+Irijb Irish
+Irijh Irish
 IVefim Westm
 IVeflm Westm
 iveftmin Westmin
@@ -158,6 +172,8 @@ ivejlmin Westmin
 Ivejlmin Westmin
 IVejlmin Westmin
 jefty jesty
+jevent sevent
+Jevent sevent
 jhirc shire
 jlaple staple
 jpirit spirit
@@ -176,7 +192,11 @@ majeft majest
 majelt majest
 majestv majesty
 Majestv Majesty
+manufadur manufactur
+manufaft manufact
+Manufaft Manufact
 meafure measure
+men-tioned
 mifchief mischief
 miffioners missioners
 miffion mission
@@ -184,7 +204,10 @@ miflioner missioner
 milfioner missioner
 minfter minster
 minifter minister
+minjler minster
+minJler minster
 moGeo mo\ Geo
+negleft neglect
 notwithftand notwithstand
 othcrw otherw
 otherwife otherwise
@@ -222,8 +245,10 @@ theauthor the\ author
 theAuthor the\ Author
 Theauthor The\ author
 TheAuthor The\ Author
+theirc their\ c
 theparifh the\ parish
 theParifh the\ Parish
+ti(h tish
 triccfimo tricesimo
 tricefi tricesi
 tricesimopri tricesimo\ pri
@@ -234,6 +259,7 @@ vicefimo vicesimo
 vifcount viscount
 Vifcount Viscount
 vifions visions
+Vilcount Viscount
 warehoul warehous
 Weflmin Westmin
 Weftmin Westmin
@@ -241,10 +267,8 @@ Weftmtn Westmin
 Wejimin Westmin
 Weslmin Westmin
 Westminft Westminst
+Wincbe Winche
 withftanding withstanding
+withoutlic without\ lic
 zvhicb which
-fpeftive spective
-coun-fel counsel
-coun-terfeit counterfeit
-ti(h tish
-men-tioned
+
