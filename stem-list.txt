@@ -5,6 +5,7 @@ advertife advertise
 Advertife Advertise
 advife advise
 advowfon advowson
+affeff assess
 affign assign
 aforesaidy aforesaid,
 agefimo agesimo
@@ -26,8 +27,11 @@ Annotertio Anno\ tertio
 Annotric Anno\ tric
 Announ Anno\ un
 Annovic Anno\ vic
+bijhop bishop
+Bijhop Bishop
 bis\ Maj his\ Maj
 blifhed blished
+bofpital hospital
 borougb borough
 Britifb British
 Britifh British
@@ -41,10 +45,14 @@ BritiJb British
 Britijh British
 BritiJh British
 Britilh British
+Cbmmiff Commiss
+Cbrift Christ
 cburcb church
 cburch church
 chefter chester
+chrift christ
 churcb church
+cjuad quad
 Commiffio Commissio
 commiffioh commission
 commiffiom commission
@@ -79,6 +87,7 @@ crofs cross
 cuftom custom
 Cuftom Custom
 decimofexto decimo\ sexto
+decimotertio decimo\ tertio
 deftroy destroy
 dejtroy destroy
 demolijh demolish
@@ -90,10 +99,18 @@ difchar dischar
 \ difem \ disem
 difturb disturb
 dijcont discont
+dijpofe dispose
+dilburfe disburse
 dis-ting disting
+ditcb ditch
+Ditcb Ditch
+divifion division
+divifton division
 djhire dshire
 Eaft-Ind East-Ind
 effedual effectual
+effion ession
+eftabli establi
 eftablifh establish
 eftablijh establish
 eftahlifh establish
@@ -116,11 +133,13 @@ fhilling shilling
 fhire- shire-
 fieid field
 filver silver
+fixpenc sixpenc
 fixty sixty
 foever soever
 forefaid foresaid
 forefeid foresaid
 forejlall forestall
+fovereig sovereig
 fpecifi specifi
 fpeftive spective
 fpirit spirit
@@ -147,10 +166,13 @@ fVeJlmin Westmin
 fvejtmin Westmin
 fVeJtmin Westmin
 Ge0 Geo
+GEORGii GEORGII
 GeorgiiIII Georgii\ III
+GEORGU GEORGII
 Gloucefter Gloucester
 Gloucejler Gloucester
 GlouceJler Gloucester
+Gxorgi Georgi
 havebeen have\ been
 hismaj his\ maj
 hisMaj his\ Maj
@@ -175,6 +197,8 @@ jefty jesty
 jevent sevent
 Jevent sevent
 jhirc shire
+jhire shire
+Jhire shire
 jlaple staple
 jpirit spirit
 Jpirit spirit
@@ -221,15 +245,26 @@ punijb punish
 punijh punish
 punilh punish
 quadragcfimo quadragesimo
+quadragef quadrages
 quadragesimopri quadragesimo\ pri
 quadragesimoq quadragesimo\ q
+quadragesimotertio quadragesimo\ tertio
 quartoGe quarto\ Ge
 quartoGE quarto\ GE
+quintoGEO quinto\ GEO
 quintoGe quinto\ Ge
 quintoGE quinto\ GE
 quintoGu quinto\ Gu
+ragcfimo ragesimo
+rcfpec respec
+reafcn reason
+reafon reason
 recoyer recover
 re-ferving reserving
+refpec-five respective
+refpec respec
+refpec-tive respective
+refpectl respect
 refpeftiv respectiv
 refpeft respect
 regniquad regni\ quad
@@ -264,6 +299,7 @@ warehoul warehous
 Weflmin Westmin
 Weftmin Westmin
 Weftmtn Westmin
+Weftm Westm
 Wejimin Westmin
 Weslmin Westmin
 Westminft Westminst
@@ -271,4 +307,35 @@ Wincbe Winche
 withftanding withstanding
 withoutlic without\ lic
 zvhicb which
-
+fpedive spective
+publilh publish
+Publilh Publish
+moutb mouth
+tborp thorp
+cburcb church
+cburch church
+andfub and\ sub
+andafter and\ after
+andalfo and\ also
+adminiftra administra
+fubje subje
+fubjlit substit
+fublift subsist
+fubscribe subscribe
+Annovi Anno\ vi
+Annoqua Anno\ qua
+nonoGeo nono\ Geo
+Jhall shall
+relpecf respect
+relpect respect
+relpedt respect
+relpeft respect
+\ fuper \ super
+fubfcrip subscript
+magiftrat magistrat
+mafter master
+fchool school
+jbip ship
+Jbip ship
+jhort short
+Jhort short

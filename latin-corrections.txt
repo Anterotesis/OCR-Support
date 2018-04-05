@@ -63,7 +63,11 @@ Gboroii Georgii
 Gbougii Georgii
 Gcorgii Georgii
 GE0RGII GEORGII
+Gebrgii Georgii
 Gecrgii Georgii
+Gecrgij Georgii
+Gecroii Georgii
+Gectgii Georgii
 Gedrgii Georgii
 Gegrgii Georgii
 geoagii Georgii
@@ -123,6 +127,8 @@ GeoRCii Georgii
 GeoRCiI Georgii
 GeoRCII Georgii
 Georg\ 11 Georgii
+Georg11 Georgii
+GEORG1I GEORGII
 georgh Georgii
 Georgh Georgii
 GeorgH Georgii
@@ -133,6 +139,7 @@ GeoRGH Georgii
 GeORGH Georgii
 GEorGH Georgii
 GEORGH GEORGII
+GEORGI1 GEORGII
 georgi! Georgii
 Georgi! Georgii
 Georg\ ii Georgii
@@ -161,6 +168,7 @@ GeorgjI Georgii
 GeoRgji Georgii
 GeoRGJI Georgii
 Georgjj Georgii
+georgli Georgii
 Georgn Georgii
 georgti Georgii
 Georgti Georgii
@@ -245,6 +253,7 @@ primoGeorgii primo\ Georgii
 primoGEORGii primo\ Georgii
 prirno primo
 prlmo primo
+qaodragesimo quadragesimo
 qeorgii Georgii
 Qeorgii Georgii
 QeorgiI Georgii
@@ -348,6 +357,7 @@ regnl regni
 regnt regni
 tcrtio tertio
 terrio tertio
+tertid tertio
 tertlo tertio
 tncefimo tricesimo
 trfcefimo tricesimo
@@ -498,7 +508,4 @@ yiccfimo vicesimo
 yicefimo vicesimo
 Yicefimo vicesimo
 ylcefimo vicesimo
-georgli Georgii
-tertid tertio
-GEORGI1 GEORGII
-GEORG1I GEORGII
+

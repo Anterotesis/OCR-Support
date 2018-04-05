@@ -15,7 +15,9 @@ a6ts acts
 a& act
 aad and
 Aad And
+AA\^HEREAS WHEREAS
 aAion action
+aaminiftrators administrators
 a$ as
 abfehce absence
 abfehec absence
@@ -198,6 +200,7 @@ a£fs acts
 afsizes assizes
 Afta Acts
 a<ft act
+Aft Act
 afteftment assessment
 AfTefTment Assessment
 afteftments assessments
@@ -228,6 +231,7 @@ AGt Act
 a£i act
 (aid said
 {aid said
+AI\^HEREAS WHEREAS
 A&ion Action
 ajbrefaid aforesaid
 ajbresaid aforesaid
@@ -274,6 +278,10 @@ arife arise
 arifen arisen
 arifmg arising
 arinually annually
+arorefaid aforesaid
+arorefeid aforesaid
+arorefiud aforesaid
+arorelaid aforesaid
 arthbifhops archbishops
 arthbijhop archbishop
 arthbilhop archbishop
@@ -290,11 +298,18 @@ attomies attornies
 Attomies Attornies
 a£tual actual
 aU all
+aud and
 Auguft August
 Augujl August
 autborifed authorised
+autho-rife authorise
+autho-rifed authorised
 authorifmg authorising
 authoriled authorised
+au-\ thority authority
+au-thority authority
+autho-\ rity authority
+autho-rity authority
 aztual actual
 backfides backsides
 ballaftage ballastage
@@ -363,7 +378,9 @@ britijh british
 Britijh British
 Britijk British
 Britilh British
+bri\ tish british
 Bri-tish British
+Bri\ tish British
 Britith British
 britrlh british
 brittih british
@@ -386,6 +403,10 @@ Caftle Castle
 ca(h cash
 ca(hier cashier
 ca(hiers cashiers
+calhier cashier
+Calhier Cashier
+calhiers cashiers
+Calhiers Cashiers
 cancelied cancelled
 candictates candidates
 C\ A\ P CAP
@@ -397,6 +418,8 @@ caufe cause
 Caufe Cause
 cauje cause
 ceafe cease
+cer-\ tain certain
+cer-tain certain
 certaiu certain
 cffe&ual effectual
 cfquire esquire
@@ -446,6 +469,7 @@ cofts costs
 cohftrued construed
 coilector collector
 coileftors collectors
+Coliege College
 collcftor collector
 colledions collections
 Colledlion Collection
@@ -464,12 +488,16 @@ cominiffioners commissioners
 Commiffioacr Commissioner
 Commiffioacrs Commissioners
 Commiffioaers Commissioners
+commif-fion commission
 commiffion commission
+commif-fioned commissioned
+commif-fioner commissioner
 com-miffioners commissioners
 com\ miffioners commissioners
 commiffioners commissioners
 Commif-fioners Commissioners
 Commiffioners Commissioners
+commif-fions commissions
 commiffions commissions
 commiff-oners commissioners
 commiff\ oners commissioners
@@ -519,15 +547,21 @@ Conftable Constable
 conftablery constablery
 conftables constables
 conftabtes constables
+conftabulary constabulary
 conftderable considerable
 Confumption Consumption
 conifance conisance
+conjlruftion construction
 conltable constable
 Conltable Constable
+con-\ sisting consisting
 con(table  constable
 con\ (table constable
+con-tained contained
+con-taining con-taining
 contradts contracts
 contraft contract
+Con-\ viction Conviction
 coramiffioner commissioner
 coramiffions commissions
 coramiflioner commissioner
@@ -691,7 +725,10 @@ eaji east
 eajl east
 Eajl East
 Eajler Easter
+ecdefiaftical ecclesiastical
+Ecdefiaftical Ecclesiastical
 edate estate
+EdW Edw
 eertain certain
 efeapes escapes
 effc&ual effectual
@@ -705,6 +742,7 @@ effeftual effectual
 effeltual effectual
 effe£tual effectual
 effe&ual effectual
+(effion session
 efiate estate
 efloin essoin
 efq esq
@@ -737,6 +775,7 @@ ejlablijhed established
 ejlablijh establish
 ejlablijhing establishing
 ejlablished established
+ejlates estates
 eledion election
 Eledions Elections
 eledlion election
@@ -748,6 +787,8 @@ eledtors electors
 Ele&ion Election
 Ele&ions Elections
 elfe else
+elfewbere elsewhere
+elfe-where elsewhere
 elquire esquire
 Elquire Esquire
 eltates estates
@@ -781,6 +822,8 @@ eommiflioners commissioners
 e(quire esquire
 eredfing erecting
 eriafted enacted
+establi(hed established
+establi(hing establishing
 ettimate estimate
 ettimation estimation
 euftoms customs
@@ -815,6 +858,7 @@ faid said
 fait salt
 falefmen salesmen
 fale sale
+fatd said
 fatif-faction satisfaction
 fatisfachon satisfaction
 fatisfadfion satisfaction
@@ -954,6 +998,7 @@ fijhing fishing
 filhery fishery
 filk silk
 finifbing finishing
+finijbing finishing
 finking sinking
 firfi first
 fir\ ft  first
@@ -983,6 +1028,7 @@ fixtv sixty
 fixty sixty
 flaves slaves
 flewards stewards
+flewartries stewartries
 flmilar similar
 fluffs stuffs
 fmall small
@@ -1004,6 +1050,7 @@ Forejl Forest
 forejls forests
 Forejls Forests
 fo so
+foutbward southward
 fouth south
 fownships townships
 fpace space
@@ -1072,6 +1119,8 @@ fubfitutes substitutes
 fubiefts subjects
 fubieft subject
 fubjctls subjects
+fubje6ts subjects
+fubje6t subject
 fubjeCl subject
 fubjects subjects
 fubjeCts subjects
@@ -1079,18 +1128,30 @@ fubjeCt subject
 fub-jedts subjects
 fub-jedt subject
 fubjeffs subjects
+fubjefls subjects
+fubje<fts subjects
+fubje<ft subject
 fubjeft subject
+fubjelts subjects
+fubjelt subject
+fubje£ts subjects
+fubje£t subject
 fubjetts subjects
+fubjett subject
+fubjidies subsidies
 fubjidy subsidy
+fubjlance substance
 fublequent subsequent
 fucb such
 fuccceding succceding
 fucceffors successors
+fuc-ceffors sucessors
 fuccefiors successors
 fuccefjors successors
 fucceflbrs successors
 fucceftbrs successors
 fucceftors successors
+fuccefTors successors
 fucceftor successor
 fuccejfors successors
 fuccejfor successor
@@ -1106,6 +1167,7 @@ fuffer suffer
 fuf-ficient sufficient
 fufficient sufficient
 fufftcient sufficient
+fufiicient sufficient
 fuflicient suficient
 fugar sugar
 fuit suit
@@ -1146,6 +1208,13 @@ Goldfmiths Goldsmiths
 gommissioners commissioners
 grindftones grindstones
 grofsing grossing
+Haberdafbery Haberdashery
+Haberdafherv Haberdashery
+haberdafhery haberdashery
+Haberdafhery Haberdashery
+Haberdaftiefy Haberdashery
+Haberdajhery Haberdashery
+Haberdslhery Haberdashery
 halipenny halfpenny
 haljpenny halfpenny
 (hall shall
@@ -1279,6 +1348,7 @@ infert insert
 Infolvcnt Insolvent
 infolvent insolvent
 infolyent insolvent
+infpedlor inspector
 infpedor inspector
 Infpedor Inspector
 Infpedors Inspectors
@@ -1296,6 +1366,7 @@ ingroffed ingrossed
 ingrofled ingrossed
 ingrofs ingross
 inoft most
+inrolied inrolled
 Intereft Interest
 interejl interest
 interji interest
@@ -1332,6 +1403,7 @@ Jcwifh Jewish
 jecurity security
 Jecurity security
 jerfey jersey
+j>erfons persons
 jerjey jersey
 Jerve serve
 jervice service
@@ -1422,6 +1494,10 @@ juftices justices
 Juftices Justices
 juftiee justice
 juftiees justices
+jujlice justice
+Jujlice Justice
+jujlices justices
+Jujlices Justices
 jujtices justices
 jullices justices
 Jullices Justices
@@ -1623,6 +1699,7 @@ Majelly Majesty
 Majelties Majesties
 Majeltv Majesty
 majelty majesty
+Ma-jelty Majesty
 Majelty Majesty
 majerty majesty
 Majerty Majesty
@@ -1650,6 +1727,7 @@ Majlers Masters
 majtfty majesty
 malicioufiy maliciously
 malicioufly maliciously
+(mall small
 manflaughtcr manslaughter
 Manflaughtcr Manslaughter
 manflaughter manslaughter
@@ -1680,6 +1758,8 @@ Marjhalfea Marshalsea
 marjhalsea marshalsea
 Marjhalsea Marshalsea
 marlhand marshland
+mayefty majesty
+Mayefty Majesty
 Mcjefiy Majesty
 Mcjefly Majesty
 Mcjejly Majesty
@@ -1726,6 +1806,7 @@ neceftary necessary
 necejfary necessary
 necejjary necessary
 neglc&ing neglecting
+negleet neglect
 negle<ft neglect
 negle&ing neglecting
 Negle&ing Neglecting
@@ -1746,6 +1827,7 @@ Newfpaper Newspaper
 newfpapers newspapers
 Newfpapers Newspapers
 nforesaid aforesaid
+non-commif-fioned non-commissioned
 north-eaft north-east
 notlvithftanding notwithstanding
 notwitbjlanding notwithstanding
@@ -1864,6 +1946,7 @@ omijfions omissions
 omijjions omissions
 omilTions omissions
 o£ of
+Oon-viction Conviction
 oppofite opposite
 oppolite opposite
 otberwife otherwise
@@ -1908,6 +1991,7 @@ pafling passing
 pafs pass
 Pafs Pass
 pafTed passed
+pailiament parliament
 pajfage passage
 pajfages passages
 pajfed passed
@@ -1942,14 +2026,18 @@ parilh parish
 Parilh Parish
 paristi parish
 Paristi Parish
+parith parish
+Par-liament
 par-liament parliament
 par\ liament parliament
 Parlia-ment Parliament
+partnerlhip partnership
 pa(Ted passed
 pa\ (Ted passed
 paymafter paymaster
 paymajler paymaster
 pay\ ment payment
+pcr-fons persons
 (peed speed
 Penfion Pension
 penfions pensions
@@ -1966,6 +2054,7 @@ perfonal personal
 perfon person
 Perfon Person
 per-\ fons persons
+per\ fons persons
 perfons persons
 Per-fons Persons
 Perfons Persons
@@ -1988,6 +2077,7 @@ perrons persons
 per\ sons persons
 petfons persons
 (piritual spiritual
+playboufe playhouse
 pleafe please
 pleajed pleased
 pleaje please
@@ -2200,7 +2290,13 @@ refpeClive respective
 refpecting respecting
 refpectively respectively
 refpeCtively respectively
+re-\ fpective respective
+re-fpective respective
+re\ fpective respective
 refpective respective
+re-\ fpeCtive respective
+re-fpeCtive respective
+re\ fpeCtive respective
 refpeCtive respective
 refpeCt respect
 refpedfively respectively
@@ -2251,6 +2347,7 @@ refriftions restrictions
 reftify rectify
 reftoring restoring
 reft rest
+re-ftridions restrictions
 reftriftion restriction
 Reftriftion Restriction
 reftriftions restrictions
@@ -2386,9 +2483,11 @@ thouiand thousand
 thoujand thousand
 thouland thousand
 thou&nd thousand
+thou-sand thousand
 thousend thousand
 thpufand thousand
 thqufand thousand
+TI\^HEREAS WHEREAS
 TIT\ HERE\ AS WHEREAS
 tivo two
 Tivo Two
@@ -2456,11 +2555,13 @@ trullees trustees
 trurtees trustees
 TT7HEREAS WHEREAS
 TTEM ITEM
+T\^THEREAS WHEREAS
 TTT\ HEREAS WHEREAS
 TTTHEREAS WHEREAS
 tvhereas whereas
 twenfy twenty
 TX7HEREAS WHEREAS
+TX\^HEREAS WHEREAS
 TY7HEREAS WHEREAS
 (uch such
 ufcd used
@@ -2469,6 +2570,7 @@ ufe-ful useful
 ufeful useful
 ufes uses
 Ufe Use
+ufe$ uses
 ufmg using
 ufuaily usually
 ufually usually
@@ -2504,6 +2606,7 @@ vejfels vessels
 vejfel vessel
 velfel vessel
 verting vesting
+V\^HEREAS WHEREAS
 VI7HEREAS WHEREAS
 vifcount viscount
 Vifcount Viscount
@@ -2561,10 +2664,16 @@ worfteds worsteds
 workboufes workhouses
 workboufe workhouse
 £XP EXP
+Y1THEREAS WHEREAS
+YI\^HEREAS WHEREAS
+Ylf\ HEREAS WHEREAS
 YT7HEREAS WHEREAS
 YTTHEREAS WHEREAS
 yvhatfoeyer whatsoever
+YXf\ HEREAS WHEREAS
+YX\^HEREAS WHEREAS
 YY7HEREAS WHEREAS
+YY\^HEREAS WHEREAS
 zuhich which
 zvas was
 zvbereas whereas
