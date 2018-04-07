@@ -1,12 +1,16 @@
 abettorsof abettors\ of
 abfenceof absence\ of
+Actfor Act\ for
 Anaft An\ act
+andabufes and\ abuses
 andalfo and\ also
 andbe and\ be
 Andbe And\ be
 andconfent and\ consent
 andfingular and\ singular
 Andforafmucb And\ forasmuch
+andforafmuch and\ forasmuch
+Andforafmuch And\ forasmuch
 andfor and\ for
 andfrom and\ from
 andfuch and\ such
@@ -15,7 +19,10 @@ andsixty and\ sixty
 andthe and\ the
 andto and\ to
 andwhereas and\ whereas
+Andwhereas And\ whereas
+AndWhereas And\ Whereas
 annoprimo anno\ primo
+anyfuch any\ such
 arifefrom arise\ from
 authorityaforesaid authority\ aforesaid
 authorityof authority\ of
@@ -23,13 +30,18 @@ bankof bank\ of
 bankofEngland bank\ of\ England
 beenacted been\ acted
 beenafted been\ acted
+beitena&ed be\ it \enacted
+bemade be\ made
 Britijbcolonies British\ colonies
 britishfugar british\ sugar
+butalfo but\ also
 confentof consent\ of
 dutyof duty\ of
+enactedand enacted\ and
 enactedby enacted\ by
 enadtedby enacted\ by
 enaftedby enacted\ by
+fecuringthe securing\ the
 fhouldbe should\ be
 fomuch so\ much
 forthe for\ the
@@ -87,6 +99,7 @@ onethouland one\ thousand
 onethousand one\ thousand
 orfuch or\ such
 orthemfelves or\ themselves
+parifof parish\ of
 pfthe of\ the
 purchafeof purchase\ of
 roadfrom road\ from
@@ -139,12 +152,4 @@ tofuch to\ such
 tohis to\ his
 yearof year\ of
 YTTHEREASan WHEREAS\ an
-butalfo but\ also
-fecuringthe securing\ the
-anyfuch any\ such
-parifof parish\ of
-andabufes and\ abuses
-andforafmuch and\ forasmuch
-Andforafmuch And\ forasmuch
-beitena&ed be\ it \enacted
-bemade be\ made
+

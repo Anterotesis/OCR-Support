@@ -1,4 +1,7 @@
 aa\ Ad an\ Act
+aaaft ah\ act
+aa\ aft an\ act
+Aaaft An\ act
 Act\ far Act\ for
 act\ fbr act\ for
 Act\ fbr Act\ for
@@ -33,6 +36,10 @@ a\ ft\ or\ afts act\ or\ afts
 afts\ of\ parliament acts\ of\ parliament
 aft\ to act\ to
 Ah\ act An\ act
+ah\ aft an\ act
+ahd\ for and\ for
+ahd\ the and\ the
+aH\ such all\ such
 a\ lift a\ list
 a\ Lift a\ List
 alt\ of\ parliament act\ of\ parliament
@@ -43,6 +50,8 @@ An\  a51 An\ act
 An\ a51 An\ act
 An\ A\ 61 An\ Act
 An\ A8 An\ Act
+an\ aA an\ Act
+An\ aA An\ Act
 An\ AA An\ Act
 An\ a& An\ act
 An\ a# An\ act
@@ -96,6 +105,8 @@ An\ A\ ft An\ Act
 An\ Aft An\ Act
 An\ aft\ far An\ act\ for
 An\ AH An\ Act
+an\ ah\ for an\ act\ for
+An\ ah\ for An\ act\ for
 An\ ail\ for An\ act\ for
 an\ ail\ made an\ act\ made
 an\ ail\ of an\ act\ of
@@ -109,6 +120,8 @@ An\ all\ to An\ act\ to
 an\ alt an\ act
 An\ alt An\ act
 An\ Alt An\ Act
+an\ Aot an\ Act
+An\ Aot An\ Act
 An\ apt\ for An\ act\ for
 An\ Apt\ for An\ Act\ for
 An\ aQ An\ act
@@ -119,11 +132,14 @@ An\ at1 An\ act
 an\ at\ for an\ act\ for
 An\ at\ for An\ act\ for
 an\ at\ made an\ act\ made
+and\ cods and\ costs
 and\ fbr and\ for
 An\ dft An\ act
+And\ he\ it\ enacted And\ be\ it\ enacted
 and\ lhall and\ shall
 and\ tor and\ for
 An\ eft An\ act
+Anno\ regm Anno\ regni
 an\ oft an\ act
 An\ oft An\ act
 another\ Ad another\ Act
@@ -140,6 +156,7 @@ Aq\ act An\ act
 arid\ after and\ after
 arid\ also and\ also
 arid\ be and\ be
+Arid\ be And\ be
 Arid\ be\ it And\ be\ it
 arid\ by and\ by
 arid\ consent and\ consent
@@ -149,6 +166,7 @@ Arid\ it\ is And\ it\ is
 arid\ the and\ the
 arid\ to and\ to
 a&s\ of acts\ of
+Au\ Act An\ Act
 authority\ of\ the\ lame authority\ of\ the\ same
 be\ fold\ for be\ sold\ for
 be\ it\ enaded be\ it\ enacted
@@ -171,6 +189,7 @@ bis\ present his\ present
 bis\ present\ Majesty his\ present\ Majesty
 bis\ said his\ said
 bis\ wife his\ wife
+by\ ah\ act by\ an\ act
 civil\ lift civil\ list
 Civil\ lift Civil\ list
 Civil\ Lift Civil\ List
@@ -178,6 +197,8 @@ cods\ of\ suit costs\ of\ suit
 colts\ of\ suit costs\ of\ suit
 county\ of\ Tork county\ of\ York
 County\ of\ Tork County\ of\ York
+double\ cods double\ costs
+Double\ cods Double\ costs
 Double\ Cods Double\ Costs
 Excifeofficcrs Excise\ officers
 Excifeofficers Excise\ officers
@@ -254,6 +275,7 @@ Georgii\ HI Georgii\ III
 Georgii\ IL Georgii\ II
 Georgii\ It Georgii\ II
 Georgii\ IT Georgii\ II
+Georgii\ TII Georgii\ III
 Georgii\ TIL Georgii\ III
 Gnat\ Britain Great\ Britain
 gold\ and\ fiver gold\ and\ silver
@@ -290,6 +312,7 @@ Jin\ Aft An\ Act
 Jive\ hundred five\ hundred
 Jive\ pounds five\ pounds
 Jive\ thousand five\ thousand
+just\ ices\ of justices\ of
 lad\ session last\ session
 lame\ county same\ county
 lame\ uses same\ uses
@@ -305,6 +328,7 @@ many\ wife many\ wise
 marine\ farces marine\ forces
 mentioned\ aft mentioned\ act
 mentioned\ Aft mentioned\ Act
+mod\ dutiful most\ dutiful
 mod\ excellent most\ excellent
 Mod\ Excellent Most\ Excellent
 mod\ honourable most\ honourable
@@ -371,9 +395,12 @@ several\ afts several\ acts
 shall\ ad shall\ act
 Shank\ of\ England bank\ of\ England
 sixty\ fix sixty\ six
+son\ or\ fons son\ or\ sons
 spiritual\ ana\ temporal spiritual\ and\ temporal
 statutesat statutes\ at
 STATUTESat STATUTES\ at
+such\ cods such\ costs
+that\ aft that\ act
 That\ ail\ and That\ all\ and
 the\ aft the\ act
 the\ (aid the\ said
@@ -391,6 +418,8 @@ the\ (pace the\ space
 the\ Ufc\ of the\ Use\ of
 thirty-fir\ ft thirty-first
 thirty\ fix thirty\ six
+this\ aa this\ act
+this\ aA this\ act
 this\ abl this\ act
 This\ abl This\ act
 this\ acl this\ act
@@ -409,6 +438,7 @@ this\ Aft this\ Act
 This\ aft This\ act
 this\ alt this\ act
 This\ alt This\ act
+this\ Aot this\ Act
 thou-4\ sand thousand
 thou\ 4\ sand thousand
 thou\ fan\ d thousand
@@ -431,28 +461,4 @@ year\ bf\ the year\ of\ the
 yin\ Ad an\ Act
 yin\ Aft an\ Act
 younger\ fons younger\ sons
-An\ aA An\ Act
-an\ aA an\ Act
-this\ aA this\ act
-this\ aa this\ act
-son\ or\ fons son\ or\ sons
-Georgii\ TII Georgii\ III
-mod\ dutiful most\ dutiful
-Anno\ regm Anno\ regni
-just\ ices\ of justices\ of
-Aaaft An\ act
-aaaft ah\ act
-such\ cods such\ costs
-double\ cods double\ costs
-Double\ cods Double\ costs
-and\ cods and\ costs
-aa\ aft an\ act
-ah\ aft an\ act
-that\ aft that\ act
-by\ ah\ act by\ an\ act
-An\ ah\ for An\ act\ for
-an\ ah\ for an\ act\ for
-aH\ such all\ such
-ahd\ the and\ the
-ahd\ for and\ for
 

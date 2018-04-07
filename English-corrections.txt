@@ -254,6 +254,7 @@ Amerita America
 amongfi amongst
 amongft amongst
 amongjl amongst
+ancl and
 an-fwer answer
 anfwer answer
 anfWer answer
@@ -807,6 +808,7 @@ enadled enacted
 enadted enacted
 ena&ed enacted
 enaefted enacted
+enaeted enacted
 enafled enacted
 ena<fted enacted
 enafted enacted
@@ -1199,6 +1201,8 @@ futns sums
 fworn sworn
 GAP CAP
 Gatehoufe Gatehouse
+Genera! General
+Genera] General
 glafs glass
 Glafs Glass
 G\ O\ D GOD
@@ -2421,6 +2425,7 @@ survivorihip survivorship
 survivorjhibs survivorship
 survivorlhip survivorship
 T17HEREAS WHEREAS
+T1THEREAS WHEREAS
 (tamped stamped
 (tamps stamps
 (tamp stamp
@@ -2489,6 +2494,7 @@ thpufand thousand
 thqufand thousand
 TI\^HEREAS WHEREAS
 TIT\ HERE\ AS WHEREAS
+TITHEREAS WHEREAS
 tivo two
 Tivo Two
 tjie the
@@ -2559,10 +2565,13 @@ T\^THEREAS WHEREAS
 TTT\ HEREAS WHEREAS
 TTTHEREAS WHEREAS
 tvhereas whereas
+TVTHEREAS WHEREAS
 twenfy twenty
 TX7HEREAS WHEREAS
 TX\^HEREAS WHEREAS
+TXTHEREAS WHEREAS
 TY7HEREAS WHEREAS
+TYTHEREAS WHEREAS
 (uch such
 ufcd used
 ufed used
@@ -2584,6 +2593,7 @@ untefs unless
 updn upon
 Utenfil Utensil
 utmojl utmost
+V1CT VICT
 Vcffels Vessels
 veffels vessels
 veffel vessel
@@ -2659,21 +2669,27 @@ wlthftanding withstanding
 wlthout without
 wnatfoever whatsoever
 wnereas whereas
+Wnereas Whereas
 wnole whole
 worfteds worsteds
 workboufes workhouses
 workboufe workhouse
 £XP EXP
+XTTHEREAS WHEREAS
 Y1THEREAS WHEREAS
 YI\^HEREAS WHEREAS
+YITHEREAS WHEREAS
 Ylf\ HEREAS WHEREAS
+YlfHEREAS WHEREAS
 YT7HEREAS WHEREAS
 YTTHEREAS WHEREAS
 yvhatfoeyer whatsoever
 YXf\ HEREAS WHEREAS
+YXfHEREAS WHEREAS
 YX\^HEREAS WHEREAS
 YY7HEREAS WHEREAS
 YY\^HEREAS WHEREAS
+YYTHEREAS WHEREAS
 zuhich which
 zvas was
 zvbereas whereas
