@@ -44,6 +44,7 @@ Brighthelmfton Brighthelmston
 Brighthelmftone Brighthelmstone
 Brijlol Bristol
 Briltol Bristol
+Bri\ tain Britain
 Bromfgrove Bromsgrove
 Brunfwick Brunswick
 Btckingham Buckingham
@@ -66,6 +67,9 @@ Carmarthenjbire Carmarthenshire
 Cbeflerfield Chesterfield 
 Cbefterfield Chesterfield
 Cbester Chester
+Cbicbefier Chichester
+Cbicbefter Chichester
+Cbichefler Chichester
 Cheapfide Cheapside
 Chefhire Cheshire
 Chefier Chester
@@ -81,6 +85,9 @@ Chepjlow Chepstow
 Cirencefier Cirencester
 Cirencefter Cirencester
 Cirencejler Cirencester
+Cnefhire Cheshire
+Cnelfea Chelsea
+Cnelsea Chelsea
 Colchefter Colchester
 Cumber-land Cumberland
 Devonfbire Devonshire
@@ -382,6 +389,7 @@ Middtesex Middlesex
 MiddUfex Middlesex
 MiddUsex Middlesex
 Mincbinhampton Minchinhampton
+MiUbank Millbank
 Mjddfesex Middlesex
 Mlddlesex Middlesex
 Mlddlrfcx Middlesex
@@ -667,11 +675,4 @@ YorkJJnre Yorkshire
 Yorklhire Yorkshire
 Yorldhire Yorkshire
 Zoucb Zouch
-Cbicbefier Chichester
-Cbicbefter Chichester
-Cbichefler Chichester
-Cnefhire Cheshire
-Cnelfea Chelsea
-Cnelsea Chelsea
-Bri\ tain Britain
 
