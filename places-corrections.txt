@@ -340,6 +340,7 @@ Mancbefter Manchester
 Manchefer Manchester
 Manchefter Manchester
 Manchejier Manchester
+MancheJIer Manchester
 Manchejler Manchester
 Marjbalfea Marshalsea
 Marlhalfea Marshalsea
@@ -586,6 +587,7 @@ Wejlminjler Westminster
 Wejlminster Westminster
 Wejlmorland Westmorland
 Wejlmtnjler Westminster
+Wesiminfier Westminster
 Westminfer Westminster
 Westminfier Westminster
 Westminfitr Westminster
@@ -675,4 +677,8 @@ YorkJJnre Yorkshire
 Yorklhire Yorkshire
 Yorldhire Yorkshire
 Zoucb Zouch
+WestminjUr Westminster
+WestminJUr Westminster
+Westminjhr Westminster
+WestminJhr Westminster
 

@@ -6,6 +6,10 @@ Act\ far Act\ for
 act\ fbr act\ for
 Act\ fbr Act\ for
 act\ fir act\ for
+act\ paffed act\ passed
+act\ paffei act\ passed
+act\ paiTed act\ passed
+act\ palTed act\ passed
 Ad\ act An\ act
 ad\ ditional additional
 ad\ for act\ for
@@ -62,6 +66,7 @@ An\ acl An\ act
 An\ aCl An\ act
 An\ Acl An\ Act
 An\ act\ far An\ act\ for
+An\ Act\ far An\ Act\ for
 An\ act\ fdr An\ act\ for
 An\ act\ fer An\ act\ for
 an\ act\ fir an\ act\ for
@@ -115,6 +120,7 @@ An\ Ait An\ Act
 An\ ait\ for An\ act\ for
 An\ ait\ to An\ act\ to
 An\ a£l An\ act
+An\ A£l An\ Act
 An\ all\ for An\ act\ for
 An\ all\ to An\ act\ to
 an\ alt an\ act
@@ -135,6 +141,7 @@ an\ at\ made an\ act\ made
 and\ cods and\ costs
 and\ fbr and\ for
 An\ dft An\ act
+And\ he\ it And\ be\ it
 And\ he\ it\ enacted And\ be\ it\ enacted
 and\ lhall and\ shall
 and\ tor and\ for
@@ -166,7 +173,9 @@ Arid\ it\ is And\ it\ is
 arid\ the and\ the
 arid\ to and\ to
 a&s\ of acts\ of
+Au\ act An\ act
 Au\ Act An\ Act
+Authority\ of\ the\ fame Authority\ of\ the\ same
 authority\ of\ the\ lame authority\ of\ the\ same
 be\ fold\ for be\ sold\ for
 be\ it\ enaded be\ it\ enacted
@@ -197,6 +206,7 @@ cods\ of\ suit costs\ of\ suit
 colts\ of\ suit costs\ of\ suit
 county\ of\ Tork county\ of\ York
 County\ of\ Tork County\ of\ York
+county\ ot county\ of
 double\ cods double\ costs
 Double\ cods Double\ costs
 Double\ Cods Double\ Costs
@@ -244,6 +254,7 @@ fort\ and\ manner sort\ and\ manner
 for\ tne for\ the
 fort\ of\ grain sort\ of\ grain
 forts\ of\ bread sorts\ of\ bread
+(fo\ that (so\ that
 fpr\ the for\ the
 fub\ feribe subscribe
 furthcrenadted further\ enacted
@@ -343,6 +354,7 @@ of\ bis of\ his
 of\ the\ fame of\ the\ fame
 of\ this\ aff of\ this\ act
 other\ aft other\ act
+other\ fons other\ sons
 other\ wife other\ wise
 ot\ his of\ his
 particular\ cafes particular\ cases
@@ -444,6 +456,8 @@ thou\ 4\ sand thousand
 thou\ fan\ d thousand
 thou\ sand thousand
 to\ be\ railed to\ be\ raised
+tp\ be to\ be
+tp\ the to\ the
 treble\ cods treble\ costs
 Treble\ cods Treble\ costs
 Treble\ Cods Treble\ Costs
@@ -461,4 +475,4 @@ year\ bf\ the year\ of\ the
 yin\ Ad an\ Act
 yin\ Aft an\ Act
 younger\ fons younger\ sons
-An\ Act\ far An\ Act\ for
+

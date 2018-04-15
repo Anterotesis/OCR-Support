@@ -1,6 +1,7 @@
 abftrac abstrac
 accomplijb accomplish
 accomplijh accomplish
+adminiftra administra
 advertife advertise
 Advertife Advertise
 advife advise
@@ -12,12 +13,16 @@ agefimo agesimo
 ajcertain ascertain
 almfhouse almshouse
 amongft amongst
+andafter and\ after
+andalfo and\ also
+andfub and\ sub
 anfvver answer
 anjwer answer
 Annodec Anno\ dec
 Annoduo Anno\ duo
 Annofexto Anno\ sexto
 Annoprimo Anno\ primo
+Annoqua Anno\ qua
 Annoquin Anno\ quin
 Annorcgn Anno\ reg
 Annoreg Anno\ reg
@@ -26,6 +31,7 @@ Annoregn Anno\ reg
 Annotertio Anno\ tertio
 Annotric Anno\ tric
 Announ Anno\ un
+Annovi Anno\ vi
 Annovic Anno\ vic
 bijhop bishop
 Bijhop Bishop
@@ -93,9 +99,14 @@ dejtroy destroy
 demolijh demolish
 demolilh demolish
 dfhire dshire
+difburf disburs
 difcbar dischar
+difcfiarge discharge
 difchai dischar
 difchar dischar
+difcount discount
+difcover discover
+difeharg discharg
 \ difem \ disem
 difturb disturb
 dijcont discont
@@ -121,6 +132,7 @@ englijb english
 Englijb English
 Englijh English
 ertablish establish
+fchool school
 fecond second
 fecurity security
 fervice service
@@ -141,16 +153,23 @@ forefeid foresaid
 forejlall forestall
 fovereig sovereig
 fpecifi specifi
+fpedive spective
 fpeftive spective
 fpirit spirit
 franchife franchise
 fubdiv subdiv
 fubfcrib subscrib
+fubfcrip subscript
 fubftant substant
 fubjeft subject
+fubje subje
+fubjlit substit
+fublift subsist
+fubscribe subscribe
 fucccff success
 fucceff success
 fufpend suspend
+\ fuper \ super
 furpluf surplus
 furrender surrender
 furtber further
@@ -193,12 +212,17 @@ IVeJimin Westmin
 ivejlmin Westmin
 Ivejlmin Westmin
 IVejlmin Westmin
+jbip ship
+Jbip ship
 jefty jesty
 jevent sevent
 Jevent sevent
+Jhall shall
 jhirc shire
 jhire shire
 Jhire shire
+jhort short
+Jhort short
 jlaple staple
 jpirit spirit
 Jpirit spirit
@@ -210,6 +234,8 @@ Jveftmin Westmin
 JVeft West
 JVeJ Wes
 loyalfub loyal\ sub
+mafter master
+magiftrat magistrat
 magijlrate magijlrate
 maieft majest
 majeft majest
@@ -231,7 +257,9 @@ minifter minister
 minjler minster
 minJler minster
 moGeo mo\ Geo
+moutb mouth
 negleft neglect
+nonoGeo nono\ Geo
 notwithftand notwithstand
 othcrw otherw
 otherwife otherwise
@@ -241,6 +269,8 @@ poffeff possess
 preferv preserv
 prifon prison
 proviflon provision
+publilh publish
+Publilh Publish
 punijb punish
 punijh punish
 punilh punish
@@ -269,11 +299,16 @@ refpeftiv respectiv
 refpeft respect
 regniquad regni\ quad
 regnitri regni\ tri
+relpecf respect
+relpect respect
+relpedt respect
+relpeft respect
 Somcrfct Somerset
 Somcrfet Somerset
 Somerfct Somerset
 Somerfet Somerset
 tbirty thirty
+tborp thorp
 tbou thou
 tcrtio tertio
 theauthor the\ author
@@ -307,35 +342,11 @@ Wincbe Winche
 withftanding withstanding
 withoutlic without\ lic
 zvhicb which
-fpedive spective
-publilh publish
-Publilh Publish
-moutb mouth
-tborp thorp
-cburcb church
-cburch church
-andfub and\ sub
-andafter and\ after
-andalfo and\ also
-adminiftra administra
-fubje subje
-fubjlit substit
-fublift subsist
-fubscribe subscribe
-Annovi Anno\ vi
-Annoqua Anno\ qua
-nonoGeo nono\ Geo
-Jhall shall
-relpecf respect
-relpect respect
-relpedt respect
-relpeft respect
-\ fuper \ super
-fubfcrip subscript
-magiftrat magistrat
-mafter master
-fchool school
-jbip ship
-Jbip ship
-jhort short
-Jhort short
+firjl first
+direbtor director
+Jlamp stamp
+jlamp stamp
+jurifdi jurisdi
+jubfcrib subscrib
+jubfcrip subscrip
+

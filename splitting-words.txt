@@ -30,12 +30,14 @@ bankof bank\ of
 bankofEngland bank\ of\ England
 beenacted been\ acted
 beenafted been\ acted
+Beitenacted Be\ it\ enacted
 beitena&ed be\ it \enacted
 bemade be\ made
 Britijbcolonies British\ colonies
 britishfugar british\ sugar
 butalfo but\ also
 confentof consent\ of
+difpofedof disposed\ of
 dutyof duty\ of
 enactedand enacted\ and
 enactedby enacted\ by
@@ -104,6 +106,7 @@ pfthe of\ the
 purchafeof purchase\ of
 roadfrom road\ from
 roadsfrom roads\ from
+shallbe shall\ be
 smallfums small\ sums
 sofar so\ far
 thcauthority the\ authority
@@ -152,4 +155,5 @@ tofuch to\ such
 tohis to\ his
 yearof year\ of
 YTTHEREASan WHEREAS\ an
-shallbe shall\ be
+seventyfix seventy\ six
+
