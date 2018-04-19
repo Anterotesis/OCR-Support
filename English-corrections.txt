@@ -2810,4 +2810,5 @@ zvriting writing
 zvrits writs
 zvritten written
 zvrit writ
+°r or
 
