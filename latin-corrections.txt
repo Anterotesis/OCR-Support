@@ -59,6 +59,7 @@ feptlmo septimo
 fexto sexto
 ftptimo septimo
 GEORG\ II GEORGII
+gfcorgii Georgii
 Gborgii Georgii
 Gboroii Georgii
 Gbougii Georgii
@@ -509,4 +510,6 @@ yiccfimo vicesimo
 yicefimo vicesimo
 Yicefimo vicesimo
 ylcefimo vicesimo
+terti0 tertio
+tertia tertio
 

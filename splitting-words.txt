@@ -38,6 +38,8 @@ britishfugar british\ sugar
 butalfo but\ also
 confentof consent\ of
 difpofedof disposed\ of
+dischargedfrom discharged\ from
+dischargethe discharge\ the
 dutyof duty\ of
 enactedand enacted\ and
 enactedby enacted\ by
@@ -52,6 +54,7 @@ ftatuteof statute\ of
 GeorgiiII Georgii\ II
 GreatBritain Great\ Britain
 ingthe ing\ the
+jecondyear second\ year
 KingJames King\ James
 KingWilliam King\ William
 lordsfpiritual lords\ spiritual
@@ -106,6 +109,7 @@ pfthe of\ the
 purchafeof purchase\ of
 roadfrom road\ from
 roadsfrom roads\ from
+seventyfix seventy\ six
 shallbe shall\ be
 smallfums small\ sums
 sofar so\ far
@@ -154,6 +158,6 @@ toferve to\ serve
 tofuch to\ such
 tohis to\ his
 yearof year\ of
+paffedin passed\ in
 YTTHEREASan WHEREAS\ an
-seventyfix seventy\ six
-
+tofay to\ say

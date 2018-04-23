@@ -134,6 +134,8 @@ aflemblies assemblies
 aflembling assembling
 Aflignees Assignees
 afls acts
+a-fordaid aforesaid
+afordaid aforesaid
 afore(aid aforesaid
 afore\ fa\ id aforesaid
 aforefaid aforesaid
@@ -334,6 +336,9 @@ beajls beasts
 befides besides
 beft best
 Beft Best
+be-\ tween between
+be-tween between
+be\ tween between
 bifboprick bishoprick
 bifbopricks bishopricks
 bifcuit biscuit
@@ -672,6 +677,7 @@ Difcharges Discharges
 difcon-tinued discontinued
 difcoverv discovery
 difcretion discretion
+difebarged discharged
 difehareing discharging
 difeharged discharged
 difeharge discharge
@@ -723,6 +729,7 @@ dire61ed directed
 dire&cd directed
 Diredions Directions
 diredlions directions
+diredtors directors
 dire#ed directed
 direft direct
 dire\ ft\ ed directed
@@ -768,6 +775,7 @@ efeapes escapes
 effc&ual effectual
 effedlual effectual
 effedtual effectual
+efFedtual effectual
 effeduallv effectually
 effeft effect
 effeftuaily effectually
@@ -796,6 +804,7 @@ eftablishing establishing
 eftafc estate
 ef-tate estate
 eftate estate
+e-ftates estates
 eftates estates
 Eftates Estates
 Eftimate Estimate
@@ -891,6 +900,7 @@ exprejjed expressed
 exprejjing expressing
 extenftve extensive
 fadtories factories
+faia said
 faid said
 fait salt
 falefmen salesmen
@@ -1080,9 +1090,11 @@ fmaU small
 foch such
 °f of
 ©f of
+foidiers soldiers
 foldier soldier
 foldiers soldiers
 fon son
+fopplies supplies
 forafmucb forasmuch
 forajmuch forasmuch
 Forefl Forest
@@ -1152,6 +1164,7 @@ ftxth sixth
 ftxty sixty
 fubdivisions subdivisions
 fubdivision subdivision
+fub-fcribe subscribe
 fubfcription subscription
 fubfe-quent subsequent
 fubferibed subscribed
@@ -1460,6 +1473,10 @@ Jbips ships
 jbould should
 Jbould should
 Jcwifh Jewish
+jecond second
+Jecond second
+jecuring securing
+Jecuring securing
 jecurity security
 Jecurity security
 jerfey jersey
@@ -1702,8 +1719,10 @@ Majefby Majesty
 Majeffy Majesty
 Majefifs Majestys
 majefiy majesty
+Ma-jefiy Majesty
 Majefiy Majesty
 majefly majesty
+Ma-jefly Majesty
 Maje-fly Majesty
 Majefly Majesty
 majefties majesties
@@ -1897,6 +1916,9 @@ neverthejess nevertheless
 neverthelefs nevertheless
 nevertHelefs nevertheless
 neVerthelefs nevertheless
+nevertheleis nevertheless
+neverthelejs nevertheless
+neverthelese nevertheless
 newfpaper newspaper
 Newfpaper Newspaper
 newfpapers newspapers
@@ -1904,6 +1926,7 @@ Newfpapers Newspapers
 nforesaid aforesaid
 non-commif-fioned non-commissioned
 north-eaft north-east
+north-weft north-west
 notlvithftanding notwithstanding
 notwitbjlanding notwithstanding
 notwithdanding notwithstanding
@@ -2035,6 +2058,7 @@ othef other
 othenvife otherwise
 othenvise otherwise
 otherivife otherwise
+o-ther other
 othervrife otherwise
 othervvife otherwise
 othervvise otherwise
@@ -2123,6 +2147,7 @@ pcr-fons persons
 (peed speed
 Penfion Pension
 penfions pensions
+penftoners pensioners
 peniion pension
 Peniion pension
 peniions pensions
@@ -2157,6 +2182,7 @@ perlons persons
 perrons persons
 per\ sons persons
 petfons persons
+pf of
 (piritual spiritual
 playboufe playhouse
 pleafe please
@@ -2305,6 +2331,7 @@ purcbafers purchasers
 purchafcer purchaser
 purchafcers purchasers
 purchafc purchase
+pur-chafed purchased
 pur\ chafed purchased
 purchafed purchased
 purchafe purchase
@@ -2324,6 +2351,7 @@ purehafed purchased
 purehafe purchase
 purehafer purchaser
 Purpofc Purpose
+pur-pofe purpose
 purpofe purpose
 Purpofe Purpose
 purpofes purposes
@@ -2473,6 +2501,7 @@ reverjion reversion
 reyoked revoked
 riotwithstanding notwithstanding
 rofemary rosemary
+°r or
 Satisfa3ion Satisfaction
 Satisfaftion Satisfaction
 Satisfa&ion Satisfaction
@@ -2497,6 +2526,7 @@ seventeentb seventeenth
 Sicknefs Sickness
 silverfmith silversmith
 Silverfmith Silversmith
+Sneriff Sheriff
 soidlers soldiers
 Spanifh Spanish
 spanijb spanish
@@ -2605,6 +2635,7 @@ tncreafe increase
 tneir their
 tnere there
 tne the
+tney they
 townfbips townships
 townfhips township
 town-fhips townships
@@ -2634,6 +2665,7 @@ tqwn town
 tQwn town
 tranfmit transmit
 Tranfportation Transportation
+tranf-port transport
 Tranfport Transport
 transmit-ted transmitted
 treafiirer treasurer
@@ -2648,6 +2680,7 @@ treafury treasury
 Treafury Treasury
 treajury treasury
 trealurer treasurer
+trealury treasury
 trea-surers treasurers
 trefpaflers trespassers
 trefpass trespass
@@ -2769,6 +2802,7 @@ wlthout without
 wnatfoever whatsoever
 wnereas whereas
 Wnereas Whereas
+wnich which
 wnole whole
 worfteds worsteds
 workboufes workhouses
@@ -2810,5 +2844,38 @@ zvriting writing
 zvrits writs
 zvritten written
 zvrit writ
-°r or
-
+difcre-tion discretion
+deftruc-tion destruction
+defer\ tion desertion
+defer-tion desertion
+considera-tion consideration
+confump-tion consumption
+conftitu-tion constitution
+compenfa-tion compensation
+a6tion action
+Poftmaster Postmaster
+ligliter lighter
+rea-fonable reasonable
+rea-\ fonable reasonable
+commif-\ fioners commissioners
+commif-fioners commissioners
+commif-iioners commissioners
+commif-iioner commissioner
+commif-(ioners commissioners
+commif-lioner commissioner
+commif-lioners commissioners
+Ma\ jesty Majesty
+Ma-\ jesty Majesty
+Ma-jelly Majesty
+Ma\ jetty Majesty
+Ma]efty Majesty
+ma]ejly majesty
+ma-fter master
+fe(lions sessions
+fe\ (lions sessions
+fef-lions sessions
+jorafmuch forasmuch
+[aid said
+paffied passed
+aft\ ion action
+aft\ ions actions
