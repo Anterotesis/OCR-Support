@@ -1,3 +1,5 @@
+Parifh Parish
+Dorfet Dorset
 abftrac abstrac
 accomplijb accomplish
 accomplijh accomplish
@@ -11,6 +13,7 @@ affign assign
 aforesaidy aforesaid,
 agefimo agesimo
 ajcertain ascertain
+alehoufc alehouse
 almfhouse almshouse
 amongft amongst
 andafter and\ after
@@ -51,10 +54,12 @@ BritiJb British
 Britijh British
 BritiJh British
 Britilh British
+caftle castle
 Cbmmiff Commiss
 Cbrift Christ
 cburcb church
 cburch church
+cejter cester
 chefter chester
 chrift christ
 churcb church
@@ -111,7 +116,9 @@ difeharg discharg
 difturb disturb
 dijcont discont
 dijpofe dispose
+dilband disband
 dilburfe disburse
+direbtor director
 dis-ting disting
 ditcb ditch
 Ditcb Ditch
@@ -135,6 +142,7 @@ ertablish establish
 fchool school
 fecond second
 fecurity security
+ferjeant serjeant
 fervice service
 fetfhire setshire
 feven seven
@@ -145,21 +153,25 @@ fhilling shilling
 fhire- shire-
 fieid field
 filver silver
+firjl first
 fixpenc sixpenc
 fixty sixty
 foever soever
 forefaid foresaid
 forefeid foresaid
 forejlall forestall
+fortv forty
+Fortv Forty
 fovereig sovereig
 fpecifi specifi
 fpedive spective
 fpeftive spective
 fpirit spirit
 franchife franchise
+ftminster stminster
 fubdiv subdiv
 fubfcrib subscrib
-fubfcrip subscript
+fubfcrip subscrip
 fubftant substant
 fubjeft subject
 fubje subje
@@ -169,11 +181,9 @@ fubscribe subscribe
 fucccff success
 fucceff success
 fufpend suspend
-\ fuper \ super
 furpluf surplus
 furrender surrender
 furtber further
-furtheren further\ en
 furvcy survey
 furvey survey
 furviv surviv
@@ -223,12 +233,18 @@ jhire shire
 Jhire shire
 jhort short
 Jhort short
+jlamp stamp
+Jlamp stamp
 jlaple staple
+jlminster stminster
 jpirit spirit
 Jpirit spirit
+jubfcrib subscrib
+jubfcrip subscrip
 juftice justice
 juftic justic
 jurifdid jurisdict
+jurifdi jurisdi
 jveftmin Westmin
 Jveftmin Westmin
 JVeft West
@@ -253,19 +269,27 @@ miffion mission
 miflioner missioner
 milfioner missioner
 minfter minster
+mi-nifter minister
 minifter minister
 minjler minster
 minJler minster
+minjter minster
 moGeo mo\ Geo
 moutb mouth
 negleft neglect
+nevcr never
+neverihe neverthe
+nevertbe neverthe
+neverthc neverthe
 nonoGeo nono\ Geo
 notwithftand notwithstand
+obferv observ
 othcrw otherw
 otherwife otherwise
 parifb parish
 Parifb Parish
 poffeff possess
+poftmaster postmaster
 preferv preserv
 prifon prison
 proviflon provision
@@ -297,6 +321,7 @@ refpec-tive respective
 refpectl respect
 refpeftiv respectiv
 refpeft respect
+regifter register
 regniquad regni\ quad
 regnitri regni\ tri
 relpecf respect
@@ -342,27 +367,9 @@ Wincbe Winche
 withftanding withstanding
 withoutlic without\ lic
 zvhicb which
-firjl first
-direbtor director
-Jlamp stamp
-jlamp stamp
-jurifdi jurisdi
-jubfcrib subscrib
-jubfcrip subscrip
-caftle castle
-alehoufc alehouse
-dilband disband
-nevcr never
-neverihe neverthe
-nevertbe neverthe
-neverthc neverthe
-minjter minster
-cejter cester
-jlminster stminster
-ftminster stminster
-poftmaster postmaster
-mi-nifter minister
-regifter register
-ferjeant serjeant
-obferv observ
-
+tvejlmin Westmin
+Wejtmin Westmin
+Wejtmln Westmin
+Wejlmin Westmin
+Wejlmln Westmin
+Juftiee Juftice
