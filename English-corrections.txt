@@ -3,6 +3,7 @@
 a£1 act
 a£1s acts
 a\ 51 act
+A<51 Act
 a5l act
 a<5t act
 a61 act
@@ -11,6 +12,7 @@ a6fs acts
 a6l act
 A6ls Acts
 a6t act
+a6tion action
 a6ts acts
 a& act
 aad and
@@ -53,11 +55,14 @@ abufed abused
 Abufes Abuses
 ac1 act
 accejfary accessary
+accord\ ing according
 accuftomably accustomably
 accuftom accustom
 aCls acts
 aCt act
 aCts acts
+addi-tional additional
+Addrefles Addresses
 adf act
 adfion action
 adfs acts
@@ -123,6 +128,7 @@ affeflors assessors
 affem-bled assembled
 affignees assignees
 af-fignment assignment
+Afhes Ashes
 afiembled assembled
 Afiignees Assignees
 afiigns assigns
@@ -132,8 +138,11 @@ afleflors assessors
 aflembled assembled
 aflemblies assemblies
 aflembling assembling
+Afliflants Assistants
+Afliftance Assistance
 Aflignees Assignees
 afls acts
+afoiefaid aforesaid
 a-fordaid aforesaid
 afordaid aforesaid
 afore(aid aforesaid
@@ -146,6 +155,7 @@ aforefatd aforesaid
 aforefcid aforesaid
 aforefeid aforesaid
 aforefiud aforesaid
+aforefnid aforesaid
 aforefsud aforesaid
 aforeftid aforesaid
 aforefuid aforesaid
@@ -201,10 +211,13 @@ afqreiaid aforesaid
 afqresaid aforesaid
 afQresaid aforesaid
 a£fs acts
+Afsize Assize
 afsizes assizes
 Afta Acts
 a<ft act
+A<ft Act
 Aft Act
+Aft$ Acts
 afteftment assessment
 AfTefTment Assessment
 afteftments assessments
@@ -214,10 +227,13 @@ AfTefTors Assessors
 aftembled assembled
 afTembled assembled
 aftigns assigns
+aft\ ion action
 aftion action
 Aft\ ion Action
+aft\ ions actions
 a<fts acts
 afts acts
+A<fts Acts
 aftualiy actually
 aftuallv actually
 aftually actually
@@ -234,6 +250,7 @@ aGt act
 AGt Act
 a£i act
 (aid said
+[aid said
 {aid said
 A&ion Action
 A&ions Actions
@@ -260,6 +277,7 @@ amongft amongst
 amongjl amongst
 ancl and
 A\ ND AND
+Anfwcrs Answers
 an-fwer answer
 anfwer answer
 anfWer answer
@@ -268,6 +286,7 @@ Anfwer Answer
 an-fwered answered
 an-nuity annuity
 annulied annulled
+answerabie answerable
 ap-pointed appointed
 apprenticelhip apprenticeship
 aqd and
@@ -283,6 +302,7 @@ archbilhop archbishop
 archbilhoprick archbishoprick
 arife arise
 arifen arisen
+Arifing Arising
 arifmg arising
 arinually annually
 arorefaid aforesaid
@@ -319,6 +339,7 @@ au-\ thority authority
 au-thority authority
 autho-\ rity authority
 autho-rity authority
+A\ uthority Authority
 aztual actual
 backfides backsides
 ballaftage ballastage
@@ -359,6 +380,7 @@ Bilhops Bishops
 (billings shillings
 Blackfmith Blacksmith
 blejfed blessed
+bom born
 bouse house
 bouses houses
 briti(b british
@@ -404,6 +426,10 @@ bufbandry husbandry
 bufbands husbands
 Bufhel Bushel
 bu(hel bushel
+build-\ ing building
+build-ing building
+Build-\ ing Building
+Build-ing Building
 burgejfes burgesses
 cafe case
 cafes cases
@@ -428,12 +454,14 @@ cathoiicks catholicks
 catholtck catholick
 caufe cause
 Caufe Cause
+caufmg causing
 cauje cause
 ceafe cease
 cer-\ tain certain
 cer-tain certain
 certaiu certain
 cffe&ual effectual
+cffe&ually effectually
 cfquire esquire
 chaneery chancery
 Chaneery Chancery
@@ -456,9 +484,12 @@ claufe clause
 Claufe Clause
 claufes clauses
 cleanflng cleanfing
+cleanfmg cleansing
+Cleanfmg Cleansing
 cleanftng cleansing
 clerkfhip clerkship
 clerklhip clerkship
+Clofe Close
 cna6ted enacted
 cnaaed enacted
 Cnaaed enacted
@@ -477,6 +508,8 @@ cna£ted enacted
 coacb coach
 coacbes coaches
 coachcs coaches
+coacliman coachman
+coaclimen coachmen
 Coaft Coast
 Cockfpur Cockspur
 cofts costs
@@ -509,6 +542,8 @@ commif-fioned commissioned
 commif-fioner commissioner
 com-miffioners commissioners
 com\ miffioners commissioners
+commif-\ fioners commissioners
+commif-fioners commissioners
 commiffioners commissioners
 Commif-fioners Commissioners
 Commiffioners Commissioners
@@ -518,16 +553,22 @@ commiff-oners commissioners
 commiff\ oners commissioners
 commiffoners commissioners
 commifftoners commissioners
+commif-iioner commissioner
 com-mifiioners commissioners
 com\ mifiioners commissioners
+commif-iioners commissioners
 commifiioners commissioners
+commif-(ioners commissioners
 commifjioners commissioners
 commiflion commission
 Commiflion Commission
+Commiflioncrs Commissioners
+commif-lioner commissioner
 commiflioners commisioners
 Commiflioners Commisioners
 com-miflioners commissioners
 com\ miflioners commissioners
+commif-lioners commissioners
 commiflioners commissioners
 Commiflioners Commissioners
 commifljoners commisioners
@@ -546,31 +587,47 @@ com-pany company
 Com-pany Company
 com-penfation compensation
 compen-fation compensation
+compenfa-tion compensation
 compenfation compensation
+compofmg composing
+Compulfion Compulsion
 com-pulfory compulsory
 confeffion confession
 confeflton confession
 confent consent
 Con-fent Consent
 Confent Consent
+Conffable Constable
 confiderable considerable
 Confideration Consideration
 confider consider
 confolidated consolidated
+Con-folidated Consolidated
 Confolidated Consolidated
 Confort  Consort
+con-fpicuous conspicuous
 Conftable Constable
 conftablery constablery
 conftables constables
+Conftablewick Constablewick
+Conftablewicks Constablewicks
+Conftablewieks Constablewicks
 conftabtes constables
 conftabulary constabulary
 conftderable considerable
 conftderation consideration
+Conftderation Consideration
+conftdering considering
+conftitu-tion constitution
+Conftrudlions Constructions
+Conftrudtions Constructions
+confump-tion consumption
 Confumption Consumption
 conifance conisance
 conjlruftion construction
 conltable constable
 Conltable Constable
+considera-tion consideration
 con-\ sisting consisting
 con(table  constable
 con\ (table constable
@@ -580,6 +637,7 @@ contra# contract
 contradts contracts
 contraft contract
 contra#s contracts
+Contra&s Contracts
 Con-\ viction Conviction
 Convi&ion Conviction
 Convi&ions Convictions
@@ -625,10 +683,14 @@ dcceafed deceased
 deceafed deceased
 Dedu&ed Deducted
 defauiters defaulters
+Defcription Description
 defcrtion desertion
 deferibed described
+deferibing describing
 defeription description
 deferter deserter
+defer-tion desertion
+defer\ tion desertion
 defiruftion destruction
 deflruBion destruction
 deflrufiion destruction
@@ -646,6 +708,7 @@ deftroyed destroyed
 deftruCfion destruction
 Deftrucftion Destruction
 deftruClion destruction
+deftruc-tion destruction
 deftruCtion destruction
 deftrudbon destruction
 dejired desired
@@ -676,6 +739,7 @@ Difcharge Discharge
 Difcharges Discharges
 difcon-tinued discontinued
 difcoverv discovery
+difcre-tion discretion
 difcretion discretion
 difebarged discharged
 difehareing discharging
@@ -723,6 +787,7 @@ difturhance disturbance
 Diicharge Discharge
 diipofed disposed
 dijlillers distillers
+dilpofed disposed
 dilTolve dissolve
 dimini(hing diminishing
 dire61ed directed
@@ -784,11 +849,14 @@ effeftual effectual
 effeltual effectual
 effe£tual effectual
 effe&ual effectual
+effe&ually effectually
 (effion session
 efiate estate
 efloin essoin
 efq esq
 efquirc esquire
+ef-quire esquire
+ef\ quire esquire
 efquire esquire
 efsects effects
 eftabiifhing establishing
@@ -842,23 +910,35 @@ enaAed enacted
 enab1e enable
 ena&cd enacted
 enacfed enacted
+enaCfed enacted
+enacfted enacted
+enaclcd enacted
 enaCled enacted
 enactcd enacted
+en-acted enacted
 enaCted enacted
 enadfed enacted
 enadied enacted
 enadked enacted
 enadled enacted
+enadtcd enacted
 enadted enacted
+ena£ed enacted
 ena&ed enacted
 enaefted enacted
 enaeted enacted
 enafled enacted
+enaftcd enacted
 ena<fted enacted
 enafted enacted
+Enaftment Enactment
+enaHed enacted
 ena£lcd enacted
 enalted enacted
 ena&rd enacted
+enclofcd enclosed
+enclofed enclosed
+encompaffed encompassed
 endorfe endorse
 Englilh English
 Enliftment Enlistment
@@ -870,10 +950,13 @@ eredfing erecting
 eriafted enacted
 establi(hed established
 establi(hing establishing
+establijbing establishing
 ettimate estimate
 ettimation estimation
 euftoms customs
 (everal several
+exceed-\ ing exceeding
+exceed-ing exceeding
 Excefs Excess
 excifcable exciseable
 excifc excise
@@ -893,6 +976,8 @@ Exciie Excise
 exer-cife exercise
 Exer-cife Exercise
 Exercife Exercise
+Expira-\ tion Expiration
+Expira-tion Expiration
 exprefied expressed
 exprefted expressed
 exprejfed expressed
@@ -906,6 +991,8 @@ fait salt
 falefmen salesmen
 fale sale
 falfc false
+Fa&or Factor
+Fa&ors Factors
 fatd said
 fatif-faction satisfaction
 fatisfachon satisfaction
@@ -942,6 +1029,7 @@ fefiions sessions
 fefion session
 fefjion session
 feflion session
+fef-lions sessions
 feflions sessions
 fefllon session
 fefllons sessions
@@ -956,6 +1044,8 @@ fejfions sessions
 fejfton session
 fejjion session
 felfion session
+fe(lions sessions
+fe\ (lions sessions
 fellion session
 feparate separate
 fergemaker sergemaker
@@ -1052,11 +1142,13 @@ fijhing fishing
 filhery fishery
 filk silk
 finifbing finishing
+finijb finish
 finijbing finishing
 finking sinking
 firfi first
 fir\ ft  first
 firft first
+Firft first
 Firft First
 Firjh First
 firji first
@@ -1090,6 +1182,7 @@ fmaU small
 foch such
 °f of
 ©f of
+•f of
 foidiers soldiers
 foldier soldier
 foldiers soldiers
@@ -1136,6 +1229,7 @@ frcehold freehold
 frefh fresh
 fre(h fresh
 frejb fresh
+f°r for
 frpm from
 ftage stage
 ftamped stamped
@@ -1202,6 +1296,7 @@ fubjidies subsidies
 fubjidy subsidy
 fubjlance substance
 fublequent subsequent
+fub-stantial substantial
 fucb such
 fuccceding succceding
 fucceffors successors
@@ -1222,6 +1317,7 @@ fuch such
 fuCh such
 fucli such
 fueh such
+fufferings sufferings
 fuf-fer suffer
 fuffer suffer
 fuf-ficient sufficient
@@ -1256,7 +1352,9 @@ fuspending suspending
 fuspend suspend
 futficient sufficient
 futns sums
+fvvorn sworn
 fworn sworn
+fymparhy sympathy
 GAP CAP
 Gatehoufe Gatehouse
 Genera! General
@@ -1337,6 +1435,7 @@ hujbands husbands
 Hujbands Husbands
 hulband husband
 hunared hundred
+iecurity security
 iffiie issue
 iffiued issued
 iffiue issue
@@ -1344,6 +1443,8 @@ iffue issue
 Ifiands Islands
 ifiued issued
 ifiue issue
+Ifland Island
+Iflands Islands
 ifle isle
 Ifle Isle
 ifTued issued
@@ -1404,6 +1505,8 @@ inclofures inclosures
 inclulive inclusive
 Increafe Increase
 increafing increasing
+increafmg increasing
+Increafmg Increasing
 indidment indictment
 indi&ments indictments
 indofing inclosing
@@ -1451,6 +1554,8 @@ iuftice justice
 Iuftice Justice
 iuftices justices
 ivbereas whereas
+ivbicb which
+IVbicb Which
 ivefi west
 IVefi West
 ivhich which
@@ -1504,6 +1609,7 @@ Jhip ship
 Jhips ships
 Jhire shire
 Jhires shires
+JhiUings shillings
 Jhouid should
 jhould should
 Jhould should
@@ -1537,6 +1643,7 @@ Jlrong strong
 jncreafe increase
 Jntereft interest
 Jometimes sometimes
+jorafmuch forasmuch
 Jouthward southward
 jpeedily speedily
 Jpeedily speedily
@@ -1566,6 +1673,7 @@ jufiices justices
 Juflice Justice
 Juflices Justices
 juftice justice
+Ju-ftice Justice
 Juftice Justice
 ju-ftices justices
 juftices justices
@@ -1638,6 +1746,7 @@ Licenfed Licensed
 licenfing licensing
 licenfmg licensing
 lighthoufes lighthouses
+ligliter lighter
 likewife likewise
 lingular singular
 lnduftry industry
@@ -1660,6 +1769,8 @@ lufficient sufficient
 luftice justice
 luftices justices
 lunatlck lunatick
+Ma]efty Majesty
+ma]ejly majesty
 Mafefty Majesty
 mafejly majesty
 Mafejly Majesty
@@ -1668,6 +1779,7 @@ mafler master
 Mafler Master
 maflers masters
 Maflers Masters
+ma-fter master
 mafter master
 magifirates magistrates
 magiftrate magistrate
@@ -1721,6 +1833,7 @@ Majefifs Majestys
 majefiy majesty
 Ma-jefiy Majesty
 Majefiy Majesty
+Majeflv Majesty
 majefly majesty
 Ma-jefly Majesty
 Maje-fly Majesty
@@ -1781,6 +1894,7 @@ Majeliy Majesty
 Majellies Majesties
 Majellv Majesty
 majelly majesty
+Ma-jelly Majesty
 Majelly Majesty
 Majelties Majesties
 Majeltv Majesty
@@ -1792,6 +1906,8 @@ Majerty Majesty
 MajeRy Majesty
 majessy majesty
 Majessy Majesty
+Ma-\ jesty Majesty
+Ma\ jesty Majesty
 majesty\*s majesty's
 Majesty\*s Majesty's
 Majettv Majesty
@@ -1801,6 +1917,7 @@ ma\ jetty majesty
 majetty majesty
 Ma-\ jetty Majesty
 Ma-jetty Majesty
+Ma\ jetty Majesty
 Majetty Majesty
 Majeuy Majesty
 Majfly Majesty
@@ -1811,6 +1928,7 @@ Majler Master
 majlers masters
 Majlers Masters
 majtfty majesty
+makiag making
 malicioufiy maliciously
 malicioufly maliciously
 (mall small
@@ -1834,6 +1952,7 @@ manufaduring manufacturing
 Manufafture Manufacture
 manufaftures manufactures
 manufa&ured manufactured
+Manufa&ure Manufacture
 manvfafture manufacture
 marfhalfea marshalsea
 Marfhalfea Marshalsea
@@ -1899,11 +2018,39 @@ necefiary necessary
 neceftary necessary
 necejfary necessary
 necejjary necessary
+Negat1ve Negative
+Negativef Negatives
+Negativelv Negatively
+Neghgence Negligence
+Neglccted Neglected
+Neglcct Neglect
+Neglcft Neglect
 neglc&ing neglecting
+Neglecled Neglected
+Neglecling Neglecting
+Neglecl Neglect
+Neglecls Neglects
+Neglectcd Neglected
+Negleded Neglected
+Negleding Neglecting
+Negledled Neglected
+negledling neglecting
+Negledl Neglect
+Negled Neglect
+Negledted Neglected
+Negledting Neglecting
+Negledt Neglect
+Negle&ed Neglected
 negleet neglect
+Neglefted Neglected
+Neglefting Neglecting
 negle<ft neglect
+Negleft Neglect
+Neglefts Neglects
 negle&ing neglecting
 Negle&ing Neglecting
+Negle& Neglect
+Negle&S Neglects
 nevertbelefi nevertheless
 nevertbelejs nevertheless
 nevertbeless nevertheless
@@ -2085,6 +2232,7 @@ oyjler oyster
 paffages passages
 paffed passed
 Paffenger Passenger
+paffied passed
 pafied passed
 pafjed passed
 paflages passages
@@ -2136,6 +2284,7 @@ Par-liament
 par-\ liament parliament
 par-liament parliament
 par\ liament parliament
+Parlia-\ ment Parliament
 Parlia-ment Parliament
 partnerlhip partnership
 pa(Ted passed
@@ -2145,6 +2294,7 @@ paymajler paymaster
 pay\ ment payment
 pcr-fons persons
 (peed speed
+peijury perjury
 Penfion Pension
 penfions pensions
 penftoners pensioners
@@ -2183,6 +2333,10 @@ perrons persons
 per\ sons persons
 petfons persons
 pf of
+Phyfical Physical
+Phyfician Physician
+Phyficians Physicians
+Phyfick Physick
 (piritual spiritual
 playboufe playhouse
 pleafe please
@@ -2203,6 +2357,7 @@ poflefted possessed
 poftage postage
 pofteffion possession
 poftmafter postmaster
+Poftmaster Postmaster
 pojfejfed possessed
 pojfejfion possession
 pojl post
@@ -2211,6 +2366,10 @@ poorhoufes poorhouses
 popijh popish
 popilh popish
 porpofe purpose
+Potafh Potash
+Potafli Potash
+Potalh Potash
+Pra&ices Practices
 prefence presence
 pre-fentment presentment
 prefent present
@@ -2225,6 +2384,8 @@ premiftes premisses
 premifTes premisses
 Premiftes premisses
 premisles  premisses
+Present-ment Presentment
+Present-ments Presentments
 prifbn prison
 prifoner prisoner
 Prifoner Prisoner
@@ -2369,16 +2530,20 @@ raifed raised
 raife raise
 raifing raising
 raifmg raising
+raiftng raising
 rcfpc&ively respectively
 rcfpeftively respectively
 rcfpe&ively respectively
 reafonabje reasonable
+rea-\ fonable reasonable
+rea-fonable reasonable
 reafonable reasonable
 rea-fon reason
 reafon reason
 Rea-fon Reason
 rebeilion rebellion
 redifying rectifying
+Reduc-tion Reduction
 Redu&ion Reduction
 reffriblions restrictions
 reffrictions restrictions
@@ -2472,6 +2637,7 @@ Reftriftion Restriction
 reftriftions restrictions
 Reftriftions Restrictions
 Refufal Refusal
+refufmg refusing
 regifired registred
 regifter register
 Regiftrars Registrars
@@ -2513,6 +2679,8 @@ Seffions Sessions
 sefiion session
 Seflion Session
 Seflions Sessions
+Seijeant Serjeant
+Seijeants Serjeants
 Sejfion Session
 Sejfions Sessions
 Sejftons Sessions
@@ -2546,6 +2714,7 @@ survivorihips survivorship
 survivorihip survivorship
 survivorjhibs survivorship
 survivorlhip survivorship
+t0 to
 T17HEREAS WHEREAS
 T1THEREAS WHEREAS
 (tamped stamped
@@ -2565,6 +2734,8 @@ teflament testament
 teflamony testamony
 teftator testator
 tejlament testament
+tespectively respectively
+Tespectively respectively
 tfie the
 Thefe These
 themfdves themselves
@@ -2608,6 +2779,7 @@ thou\ (and thousand
 thoufancl thousand
 thou\ fa\ nd thousand
 thoufand thousand
+Thoufand Thousand
 thoufaud thousand
 thoufend thousand
 thoufind thousand
@@ -2637,8 +2809,8 @@ tnere there
 tne the
 tney they
 townfbips townships
-townfhips township
 town-fhips townships
+townfhips townships
 townfhip township
 townfihip township
 townfiiip township
@@ -2677,6 +2849,7 @@ treafurer treasurer
 Treafurer Treasurer
 trea-furer tresurer
 treafury treasury
+Trea-fury Treasury
 Treafury Treasury
 treajury treasury
 trealurer treasurer
@@ -2702,6 +2875,7 @@ Tuefday Tuesday
 tvhereas whereas
 TVTHEREAS WHEREAS
 twenfy twenty
+twen\ ty twenty
 TX7HEREAS WHEREAS
 TXTHEREAS WHEREAS
 TY7HEREAS WHEREAS
@@ -2751,11 +2925,13 @@ vejfel vessel
 velfel vessel
 verting vesting
 VI7HEREAS WHEREAS
+vidtualling victualling
 vifcount viscount
 Vifcount Viscount
 vifeountefs viscountess
 vifeount viscount
 Vifeount Viscount
+vi&ualling victualling
 vi&ual victual
 vjhereas whereas
 volun-teers volunteers
@@ -2787,6 +2963,9 @@ Weljhmen Welshmen
 whatfbever whatsoever
 whatfoever whatsoever
 whatfoeyer whatsoever
+whatso-ever whatsoever
+whbre where
+w\ hereas whereas
 Whitfuntide Whitsuntide
 witbin within
 Witnefc Witness
@@ -2804,6 +2983,8 @@ wnereas whereas
 Wnereas Whereas
 wnich which
 wnole whole
+woolien woollen
+Woolien Woollen
 worfteds worsteds
 workboufes workhouses
 workboufe workhouse
@@ -2844,92 +3025,4 @@ zvriting writing
 zvrits writs
 zvritten written
 zvrit writ
-difcre-tion discretion
-deftruc-tion destruction
-defer\ tion desertion
-defer-tion desertion
-considera-tion consideration
-confump-tion consumption
-conftitu-tion constitution
-compenfa-tion compensation
-a6tion action
-Poftmaster Postmaster
-ligliter lighter
-rea-fonable reasonable
-rea-\ fonable reasonable
-commif-\ fioners commissioners
-commif-fioners commissioners
-commif-iioners commissioners
-commif-iioner commissioner
-commif-(ioners commissioners
-commif-lioner commissioner
-commif-lioners commissioners
-Ma\ jesty Majesty
-Ma-\ jesty Majesty
-Ma-jelly Majesty
-Ma\ jetty Majesty
-Ma]efty Majesty
-ma]ejly majesty
-ma-fter master
-fe(lions sessions
-fe\ (lions sessions
-fef-lions sessions
-jorafmuch forasmuch
-[aid said
-paffied passed
-aft\ ion action
-aft\ ions actions
-Seijeants Serjeants
-Seijeant Serjeant
-Trea-fury Treasury
-Thoufand Thousand
-enclofed enclosed
-enclofcd enclosed
-encompaffed encompassed
-w\ hereas whereas
-Seijeant Serjeant
-IVbicb Which
-ivbicb which
-JhiUings shillings
-ef-quire esquire
-ef\ quire esquire
-vidtualling victualling
-Afhes Ashes
-Afliftance Assistance
-Addrefles Addresses
-Clofe Close
-Afliflants Assistants
-Defcription Description
-finijb finish
-establijbing establishing
-coaclimen coachmen
-coacliman coachman
-woolien woollen
-Woolien Woollen
-peijury perjury
-raiftng raising
-bom born
-Conftderation Consideration
-conftdering considering
-accord\ ing according
-twen\ ty twenty
-dilpofed disposed
-Conftablewick Constablewick
-Conftablewicks Constablewicks
-Conftablewieks Constablewicks
-Conffable Constable
-afoiefaid aforesaid
-aforefnid aforesaid
-t0 to
-deferibing describing
-Commiflioncrs Commissioners
-cleanfmg cleansing
-Cleanfmg Cleansing
-fvvorn sworn
-increafmg increasing
-Increafmg Increasing
-compofmg composing
-caufmg causing
-refufmg refusing
-Conftrudtions Constructions
-Conftrudlions Constructions
+

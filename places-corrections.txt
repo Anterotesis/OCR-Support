@@ -30,6 +30,7 @@ Bijbopfgate Bishopsgate
 Bijhopfgate Bishopsgate
 Bilhopfgate Bishopsgate
 Bloomlbury Bloomsbury
+Bom-bay Bombay
 Botolpbs Botolphs
 Brecknockfhire Brecknockshire
 Brecknockfliire Brecknockshire
@@ -70,6 +71,7 @@ Cbester Chester
 Cbicbefier Chichester
 Cbicbefter Chichester
 Cbichefler Chichester
+Cbichester Chichester
 Cheapfide Cheapside
 Chefhire Cheshire
 Chefier Chester
@@ -122,6 +124,7 @@ Eafi\ Indies East\ Indies
 Eaf\ Indies East\ Indies
 Eafl-Indies East-Indies
 Eaft-India East-India
+Eafton Easton
 Eajl-India East-India
 Eajl-Indies East-Indies
 Efsex Essex
@@ -142,7 +145,11 @@ Folkeftone Folkestone
 Folkftone Folkstone
 fVefiminster Westminster
 fVeJlminfler Westminster
+Glafeow Glasgow
+Glafgbw Glasgow
+Glafgoiv Glasgow
 Glafgow Glasgow
+Glafgpw Glasgow
 Glajlonbury Glastonbury
 Glalgow Glasgow
 Glamorganfhirc Glamorganshire
@@ -188,6 +195,7 @@ Gloutester Gloucester
 Glouttfter Gloucester
 Gofport Gosport
 Gravefend Gravesend
+Green-wich Greenwich
 Grimfby Grimsby
 Grimlby Grimsby
 Grinjlead Grinstead
@@ -263,7 +271,11 @@ IVeJlminster Westminster
 IVeJlminstir Westminster
 IVeJlmoreland Westmoreland
 IVejlmorland Westmorland
+Ivelcbejier Ivelchester
+Ivelcbejler Ivelchester
+Ivelchefler Ivelchester
 Ivelchefter Ivelchester
+Ivelchejler Ivelchester
 IVinchejler Winchester
 IVorcefier Worcester
 IVorcefler Worcester
@@ -333,8 +345,11 @@ Leicejler Leicester
 Leominjier Leominster
 Lifbon Lisbon
 Lijbon Lisbon
+Lon-\ don London
+Lon-don London
 Loudon London
 Maffachufets Massachusets
+Maidflone Maidstone
 Maidjlone Maidstone
 Mancbefter Manchester
 Manchefer Manchester
@@ -365,8 +380,8 @@ MiddIesex Middlesex
 MiddJefex Middlesex
 MiddJesex Middlesex
 Middlcfex Middlesex
-Middlcfex Middlseex
 Middlcsex Middlesex
+Middle-fex Middlesex
 Middlefex Middlesex
 MiddlefeX Middlesex
 Middlefiex Middlesex
@@ -397,6 +412,7 @@ Mlddlrfcx Middlesex
 Mtddlefex Middlesex
 Mtddlesex Middlesex
 Najfau Nassau
+Newbaven Newhaven
 Newcafle Newcastle
 Newcaflie Newcastle
 Newcaflle Newcastle
@@ -456,6 +472,7 @@ RuJJia Russia
 Saltafh Saltash
 Sbipton Shipton
 Scot-land Scotland
+Sheernefs Sheerness
 Shropfhirc Shropshire
 Shropfhire Shropshire
 Shropfliire Shropshire
@@ -500,8 +517,10 @@ Tewkfbury Tewksbury
 Thame$ Thames
 Torkjhire Yorkshire
 Tunjlall Tunstall
+tvestminster Westminster
 uponThames upon\ Thames
 vveftminster Westminster
+Wbittlefey Whittlesey
 Wcflminfter Westminster
 Wcftminfter Westminster
 Wcftminster Westminster
@@ -540,6 +559,7 @@ Wefimnfler Westminster
 Wefimnjier Westminster
 Wefimnjler Westminster
 Weflminjler Westminster
+Weftininster Westminster
 Weftminfier Westminster
 Weftminfler Westminster
 Weftminftcr Westminster
@@ -548,6 +568,7 @@ Weftmin-fter Westminster
 Weftminfter Westminster
 Weftminjler Westminster
 Weftminlter Westminster
+weftminster westminster
 Weft-minster Westminster
 Weftminster Westminster
 Weftmirffter Westminster
@@ -585,10 +606,13 @@ Wejlminfler Westminster
 Wejlminfter Westminster
 Wejlminjler Westminster
 Wejlminster Westminster
+Wejlmmfter Westminster
 Wejlmorland Westmorland
 Wejlmtnjler Westminster
+Weltminster Westminster
 Wesiminfier Westminster
 Westminfer Westminster
+Westminffer Westminster
 Westminfier Westminster
 Westminfitr Westminster
 Westminflcr Westminster
@@ -598,6 +622,8 @@ Westmin-ftcr Westminster
 Westminftir Westminster
 Westminfttr Westminster
 Westminijler Westminster
+Westminjhr Westminster
+WestminJhr Westminster
 Westminjier Westminster
 WestminJier Westminster
 Westminjlcr Westminster
@@ -608,14 +634,20 @@ WestminJler Westminster
 WestminJltr Westminster
 Westminjter Westminster
 WestminJter Westminster
+WestminjUr Westminster
+WestminJUr Westminster
 Westminstcr Westminster
 Westminstir Westminster
 Westmintler Westminster
 Westmintter Westminster
 Westmitfter Westminster
 Westmitifter Westminster
+Westmlnfter Westminster
 Westmlnjler Westminster
 WestmlnJler Westminster
+Westmmfter Westminster
+Whittlefea Whittlesea
+Whittlefey Whittlesey
 Wieflminfler Westminster
 Wifbech Wisbech
 Wifiminfler Westminster
@@ -659,6 +691,7 @@ Worcejler Worcester
 Workfop Worksop
 Yorbjhire Yorkshire
 Yorkfbire Yorkshire
+Yorkfhire Yorkshire
 Yorkfiiire Yorkshire
 Yorkfitire Yorkshire
 Yorkfkire Yorkshire
@@ -677,24 +710,4 @@ YorkJJnre Yorkshire
 Yorklhire Yorkshire
 Yorldhire Yorkshire
 Zoucb Zouch
-WestminjUr Westminster
-WestminJUr Westminster
-Westminjhr Westminster
-WestminJhr Westminster
-Whittlefey Whittlesey
-Wbittlefey Whittlesey
-Maidflone Maidstone
-Whittlefea Whittlesea
-Newbaven Newhaven
-Cbichester Chichester
-Westmmfter Westminster
-Wejlmmfter Westminster
-Westmlnfter Westminster
-Bom-bay Bombay
-Glafgoiv Glasgow
-Glafgow Glasgow
-Glafgpw Glasgow
-Glafgbw Glasgow
-Glafeow Glasgow
-tvestminster Westminster
 

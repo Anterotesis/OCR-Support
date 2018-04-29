@@ -1,5 +1,4 @@
-Parifh Parish
-Dorfet Dorset
+Aaminiftrator Administrator
 abftrac abstrac
 accomplijb accomplish
 accomplijh accomplish
@@ -20,6 +19,8 @@ andafter and\ after
 andalfo and\ also
 andfub and\ sub
 anfvver answer
+anfwer answer
+Anfwer Answer
 anjwer answer
 Annodec Anno\ dec
 Annoduo Anno\ duo
@@ -64,6 +65,7 @@ chefter chester
 chrift christ
 churcb church
 cjuad quad
+Colleftion Collection
 Commiffio Commissio
 commiffioh commission
 commiffiom commission
@@ -97,6 +99,8 @@ coun-terfeit counterfeit
 crofs cross
 cuftom custom
 Cuftom Custom
+cxtinguif extinguis
+cxtra& extract
 decimofexto decimo\ sexto
 decimotertio decimo\ tertio
 deftroy destroy
@@ -125,6 +129,7 @@ Ditcb Ditch
 divifion division
 divifton division
 djhire dshire
+Dorfet Dorset
 Eaft-Ind East-Ind
 effedual effectual
 effion ession
@@ -237,12 +242,17 @@ jlamp stamp
 Jlamp stamp
 jlaple staple
 jlminster stminster
+Jndge Judge
 jpirit spirit
 Jpirit spirit
 jubfcrib subscrib
 jubfcrip subscrip
+Juflice Justice
+Jufticc Justice
 juftice justice
+Juftice Justice
 juftic justic
+Juftiee Justice
 jurifdid jurisdict
 jurifdi jurisdi
 jveftmin Westmin
@@ -254,6 +264,12 @@ mafter master
 magiftrat magistrat
 magijlrate magijlrate
 maieft majest
+majefby majesty
+Majefby Majesty
+majefcy majesty
+Majefcy Majesty
+majefdy majesty
+Majefdy Majesty
 majeft majest
 majelt majest
 majestv majesty
@@ -284,12 +300,19 @@ neverthc neverthe
 nonoGeo nono\ Geo
 notwithftand notwithstand
 obferv observ
+occaflon occasion
+Occaflon Occasion
 othcrw otherw
 otherwife otherwise
 parifb parish
 Parifb Parish
+Parifh Parish
+phyfic physic
+Phyfic Physic
 poffeff possess
 poftmaster postmaster
+prefent present
+Prefent Present
 preferv preserv
 prifon prison
 proviflon provision
@@ -348,28 +371,68 @@ triccfimo tricesimo
 tricefi tricesi
 tricesimopri tricesimo\ pri
 tricesimose tricesimo\ se
+tvejlmin Westmin
 twenfy twenty
+Utenfil Utensil
 vefifels vessels
 vicefimo vicesimo
 vifcount viscount
 Vifcount Viscount
 vifions visions
 Vilcount Viscount
+-vpon- -upon-
 warehoul warehous
 Weflmin Westmin
 Weftmin Westmin
 Weftmtn Westmin
 Weftm Westm
 Wejimin Westmin
+Wejlmin Westmin
+Wejlmln Westmin
+Wejtmin Westmin
+Wejtmln Westmin
 Weslmin Westmin
 Westminft Westminst
 Wincbe Winche
 withftanding withstanding
 withoutlic without\ lic
 zvhicb which
-tvejlmin Westmin
-Wejtmin Westmin
-Wejtmln Westmin
-Wejlmin Westmin
-Wejlmln Westmin
-Juftiee Juftice
+prccinft precinct
+Prccinft Precinct
+Eftimate Estimate
+Subjeft Subject
+Sub-jeft Subject
+Subje& Subject
+f°rty forty
+AJbton Ashton
+AfTeflment Assessment
+AfTefTor Assessor
+aftault assault
+fpread spread
+rcgiftcr register
+obftrucf obstruct
+obftruCt obstruct
+obftrubt obstruct
+obftrubl obstruct
+ob-ferve observe
+Eafement Easement
+Eafi-Ind East-Ind
+Eafl-Ind East-Ind
+Eaft-lnd East-Ind
+tertioE tertio\ E
+tertioG tertio\ G
+archhifhop archbishop
+Archhifhop Archbishop
+bifhop bishop
+Profccution Prosecution
+fhil-ling shilling
+fhilliag shilling
+Townftiip Township
+Townfliip Township
+Townfhip Township
+Townffiip Township
+Townfbip Township
+fourtb fourth
+Correftion Correction
+Jhopfgate shopsgate
+jhopfgate shopsgate

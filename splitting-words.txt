@@ -1,6 +1,9 @@
 abettorsof abettors\ of
 abfenceof absence\ of
+actfor act\ for
 Actfor Act\ for
+aftpaffed act\ passed
+Aftpaffed Act\ passed
 Anaft An\ act
 andabufes and\ abuses
 andalfo and\ also
@@ -36,6 +39,7 @@ bemade be\ made
 Britijbcolonies British\ colonies
 britishfugar british\ sugar
 butalfo but\ also
+byand by\ and
 confentof consent\ of
 difpofedof disposed\ of
 dischargedfrom discharged\ from
@@ -55,6 +59,7 @@ GeorgiiII Georgii\ II
 GreatBritain Great\ Britain
 ingthe ing\ the
 jecondyear second\ year
+jhouldbe should\ be
 KingJames King\ James
 KingWilliam King\ William
 lordsfpiritual lords\ spiritual
@@ -104,6 +109,7 @@ onethouland one\ thousand
 onethousand one\ thousand
 orfuch or\ such
 orthemfelves or\ themselves
+paffedin passed\ in
 parifof parish\ of
 pfthe of\ the
 purchafeof purchase\ of
@@ -154,10 +160,10 @@ theyJbould they\ should
 thiskingdom this\ kingdom
 thousandfix thousand\ six
 thousandseven thousand\ seven
+tofay to\ say
 toferve to\ serve
 tofuch to\ such
 tohis to\ his
 yearof year\ of
-paffedin passed\ in
 YTTHEREASan WHEREAS\ an
-tofay to\ say
+
