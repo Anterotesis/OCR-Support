@@ -7,10 +7,16 @@ advertife advertise
 Advertife Advertise
 advife advise
 advowfon advowson
+a£f act
 affeff assess
 affign assign
 aforesaidy aforesaid,
+aftault assault
+AfTeflment Assessment
+AfTefTor Assessor
+Afturance Assurance
 agefimo agesimo
+AJbton Ashton
 ajcertain ascertain
 alehoufc alehouse
 almfhouse almshouse
@@ -37,11 +43,15 @@ Annotric Anno\ tric
 Announ Anno\ un
 Annovi Anno\ vi
 Annovic Anno\ vic
+archhifhop archbishop
+Archhifhop Archbishop
+bifhop bishop
 bijhop bishop
 Bijhop Bishop
 bis\ Maj his\ Maj
 blifhed blished
 bofpital hospital
+Bookfeller Bookseller
 borougb borough
 Britifb British
 Britifh British
@@ -94,6 +104,7 @@ conftable constable
 cornmiffion commission
 correfpond correspond
 Correfpond Correspond
+Correftion Correction
 coun-fel counsel
 coun-terfeit counterfeit
 crofs cross
@@ -130,7 +141,11 @@ divifion division
 divifton division
 djhire dshire
 Dorfet Dorset
+Eafement Easement
+Eafi-Ind East-Ind
+Eafl-Ind East-Ind
 Eaft-Ind East-Ind
+Eaft-lnd East-Ind
 effedual effectual
 effion ession
 eftabli establi
@@ -138,21 +153,27 @@ eftablifh establish
 eftablijh establish
 eftahlifh establish
 eftahlijh establish
+Eftimate Estimate
 enaded enacted
 Englifh English
 englijb english
 Englijb English
 Englijh English
 ertablish establish
+Expencc Expence
+fatisfaft satisfact
 fchool school
 fecond second
 fecurity security
+Fenaltie Penaltie
 ferjeant serjeant
 fervice service
 fetfhire setshire
 feven seven
 fextoG sexto\ G
 fhall shall
+fhilliag shilling
+fhil-ling shilling
 fhilling shilling
 -fhire -shire
 fhire- shire-
@@ -167,12 +188,15 @@ forefeid foresaid
 forejlall forestall
 fortv forty
 Fortv Forty
+fourtb fourth
 fovereig sovereig
 fpecifi specifi
 fpedive spective
 fpeftive spective
 fpirit spirit
+fpread spread
 franchife franchise
+f°rty forty
 ftminster stminster
 fubdiv subdiv
 fubfcrib subscrib
@@ -208,6 +232,7 @@ Gloucejler Gloucester
 GlouceJler Gloucester
 Gxorgi Georgi
 havebeen have\ been
+HEKEAS HEREAS
 hismaj his\ maj
 hisMaj his\ Maj
 Hismaj His\ maj
@@ -236,6 +261,8 @@ Jhall shall
 jhirc shire
 jhire shire
 Jhire shire
+jhopfgate shopsgate
+Jhopfgate shopsgate
 jhort short
 Jhort short
 jlamp stamp
@@ -264,12 +291,14 @@ mafter master
 magiftrat magistrat
 magijlrate magijlrate
 maieft majest
+Majcfty Majesty
 majefby majesty
 Majefby Majesty
 majefcy majesty
 Majefcy Majesty
 majefdy majesty
 Majefdy Majesty
+Majeflie Majestie
 majeft majest
 majelt majest
 majestv majesty
@@ -299,7 +328,15 @@ nevertbe neverthe
 neverthc neverthe
 nonoGeo nono\ Geo
 notwithftand notwithstand
+ob-ferve observe
 obferv observ
+obftrubl obstruct
+obftrubt obstruct
+obftrucf obstruct
+obftruct obstruct
+obftruCt obstruct
+Obftru&ing Obstructing
+Obftru&ion Obstruction
 occaflon occasion
 Occaflon Occasion
 othcrw otherw
@@ -311,10 +348,13 @@ phyfic physic
 Phyfic Physic
 poffeff possess
 poftmaster postmaster
+prccinft precinct
+Prccinft Precinct
 prefent present
 Prefent Present
 preferv preserv
 prifon prison
+Profccution Prosecution
 proviflon provision
 publilh publish
 Publilh Publish
@@ -334,6 +374,7 @@ quintoGE quinto\ GE
 quintoGu quinto\ Gu
 ragcfimo ragesimo
 rcfpec respec
+rcgiftcr register
 reafcn reason
 reafon reason
 recoyer recover
@@ -355,10 +396,15 @@ Somcrfct Somerset
 Somcrfet Somerset
 Somerfct Somerset
 Somerfet Somerset
+Sub-jeft Subject
+Subjeft Subject
+Subje& Subject
 tbirty thirty
 tborp thorp
 tbou thou
 tcrtio tertio
+tertioE tertio\ E
+tertioG tertio\ G
 theauthor the\ author
 theAuthor the\ Author
 Theauthor The\ author
@@ -367,6 +413,13 @@ theirc their\ c
 theparifh the\ parish
 theParifh the\ Parish
 ti(h tish
+Townfbip Township
+Townffiip Township
+townfhip township
+Townfhip Township
+Townfliip Township
+Townftiip Township
+townlhip township
 triccfimo tricesimo
 tricefi tricesi
 tricesimopri tricesimo\ pri
@@ -376,6 +429,7 @@ twenfy twenty
 Utenfil Utensil
 vefifels vessels
 vicefimo vicesimo
+VICT0R VICTOR
 vifcount viscount
 Vifcount Viscount
 vifions visions
@@ -397,42 +451,40 @@ Wincbe Winche
 withftanding withstanding
 withoutlic without\ lic
 zvhicb which
-prccinft precinct
-Prccinft Precinct
-Eftimate Estimate
-Subjeft Subject
-Sub-jeft Subject
-Subje& Subject
-f°rty forty
-AJbton Ashton
-AfTeflment Assessment
-AfTefTor Assessor
-aftault assault
-fpread spread
-rcgiftcr register
-obftrucf obstruct
-obftruCt obstruct
-obftrubt obstruct
-obftrubl obstruct
-ob-ferve observe
-Eafement Easement
-Eafi-Ind East-Ind
-Eafl-Ind East-Ind
-Eaft-lnd East-Ind
-tertioE tertio\ E
-tertioG tertio\ G
-archhifhop archbishop
-Archhifhop Archbishop
-bifhop bishop
-Profccution Prosecution
-fhil-ling shilling
-fhilliag shilling
-Townftiip Township
-Townfliip Township
-Townfhip Township
-Townffiip Township
-Townfbip Township
-fourtb fourth
-Correftion Correction
-Jhopfgate shopsgate
-jhopfgate shopsgate
+g°°d good
+GE0 GEO
+G1I GII
+rcgjfter register
+vertifement vertisement
+verthelefs vertheless
+vfcefi vicesi
+warehoufc warehouse
+Warehoufc Warehouse
+difenarge discharge
+difeontinu discontinu
+effeSual effectual
+(tatute statute
+ajfejfment assessment
+Ajfejfment Assessment
+AJfeJfment Assessment
+ajfejj assess
+ajfemblc assemble
+AJfurance Assurance
+AJhton Ashton
+AJhby Ashby
+Zoucb Zouch
+efpecial especial
+eftabfifh establish
+Perfon Person
+Aftign Assign
+Aftion Action
+ofdebt of\ debt
+ccmmiff commiss
+commiff commiss
+ccnfider consider
+Jerfey Jersey
+di&ion diction
+fa&ion faction
+du&ion duction
+Jerjeant serjeant
+truftees trustees

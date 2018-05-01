@@ -1,6 +1,9 @@
 Ail\ Act An\ Act
 ail\ such all\ such
 ail\ the all\ the
+Ex-pence Expence
+Fenalty Penalty
+Fen-cibles Fencibles
 jng ing
 jn in
 Newbaven Newhaven
@@ -14,6 +17,7 @@ Seijeants Serjeants
 snch such
 tbat that
 Tbat That
+Vicf Vict
 Vicrr Vict
 VICTOR!® VICTORIAE
 ViCT VICT
@@ -21,6 +25,7 @@ Vjct Vict
 VjCT VICT
 VlcT Vict
 VlCt Vict
+VlOT VICT
 Vn\ Act An\ Act
 Vncancies Vacancies
 vonshireor vonshire\ or
@@ -31,4 +36,7 @@ VV\ Reign Reign
 VV\ the the
 w\ hereas whereas
 wnich which
+Yicarage Vicarage
+Yicr Vict
+YiCT VICT
 
