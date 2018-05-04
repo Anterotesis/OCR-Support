@@ -1,6 +1,7 @@
 Ail\ Act An\ Act
 ail\ such all\ such
 ail\ the all\ the
+Cnurch Church
 Ex-pence Expence
 Fenalty Penalty
 Fen-cibles Fencibles
@@ -14,13 +15,17 @@ Penally Penalty
 Penaltie8 Penalties
 Seijeant Serjeant
 Seijeants Serjeants
+snbject subject
 snch such
+StampDuties Stamp\ Duties
 tbat that
 Tbat That
 Vicf Vict
 Vicrr Vict
 VICTOR!® VICTORIAE
 ViCT VICT
+Viot Vict
+ViOT VICT
 Vjct Vict
 VjCT VICT
 VlcT Vict
@@ -34,9 +39,14 @@ Vrcr Vict
 VtCT VICT
 VV\ Reign Reign
 VV\ the the
+We&minster Westminster
+wenty twenty
 w\ hereas whereas
 wnich which
+Yerdict Verdict
+Yestry Vestry
 Yicarage Vicarage
 Yicr Vict
 YiCT VICT
+YICT VICT
 

@@ -58,13 +58,12 @@ feptimo septimo
 feptlmo septimo
 fexto sexto
 ftptimo septimo
-GEORG\ II GEORGII
-gfcorgii Georgii
 Gborgii Georgii
 Gboroii Georgii
 Gbougii Georgii
 Gcorgii Georgii
 GE0RGII GEORGII
+Ge6rgii Georgii
 Gebrgii Georgii
 Gecrgii Georgii
 Gecrgij Georgii
@@ -160,6 +159,7 @@ GEorgii Georgii
 GEORGii Georgii
 G-EORGII GEORGII
 GE\ ORGII GEORGII
+GEORG\ II GEORGII
 GeorgiiIII Georgii\ III
 Georgii\ TIT Georgii\ III
 Georgij Georgii
@@ -169,8 +169,10 @@ Georgji Georgii
 GeorgjI Georgii
 GeoRgji Georgii
 GeoRGJI Georgii
+GEORGJI GEORGII
 Georgjj Georgii
 georgli Georgii
+GEORGlI GEORGII
 Georgn Georgii
 georgti Georgii
 Georgti Georgii
@@ -212,6 +214,7 @@ GeoUGII Georgii
 GEougii Georgii
 Geqrgii Georgii
 GEQRGII GEORGII
+gfcorgii Georgii
 GfioRGii Georgii
 Gkorgii Georgii
 G£orgii Georgii
@@ -229,6 +232,7 @@ GpoRQij Georgii
 Grorgii Georgii
 Gsorgii Georgii
 Guublmi Gulielmi
+Hcnrici Henrici
 iecundo secundo
 Nift\ Prius Nisi\ Prius
 noftre nostre
@@ -359,6 +363,8 @@ regnl regni
 regnt regni
 tcrtio tertio
 terrio tertio
+terti0 tertio
+tertia tertio
 tertid tertio
 tertlo tertio
 tncefimo tricesimo
@@ -481,6 +487,7 @@ viceGmo vicesimo
 viceiimo vicesimo
 vicejimo vicesimo
 vicelimo vicesimo
+vicesimu vicesimo
 vicetimo vicesimo
 vicifimo vicesimo
 vicpfimo vicesimo
@@ -510,7 +517,4 @@ yiccfimo vicesimo
 yicefimo vicesimo
 Yicefimo vicesimo
 ylcefimo vicesimo
-terti0 tertio
-tertia tertio
-Hcnrici Henrici
-Ge6rgii Georgii
+

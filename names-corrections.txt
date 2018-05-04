@@ -1,3 +1,4 @@
+6eorge George
 Augufla Augusta
 Auguflus Augustus
 Buttolpbes Buttolphes
@@ -13,6 +14,7 @@ Chrlftopher Christopher
 Ckriftopher Christopher
 Ckrijlopber Christopher
 Dickenfon Dickenson
+Douglafs Douglass
 Edivard Edward
 Eliab Eliah
 Fitzvvilliam Fitzwilliam
@@ -20,8 +22,12 @@ FitzwDliam Fitzwilliam
 Fitzwiliiam Fitzwilliam
 FitzwiUiam Fitzwilliam
 fVilliam William
+Hewfon Hewson
 Ifabel Isabel
 IVilliam William
+Jack-fon Jackson
+Jackfon Jackson
+Jacobfon Jacobson
 Jcfepb Joseph
 Jofepb Joseph
 Jofeph Joseph
@@ -32,9 +38,6 @@ Oeorge George
 Robinfon Robinson
 Sufannah Susannah
 Tbompfon Thompson
-Jackfon Jackson
-Jack-fon Jackson
-Jacobfon Jacobson
 Thompfon Thompson
 tvilliam William
 Watfon Watson

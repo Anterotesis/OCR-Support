@@ -15,6 +15,7 @@ Amfterdam Amsterdam
 Anglefey Anglesey
 Anglefeyshire Angleseyshire
 Anglejea Anglesea
+Annefley Annesley
 Aylefbury Aylesbury
 Balingftoke Basingstoke
 Barnfley Barnsley
@@ -46,6 +47,7 @@ Brighthelmftone Brighthelmstone
 Brijlol Bristol
 Briltol Bristol
 Bri\ tain Britain
+Brix-ham Brixham
 Bromfgrove Bromsgrove
 Brunfwick Brunswick
 Btckingham Buckingham
@@ -140,6 +142,8 @@ Englancl England
 Eng-land England
 Exhamfhire Exhamshire
 Failfworth Failsworth
+Finchampflead Finchampstead
+Finchampjlead Finchampstead
 Finijlerre Finisterre
 Folkeftone Folkestone
 Folkftone Folkstone
@@ -488,6 +492,7 @@ Somerfct Somerset
 Somerfetfhire Somersetshire
 Somerfet Somerset
 Sornerfet Somerset
+Southzvark Southwark
 Staffordfiiire Staffordshire
 Staffordftiire Staffordshire
 staffordihire staffordshire
@@ -511,6 +516,8 @@ SuJJcx Sussex
 Sujjex Sussex
 SuJJex Sussex
 Sujsex Sussex
+Taviftock Tavistock
+Tavijlock Tavistock
 Tewkejbury Tewkesbury
 Tewkelbury Tewkesbury
 Tewkfbury Tewksbury
@@ -710,8 +717,4 @@ YorkJJnre Yorkshire
 Yorklhire Yorkshire
 Yorldhire Yorkshire
 Zoucb Zouch
-Brix-ham Brixham
-Southzvark Southwark
-Taviftock Tavistock
-Tavijlock Tavistock
 
