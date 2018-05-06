@@ -1,4 +1,10 @@
 0f of
+6hall shall
+6tock stock
+6tored stored
+6ucb such
+6uch such
+6Uch such
 7HEREAS WHEREAS
 a£1 act
 a£1s acts
@@ -297,6 +303,8 @@ an-fwered answered
 an-nuity annuity
 annulied annulled
 answerabie answerable
+anY any
+appiy apply
 ap-pointed appointed
 apprenticelhip apprenticeship
 aqd and
@@ -807,11 +815,19 @@ Difiridts Districts
 difperse disperse
 difpofed disposed
 difpofe dispose
+Difpofition Disposition
 difpoled disposed
+difposing disposing
+Difposition Disposition
 Diftance Distance
 Diftances Distances
 diftemper distemper
+diftiiler distiller
+Diftiiler Distiller
+diftilied distilled
 diftiliers distillers
+Diftillation Distillation
+Diftillcr Distiller
 diftilled distilled
 diftiller distiller
 Diftiller Distiller
@@ -1186,6 +1202,7 @@ fHOufand thousand
 fhouid should
 fhould should
 fiatutes statutes
+fick-nefs sickness
 fide side
 Fifheries Fisheries
 fifh fish
@@ -1267,9 +1284,15 @@ Forejl Forest
 forejls forests
 Forejls Forests
 fo so
+foutb south
 foutbward southward
+fouth-eaft south-east
 fouth south
+foveraigne soveraigne
+fo-vereign sovereign
+fove-reign sovereign
 fownships townships
+fpaceof space\ of
 fpace space
 fpeciai special
 fpe-cially specially
@@ -1404,6 +1427,7 @@ fum sum
 fuoh such
 fupervisor supervisor
 fuppfies supplies
+fup-plies supplies
 fupplying supplying
 fupply supply
 fupporting supporting
@@ -1465,6 +1489,10 @@ heredi-taments hereditaments
 hewfpapers newspapers
 (hewing shewing
 (hewn shewn
+Hiftory History
+Higbgate Highgate
+higbnefs highness
+Higbnefs Highness
 high-nefs highness
 highnefs highness
 High-nefs Highness
@@ -1585,7 +1613,9 @@ increafing increasing
 increafmg increasing
 Increafmg Increasing
 indidment indictment
+Indi&ment Indictment
 indi&ments indictments
+indiredlly indirectly
 indofing inclosing
 indofmg inclosing
 indorfe indorse
@@ -1618,6 +1648,7 @@ ingrofled ingrossed
 ingrofs ingross
 inoft most
 inrolied inrolled
+In-spectors Inspectors
 Intereft Interest
 interejl interest
 interji interest
@@ -1759,6 +1790,8 @@ ju-ftices justices
 juftices justices
 Juft\ ices Justices
 Juftices Justices
+juftiecs justices
+Juftiecs Justices
 juftiee justice
 juftiees justices
 juft just
@@ -1810,6 +1843,7 @@ lajt last
 (lamped stamped
 latisfy satisfy
 (lave slave
+lawfiil lawful
 lcafchold leasehold
 Lcafchold Leasehold
 lcafc lease
@@ -1843,6 +1877,7 @@ ligliter lighter
 likewife likewise
 lingular singular
 lnduftry industry
+lnterest interest
 lofs loss
 lome some
 lordihip lordship
@@ -2172,6 +2207,9 @@ neverthefefc nevertheless
 neverthefess nevertheless
 nevertheiefs nevertheless
 neverthejess nevertheless
+neverthekfs nevertheless
+neverthelcfs nevertheless
+never-thelefs nevertheless
 neverthelefs nevertheless
 nevertHelefs nevertheless
 neVerthelefs nevertheless
@@ -2523,11 +2561,15 @@ prijon  prison
 prilbn prison
 Procefs Process
 procejfes processes
+Proc-tors Proctors
 Produ&ion Production
 profccutor prosecutor
 profecution prosecution
 profeeuted prosecuted
 pro-grefs progress
+progrejfive progressive
+progrejftve progressive
+progrejjive progressive
 proiecuted prosecuted
 proiecute prosecute
 promiflory promissory
@@ -2637,6 +2679,10 @@ purebafe  purchase
 purehafed purchased
 purehafe purchase
 purehafer purchaser
+purfuanceof pursuance\ of
+pur-fuance pursuance
+purfuance pursuance
+purfuanee pursuance
 Purpofc Purpose
 pur-pofe purpose
 purpofe purpose
@@ -2646,7 +2692,10 @@ Pur-pofes Purposes
 Purpofes Purposes
 purpole purpose
 purpoles purposes
+Pvblic Public
+P&yment Payment
 qf of
+Qommissioners Commissioners
 Qreat Great
 quarfer quarter
 queftions questions
@@ -2800,6 +2849,7 @@ reyoked revoked
 riotwithstanding notwithstanding
 rofemary rosemary
 °r or
+Saiut Saint
 Satisfa3ion Satisfaction
 Satisfaftion Satisfaction
 Satisfa&ion Satisfaction
@@ -2845,6 +2895,8 @@ Succeffors Successors
 Succefiors Successors
 succeftors successors
 succeftor successor
+Sun-day Sunday
+Sun-set Sunset
 survivorfhip survivorship
 survivorfliip survivorship
 survivorflup survivorship
@@ -3122,6 +3174,8 @@ whatfoeyer whatsoever
 whatso-ever whatsoever
 whbre where
 w\ hereas whereas
+whicli which
+whicn which
 Whitfuntide Whitsuntide
 witbin within
 Witnefc Witness
@@ -3148,6 +3202,7 @@ workboufe workhouse
 XTTHEREAS WHEREAS
 Y1THEREAS WHEREAS
 Yicarage Vicarage
+Yicar Vicar
 YITHEREAS WHEREAS
 Ylf\ HEREAS WHEREAS
 YlfHEREAS WHEREAS
@@ -3182,43 +3237,4 @@ zvriting writing
 zvrits writs
 zvritten written
 zvrit writ
-fup-plies supplies
-appiy apply
-In-spectors Inspectors
-Pvblic Public
-P&yment Payment
-Qommissioners Commissioners
-Saiut Saint
-progrejjive progressive
-progrejfive progressive
-progrejftve progressive
-Hiftory History
-Higbgate Highgate
-Higbnefs Highness
-higbnefs highness
-anY any
-Proc-tors Proctors
-fick-nefs sickness
-juftiecs justices
-Juftiecs Justices
-lawfiil lawful
-indiredlly indirectly
-Indi&ment Indictment
-purfuance pursuance
-pur-fuance pursuance
-purfuanee pursuance
-purfuanceof pursuance\ of
-fpaceof space\ of
-fo-vereign sovereign
-fove-reign sovereign
-foveraigne soveraigne
-fouth-eaft south-east
-foutb south
-Diftillcr Distiller
-Diftillation Distillation
-diftilied distilled
-Diftiiler Distiller
-diftiiler distiller
-difposing disposing
-Difposition Disposition
-Difpofition Disposition
+
