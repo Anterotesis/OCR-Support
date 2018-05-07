@@ -494,3 +494,6 @@ in\ ibe in\ the
 buying\ and\ felling buying\ and\ selling
 willingly\ aft willingly\ act
 wilfully\ aft wilfully\ act
+An\ a8 An\ act
+a9\ aforesaid as\ aforesaid
+the\ ufc the\ use
