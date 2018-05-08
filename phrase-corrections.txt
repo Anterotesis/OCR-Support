@@ -1,3 +1,4 @@
+a9\ aforesaid as\ aforesaid
 aa\ Ad an\ Act
 aaaft ah\ act
 aa\ aft an\ act
@@ -6,6 +7,7 @@ Act\ far Act\ for
 act\ fbr act\ for
 Act\ fbr Act\ for
 act\ fir act\ for
+act\ fqr act\ for
 act\ paffed act\ passed
 act\ paffei act\ passed
 act\ paiTed act\ passed
@@ -27,6 +29,7 @@ advice\ ana\ consent advice\ and\ consent
 Advice\ ana\ Consent Advice\ and\ Consent
 aforesaid\ aft aforesaid\ act
 aforesaid\ Aft aforesaid\ Act
+aft\ and\ acts act\ and\ acts
 aft\ for act\ for
 aft\ made act\ made
 aft\ of act\ of
@@ -44,15 +47,19 @@ ah\ aft an\ act
 ahd\ for and\ for
 ahd\ the and\ the
 aH\ such all\ such
+aid\ aft said\ act
+Ail\ Act An\ Act
 a\ lift a\ list
 a\ Lift a\ List
 alt\ of\ parliament act\ of\ parliament
 alts\ of\ parliament acts\ of\ parliament
 Am\ Act An\ Act
 amending\ the\ fame amending\ the\ same
+An\ a3 An\ act
 An\  a51 An\ act
 An\ a51 An\ act
 An\ A\ 61 An\ Act
+An\ a8 An\ act
 An\ A8 An\ Act
 an\ aA an\ Act
 An\ aA An\ Act
@@ -198,7 +205,9 @@ bis\ present his\ present
 bis\ present\ Majesty his\ present\ Majesty
 bis\ said his\ said
 bis\ wife his\ wife
+buying\ and\ felling buying\ and\ selling
 by\ ah\ act by\ an\ act
+cf\ the of\ the
 civil\ lift civil\ list
 Civil\ lift Civil\ list
 Civil\ Lift Civil\ List
@@ -207,6 +216,7 @@ colts\ of\ suit costs\ of\ suit
 county\ of\ Tork county\ of\ York
 County\ of\ Tork County\ of\ York
 county\ ot county\ of
+day\ cf day\ of
 double\ cods double\ costs
 Double\ cods Double\ costs
 Double\ Cods Double\ Costs
@@ -245,6 +255,7 @@ fix\ years six\ years
 fo\ far so\ far
 fold\ pursuant sold\ pursuant
 fo\ much so\ much
+forfeited\ and\ loft forfeited\ and\ lost
 former\ ad former\ act
 former\ aft former\ act
 for\ railing\ a for\ raising\ a
@@ -309,13 +320,16 @@ hundred\ ana hundred\ and
 hundred\ arid hundred\ and
 hy\ an by\ an
 hy\ the by\ the
+ih\ the in\ the
 in\ any\ wife in\ any\ wise 
 in\ cafe\ his in\ case\ his
+in\ ibe in\ the
 (inking\ fund sinking\ fund
 inoft\ excellent most\ excellent
 inter\ eft interest
 intituled\ jin intituled\ an
 in\ tne in\ the
+iq\ the in\ the
 is\ to\ fay is\ to\ say
 Jin\ act An\ act
 Jin\ Ad An\ Act
@@ -323,6 +337,8 @@ Jin\ Aft An\ Act
 Jive\ hundred five\ hundred
 Jive\ pounds five\ pounds
 Jive\ thousand five\ thousand
+jor\ the for\ the
+Jor\ the for\ the
 just\ ices\ of justices\ of
 lad\ session last\ session
 lame\ county same\ county
@@ -332,6 +348,7 @@ linking\ fund sinking\ fund
 live\ hundred five\ hundred
 live\ pounds five\ pounds
 loft\ or\ destroyed lost\ or\ destroyed
+loft\ their lost\ their
 made\ and\ pajfed made\ and\ passed
 made\ m\ the made\ in\ the
 making\ the\ fame making\ the\ same
@@ -351,6 +368,7 @@ moll\ excellent most\ excellent
 moll\ gracious most\ gracious
 Moll\ gracious Most\ gracious
 of\ bis of\ his
+of\ ibe of\ the
 of\ the\ fame of\ the\ fame
 of\ this\ aff of\ this\ act
 other\ aft other\ act
@@ -370,6 +388,7 @@ present\ ad present\ act
 present\ aft present\ act
 private\ Aft private\ Act
 Public\ ad Public\ act
+public\ aft public\ act
 public\ Aft public\ Act
 Public\ aft Public\ act
 Publick\ ad Publick\ act
@@ -411,6 +430,7 @@ son\ or\ fons son\ or\ sons
 spiritual\ ana\ temporal spiritual\ and\ temporal
 statutesat statutes\ at
 STATUTESat STATUTES\ at
+such\ aft such\ act
 such\ cods such\ costs
 that\ aft that\ act
 That\ ail\ and That\ all\ and
@@ -428,6 +448,7 @@ the\ laid\ county the\ said\ county
 the\ laid the\ said
 the\ (pace the\ space
 the\ Ufc\ of the\ Use\ of
+the\ ufc the\ use
 thirty-fir\ ft thirty-first
 thirty\ fix thirty\ six
 this\ aa this\ act
@@ -471,29 +492,11 @@ vended\ or\ fold vended\ or\ fold
 vended\ or\ fold vended\ or\ sold
 weft\ riding west\ riding
 which\ aft which\ act
+wilfully\ aft wilfully\ act
+willingly\ aft willingly\ act
 year\ bf\ the year\ of\ the
+year\ cf year\ of
 yin\ Ad an\ Act
 yin\ Aft an\ Act
 younger\ fons younger\ sons
-An\ a3 An\ act
-act\ fqr act\ for
-forfeited\ and\ loft forfeited\ and\ lost
-loft\ their lost\ their
-aft\ and\ acts act\ and\ acts
-public\ aft public\ act
-such\ aft such\ act
-year\ cf year\ of
-day\ cf day\ of
-cf\ the of\ the
-jor\ the for\ the
-Jor\ the for\ the
-aid\ aft said\ act
-Ail\ Act An\ Act
-of\ ibe of\ the
-in\ ibe in\ the
-buying\ and\ felling buying\ and\ selling
-willingly\ aft willingly\ act
-wilfully\ aft wilfully\ act
-An\ a8 An\ act
-a9\ aforesaid as\ aforesaid
-the\ ufc the\ use
+
