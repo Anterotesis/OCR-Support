@@ -9,6 +9,7 @@ andabufes and\ abuses
 andalfo and\ also
 andbe and\ be
 Andbe And\ be
+Andbeit And\ be\ it
 andconfent and\ consent
 andfingular and\ singular
 Andforafmucb And\ forasmuch
@@ -17,6 +18,7 @@ Andforafmuch And\ forasmuch
 andfor and\ for
 andfrom and\ from
 andfuch and\ such
+andof and\ of
 andseventy and\ seventy
 andsixty and\ sixty
 andthe and\ the
@@ -27,20 +29,28 @@ AndWhereas And\ Whereas
 annoprimo anno\ primo
 anyfuch any\ such
 arifefrom arise\ from
+as-aforesaid as\ aforesaid
+asaforesaid as\ aforesaid
 authorityaforesaid authority\ aforesaid
 authorityof authority\ of
 bankof bank\ of
 bankofEngland bank\ of\ England
 beenacted been\ acted
 beenafted been\ acted
+beit be\ it
+Beit Be\ it
 Beitenacted Be\ it\ enacted
 beitena&ed be\ it \enacted
+beitfurther be\ it\ further
 bemade be\ made
 Britijbcolonies British\ colonies
 britishfugar british\ sugar
 butalfo but\ also
 byand by\ and
+caufeof cause\ of
 confentof consent\ of
+countyof county\ of
+courfeof course\ of
 difpofedof disposed\ of
 dischargedfrom discharged\ from
 dischargethe discharge\ the
@@ -49,19 +59,32 @@ enactedand enacted\ and
 enactedby enacted\ by
 enadtedby enacted\ by
 enaftedby enacted\ by
+excifeof excise\ of
+exclufiveof exclusive\ of
+faleof sale\ of
+fealof seal\ of
 fecuringthe securing\ the
+feflionof session\ of
+fessionof session\ of
 fhouldbe should\ be
 fomuch so\ much
 forthe for\ the
 Forthe For\ the
 ftatuteof statute\ of
+fumof sum\ of
 GeorgiiII Georgii\ II
 GreatBritain Great\ Britain
+houseof house\ of
+iflandof island\ of
+infteadof instead\ of
 ingthe ing\ the
+itfurther it\ further
 jecondyear second\ year
 jhouldbe should\ be
 KingJames King\ James
 KingWilliam King\ William
+LocalAuthority Local\ Authority
+Londonand London\ and
 lordsfpiritual lords\ spiritual
 lordsJpirttual lords\ spiritual
 lordstfpiritual lords\ spiritual
@@ -74,6 +97,8 @@ lovingJubjefls loving\ subjects
 lovingjubjests loving\ subjects
 lovingJubjests loving\ subjects
 lprdsfpiritual lords\ spiritual
+madeof made\ of
+makingof making\ of
 Middlesexand Middlesex\ and
 noperson no\ person
 Octoberone October\ one
@@ -110,25 +135,39 @@ onethousand one\ thousand
 orfuch or\ such
 orthemfelves or\ themselves
 paffedin passed\ in
+paffingof passing\ of
+paflingof passing\ of
+parifhof parish\ of
 parifof parish\ of
+parilhof parish\ of
+parishof parish\ of
+parliamentand parliament\ and
 pfthe of\ the
+placeof place\ of
 purchafeof purchase\ of
+purpofesof purposes\ of
+reasonof reason\ of
+refpedof respect\ of
 roadfrom road\ from
 roadsfrom roads\ from
+serviceof service\ of
 seventyfix seventy\ six
 shallbe shall\ be
 smallfums small\ sums
 sofar so\ far
+tbefum the\ sum
 thcauthority the\ authority
 thcfaid the\ said
 thcjustices the\ justices
 thcKing the\ King
 thcQueen the\ Queen
+thcTreafury the\ Treasury
 theaforesaid the\ aforesaid
 thecity the\ city
 thecuftody the\ custody
 thefaid the\ said
 thefame the\ same
+thefpaceof the\ space\ of
 theftatute the\ statute
 thefums the\ sums
 thefum the\ sum
@@ -160,23 +199,16 @@ theyJbould they\ should
 thiskingdom this\ kingdom
 thousandfix thousand\ six
 thousandseven thousand\ seven
+tionof tion\ of
 tofay to\ say
 toferve to\ serve
 tofuch to\ such
 tohis to\ his
-yearof year\ of
-YTTHEREASan WHEREAS\ an
-thcTreafury the\ Treasury
-Londonand London\ and
-LocalAuthority Local\ Authority
-as-aforesaid as\ aforesaid
-asaforesaid as\ aforesaid
-fessionof session\ of
-Andbeit And\ be\ it
-Beit Be\ it
-beit be\ it
-itfurther it\ further
-beitfurther be\ it\ further
-parliamentand parliament\ and
 tothe to\ the
-countyof county\ of
+ufeof use\ of
+valueof value\ of
+virtueof virtue\ of
+yearof year\ of
+yearsof years\ of
+YTTHEREASan WHEREAS\ an
+
