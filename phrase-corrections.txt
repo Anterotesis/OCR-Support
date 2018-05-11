@@ -1,6 +1,6 @@
 a9\ aforesaid as\ aforesaid
 aa\ Ad an\ Act
-aaaft ah\ act
+aaaft an\ act
 aa\ aft an\ act
 Aaaft An\ act
 Act\ far Act\ for
@@ -102,7 +102,7 @@ an\ ad\ passed an\ act\ passed
 An\ Ad\ to An\ Act\ to
 ana\ enforcing and\ enforcing
 An\ aEt An\ act
-An\ a&fbr An\ act\ for
+An\ a&\ fbr An\ act\ for
 An\ aff\ for An\ act\ for
 An\ aff\ to An\ act\ to
 An\ a\ for An\ act\ for
@@ -306,15 +306,7 @@ Henrici\ VHI Henrici\ VII
 he\ or\ (he he\ or\ she
 he\ or\ lhe he\ or\ she
 his\ laid\ Majesty his\ said\ Majesty
-hisMajeftv his\ Majesty
-HisMajeftv His\ Majesty
-HisMaJefty His\ Majesty
-hisMajeiiy his\ Majesty
-HisMajeity His\ Majesty
-hisMajeJly his\ Majesty
-hismajejty his\ majesty
-hisMajessy his\ Majesty
-Houles\ of\ Correction Houles\ of\ Correction
+Houles\ of\ Correction Houses\ of\ Correction
 hun-4\ dred hundred
 hundred\ ana hundred\ and
 hundred\ arid hundred\ and
@@ -519,3 +511,11 @@ yin\ A3 an\ Act
 yin\ Aft an\ Act
 yin\ Act an\ Act
 An\ A3 An\ Act
+an\ a51 an\ act
+(lamp\ duties stamp\ duties
+forty\ fix forty\ six
+beyond\ the\ Teas beyond\ the\ seas
+an\ A3 an\ Act
+ah\ act an\ act
+ah\ Act an\ Act
+bis\ executors his\ executors

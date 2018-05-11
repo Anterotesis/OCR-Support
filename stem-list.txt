@@ -118,6 +118,7 @@ commifllon commission
 commifsion commission
 commiftion commission
 commifTion commission
+commiHioner commissioner
 commiifion commission
 commijfion commission
 commijfon commission
@@ -217,6 +218,8 @@ eftahlijh establish
 Eftimate Estimate
 eigtb eigth
 enaded enacted
+ena#ed enacted
+ena&ted enacted
 Englifh English
 englijb english
 Englijb English
@@ -227,6 +230,8 @@ exercife exercise
 Expencc Expence
 fa&ion faction
 fatisfaft satisfact
+fchcdule schedule
+fchedule schedule
 fchool school
 fecond second
 fecurity security
@@ -271,6 +276,7 @@ fuanceof suance\ of
 fubdiv subdiv
 fubfcrib subscrib
 fubfcrip subscrip
+fubfequent subsequent
 fubftant substant
 fubjeft subject
 fubje subje
@@ -474,6 +480,8 @@ punijb punish
 punijh punish
 punilh punish
 purpofeof purpose\ of
+purpofe purpose
+Purpofe Purpose
 Qffice Office
 quadragcfimo quadragesimo
 quadragef quadrages
@@ -563,6 +571,7 @@ Townfhip Township
 Townfliip Township
 Townftiip Township
 townlhip township
+tranf-port transport
 Treafurer Treasurer
 Treafury Treasury
 Treblecoft Treble\ cost
@@ -608,9 +617,13 @@ yourmaje your\ maje
 yourMaje your\ Maje
 Zoucb Zouch
 zvhicb which
-Purpofe Purpose
-purpofe purpose
-ena&ted enacted
-ena#ed enacted
-fchedule schedule
-fchcdule schedule
+exereife exercise
+exereije exercise
+exerrife exercise
+exift exist
+Subje6t Subject
+Subje6l Subject
+subje6t subject
+subje6l subject
+Subfiftence Subsistence
+Subfcrib Subscrib
