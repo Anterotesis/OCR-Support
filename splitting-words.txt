@@ -211,4 +211,5 @@ virtueof virtue\ of
 yearof year\ of
 yearsof years\ of
 YTTHEREASan WHEREAS\ an
-
+allowBe allow\ Be
+anyperfon any\ person
