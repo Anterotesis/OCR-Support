@@ -1,11 +1,14 @@
+6f\ the of\ the
+6f\ this of\ this
 a9\ aforesaid as\ aforesaid
 aa\ Ad an\ Act
-aaaft an\ act
 aa\ aft an\ act
+aaaft an\ act
 Aaaft An\ act
 Act\ far Act\ for
 act\ fbr act\ for
 Act\ fbr Act\ for
+Act\ fer Act\ for
 act\ fir act\ for
 act\ fqr act\ for
 act\ paffed act\ passed
@@ -42,6 +45,8 @@ Aft\ or\ Afts Act\ or\ Acts
 a\ ft\ or\ afts act\ or\ afts
 afts\ of\ parliament acts\ of\ parliament
 aft\ to act\ to
+ah\ act an\ act
+ah\ Act an\ Act
 Ah\ act An\ act
 ah\ aft an\ act
 ahd\ for and\ for
@@ -55,7 +60,10 @@ alt\ of\ parliament act\ of\ parliament
 alts\ of\ parliament acts\ of\ parliament
 Am\ Act An\ Act
 amending\ the\ fame amending\ the\ same
+an\ A3 an\ Act
 An\ a3 An\ act
+An\ A3 An\ Act
+an\ a51 an\ act
 An\  a51 An\ act
 An\ a51 An\ act
 An\ A\ 61 An\ Act
@@ -189,6 +197,8 @@ be\ it\ enaded be\ it\ enacted
 be\ jt\ further be\ it\ further
 be\ lt\ enacted be\ it\ enacted
 be\ railed\ in be\ raised\ in
+beyond\ the\ Teas beyond\ the\ seas
+bis\ executors his\ executors
 bis\ hand his\ hand
 bis\ Hand his\ Hand
 bis\ hands his\ hands
@@ -206,6 +216,7 @@ bis\ present\ Majesty his\ present\ Majesty
 bis\ said his\ said
 bis\ wife his\ wife
 buying\ and\ felling buying\ and\ selling
+by\ aft by\ act
 by\ ah\ act by\ an\ act
 cf\ the of\ the
 civil\ lift civil\ list
@@ -228,6 +239,7 @@ fb\ much so\ much
 fbr\ the for\ the
 fell\ and\ dispose sell\ and\ dispose
 felling\ annuities selling\ annuities
+fell\ or\ expose sell\ or\ expose
 fending\ and\ receiving sending\ and\ receiving
 fet\ apart set\ apart
 fet\ down set\ down
@@ -265,6 +277,7 @@ fort\ and\ manner sort\ and\ manner
 for\ tne for\ the
 fort\ of\ grain sort\ of\ grain
 forts\ of\ bread sorts\ of\ bread
+forty\ fix forty\ six
 (fo\ that (so\ that
 fpr\ the for\ the
 fub\ feribe subscribe
@@ -302,6 +315,7 @@ Georgii\ TIL Georgii\ III
 Gnat\ Britain Great\ Britain
 gold\ and\ fiver gold\ and\ silver
 gold\ or\ fiver gold\ or\ silver
+HEBE\ AS HEREAS
 Henrici\ VHI Henrici\ VII
 he\ or\ (he he\ or\ she
 he\ or\ lhe he\ or\ she
@@ -321,6 +335,7 @@ inoft\ excellent most\ excellent
 inter\ eft interest
 intituled\ jin intituled\ an
 in\ tne in\ the
+ip\ the in\ the
 iq\ the in\ the
 is\ to\ fay is\ to\ say
 Jin\ act An\ act
@@ -335,6 +350,7 @@ just\ ices\ of justices\ of
 lad\ session last\ session
 lame\ county same\ county
 lame\ uses same\ uses
+(lamp\ duties stamp\ duties
 last\ section\ of\ parliament last\ session\ of\ parliament
 linking\ fund sinking\ fund
 live\ hundred five\ hundred
@@ -354,11 +370,13 @@ Mod\ Excellent Most\ Excellent
 mod\ honourable most\ honourable
 mod\ humbly most\ humbly
 mod\ noble most\ noble
+mofi\ excellent most\ excellent
 Mofi\ gracious Most\ gracious
 Mojl\ gracious Most\ gracious
 moll\ excellent most\ excellent
 moll\ gracious most\ gracious
 Moll\ gracious Most\ gracious
+Number\ ot Number\ of
 of\ bis of\ his
 of\ ibe of\ the
 of\ the\ fame of\ the\ fame
@@ -367,6 +385,7 @@ other\ aft other\ act
 other\ fons other\ sons
 other\ wife other\ wise
 ot\ his of\ his
+Parish\ ot Parish\ of
 particular\ cafes particular\ cases
 patted\ in passed\ in
 pf\ any of\ any
@@ -424,6 +443,8 @@ statutesat statutes\ at
 STATUTESat STATUTES\ at
 such\ aft such\ act
 such\ cods such\ costs
+Tear\ of\ the\ Reign Year\ of\ the\ Reign
+Tear\ One\ thousand Year\ One\ thousand
 that\ aft that\ act
 That\ ail\ and That\ all\ and
 the\ aft the\ act
@@ -468,6 +489,9 @@ thou-4\ sand thousand
 thou\ 4\ sand thousand
 thou\ fan\ d thousand
 thou\ sand thousand
+time\ ot time\ of
+Time\ ot Time\ of
+to\ aft to\ act
 to\ be\ railed to\ be\ raised
 tp\ be to\ be
 tp\ the to\ the
@@ -482,40 +506,17 @@ two\ afts two\ acts
 veiling\ in vesting\ in
 vended\ or\ fold vended\ or\ fold
 vended\ or\ fold vended\ or\ sold
+virtue\ ot virtue\ of
+Virtue\ ot Virtue\ of
 weft\ riding west\ riding
 which\ aft which\ act
 wilfully\ aft wilfully\ act
 willingly\ aft willingly\ act
 year\ bf\ the year\ of\ the
 year\ cf year\ of
+yin\ A3 an\ Act
+yin\ Act an\ Act
 yin\ Ad an\ Act
 yin\ Aft an\ Act
 younger\ fons younger\ sons
-HEBE\ AS HEREAS
-ip\ the in\ the
-Act\ fer Act\ for
-Tear\ One\ thousand Year\ One\ thousand
-Tear\ of\ the\ Reign Year\ of\ the\ Reign
-6f\ the of\ the
-6f\ this of\ this
-Parish\ ot Parish\ of
-Number\ ot Number\ of
-virtue\ ot virtue\ of
-time\ ot time\ of
-Virtue\ ot Virtue\ of
-Time\ ot Time\ of
-fell\ or\ expose sell\ or\ expose
-to\ aft to\ act
-by\ aft by\ act
-yin\ A3 an\ Act
-yin\ Aft an\ Act
-yin\ Act an\ Act
-An\ A3 An\ Act
-an\ a51 an\ act
-(lamp\ duties stamp\ duties
-forty\ fix forty\ six
-beyond\ the\ Teas beyond\ the\ seas
-an\ A3 an\ Act
-ah\ act an\ act
-ah\ Act an\ Act
-bis\ executors his\ executors
+

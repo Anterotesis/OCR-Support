@@ -230,3 +230,5 @@ subje&to subject\ to
 MajestyKing Majesty\ King
 majestyKing majesty\ King
 majestyking majesty\ king
+andfeaman and\ seamen
+andfervants and\ servants
