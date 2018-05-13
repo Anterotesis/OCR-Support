@@ -1,7 +1,9 @@
 Ail\ Act An\ Act
 ail\ such all\ such
 ail\ the all\ the
+Beign Reign
 Cnurch Church
+District\ Bates District Rates
 Ex-pence Expence
 Fenalty Penalty
 Fen-cibles Fencibles
@@ -9,21 +11,35 @@ jng ing
 jn in
 Newbaven Newhaven
 Newhavcn Newhaven
+of\ Bates of\ Rates
+or\ Bates or\ Rates
 peijury perjury
 Peijury Perjury
 Penally Penalty
 Penaltie8 Penalties
+Poor\ Bates Poor\ Rates
 Seijeant Serjeant
 Seijeants Serjeants
 snbject subject
 snch such
 StampDuties Stamp\ Duties
+such\ Bates such\ Rates
 tbat that
 Tbat That
+the\ Bates the\ Rates
 Vicf Vict
 Vicrr Vict
+VICTOJRIiE VICTORIAE
+VICTOJRLE VICTORIAE
+VICTOJtLE VICTORIAE
+VICTOKIA VICTORIAE
+VICTOKIjE VICTORIAE
+VICTOKIJE VICTORIAE
+VICTOKLE VICTORIAE
 VICTOR!® VICTORIAE
 ViCT VICT
+VIGTOEIjE VICTORIAE
+ViGT VICT
 Viot Vict
 ViOT VICT
 Vjct Vict
@@ -49,10 +65,4 @@ Yicarage Vicarage
 Yicr Vict
 YiCT VICT
 YICT VICT
-Beign Reign
-Poor\ Bates Poor\ Rates
-of\ Bates of\ Rates
-or\ Bates or\ Rates
-the\ Bates the\ Rates
-such\ Bates such\ Rates
-District\ Bates District Rates
+Vigt Vict

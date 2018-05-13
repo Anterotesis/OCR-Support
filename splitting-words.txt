@@ -215,6 +215,7 @@ allowBe allow\ Be
 anyperfon any\ person
 byany by\ any
 amendedBe amended\ Be
+mentionedBe mentioned\ Be
 faidformer said\ former
 faidfirst said\ first
 hisMajeftv his\ Majesty
@@ -232,3 +233,14 @@ majestyKing majesty\ King
 majestyking majesty\ king
 andfeaman and\ seamen
 andfervants and\ servants
+IndiaCompany India\ Company
+IndiaSection India\ Section
+increasedBe increased\ Be
+increasedbe increased\ be
+abovethe above\ the
+WHEREASby WHEREAS\ by 
+whereasby whereas\ by 
+WHEREASan WHEREAS\ an
+YearlySalsries Yearly\ Salaries
+Yearending Year\ ending
+Aberdeenand Aberdeen\ and 
