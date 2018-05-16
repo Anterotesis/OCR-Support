@@ -37,12 +37,23 @@ A6ls Acts
 a6t act
 a6tion action
 a6ts acts
+aaainst against
 a& act
 aad and
 Aad And
 aAion action
 aaminiftrators administrators
+aaminister administer
+Aaministration Administration 
+Aaministrators Administrators
+Aamiral Admiral
+Aamiraltv Admiralty
+Aamisaion Admission
+aamission admission
+Aamission Admission
 a$ as
+Abaqdonment Abandonment
+Abaridmment Abandonment
 abfehce absence
 abfehec absence
 abfelutely absolutely
@@ -74,6 +85,9 @@ abftract abstract
 abftralt abstract
 a-bide abide
 abolilh abolish
+Abolitioh Abolition
+Abolitiou Abolition
+Abolitipn Abolition
 abovefaid abovesaid
 a-bovefojd abovesaid
 a-bovesaid abovesaid
@@ -336,6 +350,8 @@ an-nuity annuity
 annulied annulled
 answerabie answerable
 anY any
+Aot Act
+aoting acting
 aotwithstanding notwithstanding
 appiy apply
 ap-pointed appointed
@@ -426,6 +442,8 @@ bejl best
 be-\ tween between
 be-tween between
 be\ tween between
+betweeri between
+betweeu between
 bifboprick bishoprick
 bifbopricks bishopricks
 bifcuit biscuit
@@ -486,6 +504,7 @@ Britilh British
 bri\ tish british
 Bri-tish British
 Bri\ tish British
+Britisli British
 Britith British
 britrlh british
 brittih british
@@ -540,6 +559,7 @@ cfquire esquire
 chaneery chancery
 Chaneery Chancery
 cheftnuts cheftnuts
+Chnrch Church
 chofen chosen
 Chrift Christ
 Chrift-church Christ-church
@@ -689,6 +709,9 @@ commijftoners commissioners
 commiJJioners commissioners
 Com-missioner Commissioner
 Com-missioners Commissioners
+Comnrissioners Commissioners
+Comnussioner Commissioner
+Comnussioners Commissioners
 com-pany company
 Com-pany Company
 com-penfation compensation
@@ -810,6 +833,7 @@ daugliters daughters
 dcbtors debtors
 dcceafcd deceased
 dcceafed deceased
+Deatli Death
 deceafed deceased
 Dedu&ed Deducted
 dedu&ing deducting
@@ -942,6 +966,7 @@ difturbing disturbing
 difturhance disturbance
 Diicharge Discharge
 diipofed disposed
+diis this
 dijlillers distillers
 dilpofed disposed
 dilTolve dissolve
@@ -984,6 +1009,7 @@ drfcharged discharged
 drfcharge discharge
 dtfcbarge discharge
 Dtfturbances Disturbances
+Dtgnity Dignity
 dutie$ duties
 dwell-ing dwelling
 eafl east
@@ -1345,8 +1371,11 @@ fide side
 Fifheries Fisheries
 fifh fish
 Fifteentli Fifteenth
+Fifteentn Fifteenth
 fiftiery fishery
 fifti fish
+fiftv fifty
+Fiftv Fifty
 fig-nified signified
 figning signing
 fi(hery fishery
@@ -1625,6 +1654,8 @@ haljpenny halfpenny
 (hares shares
 (heep sheep
 (heet sheet
+hercby hereby
+herebv hereby
 heredi-\ taments hereditaments
 heredi-taments hereditaments
 (heriffdom sheriffdom
@@ -1640,6 +1671,8 @@ high-nefs highness
 highnefs highness
 High-nefs Highness
 Highnefs Highness
+Hignway Highway
+Hignways Highways
 hi§ his
 hi$ his
 (hilling shilling
@@ -1800,6 +1833,8 @@ ingrofs ingross
 inoft most
 inrolied inrolled
 In-spectors Inspectors
+InstrucUons Instructions
+Instruinents Instruments
 Intereft Interest
 interejl interest
 interji interest
@@ -2050,6 +2085,8 @@ lovereign sovereign
 loyalitts loyalists
 lpeakcr speaker
 lpeaker speaker
+lpnatic lunatic
+Lprd Lord
 lrijb Irish
 lrijh Irish
 lubfidy subsidy
@@ -2314,6 +2351,10 @@ Mqjefty Majesty
 Msjefty Majesty
 mufter muster
 mujkets muskets
+Mvtimy Mutiny
+Mvtiny Mutiny
+Mvtiwy Mutiny
+Mvtmy Mutiny
 nctvvithstanding notwithstanding
 nctwithfanding notwithstanding
 nctwithfianding notwithstanding
@@ -2404,6 +2445,7 @@ Newfpaper Newspaper
 newfpapers newspapers
 Newfpapers Newspapers
 nforesaid aforesaid
+nimself himself
 non-commif-fioned non-commissioned
 non-fuit non-suit
 north-eaft north-east
@@ -2621,6 +2663,7 @@ Parilhes Parishes
 parilhioners parishioners
 parilh parish
 Parilh Parish
+Parisli Parish
 paristi parish
 Paristi Parish
 parith parish
@@ -2751,7 +2794,15 @@ prijoner prisoner
 prijoners prisoners
 prijon  prison
 prilbn prison
+priYate private
+Priyate Private
 Priyy Privy
+Prjncipal Principal
+Prjnted Printed
+prjsoner prisoner
+Prlsoners Prisoners
+prlson prison
+Prmters Printers
 Procefs Process
 procejfes processes
 Proc-tors Proctors
@@ -2770,7 +2821,18 @@ promiflory promissory
 promiftory promissory
 promifTory promissory
 promijfory promissory
+prooedure procedure
+Prooedure Procedure
+prooeeded proceeded
+prooeeding proceeding
+Prooeeding Proceeding
+Prooeedings Proceedings
+prooeed proceed
+prooeieded proceeded
+propertv property
+Propertv Property
 propofals proposals
+proposc propose
 Prote&ion Protection
 pro-vide provide
 provifibns provisions
@@ -2785,6 +2847,7 @@ provijion provision
 provilion provision
 provilions provisions
 Provilions Provisions
+provjded provided
 provofl provost
 provoft provost
 Provoft Provost
@@ -2806,6 +2869,12 @@ Proyifion Provision
 proyifions provisions
 Proyifions srovisions
 proyiiions provisions
+Proyisional Provisional
+proyision provision
+Proyision Provision
+Proyisions Provisions
+Proyisjons Provisions
+Proyislon Provision
 prpclamacion proclamation
 prpclamation proclamation
 ptherwde otherwise
@@ -2885,6 +2954,7 @@ Purpofe Purpose
 purpofes purposes
 Pur-pofes Purposes
 Purpofes Purposes
+Purpoie Purpose
 purpole purpose
 purpoles purposes
 Pvblic Public
@@ -3059,6 +3129,7 @@ Satisfa3ion Satisfaction
 Satisfaftion Satisfaction
 Satisfa&ion Satisfaction
 Saviugs Savings
+Sbort Short
 Schcdulc Schedule	
 Schedulc Schedule
 Sche-dule Schedule
@@ -3172,6 +3243,8 @@ thicknels thickness
 thofe those
 thole those
 thonfand thousand
+thonsand thousand
+thonsapd thousand
 thou-(and thousand
 thou-[and thousand
 thou(and thousand
@@ -3208,12 +3281,18 @@ thou-land thousand
 thouland thousand
 thould should
 thou&nd thousand
+thousandtb thousandth
 thou-\ sand thousand
 thou-sand thousand
 thous\ and thousand
+thousAnd thousand
+thousaod thousand
+thousarid thousand
+thousaud thousand
 thousend thousand
 thpufand thousand
 thqufand thousand
+tiie the
 TIT\ HERE\ AS WHEREAS
 TITHEREAS WHEREAS
 tivo two
@@ -3392,7 +3471,10 @@ volun-teers volunteers
 volun-teer volunteer
 VT7HEREAS WHEREAS
 vvhatsoever whatsoever
+VVHEREAS WHEREAS
+VVHETtEAS WHEREAS
 vvhich which
+vVhich which
 vvhofe whose
 vvho who
 Vvho who
@@ -3457,6 +3539,18 @@ workboufe workhouse
 £XP EXP
 XTTHEREAS WHEREAS
 Y1THEREAS WHEREAS
+Yacancies Vacancies
+Yacancy Vacancy
+Yacation Vacation
+Yagabond Vagabond
+Yaluations Valuations
+yaluation valuation
+Yaluation Valuation
+Yalues Values
+Yalue Value
+Yessel Vessel
+YesseL Vessel
+Yestries Vestries
 Yicarage Vicarage
 Yicar Vicar
 YITHEREAS WHEREAS
@@ -3464,7 +3558,16 @@ Ylf\ HEREAS WHEREAS
 YlfHEREAS WHEREAS
 YT7HEREAS WHEREAS
 YTTHEREAS WHEREAS
+YVarrant Warrant
+YVater Water
+YVestward Westward
 yvhatfoeyer whatsoever
+yVidows Widows
+YVidows Widows
+YVitnesses Witnesses
+YVorks Works
+YVork Work
+YVorship Worship
 YXf\ HEREAS WHEREAS
 YXfHEREAS WHEREAS
 YY7HEREAS WHEREAS
@@ -3499,31 +3602,7 @@ zvriting writing
 zvrits writs
 zvritten written
 zvrit writ
-Sbort Short
-aoting acting
-Aot Act
-aud and
-VVHEREAS WHEREAS
-VVHETtEAS WHEREAS
-vVhich which
-vvhich which
-aaainst against
-aaminister administer
-Aaministration Administration 
-Aaministrators Administrators
-Aamiral Admiral
-Aamiraltv Admiralty
-Aamisaion Admission
-Aamission Admission
-aamission admission
-Abaqdonment Abandonment
-Abaridmment Abandonment
-Abolitioh Abolition
-Yalues Values
-Yaluation Valuation
-yaluation valuation
-Yaluations Valuations
-Yalue Value
-Yagabond Vagabond
-Abolitiou Abolition
-Abolitipn Abolition
+lawfiil lawful
+lawfiilly lawfully
+tor for
+f°r for

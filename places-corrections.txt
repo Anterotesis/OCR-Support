@@ -1,5 +1,7 @@
 AAiddlejex Middlesex
 Abbingtcn Abbington
+Aberbroihwick Aberbrothwick
+Abercaimey Abercairney
 Aberdeenjhire Aberdeenshire
 Aberyflwith Aberystwith
 Aberyflwytb Aberystwyth
@@ -8,6 +10,7 @@ Aberyftwith Aberystwith
 Aberyftwyth Aberystwyth
 Aberyfwyth Aberystwyth
 Aberyjlwyth Aberystwyth
+Aberystwitk Aberystwith 
 AJhford Ashford
 Alderfgate Aldersgate
 Alhby Ashby
@@ -86,8 +89,15 @@ Chejler Chester
 Chelfea Chelsea
 Chelhire Cheshire
 Chepjlow Chepstow
+Circncefer Cirencester
+Circncefter Cirencester
+Cirencefer Cirencester
 Cirencefier Cirencester
 Cirencefter Cirencester
+Cirenceftr Cirencester
+Cirenceiler Cirencester
+Cirenceiter Cirencester
+CirenceJier Cirencester
 Cirencejler Cirencester
 Cnefhire Cheshire
 Cnelfea Chelsea
@@ -129,6 +139,15 @@ Eaft-India East-India
 Eafton Easton
 Eajl-India East-India
 Eajl-Indies East-Indies
+Edingburgb Edinburgh
+Edmondfham Edmondsham
+Edmondfon Edmondson
+Edmondjbam Edmondsham
+Edmondjbury Edmondsbury
+Edmondjham Edmondsham
+Edmonfton Edmonston
+Edmonftone Edmonstone
+Edmonjlone Edmonstone
 Efsex Essex
 EJfex Essex
 Ejjex Essex
@@ -147,8 +166,11 @@ Finchampjlead Finchampstead
 Finijlerre Finisterre
 Folkeftone Folkestone
 Folkftone Folkstone
+Frodjbam Frodsham
+Frodjham Frodsham
 fVefiminster Westminster
 fVeJlminfler Westminster
+Gatcjhead Gateshead
 Glafeow Glasgow
 Glafgbw Glasgow
 Glafgoiv Glasgow
@@ -217,6 +239,10 @@ Hallamlhire Hallamshire
 Hampfhire Hampshire
 Hampfliire Hampshire
 Hampftead Hampstead
+Hampftiire Hampshire
+Hampihire Hampshire
+Hampjbire Hampshire
+Hamplhire Hampshire
 Herefordfhire Herefordshire
 Here-ford Hereford
 Herefordjbire Herefordshire
@@ -231,9 +257,14 @@ Hertfordjbire Hertfordshire
 Hertfordjhire Hertfordshire
 Hertfordlhire Hertfordshire
 Hertfprdlhire Hertfordshire
+Heveriham Heversham
+Heverjbam Heversham
+Heverjham Heversham
+Hjghgate Highgate
 Horfley Horsley
 Hounflow Hounslow
 Iflington Islington
+IJleworth Isleworth
 Ipfwich Ipswich
 Ire-land Ireland
 IVcJlminJler Westminster
@@ -284,6 +315,7 @@ IVinchejler Winchester
 IVorcefier Worcester
 IVorcefler Worcester
 ivorcefter Worcester
+ivorcejler Worcester
 IVorceJler Worcester
 Jerfcy Jersey
 Jerfey Jersey
@@ -352,6 +384,8 @@ Lijbon Lisbon
 Lon-\ don London
 Lon-don London
 Loudon London
+Lpndon London
+Lqndon London
 Maffachufets Massachusets
 Maidflone Maidstone
 Maidjlone Maidstone
@@ -397,6 +431,7 @@ Middlejex Middlesex
 Middlelcx Middlesex
 Middlelex Middlesex
 Middlelox Middlesex
+mid\ dlesex middlesex
 Middlseex Middlesex
 Middlssex Middlesex
 Middltfcx Middlesex
@@ -416,6 +451,7 @@ Mlddlrfcx Middlesex
 Mtddlefex Middlesex
 Mtddlesex Middlesex
 Najfau Nassau
+Ncwcaftlc Newcastle
 Newbaven Newhaven
 Newcafle Newcastle
 Newcaflie Newcastle
@@ -522,6 +558,7 @@ Tewkejbury Tewkesbury
 Tewkelbury Tewkesbury
 Tewkfbury Tewksbury
 Thame$ Thames
+Threadnecdle Threadneedle
 Torkjhire Yorkshire
 Tunjlall Tunstall
 tvestminster Westminster
@@ -696,6 +733,7 @@ Worcefler Worcester
 Worcefter Worcester
 Worcejler Worcester
 Workfop Worksop
+Yarmoutn Yarmouth
 Yorbjhire Yorkshire
 Yorkfbire Yorkshire
 Yorkfhire Yorkshire
@@ -717,39 +755,7 @@ YorkJJnre Yorkshire
 Yorklhire Yorkshire
 Yorldhire Yorkshire
 Zoucb Zouch
-Cirencefer Cirencester
-Cirenceftr Cirencester
-Cirenceiler Cirencester
-Cirenceiter Cirencester
-CirenceJier Cirencester
-Heveriham Heversham
-Heverjbam Heversham
-Heverjham Heversham
-Gatcjhead Gateshead
-ivorcejler Worcester
-Hampftiire Hampshire
-Hampihire Hampshire
-Hampjbire Hampshire
-Hamplhire Hampshire
-Ncwcaftlc Newcastle
-Frodjham Frodsham
-Frodjbam Frodsham
-IJleworth Isleworth
-mid\ dlesex middlesex
-Edingburgb Edinburgh
-Edmonfton Edmonston
-Edmonftone Edmonstone
-Edmonjlone Edmonstone
-Edmonjlone Edmonstone
-Edmondfham Edmondsham
-Edmondfon Edmondson
-Edmondjbam Edmondsham
-Edmondjbury Edmondsbury
-Edmondjham Edmondsham
-Aberystwitk Aberystwith 
-Hjghgate Highgate
-Circncefer Cirencester
-Circncefter Cirencester
-Aberbroihwick Aberbrothwick
-Abercaimey Abercairney
-Yarmoutn Yarmouth
+Zoucii Zouch
+Zouck Zouch
+Shaftesbuky Shaftesbury
+
