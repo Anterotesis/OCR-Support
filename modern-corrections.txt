@@ -2,15 +2,17 @@ Ail\ Act An\ Act
 ail\ such all\ such
 ail\ the all\ the
 Beign Reign
+Betail Retail
+Biding Riding
+Boads Roads
 Cnurch Church
+disbandedForeignCorps disbanded\ Foreign\ Corps
 District\ Bates District Rates
 Ex-pence Expence
 Fenalty Penalty
 Fen-cibles Fencibles
 jng ing
 jn in
-Newbaven Newhaven
-Newhavcn Newhaven
 of\ Bates of\ Rates
 or\ Bates or\ Rates
 peijury perjury
@@ -29,6 +31,16 @@ Tbat That
 the\ Bates the\ Rates
 Vicf Vict
 Vicrr Vict
+VICTORIiE VICTORIAE
+yiCTORIiE VICTORIAE
+VLCTORIiE VICTORIAE
+VTCTORIiE VICTORIAE
+ViqTORIiE VICTORIAE
+VKTTORIiE VICTORIAE
+VlbTORIiE VICTORIAE
+VlfcTORIiE VICTORIAE
+VICfORIiE VICTORIAE
+ViCmORIiE VICTORIAE
 VICTOJRIiE VICTORIAE
 VICTOJRLE VICTORIAE
 VICTOJtLE VICTORIAE
@@ -39,6 +51,7 @@ VICTOKLE VICTORIAE
 VICTOR!® VICTORIAE
 ViCT VICT
 VIGTOEIjE VICTORIAE
+Vigt Vict
 ViGT VICT
 Viot Vict
 ViOT VICT
@@ -62,17 +75,15 @@ wnich which
 Yerdict Verdict
 Yestry Vestry
 Yicarage Vicarage
-Yicr Vict
-YiCT VICT
-YICT VICT
-Vigt Vict
-Ytct Vict
-Ylct Vict
-Ylcf Vict
-Yjct Vict
-Yict Vict
-YIct Vict
-Yicr Vict
 Yicl Vict
-disbandedForeignCorps disbanded\ Foreign\ Corps
+Yicr Vict
+Yict Vict
+YiCT VICT
+YIct Vict
+YICT VICT
+Yjct Vict
+Ylcf Vict
+Ylct Vict
+Ytct Vict
 zanceof zance\ of
+

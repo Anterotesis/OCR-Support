@@ -11,6 +11,7 @@ Aberyftwyth Aberystwyth
 Aberyfwyth Aberystwyth
 Aberyjlwyth Aberystwyth
 Aberystwitk Aberystwith 
+AFrica Africa
 AJhford Ashford
 Alderfgate Aldersgate
 Alhby Ashby
@@ -19,6 +20,7 @@ Anglefey Anglesey
 Anglefeyshire Angleseyshire
 Anglejea Anglesea
 Annefley Annesley
+Arnerica America
 Aylefbury Aylesbury
 Balingftoke Basingstoke
 Barnfley Barnsley
@@ -53,6 +55,7 @@ Bri\ tain Britain
 Brix-ham Brixham
 Bromfgrove Bromsgrove
 Brunfwick Brunswick
+Brunsvnck Brunswick
 Btckingham Buckingham
 Buckinghamfhire Buckinghamshire
 Buckinghamfkire Buckinghamshire
@@ -131,6 +134,7 @@ Dorfetlhire Dorsetshire
 Dorfetshire Dorsetshire
 Dorfiet Dorset
 Droitwicb Droitwich
+Dub-lin Dublin
 Dunftable Dunstable
 Eafi\ Indies East\ Indies
 Eaf\ Indies East\ Indies
@@ -139,6 +143,7 @@ Eaft-India East-India
 Eafton Easton
 Eajl-India East-India
 Eajl-Indies East-Indies
+Ealmg Ealing
 Edingburgb Edinburgh
 Edmondfham Edmondsham
 Edmondfon Edmondson
@@ -159,8 +164,12 @@ Englaitd England
 Englajid England
 Englancl England
 Eng-land England
+Eppmg Epping
 Exhamfhire Exhamshire
+Eynjbam Eynsham
+Eynlham Eynsham
 Failfworth Failsworth
+Fembrokshire Pembrokshire
 Finchampflead Finchampstead
 Finchampjlead Finchampstead
 Finijlerre Finisterre
@@ -266,6 +275,7 @@ Hounflow Hounslow
 Iflington Islington
 IJleworth Isleworth
 Ipfwich Ipswich
+IreIand Ireland
 Ire-land Ireland
 IVcJlminJler Westminster
 IVefminster Westminster
@@ -381,6 +391,8 @@ Leicejler Leicester
 Leominjier Leominster
 Lifbon Lisbon
 Lijbon Lisbon
+Lin-coin Lincoln
+Lincolnsliire Lincolshire
 Lon-\ don London
 Lon-don London
 Loudon London
@@ -452,6 +464,7 @@ Mtddlefex Middlesex
 Mtddlesex Middlesex
 Najfau Nassau
 Ncwcaftlc Newcastle
+Neiyfoundland Newfoundland
 Newbaven Newhaven
 Newcafle Newcastle
 Newcaflie Newcastle
@@ -470,12 +483,15 @@ Newcajlfe Newcastle
 Newcajlle Newcastle
 Newcqflle Newcastle
 Newcqftle Newcastle
+Newhavcn Newhaven
+NorthAmerica North\ America
 Northamptonfhire Northamptonshire
 Northamptonfliire Northamptonshire
 Northamptonflrire Northamptonshire
 Northamptonjhire Northamptonshire
 Northamptonlhire Northamptonshire
 Northleigb Northleigh
+Nortliamptonshire Northamptonshire
 Nottingbamjbire Nottinghamshire
 Not-tingbam Nottingham
 Nottinghamfbire Nottinghamshire
@@ -503,6 +519,19 @@ Portfrpouth Portsmouth
 Portfrrimih Portsmouth
 Prefteigne  Presteigne 
 Prefton Preston
+Qxendean Oxendean
+Ramfay Ramsay
+Ramfcy Ramsey
+Ramfdown Ramsdown
+Ramfey Ramsey
+Ramfgalc Ramsgate
+Ramfgatc Ramsgate
+Ramfgate Ramsgate
+Ramlgate Ramsgate
+Rampifbam Rampisham
+Rampifham Rampisham
+Rampijbam Rampisham
+Rampijham Rampisham
 Ratdiffe Ratcliffe
 Rochefter Rochefter
 Rochefter Rochester
@@ -511,7 +540,10 @@ Ruffta Russia
 RuJJia Russia
 Saltafh Saltash
 Sbipton Shipton
+Scntiand Scotland
+Scotiand Scotland
 Scot-land Scotland
+Shaftesbuky Shaftesbury
 Sheernefs Sheerness
 Shropfhirc Shropshire
 Shropfhire Shropshire
@@ -529,6 +561,7 @@ Somerfetfhire Somersetshire
 Somerfet Somerset
 Sornerfet Somerset
 Southzvark Southwark
+Speenhamiand Speenhamland
 Staffordfiiire Staffordshire
 Staffordftiire Staffordshire
 staffordihire staffordshire
@@ -537,6 +570,7 @@ StaffordIhire Staffordshire
 Staffordlhire Staffordshire
 StafFordlhire Staffordshire
 StafFordshire Staffordshire
+Stajffbrdshire Staffordshire
 Stebonbeath Stebonheath
 Stebonkeath Stebonheath
 Suernfey Guernsey
@@ -655,6 +689,7 @@ Wejlmorland Westmorland
 Wejlmtnjler Westminster
 Weltminster Westminster
 Wesiminfier Westminster
+WestIndies West\ Indies
 Westminfer Westminster
 Westminffer Westminster
 Westminfier Westminster
@@ -733,6 +768,8 @@ Worcefler Worcester
 Worcefter Worcester
 Worcejler Worcester
 Workfop Worksop
+Worthmg Worthing
+Xincolnshire Lincolnshire
 Yarmoutn Yarmouth
 Yorbjhire Yorkshire
 Yorkfbire Yorkshire
@@ -754,8 +791,8 @@ Yorkjhlre Yorkshire
 YorkJJnre Yorkshire
 Yorklhire Yorkshire
 Yorldhire Yorkshire
+zoucb zouch
 Zoucb Zouch
 Zoucii Zouch
 Zouck Zouch
-Shaftesbuky Shaftesbury
 

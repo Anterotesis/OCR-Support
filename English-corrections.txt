@@ -33,6 +33,7 @@ a6i act
 a6I act
 a6k act
 a6l act
+A6lion Action
 A6ls Acts
 a6t act
 a6tion action
@@ -85,12 +86,35 @@ abftract abstract
 abftralt abstract
 a-bide abide
 abolilh abolish
+abolishecL abolished
+abolislied abolished
+abolisned abolished
+abolisning abolishing
 Abolitioh Abolition
 Abolitiou Abolition
 Abolitipn Abolition
+abovc above
+abovcfeid abovesaid
+abovdaid abovesaid
+abovdhid abovesaid
+aboVe above
+abovefaia abovesaid
 abovefaid abovesaid
+abovefaitl abovesaid
+abovefaiu abovesaid
+abovefajd abovesaid
+abovefatd abovesaid
+abovefeid abovesaid
+abovefeud abovesaid
+abovefiid abovesaid
 a-bovefojd abovesaid
+aboveiaid abovesaid
 a-bovesaid abovesaid
+abovetaid abovesaid
+abovtsaid abovesaid
+aboyefaid abovesaid
+aboyefiud abovesaid
+abpyesaid abovesaid
 abufed abused
 a-bufes abuses
 Abufes Abuses
@@ -100,12 +124,17 @@ ac1 act
 accejfary accessary
 accord\ ing according
 accord-ingly accordingly
+accordmg according
 accuftomably accustomably
 accuftom accustom
 aCls acts
 aCt act
+Actibn Action
+actiug acting
+actmg acting
 aCts acts
 addi-tional additional
+addiug adding
 Addrefles Addresses
 adf act
 adfion action
@@ -113,6 +142,7 @@ adfs acts
 Adi Act
 adion action
 Adis Acts
+adjoinmg adjoining
 adjulting  adjusting
 adl act
 adls acts
@@ -337,6 +367,7 @@ Amerita America
 amongfi amongst
 amongft amongst
 amongjl amongst
+amountmg amounting
 ancl and
 A\ ND AND
 Anfwcrs Answers
@@ -354,7 +385,9 @@ Aot Act
 aoting acting
 aotwithstanding notwithstanding
 appiy apply
+applymg applying
 ap-pointed appointed
+appreheudiug apprehending
 apprenticelhip apprenticeship
 aqd and
 Archbifhop Archbishop
@@ -372,6 +405,7 @@ arifen arisen
 Arifing Arising
 arifmg arising
 arinually annually
+arisiug arising
 arorefaid aforesaid
 arorefeid aforesaid
 arorefiud aforesaid
@@ -400,12 +434,15 @@ Attomies Attornies
 a£tual actual
 aU all
 aud and
+AugmCntatidn Augmentation
 Augufl August
 Auguft August
 Auguji August
 Augujl August
 Aujlria Austria
 autborifed authorised
+autHonty authority
+Authonty Authority
 au-thorife authorise
 autho-rife authorise
 au-thorifed authorised
@@ -432,18 +469,29 @@ Bapttjl Baptist
 barbaroufiy barbarously
 barbaroufty barbarously
 barbaroujly barbarously
+Bdgic Belgic
 beactes beadles
 beajls beasts
+beariug bearing
+Becruit Recruit
 befides besides
+Befined Refined
 beft best
 Beft Best
+Begulation Regulation
 Begulations Regulations
+beiug being
 bejl best
+bemg being
+Benefioes Benefices
+Benoh Bench
 be-\ tween between
 be-tween between
 be\ tween between
 betweeri between
 betweeu between
+Bflletting Billetting
+BHtain Britain
 bifboprick bishoprick
 bifbopricks bishopricks
 bifcuit biscuit
@@ -456,18 +504,27 @@ bifhopricks bishopricks
 bifhops bifhops
 bi(hop bishop
 biihop bishop
+biiletting billetting
+Biiletting Billetting
 bijhop bishop
 bilhop  bishop
 bilhoprick bishoprick
 Bilhops Bishops
+Bilietting Billetting
+Billctting Billetting
+billettiug billetting
+billettmg billetting
 (billing shilling
 (billings shillings
 bimfelf himself
+biUetting billetting
 Blackfmith Blacksmith
 blejfed blessed
 bom born
+borrowmg borrowing
 bouse house
 bouses houses
+Breakiug Breaking
 briti(b british
 briti\/b british
 Briti(b British
@@ -511,6 +568,7 @@ brittih british
 Brrtifl British
 Brrtijh British
 Brrtijk British
+btlletting billetting
 bufband husband
 bufbandry husbandry
 bufbands husbands
@@ -520,7 +578,13 @@ build-\ ing building
 build-ing building
 Build-\ ing Building
 Build-ing Building
+buildiug building
+Buildiug Building
+Buildmg Building
+bUletting billetting
 burgejfes burgesses
+BuUding Building
+BuUdmg Building
 cafe case
 cafes cases
 cafhicr cashier
@@ -541,6 +605,7 @@ cancelied cancelled
 candictates candidates
 C\ A\ P CAP
 C\ AP CAP
+carryiug carrying
 cathoiick catholick
 cathoiicks catholicks
 catholtck catholick
@@ -549,7 +614,9 @@ Caufe Cause
 caufmg causing
 cauje cause
 Ccnfent Consent
+ccordmg ccording
 ceafe cease
+ceivmg ceiving
 cer-\ tain certain
 cer-tain certain
 certaiu certain
@@ -561,6 +628,7 @@ Chaneery Chancery
 cheftnuts cheftnuts
 Chnrch Church
 chofen chosen
+choosmg choosing
 Chrift Christ
 Chrift-church Christ-church
 Chriftchurch Christchurch
@@ -574,6 +642,7 @@ chrijlian christian
 Chrijlian Christian
 Chrijlmas Christmas
 Chrxftmas Christmas
+Churcn Churcn
 Churohes Churches
 circiimftances circumstances
 Circnmftances Circumstances
@@ -610,9 +679,14 @@ Cleanfmg Cleansing
 cleanftng cleansing
 clerkfhip clerkship
 clerklhip clerkship
+Cliairman Chairman
 Cliarities Charities
 cloath-ing cloathing
 Clofe Close
+ClotbiUg Clothing
+Clothiug Clothing
+Cmveycmcing Conveyancing
+Cmveycmcmg Conveyancing
 cna6ted enacted
 cnaaed enacted
 Cnaaed enacted
@@ -636,6 +710,8 @@ coaclimen coachmen
 Coaft Coast
 Cockfpur Cockspur
 cofts costs
+coHecting collecting
+coHectmg collecting
 cohftrued construed
 coilector collector
 coileftors collectors
@@ -718,9 +794,13 @@ com-penfation compensation
 compen-fation compensation
 compenfa-tion compensation
 compenfation compensation
+completidn completion
+completmg completing
 compofmg composing
 Compulfion Compulsion
 com-pulfory compulsory
+conceming concerning
+concemmg concerning
 concern-\ ing concerning
 concern-ing concerning
 concern\ ing concerning
@@ -732,6 +812,7 @@ confeflton confession
 confent consent
 Con-fent Consent
 Confent Consent
+Confessidn Confession
 Conffable Constable
 conffrued construed
 confiderable considerable
@@ -772,6 +853,7 @@ con-taining con-taining
 contain-\ ing containing
 contain-ing containing
 contain\ ing containing
+continumg continuing
 contra# contract
 con-trad contract
 contrad contract
@@ -783,14 +865,18 @@ contraft contract
 Contra&ing Contracting
 contra#s contracts
 Contra&s Contracts
+Conveyamcing Conveyancing
+Conveyamcmg Conveyancing
 Con-\ viction Conviction
 convi&ing convicting
 Convi&ion Conviction
 Convi&ions Convictions
+Coosolidated Consolidated
 coramiffioner commissioner
 coramiffions commissions
 coramiflioner commissioner
 coramiifioners commissioners
+cordiug cording
 cordwaincr cordwainer
 Cordwaincr Cordwainer
 cornmifiioners commissioners
@@ -810,9 +896,13 @@ coun-ty county
 coun\ ty county
 courfe course
 Courtefy Courtesy
+Cousolidated Consolidated
 cpmpany company
+Cpnsolidated Consolidated
+CQnsolidated Consolidated
 crofs cross
 Crofs Cross
+cruitmg cruiting
 csquire esquire
 ctherwife otherwise
 cufiody custody
@@ -828,6 +918,7 @@ cuftomed customed
 cujlom custom
 cujloms customs
 curfitor cursitor
+Cursiug Cursing
 dandeftine clandestine
 daugliters daughters
 dcbtors debtors
@@ -835,6 +926,7 @@ dcceafcd deceased
 dcceafed deceased
 Deatli Death
 deceafed deceased
+Dedaratidn Declaration
 Dedu&ed Deducted
 dedu&ing deducting
 defauiters defaulters
@@ -852,6 +944,7 @@ deflrufiion destruction
 deflruflion destruction
 deflruftien destruction
 deflruftive destructive
+defraymg defraying
 defroyed destroyed
 defroying destroying
 deftrov destroy
@@ -873,7 +966,9 @@ DeJlruElion Destruction
 dejlruflion destruction
 dejlruftion destruction
 depafturing depasturing
+desertidn desertion
 destroy-ing destroying
+Detaehment Detachment
 detcftabic detestable
 detcftablc detestable
 detcftable detestable
@@ -971,6 +1066,8 @@ dijlillers distillers
 dilpofed disposed
 dilTolve dissolve
 dimini(hing diminishing
+diooese diocese
+Diooese Diocese
 dire61ed directed
 dire&cd directed
 Diredions Directions
@@ -984,6 +1081,7 @@ dire&ly directly
 dire£t direct
 dire£ted directed
 discharg-ing discharging
+dischargmg discharging
 di(temper distemper
 divificn division
 di-vifion division
@@ -998,6 +1096,7 @@ divifton division
 diviftons divisions
 Diviiion Division
 divilion division
+divmg diving
 diyifion division
 Diyifion Division
 diyifions divisions
@@ -1005,6 +1104,7 @@ Diyifions Divisions
 dlfcharged discharged
 dlreftions directions
 doivn down
+Drawiug Drawing
 drfcharged discharged
 drfcharge discharge
 dtfcbarge discharge
@@ -1012,6 +1112,8 @@ Dtfturbances Disturbances
 Dtgnity Dignity
 dutie$ duties
 dwell-ing dwelling
+Dwelliug Dwelling
+dyemg dyeing
 eafl east
 eaft east
 Eaft East
@@ -1104,9 +1206,11 @@ elfe-where elsewhere
 elquire esquire
 Elquire Esquire
 eltates estates
+employmg employing
 ena&ad enacted
 enaAed enacted
 enab1e enable
+enabliug enabling
 ena&cd enacted
 enacfed enacted
 enaCfed enacted
@@ -1189,6 +1293,7 @@ exCife excise
 eXcife excise
 Excife Excise
 Exciie Excise
+executiug executing
 ex-ercife exercise
 exer-cife exercise
 Exer-cife Exercise
@@ -1231,6 +1336,7 @@ fala-ries salaries
 falefmen salesmen
 fale sale
 falfc false
+falliug falling
 Fa&or Factor
 Fa&ors Factors
 fatd said
@@ -1290,6 +1396,7 @@ fe\ (lions sessions
 fellion session
 Fenalty Penalty
 Fen-cibles Fencibles
+Fencmg Fencing
 feparate separate
 fergemaker sergemaker
 ferge serge
@@ -1398,6 +1505,7 @@ finijb finish
 finijbing finishing
 finking sinking
 fireet street
+Firfb first
 firfi first
 fir\ ft  first
 firft first
@@ -1417,6 +1525,7 @@ FirJl First
 firjt first
 Firjt First
 Firtt First
+Fishmg Fishing
 fithery fishery
 fiufficient sufficient
 fixlb sixth
@@ -1439,6 +1548,8 @@ foch such
 foidiers soldiers
 foldier soldier
 foldiers soldiers
+foliowing following
+foliowmg following
 fon son
 fopplies supplies
 forafmucb forasmuch
@@ -1449,9 +1560,11 @@ Forefter Forester
 foreft forest
 forefts forests
 Forefts Forests
+foregoiug foregoing
 Forejl Forest
 forejls forests
 Forejls Forests
+formmg forming
 Forty-fixth Forty-sixth
 fo so
 foutb south
@@ -1485,6 +1598,7 @@ fQld sold
 fquare square
 francbife franchise
 francbifes franchises
+Frankiug Franking
 frcehold freehold
 frefh fresh
 fre(h fresh
@@ -1635,6 +1749,8 @@ Goldfmith Goldsmith
 Goldfmiths Goldsmiths
 gommissioners commissioners
 good$ goods
+grantiug granting
+grantmg granting
 grindftones grindstones
 grofsing grossing
 Haberdafbery Haberdashery
@@ -1652,6 +1768,8 @@ haljpenny halfpenny
 {hall shall
 (hare share
 (hares shares
+haviug having
+havmg having
 (heep sheep
 (heet sheet
 hercby hereby
@@ -1675,6 +1793,7 @@ Hignway Highway
 Hignways Highways
 hi§ his
 hi$ his
+hilletting billetting
 (hilling shilling
 {hilling shilling
 (hillings shillings
@@ -1705,6 +1824,8 @@ houfes houses
 (hould should
 houle house
 Houle House
+housmg housing
+Huaband Husband
 hufband husband
 Hufband Husband
 Hufbandry Husbandry
@@ -1783,6 +1904,7 @@ impriloned imprisoned
 imprilon imprison
 Im-prisonment Imprisonment
 Imprison-ment Imprisonment
+improvmg improving
 inciofing inclosing
 inclcfing inclosing
 inclofihg inclosing
@@ -1790,6 +1912,8 @@ inclo-fing inclosing
 inclofing inclosing
 inclofmg inclosing
 inclofures inclosures
+incloling inclosing
+Inclosiire Inclosure
 inclulive inclusive
 Increafe Increase
 increafing increasing
@@ -1803,6 +1927,8 @@ indofing inclosing
 indofmg inclosing
 in-dorfe indorse
 indorfe indorse
+induding including
+indudmg including
 Induftry Industry
 infblvent insolvent
 Infblvent Insolvent
@@ -1830,6 +1956,8 @@ infurance insurance
 ingroffed ingrossed
 ingrofled ingrossed
 ingrofs ingross
+injuxy injury
+Injuxy Injury
 inoft most
 inrolied inrolled
 In-spectors Inspectors
@@ -1838,6 +1966,15 @@ Instruinents Instruments
 Intereft Interest
 interejl interest
 interji interest
+Intoricatiing Intoxicating
+Intoricatimg Intoxicating
+Intoxicaiing Intoxicating
+Intoxicaimg Intoxicating
+Intoxicaling Intoxicating
+Intoxicalmg Intoxicating
+Intoxicatiug Intoxicating
+Intoximting Intoxicating
+Intoximtmg Intoxicating
 intromiflions intromissions
 Intromiflions Intromissions
 Invafion Invasion
@@ -1845,6 +1982,7 @@ ioffes losses
 Ipeedy speedy
 Irifh Irish
 Irijb Irish
+issumg issuing
 i(Tued issued
 i(Tue issue
 iuftice justice
@@ -1915,6 +2053,7 @@ Jhouid should
 jhould should
 Jhould should
 Jiatute statute
+Jiirisdictibn  Jurisdiction
 Jince since
 Jixteen sixteen
 Jixteenth sixteenth
@@ -2015,6 +2154,7 @@ jurif-diftion jurisdiction
 jurif-diftions jurisdictions
 Jurifdi&ion Jurisdiction
 jurifidi&ion jurisdiction
+Jurisdictibn Jurisdiction
 juttices justices
 Juttices Justices
 JVelchmen Welchmen
@@ -2022,9 +2162,13 @@ JVhereas Whereas
 JVlajefty Majesty
 jwear swear
 Jwear swear
+keepmg keeping
 kerfie kersie
 kerfies kersies
+Ketiriug Retiring
 (kins skins
+Kiug King
+kmg king
 Kmg King
 lafl last
 laftage lastage
@@ -2034,9 +2178,12 @@ laft-mentioned last-mentioned
 lajl last
 lajt last
 (lamped stamped
+landiug landing
+laodiug laoding
 latisfy satisfy
 (lave slave
 lawfiil lawful
+lawfiilly lawfully
 lcafchold leasehold
 Lcafchold Leasehold
 lcafc lease
@@ -2049,9 +2196,11 @@ lcafe lease
 Lcafe Lease
 lcafes leases
 Lcafes Leases
+leadmg leading
 leafchold leasehold
 leafed leased
 leafes leases
+Leayiug Leaving
 lecond second
 legaUy legally
 lervant servant
@@ -2067,6 +2216,7 @@ Licenfed Licensed
 licenfing licensing
 licenfmg licensing
 lighthoufes lighthouses
+lightiug lighting
 ligliter lighter
 likewife likewise
 lingular singular
@@ -2081,6 +2231,7 @@ Looal Local
 lordihip lordship
 Lordihip Lordship
 lordlhip lordship
+losiug losing
 lovereign sovereign
 loyalitts loyalists
 lpeakcr speaker
@@ -2267,6 +2418,7 @@ manflaughtcr manslaughter
 Manflaughtcr Manslaughter
 manflaughter manslaughter
 Manflaughter Manslaughter
+Mansibn Mansion
 manufadlured manufactured
 manufadlure manufacture
 Manufadlure Manufacture
@@ -2285,6 +2437,8 @@ manufaftures manufactures
 manufa&ured manufactured
 Manufa&ure Manufacture
 manvfafture manufacture
+Marchiug Marching
+marchmg marching
 marfhalfea marshalsea
 Marfhalfea Marshalsea
 marfhalsea marshalsea
@@ -2308,9 +2462,12 @@ mea-fured measured
 mea-fure measure
 mea-fures measures
 Meafures Measures
+Meanmg Meaning
 mea-sured measured
 mea-sure measure
 mea-sures measures
+Meetiug Meeting
+Meetmg Meeting
 Meffengers Messengers
 mentibned mentioned
 menticncd mentioned
@@ -2320,6 +2477,7 @@ mentidned mentioned
 Mercbandifes Merchandises
 mereliant merchant
 meritioned mentioned
+Micnaelmas Michaelmas
 Midfuminer Midsummer
 Midfummcr Midsummer
 Midfummef Midsummer
@@ -2337,6 +2495,7 @@ Miftakes Mistakes
 miilion million
 milfion million
 minif-ter minister
+Miniug Mining
 Mjlitia Militia
 Moft Most
 Mojefty Majesty
@@ -2375,6 +2534,7 @@ neceftary necessary
 necefTary necessary
 necejfary necessary
 necejjary necessary
+necessazy necessary
 Negat1ve Negative
 Negativef Negatives
 Negativelv Negatively
@@ -2510,8 +2670,10 @@ notwitkftbaxBng notwithstanding
 notwitkjianding notwithstanding
 notwitliftanding notwithstanding
 notwitliftaniding notwithstanding
+notwitlistanding notwithstanding
 notwitlittanding notwithstanding
 notwitnftanding notwithstanding
+notwitnstanding notwithstanding
 notwjthdanding notwithstanding
 notwjthftanding notwithstanding
 notwjthftandiqg notwithstanding
@@ -2549,6 +2711,7 @@ Noyember November
 nptwithftancjing notwithstanding
 nptwithstanding notwithstanding
 nptWtbfranding notwithstanding
+nQtwithstanding notwithstanding
 nuifanccs nuisances
 nundred hundred
 obfervation observation
@@ -2567,22 +2730,33 @@ Odober October
 oertain certain
 ofber other
 ofberwife otherwise
+ofFending offending
+offendiug offending
+offendmg offending
+officiatiug officiating
 Oflober October
 oforejaid aforesaid
 Oftober October
+oifending offending
 omiftions omissions
 omijfions omissions
 omijjions omissions
 omilTions omissions
 o£ of
+oommanding commanding
+oommandmg commanding
 Oon-viction Conviction
+openiug opening
 oppofite opposite
 oppoftte opposite
 oppolite opposite
 otberwife otherwise
 otberwije otherwise
 otberwijh otherwise
+otbnrwise otherwise
+otfending offending
 otfierwife otherwise
+otfierwise otherwise
 othcr other
 othef other
 othenvife otherwise
@@ -2598,7 +2772,10 @@ otherwjfe otherwise
 otherwlfe otherwise
 otherwtfe otherwise
 oth£r other
+otiierwise otherwise
 otkerwife otherwise
+otKerwise otherwise
+otlierwise otherwise
 overfccrs overseers
 overfcer overseer
 overfcers overseers
@@ -2610,6 +2787,7 @@ overfeers overseers
 Overfeers Overseers
 overleer overseer
 overleers overseers
+owmg owing
 Oyfter Oyster
 oyjler oyster
 paffages passages
@@ -2674,15 +2852,20 @@ par\ liament parliament
 Parlia-\ ment Parliament
 Parlia-ment Parliament
 partnerlhip partnership
+passiug passing
+passmg passing
 pa(Ted passed
 pa\ (Ted passed
+pavmg paving
 pay-ing paying
 paymafter paymaster
 paymajler paymaster
 pay\ ment payment
+paymg paying
 pcr-fons persons
 (peed speed
 peijury perjury
+pendmg pending
 Penfion Pension
 penfions pensions
 penftoners pensioners
@@ -2728,6 +2911,7 @@ Phyfician Physician
 Phyficians Physicians
 Phyfick Physick
 (piritual spiritual
+plantiug planting
 playboufe playhouse
 pleafe please
 pleajed pleased
@@ -2749,6 +2933,7 @@ poftage postage
 pofteffion possession
 poftmafter postmaster
 Poftmaster Postmaster
+pointmg pointing
 pojfejfed possessed
 pojfejfion possession
 pojl post
@@ -2763,6 +2948,8 @@ Potalh Potash
 pouuds pounds
 Pouuds Pounds
 Pra&ices Practices
+precediug preceding
+precedmg preceding
 prefence presence
 pre-fentment presentment
 prefent present
@@ -2779,6 +2966,7 @@ Premiftes premisses
 premisles  premisses
 Present-ment Presentment
 Present-ments Presentments
+presidmg presiding
 prifbn prison
 prifoner prisoner
 Prifoner Prisoner
@@ -2794,6 +2982,7 @@ prijoner prisoner
 prijoners prisoners
 prijon  prison
 prilbn prison
+printiug printing
 priYate private
 Priyate Private
 Priyy Privy
@@ -2806,6 +2995,8 @@ Prmters Printers
 Procefs Process
 procejfes processes
 Proc-tors Proctors
+procuriug procuring
+Productibn Production
 Produ&ion Production
 profccutor prosecutor
 profecu-tion prosecution
@@ -2848,6 +3039,7 @@ provilion provision
 provilions provisions
 Provilions Provisions
 provjded provided
+provmg proving
 provofl provost
 provoft provost
 Provoft Provost
@@ -2881,6 +3073,7 @@ ptherwde otherwise
 ptherwife otherwise
 ptherwifp otherwise
 ptherwile otherwise
+ptherwise otherwise
 ptherwite otherwise
 ptirpofes purposes
 ptirposes purposes
@@ -2891,6 +3084,7 @@ Publiek Publick
 publkk publick
 Publkk Publick
 puhlick publick
+pumpmg pumping
 punifbing punishing
 punifb punish
 punifhment punishment
@@ -2916,6 +3110,7 @@ punish-ment punishment
 purcbafe purchase
 purcbafer purchaser
 purcbafers purchasers
+Purcbase Purchase
 purchafcer purchaser
 purchafcers purchasers
 purchafc purchase
@@ -2937,6 +3132,10 @@ purchaled purchased
 purchale purchase
 purchaling purchasing
 Pur-chaser Purchaser
+purcliase purcliase
+Purcliase Purcliase
+purcnase purchase
+Purcnase Purchase
 purebafed purchased
 purebafe  purchase
 purehafed purchased
@@ -2960,6 +3159,7 @@ purpoles purposes
 Pvblic Public
 P&yment Payment
 qf of
+Qhairman Chairman
 Qommissioners Commissioners
 Qreat Great
 quarfer quarter
@@ -2973,6 +3173,8 @@ raife raise
 raifing raising
 raifmg raising
 raiftng raising
+raiseiug raiseing
+raismg raising
 rcfpc&ively respectively
 rcfpeftively respectively
 rcfpe&ively respectively
@@ -2984,7 +3186,11 @@ reafonable reasonable
 rea-fon reason
 reafon reason
 Rea-fon Reason
+rea-\ sonable reasonable
+rea-sonable reasonable
 rebeilion rebellion
+receivmg receiving
+recruitmg recruiting
 redifying rectifying
 Reduc-tion Reduction
 Redu&ion Reduction
@@ -3085,24 +3291,38 @@ Reftriftions Restrictions
 Refufal Refusal
 refuf-ing refusing
 refufmg refusing
+refusiug refusing
 regifired registred
 regifter register
 Regiftrars Registrars
 regiftring registring
 Regiftry Registry
+Regulatidn Regulation
 re-iffuing re-issuing
 re-imburfing re-imbursing
 reipe&ively respectively
 rejlriftions restrictions
 rejpeftively respectively
 rejpeftive respective
+relatidn relation
+relatiug relating
+relatmg relating
 relpedively respectively
 relpeftive respective
 relpe&ively respectively
+Removiug Removing
+remQving removing
+remQvmg removing
+repairiug repairing
+repassiug repassing
+repassmg repassing
 reprefent represent
 requefts requests
 Requifites Requisites
+requirmg requiring
+reserviug reserving
 respe3ively  respectively
+respectiug respecting
 respectivcly respectively
 respectivc respective
 respectivefy respectively
@@ -3115,24 +3335,33 @@ respect-\ ively respectively
 respect-ively respectively
 respect\ ively respectively
 respective-ly respectively
+respectmg respecting
+returnmg returning
 reverfion reversion
 Reverfion Reversion
 reveriion reversion
 reverjion reversion
+rewarehousmg rewarehousing
 reyoked revoked
+Ridiug Riding
 riotwithstanding notwithstanding
 rofemary rosemary
 °r or
 ©r or
+sailmg sailing
 Saiut Saint
 Satisfa3ion Satisfaction
 Satisfaftion Satisfaction
 Satisfa&ion Satisfaction
+Saviug Saving
 Saviugs Savings
+Savmg Saving
 Sbort Short
 Schcdulc Schedule	
 Schedulc Schedule
 Sche-dule Schedule
+scribiug scribing
+sectibn section
 seffion session
 Seffion Session
 Seffions Sessions
@@ -3151,11 +3380,18 @@ SeJJions Sessions
 Selfion Session
 Sellions Sessions
 Serieant Serjeant
+servmg serving
+Sessibn Session
+sessmg sessing
 seventeentb seventeenth
 Seventli Seventh
+shaH shall
+shaU shall
+Shippmg Shipping
 Sicknefs Sickness
 silverfmith silversmith
 Silverfmith Silversmith
+sittmg sitting
 Sneriff Sheriff
 soidlers soldiers
 Spanifb Spanish
@@ -3169,14 +3405,18 @@ Spanilh Spanish
 Spantfb Spanish
 Spantfh Spanish
 Spantjb Spanish
+standmg standing
 subfcribers subscribers
 Succcffors Successors
 Succeffors Successors
 Succefiors Successors
 succeftors successors
 succeftor successor
+suhsisting subsisting
+sumg suing
 Sun-day Sunday
 Sun-set Sunset
+suoceediug succeeding
 survivorfhip survivorship
 survivorfliip survivorship
 survivorflup survivorship
@@ -3184,9 +3424,11 @@ survivorihips survivorship
 survivorihip survivorship
 survivorjhibs survivorship
 survivorlhip survivorship
+Suspendmg Suspending
 t0 to
 T17HEREAS WHEREAS
 T1THEREAS WHEREAS
+takiug taking
 (tamped stamped
 (tamps stamps
 (tamp stamp
@@ -3198,6 +3440,7 @@ tbirty thirty
 tbofe those
 tboufand thousand
 tboujand thousand
+Tbulonese Toulonese
 teflamentary testamentary
 teflaments testaments
 teflament testament
@@ -3295,6 +3538,8 @@ thqufand thousand
 tiie the
 TIT\ HERE\ AS WHEREAS
 TITHEREAS WHEREAS
+tithmg tithing
+tiug ting
 tivo two
 Tivo Two
 tjie the
@@ -3319,6 +3564,10 @@ tne the
 tney they
 tnose those
 (tores stores
+tor for
+toucbiug toucbing
+touchiug touching
+Tovlonese Toulonese
 townfbips townships
 town-fhips townships
 townfhips townships
@@ -3353,6 +3602,7 @@ Tranfport Transport
 Trans-\ fer Transfer
 Trans-fer Transfer
 transmit-ted transmitted
+Transportatidn Transportation
 Trcafurcr Treasurer
 treafiirer treasurer
 trea-fons treasons
@@ -3469,6 +3719,7 @@ vi&ual victual
 vjhereas whereas
 volun-teers volunteers
 volun-teer volunteer
+votmg voting
 VT7HEREAS WHEREAS
 vvhatsoever whatsoever
 VVHEREAS WHEREAS
@@ -3484,6 +3735,7 @@ warehoufes warehouses
 warehoufe warehouse
 Warehoufe Warehouse
 Warehoufing Warehousing
+warehousmg warehousing
 watclimen watchmen
 wbatfoever whatsoever
 wbatsoever whatsoever
@@ -3495,6 +3747,7 @@ Wcjl West
 weftward westward
 weft west
 Weft West
+Weighiug Weighing
 wejl west
 Wejl West
 Weljhmen Welshmen
@@ -3536,6 +3789,8 @@ Woolien Woollen
 worfteds worsteds
 workboufes workhouses
 workboufe workhouse
+Writiug Writing
+Writmg Writing
 £XP EXP
 XTTHEREAS WHEREAS
 Y1THEREAS WHEREAS
@@ -3548,6 +3803,7 @@ yaluation valuation
 Yaluation Valuation
 Yalues Values
 Yalue Value
+Yeomanzy Yeomanry
 Yessel Vessel
 YesseL Vessel
 Yestries Vestries
@@ -3556,6 +3812,7 @@ Yicar Vicar
 YITHEREAS WHEREAS
 Ylf\ HEREAS WHEREAS
 YlfHEREAS WHEREAS
+yoUng young
 YT7HEREAS WHEREAS
 YTTHEREAS WHEREAS
 YVarrant Warrant
@@ -3602,7 +3859,4 @@ zvriting writing
 zvrits writs
 zvritten written
 zvrit writ
-lawfiil lawful
-lawfiilly lawfully
-tor for
-f°r for
+

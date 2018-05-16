@@ -127,6 +127,8 @@ CommiJJion Commission
 commilfion commission
 commiliion commission
 commilTion commission
+Com-penfat Compensat
+com-pleat compleat
 confent consent
 confiable constable
 Confiable Constable
@@ -139,6 +141,8 @@ Correfpond Correspond
 Correftion Correction
 coun-fel counsel
 coun-terfeit counterfeit
+counter-fign counter-sign
+counterfign countersign
 countiesof counties\ of
 crofs cross
 cuft°dy custody
@@ -227,6 +231,10 @@ Englijh English
 eonftable constable
 ertablish establish
 exercife exercise
+exereife exercise
+exereije exercise
+exerrife exercise
+exift exist
 Expencc Expence
 fa&ion faction
 fatisfaft satisfact
@@ -364,7 +372,10 @@ jpirit spirit
 Jpirit spirit
 jubfcrib subscrib
 jubfcrip subscrip
+Jucceffors successors
+juccejfors successors
 Juflice Justice
+juflices justices
 Jufticc Justice
 ju-ftice justice
 juftice justice
@@ -536,6 +547,12 @@ Somcrfct Somerset
 Somcrfet Somerset
 Somerfct Somerset
 Somerfet Somerset
+Subfcrib Subscrib
+Subfiftence Subsistence
+subje6l subject
+Subje6l Subject
+subje6t subject
+Subje6t Subject
 Sub-jeft Subject
 Subjeft Subject
 Subje& Subject
@@ -606,6 +623,10 @@ Wejlmin Westmin
 Wejlmln Westmin
 Wejtmin Westmin
 Wejtmln Westmin
+Indosure Inclosure
+indosure inclosure
+andfift and\ fift
+andRichard and\ Richard
 Weslmin Westmin
 Westminft Westminst
 Wincbe Winche
@@ -617,17 +638,4 @@ yourmaje your\ maje
 yourMaje your\ Maje
 Zoucb Zouch
 zvhicb which
-exereife exercise
-exereije exercise
-exerrife exercise
-exift exist
-Subje6t Subject
-Subje6l Subject
-subje6t subject
-subje6l subject
-Subfiftence Subsistence
-Subfcrib Subscrib
-counterfign countersign
-counter-fign counter-sign
-Com-penfat Compensat
-com-pleat compleat
+Puni8h Punish
