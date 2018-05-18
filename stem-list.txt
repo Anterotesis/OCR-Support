@@ -10,8 +10,11 @@ Advertife Advertise
 advife advise
 advowfon advowson
 a£f act
+afeertain ascertain
 affeff assess
 affign assign
+afiemble assemble
+Afiemble Assemble
 aforesaidy aforesaid,
 aftault assault
 AfTeflment Assessment
@@ -32,12 +35,15 @@ AJfurance Assurance
 AJhby Ashby
 AJhton Ashton
 alehoufc alehouse
+Alfign Assign
 almfhouse almshouse
 alTemble assemble
 amongft amongst
 andafter and\ after
 andalfo and\ also
+andfift and\ fift
 andfub and\ sub
+andRichard and\ Richard
 anfvver answer
 anfwer answer
 Anfwer Answer
@@ -61,6 +67,7 @@ Annovic Anno\ vic
 archhifhop archbishop
 Archhifhop Archbishop
 ascer-tain ascertain
+befeech beseech
 bifhop bishop
 bijhop bishop
 Bijhop Bishop
@@ -108,16 +115,30 @@ Commiffio Commissio
 commiffioh commission
 commiffiom commission
 commiffion commission
+Commif-fion Commission
+Commiffion Commission
 commiffon commission
 commiffton commission
+Commiffton Commission
 commifhon commission
 Commifhon Commission
 commifiion commission
+Commifiion Commission
+commifilon commission
+Commifilon Commission
 commifjion commission
+commiflion commission
+Commiflion Commission
 commifllon commission
 commifsion commission
 commiftion commission
 commifTion commission
+Commiftion Commission
+CommifTion Commission
+commihion commission
+commiHion commission
+Commihion Commission
+CommiHion Commission
 commiHioner commissioner
 commiifion commission
 commijfion commission
@@ -158,12 +179,17 @@ deftroy destroy
 dejtroy destroy
 demolijh demolish
 demolilh demolish
+depofit deposit
 dfhire dshire
 difburf disburs
+Difburfe Disburse
 difcbar dischar
 difcfiarge discharge
 difchai dischar
 difchar dischar
+difcharge discharge
+difcHarge discharge
+Difcharge Discharge
 difcliarge discharge
 Difcliarge Discharge
 Difclofur Disclosur
@@ -182,12 +208,19 @@ Difeharge Discharge
 difenarge discharge
 difeontinu discontinu
 diflrain distrain
+difmiff dismiss
+Difmiff Dismiss
+difobedie disobedie
+Difobedie Disobedie
+difobey disobey
+Difobey Disobey
 difpenf dispens
 Difpenf Dispens
 dif-pofe dispose
 difpofe dispose
 Difpute Dispute
 diftill distill
+Diftill Distill
 difturb disturb
 di&ion diction
 dijcont discont
@@ -203,6 +236,7 @@ divifton division
 djhire dshire
 Dorfet Dorset
 du&ion duction
+dwell-ing dwelling
 Eafement Easement
 Eafi-Ind East-Ind
 Eafl-Ind East-Ind
@@ -216,10 +250,14 @@ efpecial especial
 eftabfifh establish
 eftabli establi
 eftablifh establish
+Eftablifh Establish
 eftablijh establish
 eftahlifh establish
 eftahlijh establish
+eftate estate
+Eftate Estate
 Eftimate Estimate
+efTor essor
 eigtb eigth
 enaded enacted
 ena#ed enacted
@@ -238,9 +276,13 @@ exift exist
 Expencc Expence
 fa&ion faction
 fatisfaft satisfact
+fatisfa satisfa
+fbire shire
 fchcdule schedule
 fchedule schedule
 fchool school
+fcrvice service
+fearch search
 fecond second
 fecurity security
 Fenaltie Penaltie
@@ -257,6 +299,7 @@ fhilling shilling
 -fhire -shire
 fhire- shire-
 fieid field
+fiiire shire
 filver silver
 firjl first
 fixpenc sixpenc
@@ -277,9 +320,11 @@ fpirit spirit
 fpread spread
 franchife franchise
 f°rty forty
+ftances stances
 ftanding standing
 ftatuteof statute\ of
 ftminster stminster
+ftru&ing structing
 fuanceof suance\ of
 fubdiv subdiv
 fubfcrib subscrib
@@ -325,17 +370,35 @@ Gxorgi Georgi
 havebeen have\ been
 HEKEAS HEREAS
 HiaMaje His\ Maje
+Highivay Highway
+himfelf himself
 hismaj his\ maj
 hisMaj his\ Maj
 Hismaj His\ maj
 HisMaj His\ Maj
 HisMaJ His\ Maj
+hofpitai hospital
+Hofpitai Hospital
+hofpital hospital
+Hofpital Hospital
+hojpital hospital
+Hojpital Hospital
+Holpiral Hospital
+holpital hospital
+Holpital Hospital
+Homeftead Homestead
+honeft honest
 houfc house
 Houfc House
 houfe house
 Houfes Houses
 housesof houses\ of
+iddlefcx iddlesex
+iddlefex iddlesex
+impofed imposed
 impojition imposition
+indosure inclosure
+Indosure Inclosure
 Iriffi Irish
 Irijb Irish
 Irijh Irish
@@ -350,6 +413,7 @@ Ivejlmin Westmin
 IVejlmin Westmin
 jbip ship
 Jbip ship
+jbire shire
 jefty jesty
 Jerfey Jersey
 Jerjeant serjeant
@@ -363,11 +427,15 @@ jhopfgate shopsgate
 Jhopfgate shopsgate
 jhort short
 Jhort short
+jhould should
+Jhould should
 jlamp stamp
 Jlamp stamp
 jlaple staple
 jlminster stminster
 Jndge Judge
+jnftice justice
+Jnftice Justice
 jpirit spirit
 Jpirit spirit
 jubfcrib subscrib
@@ -385,13 +453,27 @@ juftic justic
 Juftiee Justice
 juftjce justice
 Juftjce Justice
+Jultice Justice
 jurifdid jurisdict
 jurifdi jurisdi
+jurisdi6tion jurisdiction
+jurisdift jurisdict
+Jurisdift Jurisdict
+jurisdi£lion jurisdiction
+jurisdi£tion jurisdiction
+juslice justice
+Juslice Justice
 justiceof justice\ of
 jveftmin Westmin
 Jveftmin Westmin
+jveft west
+Jveft West
 JVeft West
 JVeJ Wes
+kceper keeper
+kecper keeper
+keepcr keeper
+Kiddcrm Kidderm
 loyalfub loyal\ sub
 mafter master
 magiftrat magistrat
@@ -440,7 +522,13 @@ neVer never
 nevertbe neverthe
 neverthc neverthe
 nonoGeo nono\ Geo
+notvvith notwith
+notwitbft notwithst
+notwitb notwith
+notwithfland notwithstand
 notwithftand notwithstand
+notwithjland notwithstand
+notwitli notwith
 nufa&ure nufacture
 ob-ferve observe
 obferv observ
@@ -487,6 +575,7 @@ Profccution Prosecution
 proviflon provision
 publilh publish
 Publilh Publish
+Puni8h Punish
 punijb punish
 punijh punish
 punilh punish
@@ -542,7 +631,11 @@ relpect respect
 relpedt respect
 relpeft respect
 respecfive respective
+rtotwith notwith
 sbould should
+Sefiion Session
+Seflion Session
+Se(lions Sessions
 Somcrfct Somerset
 Somcrfet Somerset
 Somerfct Somerset
@@ -597,6 +690,7 @@ tricefi tricesi
 tricesimopri tricesimo\ pri
 tricesimose tricesimo\ se
 truftees trustees
+Truftee Trustee
 tvejlmin Westmin
 twenfy twenty
 Utenfil Utensil
@@ -623,19 +717,18 @@ Wejlmin Westmin
 Wejlmln Westmin
 Wejtmin Westmin
 Wejtmln Westmin
-Indosure Inclosure
-indosure inclosure
-andfift and\ fift
-andRichard and\ Richard
 Weslmin Westmin
 Westminft Westminst
 Wincbe Winche
 withftanding withstanding
+withftand withstand
 withoutlic without\ lic
+Worcefter Worcester
+worjhip worship
 yearof year\ of
 Yisconte Visconte
 yourmaje your\ maje
 yourMaje your\ Maje
 Zoucb Zouch
 zvhicb which
-Puni8h Punish
+

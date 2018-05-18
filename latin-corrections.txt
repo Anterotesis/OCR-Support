@@ -1,4 +1,7 @@
 0£tavo Octavo
+6UL1ELMI GULIELMI
+6ULIELM1 GULIELMI
+6ULIELMI GULIELMI
 Aano Anno
 Aanonono Anno\ nono
 Aanoquinto Anno\ quinto
@@ -171,9 +174,34 @@ GeoRgji Georgii
 GeoRGJI Georgii
 GEORGJI GEORGII
 Georgjj Georgii
+GEoRGlf GEORGII
+GEORGlf GEORGII
+GEORGlfl GEORGII
 georgli Georgii
+Georgli Georgii
+GEORGli GEORGII
 GEORGlI GEORGII
+GEORGlJ GEORGII
+georgll georgii
+GEORGll GEORGII
+GeoRGllIJ GEORGII\ II
+georgm georgii
+Georgm Georgii
+GeorGM Georgii
+GeoRgm Georgii
+GeORgm Georgii
+GEORGM GEORGII
+georgn georgii
 Georgn Georgii
+GEoRGn GEORGII
+GEORGn GEORGII
+GEORGpII GEORGII
+Georgr Georgii
+georgri georgii
+Georgri Georgii
+GEORGri GEORGII
+GEORGrII GEORGII
+GEORGrll GEORGII
 georgti Georgii
 Georgti Georgii
 GeorgTi Georgii
@@ -197,12 +225,18 @@ GeoROii Georgii
 GeoROIi Georgii
 GeoROII Georgii
 GeOroii Georgii
+GEOROii GEORGII
+GEOROII GEORGII
+GEORQH  GEORGII
 georqii Georgii
 Georqii Georgii
 GeorqIi Georgii
 GeoRqii Georgii
 GeOrqii Georgii
+GEORQII GEORGII
 Georqij Georgii
+GEORQIl GEORGII
+GEORQir GEORGII
 GeosgIi Georgii
 geougii Georgii
 Geougii Georgii
@@ -217,6 +251,7 @@ GEQRGII GEORGII
 gfcorgii Georgii
 GfioRGii Georgii
 Gkorgii Georgii
+GLJL1ELMI GULIELMI
 G£orgii Georgii
 G&orgii Georgii
 gporgii Georgii
@@ -231,6 +266,7 @@ Gporqii Georgii
 GpoRQij Georgii
 Grorgii Georgii
 Gsorgii Georgii
+GUL1ELMI GULIELMI
 Guublmi Gulielmi
 Hcnrici Henrici
 iecundo secundo
@@ -248,6 +284,7 @@ OEORGii Georgii
 OEORGII GEORGII
 OEoRGir Georgii
 Oeorqii Georgii
+ofbavo octavo
 oflavo octavo
 oftavo octavo
 o£lavo octavo
@@ -255,6 +292,7 @@ o£tavo octavo
 O£tavo Octavo
 otfavo octavo
 ottavo octavo
+OUL1ELMI GULIELMI
 primoGeorgii primo\ Georgii
 primoGEORGii primo\ Georgii
 prirno primo
@@ -362,6 +400,7 @@ qumto quinto
 regnl regni
 regnt regni
 tcrtio tertio
+teftio tertio
 terrio tertio
 terti0 tertio
 tertia tertio
@@ -517,11 +556,5 @@ yiccfimo vicesimo
 yicefimo vicesimo
 Yicefimo vicesimo
 ylcefimo vicesimo
-6ULIELMI GULIELMI
-6UL1ELMI GULIELMI
-6ULIELM1 GULIELMI
-GLJL1ELMI GULIELMI
-GUL1ELMI GULIELMI
-OUL1ELMI GULIELMI
-ofbavo octavo
-teftio tertio
+Rjchardj Richardi
+Rjchardi Richardi
