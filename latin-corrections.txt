@@ -558,3 +558,6 @@ Yicefimo vicesimo
 ylcefimo vicesimo
 Rjchardj Richardi
 Rjchardi Richardi
+rcgniquadiagesimoquinto regni\ quadragesimo\ quinto
+rcgniquadragesimo regni\ quadragesimo
+rcgni regni

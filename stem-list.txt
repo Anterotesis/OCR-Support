@@ -31,6 +31,7 @@ Ajfejfment Assessment
 AJfeJfment Assessment
 ajfejj assess
 ajfemblc assemble
+AJfignment Assignment
 AJfurance Assurance
 AJhby Ashby
 AJhton Ashton
@@ -67,6 +68,7 @@ Annovic Anno\ vic
 archhifhop archbishop
 Archhifhop Archbishop
 ascer-tain ascertain
+bajlard bastard
 befeech beseech
 bifhop bishop
 bijhop bishop
@@ -89,6 +91,7 @@ BritiJb British
 Britijh British
 BritiJh British
 Britilh British
+burgb burgh
 caftle castle
 car-riage carriage
 Car-riage Carriage
@@ -102,6 +105,8 @@ cejter cester
 cftablilh establish
 chargedof charged\ of
 chefter chester
+cheJlcr chester
+cheJler chester
 chrift christ
 churcb church
 circumftanc circumstanc
@@ -109,6 +114,10 @@ cjuad quad
 Claufe Clause
 cnurch church
 Cnurch Church
+collcdt collect
+Collcdt Collect
+collcft collect
+Collcft Collect
 Colleftion Collection
 commiff commiss
 Commiffio Commissio
@@ -165,6 +174,7 @@ coun-terfeit counterfeit
 counter-fign counter-sign
 counterfign countersign
 countiesof counties\ of
+courfes courses
 crofs cross
 cuft°dy custody
 cuftom custom
@@ -244,6 +254,7 @@ Eaft-Ind East-Ind
 Eaft-lnd East-Ind
 EEEAS EREAS
 effedual effectual
+effe<ft effect
 effeSual effectual
 effion ession
 efpecial especial
@@ -259,6 +270,7 @@ Eftate Estate
 Eftimate Estimate
 efTor essor
 eigtb eigth
+enactcd enacted
 enaded enacted
 ena#ed enacted
 ena&ted enacted
@@ -282,6 +294,10 @@ fchcdule schedule
 fchedule schedule
 fchool school
 fcrvice service
+fcvcn seven
+fcvcral several
+fcven seven
+fcveral several
 fearch search
 fecond second
 fecurity security
@@ -289,6 +305,8 @@ Fenaltie Penaltie
 ferjeant serjeant
 fervice service
 fetfhire setshire
+fevcn seven
+fevcral several
 feven seven
 fextoG sexto\ G
 fhall shall
@@ -320,6 +338,12 @@ fpirit spirit
 fpread spread
 franchife franchise
 f°rty forty
+ftabiifb stablish
+ftabiifh stablish
+ftablifb stablish
+ftablifh stablish
+ftablilh stablish
+ftahlilh stablish
 ftances stances
 ftanding standing
 ftatuteof statute\ of
@@ -390,6 +414,8 @@ Homeftead Homestead
 honeft honest
 houfc house
 Houfc House
+houfeholder householder
+Houfeholder Householder
 houfe house
 Houfes Houses
 housesof houses\ of
@@ -453,7 +479,9 @@ juftic justic
 Juftiee Justice
 juftjce justice
 Juftjce Justice
+Julfice Justice
 Jultice Justice
+Jupport support
 jurifdid jurisdict
 jurifdi jurisdi
 jurisdi6tion jurisdiction
@@ -474,10 +502,17 @@ kceper keeper
 kecper keeper
 keepcr keeper
 Kiddcrm Kidderm
+licenfe license
 loyalfub loyal\ sub
 mafter master
 magiftrat magistrat
 magijlrate magijlrate
+magiltrate magistrate
+Magiltrate Magistrate
+magjftrate magistrate
+Magjftrate Magistrate
+magtftrate magistrate
+Magtftrate Magistrate
 maieft majest
 Majcfty Majesty
 majefby majesty
@@ -491,6 +526,8 @@ majeft majest
 majelt majest
 majestv majesty
 Majestv Majesty
+manufadlur manufacture
+Manufadlur Manufacture
 manufadur manufactur
 manufaft manufact
 Manufaft Manufact
@@ -552,12 +589,15 @@ Parifb Parish
 Parifh Parish
 Pay-ment Payment
 pcnce pence
+Per-fonal Personal
 Perfon Person
 phyfic physic
 Phyfic Physic
 p°int point
 P°int Point
 poffeff possess
+pofsession possession
+Pofsession Possession
 poftmaster postmaster
 pojfejf possess
 pojfejj possess
@@ -572,10 +612,18 @@ prifon prison
 pro-duce produce
 Pro-duce Produce
 Profccution Prosecution
+provi-fion provision
+Provi-fion Provision
 proviflon provision
+provi(ion provision
+Provi(ion Provision
+provi-lion provision
+Provi-lion Provision
 publilh publish
 Publilh Publish
 Puni8h Punish
+punifh punish
+Punifh Punish
 punijb punish
 punijh punish
 punilh punish
@@ -600,6 +648,7 @@ rcgiftcr register
 rcgjfter register
 reafcn reason
 reafon reason
+re-cognifance recognisance
 recoyer recover
 re-ferving reserving
 refidence residence
@@ -614,14 +663,21 @@ refpecft respect
 refpec respec
 refpec-tive respective
 refpectl respect
+re-fpeCt respect
+refpeCt respect
+refpeCT respect
 refpedfive respective
 refpedftive respective
 refpediive respective
 refpedivc respective
 refpedlivc respective
+re-\ fpedlive respective
+re-fpedlive respective
 refpedlive respective
+refpedl respect
 refpedt respect
 refpeftiv respectiv
+re-fpeft respect
 refpeft respect
 regifter register
 regniquad regni\ quad
@@ -633,6 +689,11 @@ relpeft respect
 respecfive respective
 rtotwith notwith
 sbould should
+Scbool School
+scffion session
+Scffion Session
+scflion session
+Scflion Session
 Sefiion Session
 Seflion Session
 Se(lions Sessions
@@ -650,11 +711,16 @@ Sub-jeft Subject
 Subjeft Subject
 Subje& Subject
 (tatute statute
+tbefaid the\ said
 tbere there
 tbirty thirty
 tborp thorp
 tbou thou
+tccnth teenth
+tcenth teenth
 tcrtio tertio
+tecnth teenth
+teentb teenth
 tertioE tertio\ E
 tertioG tertio\ G
 theauthor the\ author
@@ -693,6 +759,7 @@ truftees trustees
 Truftee Trustee
 tvejlmin Westmin
 twenfy twenty
+ufbandrv usbandry
 Utenfil Utensil
 vefifels vessels
 verthelefs vertheless
@@ -700,6 +767,8 @@ vertifement vertisement
 vfcefi vicesi
 vicefimo vicesimo
 VICT0R VICTOR
+vidfual victual
+Vidfual Victual
 vifcount viscount
 Vifcount Viscount
 vifions visions
@@ -712,9 +781,11 @@ Weflmin Westmin
 Weftmin Westmin
 Weftmtn Westmin
 Weftm Westm
+Wejhnin Westmin
 Wejimin Westmin
 Wejlmin Westmin
 Wejlmln Westmin
+Wejlmtn Westmin
 Wejtmin Westmin
 Wejtmln Westmin
 Weslmin Westmin
@@ -723,6 +794,7 @@ Wincbe Winche
 withftanding withstanding
 withftand withstand
 withoutlic without\ lic
+WiUiam William
 Worcefter Worcester
 worjhip worship
 yearof year\ of
@@ -731,45 +803,6 @@ yourmaje your\ maje
 yourMaje your\ Maje
 Zoucb Zouch
 zvhicb which
-Magtftrate Magistrate
-magtftrate magistrate
-Magjftrate Magistrate
-magjftrate magistrate
-Magiltrate Magistrate
-magiltrate magistrate
-provi-fion provision
-Provi-fion Provision
-Provi(ion Provision
-provi(ion provision
-provi-lion provision
-Provi-lion Provision
-houfeholder householder
-Houfeholder Householder
-Scbool School
-Scffion Session
-scffion session
-Scflion Session
-scflion session
-courfes courses
-licenfe license
-bajlard bastard
-fcven seven
-fevcn seven
-fcvcn seven
-teentb teenth
-tccnth teenth
-tcenth teenth
-tecnth teenth
-fcvcral several
-fcveral several
-fevcral several
-tbefaid the\ said
-ufbandrv usbandry
-ftabiifh stablish
-ftablifh stablish
-ftablifb stablish
-ftabiifb stablish
-ftahlilh stablish
-ftablilh stablish
-WiUiam William
-burgb burgh
+dijlurb disturb
+Adminillrat Administrat
+alfeff assess
