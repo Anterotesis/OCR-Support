@@ -561,3 +561,15 @@ Rjchardi Richardi
 rcgniquadiagesimoquinto regni\ quadragesimo\ quinto
 rcgniquadragesimo regni\ quadragesimo
 rcgni regni
+o&aVo octavo
+GFORGII GEORGII
+GEORGIf GEORGII
+GEORGH GEORGII
+GEORGil GEORGII
+GEORGIJ GEORGII
+GEoRGII GEORGII
+GEORGIi GEORGII
+GEORGIX GEORGII
+quinquagefinio quinquagesimo
+quinquageiimo quinquagesimo
+quinquagelimo quinquagesimo

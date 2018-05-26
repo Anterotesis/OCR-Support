@@ -1,10 +1,16 @@
 6f\ the of\ the
 6f\ this of\ this
 a9\ aforesaid as\ aforesaid
+aa\ Act an\ Act
+Aa\ Act An\ Act
 aa\ Ad an\ Act
+Aa\ Ad An\ Act
+aa\ aforesaid as\ aforesaid
 aa\ aft an\ act
 aaaft an\ act
 Aaaft An\ act
+aA\ or\ aAs act\ or\ acts
+AA\ or\ AAs Act\ or\ Acts
 Act\ far Act\ for
 act\ fbr act\ for
 Act\ fbr Act\ for
@@ -45,10 +51,17 @@ Aft\ or\ Afts Act\ or\ Acts
 a\ ft\ or\ afts act\ or\ afts
 afts\ of\ parliament acts\ of\ parliament
 aft\ to act\ to
+Ah\ a3 An\ act
+Ah\ A3 An\ Act
+Ah\ a8 An\ act
+Ah\ A8 An\ Act
+Ah\ A\ Cl An\ Act
 ah\ act an\ act
 ah\ Act an\ Act
 Ah\ act An\ act
 ah\ aft an\ act
+Ah\ a\ ft An\ act
+Ah\ A\ ft An\ Act
 ahd\ for and\ for
 ahd\ the and\ the
 aH\ such all\ such
@@ -56,6 +69,7 @@ aid\ aft said\ act
 Ail\ Act An\ Act
 a\ lift a\ list
 a\ Lift a\ List
+all\ A&s all\ Acts
 alt\ of\ parliament act\ of\ parliament
 alts\ of\ parliament acts\ of\ parliament
 Am\ Act An\ Act
@@ -66,20 +80,37 @@ An\ A3 An\ Act
 an\ a51 an\ act
 An\  a51 An\ act
 An\ a51 An\ act
+an\ A\ 61 an\ Act
 An\ A\ 61 An\ Act
+an\ A8 an\ Act
 An\ a8 An\ act
 An\ A8 An\ Act
 an\ aA an\ Act
+An\ a\ A\ An\ act
 An\ aA An\ Act
+An\ A\ a\ An\ Act
+An\ A\ A\ An\ Act
 An\ AA An\ Act
+An\ Aa\ for An\ Act\ for
+An\ AA\ for An\ Act\ for
 An\ a& An\ act
 An\ a# An\ act
+An\ a\ At An\ act
+An\ A\ At An\ Act
 Ana\ be And\ be
+An\ a\ c1 An\ act
 An\ AC! An\ Act
+an\ a\ cl an\ act
 an\ acl an\ act
+an\ a\ Cl an\ act
+an\ A\ Cl an\ Act
+an\ A\ CL an\ Act
 An\ acl An\ act
 An\ aCl An\ act
+An\ A\ cl An\ Act
 An\ Acl An\ Act
+An\ A\ Cl An\ Act
+An\ A\ CL An\ Act
 An\ act\ far An\ act\ for
 An\ Act\ far An\ Act\ for
 An\ act\ fdr An\ act\ for
@@ -98,15 +129,21 @@ An\ ad\ far An\ act\ for
 An\ Ad\ far An\ Act\ for
 An\ Ad\ fbr An\ Act\ for
 an\ ad\ for an\ act\ for
+An\ a\ d\ for An\ act\ for
 An\ adfor An\ act\ for
+An\ A\ d\ for An\ Act\ for
 An\ Ad\ for An\ Act\ for
 An\ adi\ for An\ act\ for
 An\ adJ An\ act
+an\ A\ dl an\ Act
 An\ adl An\ act
 an\ adl\ made an\ act\ made
+an\ a\ d\ made an\ act\ made
 an\ ad\ made an\ act\ made
+an\ A\ d\ made an\ Act\ made
 an\ Ad\ made an\ Act\ made
 an\ ad\ passed an\ act\ passed
+an\ a\ dt an\ act
 An\ Ad\ to An\ Act\ to
 ana\ enforcing and\ enforcing
 An\ aEt An\ act
@@ -116,6 +153,8 @@ An\ aff\ to An\ act\ to
 An\ a\ for An\ act\ for
 ana\ for and\ for
 an\ aft an\ act
+an\ A\ (ft an\ Act
+an\ A\ ft an\ Act
 an\ Aft an\ Act
 An\ a\ ft An\ act
 An\ aft An\ act
@@ -149,10 +188,15 @@ An\ aQ An\ act
 An\ AQ An\ Act
 An\ aS An\ act
 An\ AS An\ Act
+An\ A\ SI An\ Act
+An\ a\ St An\ Act
+An\ A\ St An\ Act
 An\ at1 An\ act
 an\ at\ for an\ act\ for
 An\ at\ for An\ act\ for
+An\ At\ for An\ Act\ for
 an\ at\ made an\ act\ made
+An\ At\ to An\ Act\ to
 and\ cods and\ costs
 and\ fbr and\ for
 An\ dft An\ act
@@ -216,6 +260,7 @@ bis\ present\ Majesty his\ present\ Majesty
 bis\ said his\ said
 bis\ wife his\ wife
 buying\ and\ felling buying\ and\ selling
+by\ aa\ Act by\ an\ Act
 by\ aft by\ act
 by\ ah\ act by\ an\ act
 cf\ the of\ the
@@ -241,6 +286,8 @@ fell\ and\ dispose sell\ and\ dispose
 felling\ annuities selling\ annuities
 fell\ or\ expose sell\ or\ expose
 fending\ and\ receiving sending\ and\ receiving
+fend\ out send\ out
+fend\ to send\ to
 fet\ apart set\ apart
 fet\ down set\ down
 fet\ forth set\ forth
@@ -265,6 +312,12 @@ fix\ thousand six\ thousand
 fix\ weeks six\ weeks
 fix\ years six\ years
 fo\ far so\ far
+foie\ property sole\ property
+foie\ Property sole\ Property
+foie\ purpose sole\ purpose
+foie\ Purpose sole\ Purpose
+foie\ right sole\ right
+foie\ use sole\ use
 fold\ pursuant sold\ pursuant
 fo\ much so\ much
 forfeited\ and\ loft forfeited\ and\ lost
@@ -293,6 +346,7 @@ furtherenafled further\ enacted
 further\ enafted further\ enacted
 furtherenafted further\ enacted
 furtherenaited further\ enacted
+further\ enatted further\ enacted
 further\ eoa&ed further\ enacted
 furthereradted further\ enacted
 further\ eua&ed further\ enacted
@@ -381,10 +435,12 @@ of\ bis of\ his
 of\ ibe of\ the
 of\ the\ fame of\ the\ fame
 of\ this\ aff of\ this\ act
+ot\ any of\ any
 other\ aft other\ act
 other\ fons other\ sons
 other\ wife other\ wise
 ot\ his of\ his
+ot\ the of\ the
 Parish\ ot Parish\ of
 particular\ cafes particular\ cases
 patted\ in passed\ in
@@ -395,9 +451,13 @@ pf\ the of\ the
 pf\ this of\ this
 pleading\ the\ fame pleading\ the\ same
 prelent\ Majesty present\ Majesty
+present\ aA present\ act
+present\ AA present\ Act
 present\ ad present\ act
 present\ aft present\ act
 private\ Aft private\ Act
+Public\ Aa Public\ Act
+Public\ AA Public\ Act
 Public\ ad Public\ act
 public\ aft public\ act
 public\ Aft public\ Act
@@ -415,8 +475,10 @@ railed\ in\ Great raised\ in\ Great
 railing\ money raising\ money
 railing\ the\ said raising\ the\ said
 railing\ the\ sum raising\ the\ sum
+Rea\ Lion Red\ Lion
 recited\ ad recited\ act
 recited\ Ad recited\ Act
+recited\ aft receited\ act
 recited\ aft recited\ act
 recited\ Aft recited\ Act
 recited\ afts recited\ acts
@@ -460,12 +522,26 @@ the\ laft the\ last
 the\ laid\ county the\ said\ county
 the\ laid the\ said
 the\ (pace the\ space
+thesubjects the\ subjects
+thesubjefts the\ subjects
+thesubjeSts the\ subjects
+thesubjetts the\ subjects
+thesugar the\ sugar
+thesummer the\ summer
+thesumof the\ sum\ of
+thesum the\ sum
+theSum the\ Sum
+thetime the\ time
+theTime the\ Time
+tHetime the\ time
 the\ Ufc\ of the\ Use\ of
 the\ ufc the\ use
 thirty-fir\ ft thirty-first
 thirty\ fix thirty\ six
 this\ aa this\ act
 this\ aA this\ act
+this\ Aa this\ Act
+this\ AA this\ Act
 this\ abl this\ act
 This\ abl This\ act
 this\ acl this\ act
@@ -473,6 +549,7 @@ This\ acl This\ act
 this\ adb this\ act
 this\ adj this\ act
 this\ Adj this\ Act
+this\ A\ dl this\ Act
 this\ ad this\ act
 this\ Ad this\ Act
 This\ ad This\ act
@@ -509,7 +586,6 @@ vended\ or\ fold vended\ or\ sold
 virtue\ ot virtue\ of
 Virtue\ ot Virtue\ of
 weft\ riding west\ riding
-Rea\ Lion Red\ Lion
 which\ aft which\ act
 wilfully\ aft wilfully\ act
 willingly\ aft willingly\ act
@@ -520,78 +596,65 @@ yin\ Act an\ Act
 yin\ Ad an\ Act
 yin\ Aft an\ Act
 younger\ fons younger\ sons
-ot\ the of\ the
-ot\ any of\ any
-thesugar the\ sugar
-theSum the\ Sum
-thesum the\ sum
-thesummer the\ summer
-thesumof the\ sum\ of
-thesubjects the\ subjects
-thesubjefts the\ subjects
-thesubjeSts the\ subjects
-thesubjetts the\ subjects
-tHetime the\ time
-theTime the\ Time
-thetime the\ time
-An\ A\ a\ An\ Act
-An\ A\ A\ An\ Act
-An\ a\ A\ An\ act
-An\ A\ Cl An\ Act
-An\ A\ CL An\ Act
-An\ A\ cl An\ Act
-Ah\ A\ Cl An\ Act
-an\ A\ 61 an\ Act
-Ah\ A3 An\ Act
-Ah\ A8 An\ Act
-Ah\ a3 An\ act
-Ah\ a8 An\ act
-Ah\ a\ ft An\ act
-Ah\ A\ ft An\ Act
-all\ A&s all\ Acts
-an\ a51 an\ act
-An\ A\ At An\ Act
-An\ a\ At An\ act
-An\ a\ c1 An\ act
-an\ a\ dt an\ act
-an\ a\ cl an\ act
-an\ a\ Cl an\ act
-an\ A\ Cl an\ Act
-an\ A\ CL an\ Act
-an\ A\ ft an\ Act
-an\ A\ (ft an\ Act
-An\ A\ d\ for An\ Act\ for
-An\ a\ d\ for An\ act\ for
-an\ A\ d\ made an\ Act\ made
-an\ a\ d\ made an\ act\ made
-An\ A\ SI An\ Act
-An\ A\ St An\ Act
-An\ a\ St An\ Act
-by\ aa\ Act by\ an\ Act
-AA\ or\ AAs Act\ or\ Acts
-Aa\ Act An\ Act
-Aa\ Ad An\ Act
-aa\ Act an\ Act
-this\ AA this\ Act
-this\ Aa this\ Act
-Public\ Aa Public\ Act
-Public\ AA Public\ Act
-present\ aA present\ act
-present\ AA present\ Act
-aA\ or\ aAs act\ or\ acts
-aa\ aforesaid as\ aforesaid
-An\ Aa\ for An\ Act\ for
+county\ of\ Tori county\ of\ York
+County\ of\ Tori County\ of\ York
+Duke\ of\ Tori Duke\ of\ York
+duke\ of\ Tori duke\ of\ York
+parted\ in\ the passed\ in\ the
+Ah\ Act An\ Act
+Ah\ Ad An\ Act
+Ah\ AS An\ Act
+aH\ Intents all\ Intents
+an\ AH\ made an\ Act\ made
+this\ AH this\ Act
+said\ AH said\ Act
+mod\ convenient most\ convenient
+mod\ easy most\ easy
+mod\ effectual most\ effectual
+mod\ Excellent most\ Excellent
+mod\ expedient most\ expedient
+mod\ gracious most\ gracious
+mod\ Gracious most\ Gracious
+mod\ Honourable most\ Honourable
+Mod\ Honourable most\ Honourable
+mod\ usual most\ usual
+mod\ usually most\ usually
+mod\ part most\ part
+mod\ reverend most\ reverend
+mod\ proper most\ proper
+one\ thou\ land one\ thousand
+iu\ the in\ the
+mod\ Excellent most\ Excellent
+Walh\ brewed Wash\ brewed
+Walh\ Still Wash\ Still
+Walh\ Stills Wash\ Stills
+fend\ and\ receive send\ and\ receive
+shall\ (land shall\ stand
+An\ aa\ for An\ act\ for
+an\ aa\ for an\ act\ for
 An\ AA\ for An\ Act\ for
-fend\ to send\ to
-fend\ out send\ out
-recited\ aft receited\ act
-this\ A\ dl this\ Act
-an\ A\ dl an\ Act
-An\ At\ to An\ Act\ to
-foie\ property sole\ property
-foie\ Property sole\ Property
-foie\ Purpose sole\ Purpose
-foie\ purpose sole\ purpose
-foie\ use sole\ use
-foie\ right sole\ right
-An\ At\ for An\ Act\ for
+an\ AA\ for an\ Act\ for
+an\ AA\ made an\ Act\ made
+an\ AA\ of an\ Act\ of
+an\ Aa\ of an\ Act\ of
+an\ aa\ of an\ act\ of
+an\ AA\ passed an\ Act\ passed
+An\ Aa\ to An\ Act\ to
+an\ AA\ was an\ Act\ was
+AA\ or\ A\ As Act\ or\ Acts
+any\ AA\ or any\ Act\ or
+other\ aA other\ act
+other\ AA other\ Act
+recited\ AA recited\ Act
+recited\ Aa recited\ Act
+said\ AA said\ Act
+said\ Aa said\ Act
+said\ aA said\ act
+arid\ shall and\ shall
+arid\ such and\ such
+arid\ with and\ with
+Arid\ whereas And\ whereas
+arid\ they and\ they
+arid\ their and\ their
+arid\ that and\ that
+iu\ this in\ this
