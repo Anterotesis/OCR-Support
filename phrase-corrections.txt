@@ -86,10 +86,10 @@ an\ A8 an\ Act
 An\ a8 An\ act
 An\ A8 An\ Act
 an\ aA an\ Act
-An\ a\ A\ An\ act
+An\ a\ A An\ act
 An\ aA An\ Act
-An\ A\ a\ An\ Act
-An\ A\ A\ An\ Act
+An\ A\ a An\ Act
+An\ A\ A An\ Act
 An\ AA An\ Act
 An\ Aa\ for An\ Act\ for
 An\ AA\ for An\ Act\ for
@@ -625,6 +625,12 @@ mod\ proper most\ proper
 one\ thou\ land one\ thousand
 iu\ the in\ the
 mod\ Excellent most\ Excellent
+Moll\ Excellent Most\ Excellent
+An\ a\ A\  An\ act\ 
+An\ A\ a\  An\ Act\ 
+An\ A\ A\  An\ Act\ 
+laid\ Act said\ Act
+this\ Acl this\ Act
 Walh\ brewed Wash\ brewed
 Walh\ Still Wash\ Still
 Walh\ Stills Wash\ Stills
@@ -658,3 +664,5 @@ arid\ they and\ they
 arid\ their and\ their
 arid\ that and\ that
 iu\ this in\ this
+Hia\ Majesty His\ Majesty
+further\ ena6led further\ enacted
