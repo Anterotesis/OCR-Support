@@ -2,6 +2,7 @@
 6UL1ELMI GULIELMI
 6ULIELM1 GULIELMI
 6ULIELMI GULIELMI
+Aanaquinto Anno\ quinto
 Aano Anno
 Aanonono Anno\ nono
 Aanoquinto Anno\ quinto
@@ -10,9 +11,11 @@ abfencia absencia
 Abfencia Absencia
 Aftno Anno
 Ahno\ decimo Anno\ decimo
+Ahnoquinto Anno\ quinto
 Aimo\ tricesimo Anno\ tricesimo
 Anao Anno
 Ann6 Anno
+Annaquinto Anno\ quinto
 Anna\ tricesimo Anno\ tricesimo
 Anna\ vicesimo Anno\ vicesimo
 Annd Anno
@@ -23,12 +26,15 @@ Annofexto Anno\ sexto
 Annonono Anno\ nono
 Annoo&avo Anno\ octavo
 Anno\ prime Anno\ primo
+AnnOquinto Anno\ quinto
 Anno\ qumto Anno\ quinto
 Annoregm Anno\ regni
 Annoregni Anno\ regni
 Annosecundo Anno\ secundo
 Annoseptimo Anno\ septimo
 Annovicesimo Anno\ vicesimo
+Annpquinto Anno\ quinto
+Anrtoquinto Anno\ quinto
 Arino Anno
 ceorgii Georgii
 Ceorgii Georgii
@@ -132,6 +138,7 @@ GeoRCiI Georgii
 GeoRCII Georgii
 Georg\ 11 Georgii
 Georg11 Georgii
+Georg\ 11II Georgii\ II
 GEORG1I GEORGII
 georgh Georgii
 Georgh Georgii
@@ -144,6 +151,7 @@ GeORGH Georgii
 GEorGH Georgii
 GEORGH GEORGII
 GEORGI1 GEORGII
+GEORGIf GEORGII
 georgi! Georgii
 Georgi! Georgii
 Georg\ ii Georgii
@@ -159,15 +167,20 @@ GeoRGIi Georgii
 GeoRGII Georgii
 GeOrgii Georgii
 GEorgii Georgii
+GEoRGII GEORGII
 GEORGii Georgii
+GEORGIi GEORGII
 G-EORGII GEORGII
 GE\ ORGII GEORGII
 GEORG\ II GEORGII
 GeorgiiIII Georgii\ III
 Georgii\ TIT Georgii\ III
 Georgij Georgii
+GEORGIJ GEORGII
 georgil Georgii
+GEORGil GEORGII
 Georgit Georgii
+GEORGIX GEORGII
 Georgji Georgii
 GeorgjI Georgii
 GeoRgji Georgii
@@ -250,6 +263,7 @@ Geqrgii Georgii
 GEQRGII GEORGII
 gfcorgii Georgii
 GfioRGii Georgii
+GFORGII GEORGII
 Gkorgii Georgii
 GLJL1ELMI GULIELMI
 G£orgii Georgii
@@ -266,6 +280,7 @@ Gporqii Georgii
 GpoRQij Georgii
 Grorgii Georgii
 Gsorgii Georgii
+Gtorgii Georgii
 GUL1ELMI GULIELMI
 Guublmi Gulielmi
 Hcnrici Henrici
@@ -274,6 +289,7 @@ Nift\ Prius Nisi\ Prius
 noftre nostre
 o6lavo octavo
 o&avo octavo
+o&aVo octavo
 O&avo Octavo
 odavo octavo
 odlavo octavo
@@ -337,6 +353,11 @@ quadfagfcsimo quadragesimo
 quadfegefimo quadragesimo
 quadfragcstmo quadragesimo
 quadftigefiino quadragesimo
+quadragccimo quadragesimo
+quadragcfimd quadragesimo
+quadragcfinao quadragesimo
+quadragcfirao quadragesimo
+quadragclimo quadragesimo
 quadragcsiino quadragesimo
 quadragcsimo quadragesimo
 quadragcsirao quadragesimo
@@ -346,6 +367,7 @@ quadragcslmo quadragesimo
 quadragcstmo quadragesimo
 quadragcsuno quadragesimo
 quadragdfimo quadragesimo
+quadragdimo quadragesimo
 quadragefiiho quadragesimo
 quadragefiimo quadragesimo
 quadragefiino quadragesimo
@@ -369,6 +391,7 @@ quadrageilmo quadragesimo
 quadragejimo quadragesimo
 quadrageliino quadragesimo
 quadragelimo quadragesimo
+quadragelirno quadragesimo
 quadragelkno quadragesimo
 quadragellmo quadragesimo
 quadragelTmo quadragesimo
@@ -395,10 +418,18 @@ quadrkgesimo quadragesimo
 quadrngefimo quadragesimo
 quihto quinto
 quinfo quinto
+quinquagefinio quinquagesimo
+quinquageiimo quinquagesimo
+quinquagelimo quinquagesimo
 quintoGEORGii quinto\ Georgii
 qumto quinto
+rcgniquadiagesimoquinto regni\ quadragesimo\ quinto
+rcgniquadragesimo regni\ quadragesimo
+rcgni regni
 regnl regni
 regnt regni
+Rjchardi Richardi
+Rjchardj Richardi
 tcrtio tertio
 teftio tertio
 terrio tertio
@@ -531,6 +562,7 @@ vicetimo vicesimo
 vicifimo vicesimo
 vicpfimo vicesimo
 victfimo vicesimo
+Victfimo Vicesimo
 vieefimo vicesimo
 vieelimo vicesimo
 vioefimo vicesimo
@@ -556,20 +588,15 @@ yiccfimo vicesimo
 yicefimo vicesimo
 Yicefimo vicesimo
 ylcefimo vicesimo
-Rjchardj Richardi
-Rjchardi Richardi
-rcgniquadiagesimoquinto regni\ quadragesimo\ quinto
-rcgniquadragesimo regni\ quadragesimo
-rcgni regni
-o&aVo octavo
-GFORGII GEORGII
-GEORGIf GEORGII
-GEORGH GEORGII
-GEORGil GEORGII
-GEORGIJ GEORGII
-GEoRGII GEORGII
-GEORGIi GEORGII
-GEORGIX GEORGII
-quinquagefinio quinquagesimo
-quinquageiimo quinquagesimo
-quinquagelimo quinquagesimo
+GAROLI CAROLI
+Garoli Caroli
+Oaroli Caroli
+QAROLi CAROLI
+Qaroli Caroli
+fcptlmo septimo
+viceffmo vicesimo
+Artno Anno
+Apno Anno
+Annodccimo Anno\ decimo
+Annodetimo Anno\ decimo
+Annodedmo Anno\ decimo

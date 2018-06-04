@@ -2,45 +2,104 @@ Ail\ Act An\ Act
 ail\ such all\ such
 ail\ the all\ the
 Beign Reign
+Bepresentations Representations
 Betail Retail
+Bevision Revision
 Biding Riding
+Bntry Entry
 Boads Roads
+Boyal Royal
+certaiu certain
 Cnurch Church
+conti-\ nued continued
 disbandedForeignCorps disbanded\ Foreign\ Corps
 District\ Bates District Rates
+Eng-land England
 Ex-pence Expence
 Fenalty Penalty
 Fen-cibles Fencibles
+fhe the
+Ghapter Chapter
+iVeta\ South\ Wales New\ South\ Wales
+ivhich which
 jng ing
 jn in
+Kailway Railway
+M08T MOST
+military\ poet military\ post
+Military\ Poet Military\ Post
+Neic\ South\ Wales New\ South\ Wales
+Neio\ South\ Wales New\ South\ Wales
+Nem\ South\ Wales New\ South\ Wales
+Nero\ South\ Wales New\ South\ Wales
+tlie the
+Tlie The
+Bepair Repair
+Bepairs Repairs
+Bemoval Removal
+Begular Regular
+V1CTORLE VICTORIAE
+VTCTORIjE VICTORIAE
+VTTHEREAS WHEREAS
+YVTHEREAS WHEREAS
+Here-ford Hereford
+TIT\ HERE\ AS WHEREAS
+per-formed performed
+per-4\ formed performed
+Per-4\ son Person
+Camarvon Carnarvon
+thou-sand thousand
+VICTORLE VICTORIAE
+Oon-viction Conviction
+Con-\ viction Conviction
+con-taining con-taining
+con-tained contained
+con-\ sisting consisting
+Neto\ South\ Wales New\ South\ Wales
+Netv\ South\ Wales New\ South\ Wales
+Neu>\ South\ Wales New\ South\ Wales
+Neu)\ South\ Wales New\ South\ Wales
+Neva\ South\ Wales New\ South\ Wales
+Nevo\ South\ Wales New\ South\ Wales
+Nevs\ South\ Wales New\ South\ Wales
 of\ Bates of\ Rates
 or\ Bates or\ Rates
+PA88ED PASSED
+PARLIAMBNT PARLIAMENT
+parlia-nent parliament
+ParVV\ liament Parliament
+Par-\ W\ liament Parliament
+ParW\ liament Parliament
+ParYV\ liament Parliament
+ParYY\ liament Parliament
 peijury perjury
 Peijury Perjury
 Penally Penalty
 Penaltie8 Penalties
+pe-\ nalties penalties
+pe-nalties penalties
+pe\ nalties penalties
+Poet\ Office Post\ Office
 Poor\ Bates Poor\ Rates
+Schcdulc Schedule	
+Schedulc Schedule
 Seijeant Serjeant
 Seijeants Serjeants
 snbject subject
 snch such
+Sneriff Sheriff
 StampDuties Stamp\ Duties
 such\ Bates such\ Rates
 tbat that
 Tbat That
 the\ Bates the\ Rates
-Vicf Vict
-Vicrr Vict
-VICTORIiE VICTORIAE
-yiCTORIiE VICTORIAE
-VLCTORIiE VICTORIAE
-VTCTORIiE VICTORIAE
-ViqTORIiE VICTORIAE
-VKTTORIiE VICTORIAE
-VlbTORIiE VICTORIAE
-VlfcTORIiE VICTORIAE
 VICfORIiE VICTORIAE
+Vicf Vict
+Vicj Vict
 ViCmORIiE VICTORIAE
+Vicrr Vict
+Vicr Vict
+VICTOBIA VICTORIA
 VICTOJRIiE VICTORIAE
 VICTOJRLE VICTORIAE
 VICTOJtLE VICTORIAE
@@ -48,6 +107,7 @@ VICTOKIA VICTORIAE
 VICTOKIjE VICTORIAE
 VICTOKIJE VICTORIAE
 VICTOKLE VICTORIAE
+VICTORIiE VICTORIAE
 VICTOR!® VICTORIAE
 ViCT VICT
 VIGTOEIjE VICTORIAE
@@ -55,16 +115,23 @@ Vigt Vict
 ViGT VICT
 Viot Vict
 ViOT VICT
+ViqTORIiE VICTORIAE
 Vjct Vict
 VjCT VICT
+VKTTORIiE VICTORIAE
+VlbTORIiE VICTORIAE
+VLCTORIiE VICTORIAE
 VlcT Vict
 VlCt Vict
+VlCT VICT
+VlfcTORIiE VICTORIAE
 VlOT VICT
 Vn\ Act An\ Act
 Vncancies Vacancies
 vonshireor vonshire\ or
 Voteand Vote\ and
 Vrcr Vict
+VTCTORIiE VICTORIAE
 VtCT VICT
 VV\ Reign Reign
 VV\ the the
@@ -77,6 +144,7 @@ Yestry Vestry
 Yicarage Vicarage
 Yicl Vict
 Yicr Vict
+yiCTORIiE VICTORIAE
 Yict Vict
 YiCT VICT
 YIct Vict
