@@ -60,6 +60,9 @@ Bijbopfgate Bishopsgate
 Bijhopfgate Bishopsgate
 Bilhopfgate Bishopsgate
 Bloomlbury Bloomsbury
+Bnftol Bristol
+Bnjlol Bristol
+Bnstol Bristol
 Bom-bay Bombay
 Botolpbs Botolphs
 Brecknockfhire Brecknockshire
@@ -67,6 +70,8 @@ Brecknockfliire Brecknockshire
 Bridgbam Bridgham
 BriftoI Bristol
 Briftol Bristol
+BriftoL Bristol
+BRiftol Bristol
 Brigbtbelmjlon Brighthelmston
 Brigbthelmjlon Brighthelmston
 Brightbeimjlone Brighthelmstone
@@ -74,18 +79,26 @@ Brightbelmftone Brighthelmstone
 Brighthelmfion Brighthelmston
 Brighthelmfton Brighthelmston
 Brighthelmftone Brighthelmstone
+Briitol Bristol
 Brijlol Bristol
+BriJloL Bristol
 Briltol Bristol
 Bri\ tain Britain
 Brix-ham Brixham
+Brjstol Bristol
+Brljlol Bristol
+Brlstol Bristol
 Bromfgrove Bromsgrove
+Brtstol Bristol
 Brunfwick Brunswick
 Brunsvnck Brunswick
 Btckingham Buckingham
+Btistol Bristol
 Buckinghamfhire Buckinghamshire
 Buckinghamfkire Buckinghamshire
 Buckinghamjhirt Buckinghamshire
 Buckinghamlhire Buckinghamshire
+BucknaU Bucknall
 Budinghamjhire Buckinghamshire
 Buokinghamthire Buckinghamshire
 Camarvon Carnarvon
@@ -99,6 +112,8 @@ Car-marthen Carmarthen
 Carmarthenfhire Carmarthenshire
 Carmarthenfliire Carmarthenshire
 Carmarthenjbire Carmarthenshire
+Cbclfea Chelsea
+Cbefier Chester
 Cbeflerfield Chesterfield 
 Cbeftcr Chester
 Cbefterfield Chesterfield
@@ -110,7 +125,10 @@ Cbicbefter Chichester
 Cbichefler Chichester
 Cbichester Chichester
 Chcftcr Chester
+Chclfea Chelsea
+Chdfea Chelsea
 Cheapfide Cheapside
+Che!fea Chelsea
 Chefhire Cheshire
 Chefhunt Cheshunt
 Chefier Chester
@@ -137,6 +155,7 @@ Cirenceiler Cirencester
 Cirenceiter Cirencester
 CirenceJier Cirencester
 Cirencejler Cirencester
+City\ of\ Tori City\ of\ York
 Cnefhire Cheshire
 Cnelfea Chelsea
 Cnelsea Chelsea
@@ -224,6 +243,7 @@ Englancl England
 Eng-land England
 Englond England
 Eppmg Epping
+Eristol Bristol
 Exhamfhire Exhamshire
 Eynjbam Eynsham
 Eynlham Eynsham
@@ -240,6 +260,7 @@ Fevtrsham Feversham
 Finchampflead Finchampstead
 Finchampjlead Finchampstead
 Finijlerre Finisterre
+fnverkeithing Inverkeithing
 Folkeftone Folkestone
 Folkftone Folkstone
 Frodjbam Frodsham
@@ -247,6 +268,11 @@ Frodjham Frodsham
 fVefiminster Westminster
 fVeJlminfler Westminster
 Gatcjhead Gateshead
+Gioucefier Gloucester
+giouceftef gloucester
+gioucester gloucester
+Gioucester Gloucester
+Giouctfler Gloucester
 Glafeow Glasgow
 Glafgbw Glasgow
 Glafgoiv Glasgow
@@ -301,6 +327,7 @@ Gloutester Gloucester
 Glouttfter Gloucester
 Gofport Gosport
 Gravefend Gravesend
+Great\ 4\ Britain Great\ Britain
 Green-wich Greenwich
 Grimfby Grimsby
 Grimlby Grimsby
@@ -351,9 +378,12 @@ Hjghgate Highgate
 Horfbam Horsham
 Horfley Horsley
 Hounflow Hounslow
+HucknaU Hucknall
 Iflington Islington
 IJleworth Isleworth
 IJlington Islington
+Innerkeithing Inverkeithing
+Inverkcithing Inverkeithing
 Ipfwich Ipswich
 Irdand Ireland
 IreIand Ireland
@@ -416,6 +446,7 @@ Jerfcy Jersey
 Jerfey Jersey
 Jerjey Jersey
 jfhitcchapel Whitechapel
+Jnverkeithing Inverkeithing
 JVbilechapel Whitechapel
 jvcftminfcr westminster
 JVefl\ Indies West\ Indies
@@ -477,6 +508,7 @@ kidlihgton Kidlington
 Kidlingion Kidlington
 Kidltngton Kidlington
 Kiegblcy Kieghley
+Kiiderminster Kidderminster
 Kingfbridge Kingsbridge
 Kingfton Kingston
 Kingjlon Kingston
@@ -508,6 +540,7 @@ Lancdfter Lancaster
 Lancdjltr Lancaster
 Lancqftcr Lancaster
 Lciceftcr Leicester
+Lcominster Leominster
 Leiceficr Leicester
 Leicefier Leicester
 Leicefler Leicester
@@ -536,6 +569,7 @@ Loudon London
 Lpndon London
 Lqndon London
 Maffachufets Massachusets
+MafTachufets Massachusets
 Maidflone Maidstone
 Maidjlone Maidstone
 MaJfacbuJeCs Massachusets
@@ -546,6 +580,7 @@ Majfachufefs Massachusets
 Majfachufets Massachusets
 Mancbefter Manchester
 Manchefer Manchester
+Manchefier Manchester
 Manchefter Manchester
 Manchejier Manchester
 MancheJIer Manchester
@@ -632,6 +667,7 @@ Newcajlfe Newcastle
 Newcajlle Newcastle
 Newcqflle Newcastle
 Newcqftle Newcastle
+Newfound-land Newfoundland
 Newhavcn Newhaven
 NorthAmerica North\ America
 Northamfhire Northamshire
@@ -659,6 +695,8 @@ Oxfordflnre Oxfordshire
 Oxfordftiire Oxfordshire
 Oxfordjbire Oxfordshire
 Oxfordlhire Oxfordshire
+PaU\ Mall Pall\ Mall
+PaU\ MaU Pall\ Mall
 Pontefraft Pontefract
 Portfea Portsea
 Portfiaouth Portsmouth
@@ -697,18 +735,23 @@ Rochejler Rochester
 Roebefier Rochester
 Roebefler Rochester
 Roebester Rochester
+Rristol Bristol
 Ruffta Russia
 RuJJia Russia
 Saltafh Saltash
 Sbipton Shipton
+Sbireoaks Shireoaks
 Scntiand Scotland
 Scot\ 4\ land Scotland
 Scotiand Scotland
 Scot-\ land Scotland
 Scot-land Scotland
 Scot\ land Scotland
+Scvcnoaks Sevenoaks
 Shaftesbuky Shaftesbury
 Sheernefs Sheerness
+ShiffnaU Shiffnall
+Shircoaks Shireoaks
 Shropfhirc Shropshire
 Shropfhire Shropshire
 Shropfliire Shropshire
@@ -777,10 +820,15 @@ Wbittlefey Whittlesey
 Wcflminfter Westminster
 Wcftminfter Westminster
 Wcftminster Westminster
+Wcjiminster Westminster
 Wcjlminftcr Westminster
+Wcjlminster Westminster
+Wcjtminster Westminster
+Wcstminster Westminster
 Wcstsmnsttr Westminster
 Wcttminster Westminster
 Wcwminster Westminster
+Weffminster Westminster
 Wefhnhijler Westminster
 Wefhninfter Westminster
 Wefhninjler Westminster
@@ -801,6 +849,7 @@ WefiminJler Westminster
 WefiminjUr Westminster
 WefiminJUr Westminster
 Wefiminster Westminster
+Wefiminstery Westminster,
 Wefimitfler Westminster
 wefimitifetr Westminster
 Wefimitifler Westminster
@@ -812,6 +861,7 @@ Wefimmfter Westminster
 Wefimnfler Westminster
 Wefimnjier Westminster
 Wefimnjler Westminster
+Wefkminster Westminster
 Weflminjler Westminster
 Wefminftcr Westminster
 Weftininster Westminster
@@ -853,6 +903,8 @@ Wefttmnjier Westminster
 Wefttninftcr Westminster
 Wefttninfter Westminster
 Wefttninjler Westminster
+Weilminster Westminster
+Weitminster Westminster
 Wejhnhfter Westminster
 Wejhnhifier Westminster
 Wejhnhiflcr Westminster
@@ -882,6 +934,7 @@ WeJiminJier Westminster
 WeJIminJlcr Westminster
 Wejiminjler Westminster
 wejiminster Westminster
+Wejiminster Westminster
 Wejimirijler Westminster
 wejimirjjler Westminster
 Wejimirjler Westminster
@@ -891,6 +944,7 @@ Wejimtnjler Westminster
 Wejimtrjler Westminster
 Wejimxnfier Westminster
 Wejimxnfter Westminster
+WeJJminster Westminster
 Wejlminfier Westminster
 Wejlminfler Westminster
 Wejlminfter Westminster
@@ -939,8 +993,12 @@ Wejltninfler Westminster
 Wejltninftir Westminster
 Wejltninjier Westminster
 Wejltninjler Westminster
+Wejstminster Westminster
 Weltminster Westminster
+Wesfminster Westminster
 Wesiminfier Westminster
+Wesiminster Westminster
+WesIminster Westminster
 WestIndies West\ Indies
 Westminfcr Westminster
 Westminfer Westminster
@@ -953,6 +1011,7 @@ Westminfler Westminster
 Westminfltr Westminster
 Westmin-ftcr Westminster
 Westminftcr Westminster
+Westmin-fter Westminster
 Westminfter Westminster
 Westminftir Westminster
 Westminfttr Westminster
@@ -977,6 +1036,7 @@ WestminJter Westminster
 WestminjUr Westminster
 WestminJUr Westminster
 Westminstcr Westminster
+Westminstery Westminster,
 Westminstir Westminster
 Westminsttr Westminster
 Westmintler Westminster
@@ -994,6 +1054,13 @@ Westmmfter Westminster
 Westmmjler Westminster
 Westmnfier Westminster
 Westmnfter Westminster
+Wetlminster Westminster
+Wetminster Westminster
+Wettminster Westminster
+Wfcflminster Westminster
+Wfcstminster Westminster
+Wfflminster Westminster
+Wfminster Westminster
 WhaUey Whalley
 Whittlefea Whittlesea
 Whittlefey Whittlesey
@@ -1007,6 +1074,8 @@ Wiftminjier Westminster
 Wiftminster Westminster
 Wijiminfler Westminster
 Wijiminjler Westminster
+Wijiminster Westminster
+Wijiminstery Westminster,
 Wijlminfitr Westminster
 Wijlminfler Westminster
 Wijlminfltr Westminster
@@ -1039,6 +1108,8 @@ Windfor Windsor
 Wistminster Westminster
 Witbam Witham
 Wittingftall Wittingstall
+WJlminster Westminster
+WJtminster Westminster
 Wmchejler Winchester
 Wmchester Winchester
 Worccfcr Worcester
@@ -1077,11 +1148,14 @@ Workfop Worksop
 Worthmg Worthing
 Wrfminfcr Westminster
 Wrstminster Westminster
+Wsestminster Westminster
+Wtestminster Westminster
 Wtfiminster Westminster
 Wtfimnfier Westminster
 Wtflminfier Westminster
 Wtflminster Westminster
 Wtflmorland Westmorland
+Wtftminster Westminster
 Wtjbech Wisbech
 Wtjhninfter Westminster
 Wtjhninjler Westminster
@@ -1089,9 +1163,13 @@ Wtjlminfcr Westminster
 Wtjlminfler Westminster
 Wtjlminjlcr Westminster
 WtJlminJUr Westminster
+Wtjlminster Westminster
 Wtjlmoreland Westmoreland
 Wtjlmorland Westmorland
+wtstminster Westminster
 Wtstminster Westminster
+WUstminster Westminster
+WzJIminster Westminster
 Xincolnshire Lincolnshire
 Yarmoutn Yarmouth
 Yorbjhire Yorkshire
@@ -1118,10 +1196,42 @@ zoucb zouch
 Zoucb Zouch
 Zoucii Zouch
 Zouck Zouch
-ShiffnaU Shiffnall
-HucknaU Hucknall
-BucknaU Bucknall
-PaU\ MaU Pall\ Mall
-PaU\ Mall Pall\ Mall
-Westmin-fter Westminster
-Westmin-Jler Westminster
+W&jbninfier Westminster
+Knarejborough Knaresborough
+Ciren-cester
+Gla\/gow Glasgow
+Lancqjler Lancaster
+Laneajler Lancaster
+Yorkfire Yorkshire
+Neva\ South\ Wales New\ South\ Wales
+Eafl-indiess East-Indies
+Eqfl-Indiess East-Indies
+Baft-Indies East-Indies
+Eaft-indies East-indies
+thzEdft-Indies the\ East-Indies
+Weft-Indies West-Indies
+Eait-Indies East-Indies
+Eajt-Indies East-Indies
+Ealt-Indies East-Indies
+theEast-Indies the\ East-Indies
+East-Jndies East-Indies
+MiddU-fex Middlesex
+Mid-Hefex Middlesex
+Mid-diefex Middlesex
+Mid-dlefex Middlesex
+M-ddhfex Middlesex
+Ef-iex Essex
+Mid-dlcsex Middlesex
+Mid-tUcsex Middlesex
+Mid-djesex Middlesex
+Mid-dlesex Middlesex
+Middle-fix Middlesex
+Tippe-rary Tipperary
+Mont-gomery Montgomery
+London-derry Londonderry
+Lon-donderry Londonderry
+Horfe-ferry Horseferry
+Ashby-dc-la-Zouch Ashby-de-la-Zouch
+Ashby-deda-Zouch Ashby-de-la-Zouch
+Ashby-deda-Zouck Ashby-de-la-Zouch
+Ashby-de-la-Zoueh Ashby-de-la-Zouch

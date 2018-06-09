@@ -19,6 +19,7 @@ affeff assess
 affign assign
 afiemble assemble
 Afiemble Assemble
+afleffment assessment
 aforesaidy aforesaid,
 aftault assault
 afTeffment assessment
@@ -82,6 +83,7 @@ Annotric Anno\ tric
 Announ Anno\ un
 Annovi Anno\ vi
 Annovic Anno\ vic
+Arcbbishop Archbishop
 archhifhop archbishop
 Archhifhop Archbishop
 ascer-tain ascertain
@@ -95,6 +97,7 @@ blifhed blished
 bofpital hospital
 Bookfeller Bookseller
 borougb borough
+Borougb Borough
 Britifb British
 Bri-tifh British
 Britifh British
@@ -125,27 +128,36 @@ chargedof charged\ of
 chefter chester
 cheJlcr chester
 cheJler chester
+chnrch church
 chrift christ
 churcb church
 circumftanc circumstanc
 cjuad quad
+Claim-ant
 Claufe Clause
 clofures closures
 Clofures Closures
 cnurch church
 Cnurch Church
+coacb coach
 collcdt collect
 Collcdt Collect
 collcft collect
 Collcft Collect
+ColleAor Collector
+Colle& Collect
 Colleftion Collection
+Commidion Commission
+Commiffar Commissar
 commiff commiss
+Commif-fio Commissio
 Commiffio Commissio
 commiffioh commission
 commiffiom commission
 commiffion commission
 Commif-fion Commission
 Commiffion Commission
+Commif-flo Commissio
 commiffon commission
 commiffton commission
 Commiffton Commission
@@ -157,6 +169,7 @@ commifilon commission
 Commifilon Commission
 commifjion commission
 commiflion commission
+Commif-lion Commission
 Commiflion Commission
 commifllon commission
 commifsion commission
@@ -176,6 +189,8 @@ commijjion commission
 CommiJJion Commission
 commilfion commission
 commiliion commission
+Commiliion Commission
+Commillion Commission
 commilTion commission
 Com-penfat Compensat
 com-pleat compleat
@@ -184,6 +199,10 @@ confiable constable
 Confiable Constable
 confider consider
 conftable constable
+conftru& construct
+coniider consider
+Coniider Consider
+Coni-mission Commission
 con-stable constable
 cornmiffion commission
 correfpond correspond
@@ -203,12 +222,17 @@ cxecut execut
 cxtinguif extinguis
 cxtra extra
 cxtra& extract
+dcferter deserter
+Dcferter Deserter
 dcpofit deposit
 Dcpofit Deposit
 decimofexto decimo\ sexto
 decimotertio decimo\ tertio
+Dedu& Deduct
 defcribe describe
 Defeft Defect
+deferter deserter
+Deferter Deserter
 deftroy destroy
 dejtroy destroy
 demolijh demolish
@@ -270,7 +294,12 @@ dijlurb disturb
 dijpofe dispose
 dilband disband
 dilburfe disburse
+dire61 direct
+Dire61 Direct
+dire6t direct
+Dire6t Direct
 direbtor director
+dire&ed directed
 dis-ting disting
 ditcb ditch
 Ditcb Ditch
@@ -299,10 +328,13 @@ efFeftual effectual
 effehual effectual
 effeHual effectual
 effeSual effectual
+Effe&t Effect
 effetftual effectual
 effetfual effectual
 effettual effectual
+effe&ual effectual
 effion ession
+efie&ual effectual
 efpecial especial
 eftabfifh establish
 eftabli establi
@@ -316,8 +348,14 @@ Eftate Estate
 Eftimate Estimate
 efTor essor
 eigtb eigth
+ellablifh establish
+Ellablifh Establish
+EllZA ELIZA
+ELlZA ELIZA
+EllZ ELIZ
 enactcd enacted
 enaded enacted
+ena&ed enacted
 ena#ed enacted
 enafted enacted
 ena&ted enacted
@@ -333,6 +371,7 @@ engliji english
 Engliji English
 englijl english
 Englijl English
+EngU Engli
 eonftable constable
 ertablish establish
 etfcftual effectual
@@ -355,6 +394,7 @@ fchedule schedule
 fchool school
 fcptimo septimo
 fcriber scriber
+fcript script
 fcrvice service
 fcvcn seven
 fcvcral several
@@ -388,6 +428,7 @@ fiiire shire
 filver silver
 firjl first
 fixpenc sixpenc
+fixteen sixteen
 -fixth -sixth
 fixty sixty
 flroy stroy
@@ -402,10 +443,16 @@ fortv forty
 Fortv Forty
 fourtb fourth
 fovereig sovereig
+fpccial special
+fpc&ive spective
 fpeak speak
 fpecifi specifi
+fpective spective
+fpeCtive spective
 fpedive spective
+fpedtive spective
 fpeftive spective
+fpe&ive spective
 fpirit spirit
 fpread spread
 franchife franchise
@@ -419,14 +466,19 @@ ftahlilh stablish
 ftances stances
 ftanding standing
 ftatuteof statute\ of
+ftatute statute
 ftminster stminster
+ftration stration
+ftrators strators
 ftru&ing structing
+ftru&ion struction
 fuanceof suance\ of
 fubdiv subdiv
 fubfcrib subscrib
 fubfcrip subscrip
 fubfequent subsequent
 fubftant substant
+fubftitute substitute
 fubjeft subject
 fubje subje
 fubjlit substit
@@ -440,7 +492,10 @@ fuftain sustain
 fugar sugar
 fuhfcrib subscrib
 fumsof sums\ of
+fupply supply
+fupport support
 furpluf surplus
+fur-plus surplus
 furrender surrender
 furtber further
 furvcy survey
@@ -455,8 +510,10 @@ fvejtmin Westmin
 fVeJtmin Westmin
 G1I GII
 g°°d good
+ge0 geo
 Ge0 Geo
 GE0 GEO
+Ge6r Geor
 GEORGii GEORGII
 GeorgiiIII Georgii\ III
 GEORGU GEORGII
@@ -503,6 +560,7 @@ housesof houses\ of
 iddlefcx iddlesex
 iddlefex iddlesex
 ifhmonger ishmonger
+-iixth -sixth
 impofed imposed
 impojition imposition
 imprifbn imprison
@@ -514,8 +572,18 @@ inftruCtion instruction
 Inftruction Instruction
 inftrument instrument
 Inftrument Instrument
+infuffic insuffic
+infurance insurance
+Infurance Insurance
+infurrect insurrect
 Inqucft Inquest
+inquefl inquest
+inqueft inquest
 Inqueft Inquest
+inquejl inquest
+inspedtor inspector
+inspeftor inspector
+Intereft Interest
 Iriffi Irish
 Irijb Irish
 Irijh Irish
@@ -532,6 +600,7 @@ jbip ship
 Jbip ship
 jbire shire
 jefty jesty
+Jefuit Jesuit
 Jerfey Jersey
 Jerjeant serjeant
 jevent sevent
@@ -553,6 +622,7 @@ jlminster stminster
 Jndge Judge
 jnftice justice
 Jnftice Justice
+jpeftive spective
 jpirit spirit
 Jpirit spirit
 jubfcrib subscrib
@@ -630,8 +700,11 @@ manufadur manufactur
 manufaft manufact
 Manufaft Manufact
 mcnt ment
+mcrchant merchant
 meafure measure
 meafuring measuring
+mejesty majesty
+Mejesty Majesty
 men-tioned
 Middlc Middle
 middlefex middlesex
@@ -640,11 +713,16 @@ mifbehaviour misbehaviour
 Mifbehaviour Misbehaviour
 mifbehav misbehav
 Mifbehav Misbehav
+Mifcarriage Miscarriage
 mifchief mischief
 mifcond miscond
 Mifcond Miscond
 mifconft misconst
 Mifconft Misconst
+Mifdcmean Misdemean
+Mifdemcan Misdemean
+mifdemean misdemean
+Mifdemean Misdemean
 miffioners missioners
 miffion mission
 mifiion mission
@@ -654,6 +732,7 @@ milfioner missioner
 minfter minster
 mi-nifter minister
 minifter minister
+minjier minster
 minjler minster
 minJler minster
 minjter minster
@@ -677,11 +756,9 @@ notwitbft notwithst
 notwitb notwith
 notwithfland notwithstand
 notwithftand notwithstand
-notwithft notwithst
 notwithiland notwithstand
 notwithjland notwithstand
 notwithlland notwithstand
-notwith notwith
 notwithtland notwithstand
 notwitk notwith
 notwitli notwith
@@ -697,6 +774,7 @@ obftruct obstruct
 obftruCt obstruct
 Obftru&ing Obstructing
 Obftru&ion Obstruction
+obftru& obstruct
 occaflon occasion
 Occaflon Occasion
 occaiion occasion
@@ -719,6 +797,7 @@ Paf-fage Passage
 Paffeng Passeng
 paflenger passenger
 Paflenger Passenger
+Palfenger Passenger
 parifb parish
 Parifb Parish
 Parifh Parish
@@ -752,6 +831,8 @@ poffejf possess
 pofsession possession
 Pofsession Possession
 poftmaster postmaster
+pojfeff possess
+Pojfeff Possess
 pojfejf possess
 pojfejj possess
 pojjejf possess
@@ -763,6 +844,7 @@ prefent present
 Prefent Present
 preferv preserv
 prifon prison
+Produ6t Product
 pro-duce produce
 Pro-duce Produce
 Profccution Prosecution
@@ -781,6 +863,8 @@ Publilh Publish
 Puni8h Punish
 punifh punish
 Punifh Punish
+punifli punish
+punifti punish
 punijb punish
 punijh punish
 punilh punish
@@ -800,6 +884,8 @@ quintoGe quinto\ Ge
 quintoGE quinto\ GE
 quintoGu quinto\ Gu
 ragcfimo ragesimo
+rcfpcctive respective
+rcfpcCtive respective
 rcfpeCl respect
 rcfpec respec
 rcfpect respect
@@ -816,10 +902,14 @@ referving reserving
 refidence residence
 refign resign
 reflriftion restriction
+refpcctive respective
+refpcCtive respective
+refpCCtive respective
 refpe5l respect
 refpe5t respect
 refpe61 respect
 refpe6l respect
+refpebtive respective
 refpec-five respective
 refpecft respect
 refpec respec
@@ -847,12 +937,16 @@ regifter register
 Regifter Register
 regniquad regni\ quad
 regnitri regni\ tri
+reipcctive respective
+rejpebtive respective
 rejpeft respect
+relpebtive respective
 relpecf respect
 relpect respect
 relpedt respect
 relpeft respect
 respecfive respective
+respec-\ tive respective
 rtotwith notwith
 sbould should
 Scbool School
@@ -874,13 +968,19 @@ soutb south
 Soutb South
 Subfcrib Subscrib
 Subfiftence Subsistence
+Subftitut Substitut
 subje6l subject
 Subje6l Subject
 subje6t subject
 Subje6t Subject
+subjeA subject
+subjeC subjec
+SubjeC Subjec
 Sub-jeft Subject
 Subjeft Subject
 Subje& Subject
+subscriptt subscript
+Sur-geon Surgeon
 (tatute statute
 tbefaid the\ said
 tbere there
@@ -915,6 +1015,7 @@ thousandpound thousand\ pound
 thousandsix thousand\ six
 ti(h tish
 tivcly tively
+tiventy twenty
 to\ t>e to\ be
 Townfbip Township
 Townffiip Township
@@ -940,10 +1041,15 @@ Truflee Trustee
 truftees trustees
 Truftee Trustee
 tvejlmin Westmin
+Tvvcnty Twenty
+Tvventy Twenty
+Twcnty Twenty
 twenfy twenty
+twentietn twentieth
 Twentv Twenty
 ublickaft ublick\ act
 ufbandrv usbandry
+unjkilful unskilful
 Utenfil Utensil
 vefifels vessels
 verthelefs vertheless
@@ -979,7 +1085,10 @@ Wejtmln Westmin
 Weslmin Westmin
 Westminft Westminst
 Westminjl Westminst
+Wettmin Westmin
+wifhftand withstand
 Wincbe Winche
+witbftand withstand
 withfland withstand
 withftand withstand
 withliand withstand

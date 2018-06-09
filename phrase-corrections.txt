@@ -1,6 +1,8 @@
 4\ VV\ Britain Britain
 6f\ the of\ the
 6f\ this of\ this
+A11\ Act An\ Act
+A11\ Ad An\ Act
 a9\ aforesaid as\ aforesaid
 aa\ Act an\ Act
 Aa\ act An\ act
@@ -32,16 +34,23 @@ AAs\ of\ the Acts\ of\ the
 AAs\ passed Acts\ passed
 aa\ the as\ the
 aa\ they as\ they
+Act\ faffed Act\ passed
 Act\ far Act\ for
 act\ fbr act\ for
 Act\ fbr Act\ for
 Act\ fer Act\ for
 act\ fir act\ for
+Act\ for\ veiling Act\ for\ vesting
 act\ fqr act\ for
 act\ paffed act\ passed
 act\ paffei act\ passed
+Act\ paifed Act\ passed
+Act\ paired Act\ passed
 act\ paiTed act\ passed
+Act\ paiTed Act\ passed
 act\ palTed act\ passed
+Act\ pasted Act\ passed
+Act\ patted Act\ passed
 Ad\ act An\ act
 Ad\ Act An\ Act
 ad\ aforesaid as\ aforesaid
@@ -131,9 +140,11 @@ an\ AA\ for an\ Act\ for
 An\ aa\ for An\ act\ for
 An\ Aa\ for An\ Act\ for
 An\ AA\ for An\ Act\ for
+ana\ also and\ also
 an\ AA\ made an\ Act\ made
 An\ a& An\ act
 An\ a# An\ act
+ana\ an and\ an
 an\ aa\ of an\ act\ of
 an\ Aa\ of an\ Act\ of
 an\ AA\ of an\ Act\ of
@@ -148,6 +159,7 @@ An\ AC! An\ Act
 an\ a\ cl an\ act
 an\ acl an\ act
 an\ a\ Cl an\ act
+an\ Acl an\ Act
 an\ A\ Cl an\ Act
 an\ A\ CL an\ Act
 An\ acl An\ act
@@ -162,6 +174,7 @@ An\ act\ fdr An\ act\ for
 An\ act\ fer An\ act\ for
 an\ act\ fir an\ act\ for
 An\ act\ fir An\ act\ for
+an\ act\ mode an\ act\ made
 an\ act\ palled an\ act\ passed
 an\ act\ parted an\ act\ passed
 an\ Act\ parted an\ Act\ passed
@@ -193,6 +206,7 @@ an\ a\ dt an\ act
 An\ Ad\ to An\ Act\ to
 ana\ enforcing and\ enforcing
 An\ aEt An\ act
+ana\ every and\ every
 An\ a&\ fbr An\ act\ for
 An\ aff\ for An\ act\ for
 An\ aff\ to An\ act\ to
@@ -203,25 +217,29 @@ an\ afi\ to an\ act\ to
 An\ afi\ to An\ act\ to
 An\ a\ for An\ act\ for
 ana\ for and\ for
+ana\ from and\ from
 an\ aft an\ act
 an\ A\ (ft an\ Act
 an\ A\ ft an\ Act
 an\ Aft an\ Act
 An\ a\ ft An\ act
 An\ aft An\ act
-An\ aft\ An\ act
 An\ A<ft An\ Act
 An\ A\ ft An\ Act
 An\ Aft An\ Act
 An\ aft\ far An\ act\ for
+An\ AG\ for An\ Act\ for
+An\ AG\ to An\ Act\ to
 An\ AH An\ Act
 an\ ah\ for an\ act\ for
 An\ ah\ for An\ act\ for
 an\ AH\ made an\ Act\ made
+ana\ if and\ if
 An\ ail\ for An\ act\ for
 an\ ail\ made an\ act\ made
 an\ ail\ of an\ act\ of
 An\ ail\ to An\ act\ to
+an\ Ait an\ Act
 An\ Ait An\ Act
 An\ ait\ for An\ act\ for
 An\ ait\ to An\ act\ to
@@ -238,6 +256,7 @@ An\ apt\ for An\ act\ for
 An\ Apt\ for An\ Act\ for
 An\ aQ An\ act
 An\ AQ An\ Act
+an\ AS an\ Act
 An\ aS An\ act
 An\ AS An\ Act
 An\ A\ SI An\ Act
@@ -247,8 +266,10 @@ An\ at1 An\ act
 an\ at\ for an\ act\ for
 An\ at\ for An\ act\ for
 An\ At\ for An\ Act\ for
+ana\ that and\ that
 an\ at\ made an\ act\ made
 An\ At\ to An\ Act\ to
+and\ alio and\ also
 and\ cods and\ costs
 and\ fbr and\ for
 An\ dft An\ act
@@ -295,6 +316,7 @@ arid\ they and\ they
 arid\ to and\ to
 Arid\ whereas And\ whereas
 arid\ with and\ with
+as\ alio as\ also
 a&s\ of acts\ of
 au\ Act an\ Act
 Au\ act An\ act
@@ -315,6 +337,8 @@ be\ jt\ further be\ it\ further
 be\ lt\ enacted be\ it\ enacted
 be\ railed\ in be\ raised\ in
 beyond\ the\ Teas beyond\ the\ seas
+bis\ deputy his\ deputy
+bis\ Deputy his\ Deputy
 bis\ executors his\ executors
 bis\ hand his\ hand
 bis\ Hand his\ Hand
@@ -330,12 +354,15 @@ bis\ or\ their his\ or\ their
 bis\ present bis\ present
 bis\ present his\ present
 bis\ present\ Majesty his\ present\ Majesty
+bis\ realm his\ realm
 bis\ said his\ said
 bis\ wife his\ wife
 buying\ and\ felling buying\ and\ selling
 by\ aa\ Act by\ an\ Act
 by\ aft by\ act
 by\ ah\ act by\ an\ act
+capital\ flock capital\ stock
+capital\ (lock capital\ stock
 cf\ the of\ the
 civil\ lift civil\ list
 Civil\ lift Civil\ list
@@ -362,6 +389,7 @@ fame\ session same\ session
 far\ aa far\ as
 fb\ much so\ much
 fbr\ the for\ the
+fell\ and\ convey sell\ and\ convey
 fell\ and\ dispose sell\ and\ dispose
 felling\ annuities selling\ annuities
 fell\ or\ expose sell\ or\ expose
@@ -464,14 +492,23 @@ Henrici\ VHI Henrici\ VII
 he\ or\ (he he\ or\ she
 he\ or\ lhe he\ or\ she
 Hia\ Majesty His\ Majesty
+Hia\ present His\ present
+Hie\ Majesty His\ Majesty
+His\ 4\ Majesty His\ Majesty
+His\ 4\ present His\ present
+His\ 4\ said His\ said
 his\ laid\ Majesty his\ said\ Majesty
+Hit\ present\ Majesty His\ present\ Majesty
 Houles\ of\ Correction Houses\ of\ Correction
 hun-4\ dred hundred
+hundred\ 4\ and hundred\ and
+hundred\ 4\ thousand hundred\ thousand
 hundred\ ana hundred\ and
 hundred\ arid hundred\ and
 hy\ an by\ an
 hy\ the by\ the
 ih\ the in\ the
+in\ 4\ the in\ the
 in\ any\ wife in\ any\ wise 
 in\ cafe\ his in\ case\ his
 in\ ibe in\ the
@@ -494,12 +531,20 @@ Jive\ thousand five\ thousand
 jor\ the for\ the
 Jor\ the for\ the
 just\ ices\ of justices\ of
+lad\ aforesaid last\ aforesaid
+lad\ day last\ day
+lad\ Day last\ Day
+lad\ mentioned\ act last\ mentioned\ act
+lad\ mentioned\ Act last\ mentioned\ Act
+lad\ recited last\ recited
 lad\ session last\ session
+lad\ Session last\ Session
 laid\ Act said\ Act
 lame\ county same\ county
 lame\ uses same\ uses
 (lamp\ duties stamp\ duties
 last\ section\ of\ parliament last\ session\ of\ parliament
+late\ 4\ Majesty late\ Majesty
 linking\ fund sinking\ fund
 live\ hundred five\ hundred
 live\ pounds five\ pounds
@@ -511,6 +556,8 @@ making\ the\ fame making\ the\ same
 manner\ aa manner\ as
 many\ wife many\ wise
 marine\ farces marine\ forces
+mentioned\ ad mentioned\ act
+mentioned\ Ad mentioned\ Act
 mentioned\ aft mentioned\ act
 mentioned\ Aft mentioned\ Act
 mod\ convenient most\ convenient
@@ -571,6 +618,7 @@ pf\ the of\ the
 pf\ this of\ this
 pleading\ the\ fame pleading\ the\ same
 prelent\ Majesty present\ Majesty
+present\ 4\ Majesty present\ Majesty
 present\ aA present\ act
 present\ AA present\ Act
 present\ ad present\ act
@@ -586,11 +634,9 @@ Publick\ ad Publick\ act
 publick\ aft publick\ act
 Publick\ aft Publick\ act
 Publick\ Aft Publick\ Act
-PUB\ LICK PUBLICK
 punching\ mutiny punishing\ mutiny
 punching\ Mutiny punishing\ Mutiny
 pur\ chafe-money purchase-money
-pur\ chafe purchase
 qn\ the on\ the
 railed\ in\ Great raised\ in\ Great
 railing\ money raising\ money
@@ -608,6 +654,7 @@ recited\ aft receited\ act
 recited\ aft recited\ act
 recited\ Aft recited\ Act
 recited\ afts recited\ acts
+Ruffian\ Majesty Russian\ Majesty
 said\ aA said\ act
 said\ Aa said\ Act
 said\ AA said\ Act
@@ -630,14 +677,13 @@ several\ adls several\ acts
 several\ ads several\ acts
 several\ afts several\ acts
 shall\ ad shall\ act
+shall\ alio shall\ also
 shall\ (land shall\ stand
 Shank\ of\ England bank\ of\ England
 sixty\ fix sixty\ six
 so\ far\ a9 so\ far\ as
 son\ or\ fons son\ or\ sons
 spiritual\ ana\ temporal spiritual\ and\ temporal
-statutesat statutes\ at
-STATUTESat STATUTES\ at
 such\ aft such\ act
 such\ cods such\ costs
 Tear\ of\ the\ Reign Year\ of\ the\ Reign
@@ -685,6 +731,7 @@ this\ aft this\ act
 this\ Aft this\ Act
 This\ aft This\ act
 this\ AH this\ Act
+this\ Ait this\ Act
 this\ alt this\ act
 This\ alt This\ act
 this\ Aot this\ Act
@@ -704,6 +751,7 @@ Treble\ Cods Treble\ Costs
 treble\ colts treble\ costs
 Treble\ colts Treble\ costs
 twenty-fir\ ft twenty-first
+twenty\ fix twenty\ six
 twenty\ lixth twenty\ sixth
 Two\ AAs Two\ Acts
 two\ afts two\ acts
@@ -737,4 +785,21 @@ yin\ Act an\ Act
 yin\ Ad an\ Act
 yin\ Aft an\ Act
 younger\ fons younger\ sons
-
+Your\ 4\ Majesty Your\ Majesty
+\/aid\ acts said\ acts
+Acts\ pa\ fled Acts\ passed
+Acl\ or\ Acts Act\ or\ Acts
+ACl\ or\ Acts Act\ or\ Acts
+aCl\ or\ acts act\ or\ acts
+acl\ or\ acts act\ or\ acts
+Act\ cr\ Acts Act\ or\ Acts
+Act\ dr\ Acts Act\ or\ Acts
+fa\ id\ acts said\ acts
+fa\ id\ Acts said\ Acts
+a\ ft\ or\ acts act\ or\ acts
+lad\ mentioned\ acts last\ mentioned\ acts
+lad\ mentioned\ Acts last\ mentioned\ Acts
+acts\ ot\ parliament acts\ of\ parliament
+Acts\ ot\ Parliament Acts\ of\ Parliament
+Acts\ parted Acts\ passed
+acts\ parted acts\ passed

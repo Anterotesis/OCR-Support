@@ -1,7 +1,17 @@
+Ads Acts
+Aet Act
 Ail\ Act An\ Act
 ail\ such all\ such
 ail\ the all\ the
+Am\ Act An\ Act
+ana and
+Apt Act
+A\ T\ the AT\ the
+Begular Regular
 Beign Reign
+Bemoval Removal
+Bepair Repair
+Bepairs Repairs
 Bepresentations Representations
 Betail Retail
 Bevision Revision
@@ -9,22 +19,43 @@ Biding Riding
 Bntry Entry
 Boads Roads
 Boyal Royal
+Camarvon Carnarvon
 certaiu certain
+Churohes Churches
 Cnurch Church
+Com-pany Company
+con-\ sisting consisting
+con-tained contained
+con-taining con-taining
 conti-\ nued continued
+Con-\ viction Conviction
+COPIE8 COPIES
+Cor-4\ poration Corporation
+Cor-poration Corporation
 disbandedForeignCorps disbanded\ Foreign\ Corps
 District\ Bates District Rates
+Eng-4\ land England
 Eng-land England
+exemptfrom exempt\ from
 Ex-pence Expence
 Fenalty Penalty
 Fen-cibles Fencibles
 fhe the
 Ghapter Chapter
+Half\ Fay Half\ Pay
+Here-ford Hereford
+hun-4\ dred hundred
+hun-dred hundred
+Im-4\ provement Improvement
+Ire-4\ land Ireland
+{Ireland (Ireland
+Ire-land Ireland
 iVeta\ South\ Wales New\ South\ Wales
 ivhich which
 jng ing
 jn in
 Kailway Railway
+Koyal Royal
 M08T MOST
 military\ poet military\ post
 Military\ Poet Military\ Post
@@ -32,29 +63,6 @@ Neic\ South\ Wales New\ South\ Wales
 Neio\ South\ Wales New\ South\ Wales
 Nem\ South\ Wales New\ South\ Wales
 Nero\ South\ Wales New\ South\ Wales
-tlie the
-Tlie The
-Bepair Repair
-Bepairs Repairs
-Bemoval Removal
-Begular Regular
-V1CTORLE VICTORIAE
-VTCTORIjE VICTORIAE
-VTTHEREAS WHEREAS
-YVTHEREAS WHEREAS
-Here-ford Hereford
-TIT\ HERE\ AS WHEREAS
-per-formed performed
-per-4\ formed performed
-Per-4\ son Person
-Camarvon Carnarvon
-thou-sand thousand
-VICTORLE VICTORIAE
-Oon-viction Conviction
-Con-\ viction Conviction
-con-taining con-taining
-con-tained contained
-con-\ sisting consisting
 Neto\ South\ Wales New\ South\ Wales
 Netv\ South\ Wales New\ South\ Wales
 Neu>\ South\ Wales New\ South\ Wales
@@ -62,7 +70,9 @@ Neu)\ South\ Wales New\ South\ Wales
 Neva\ South\ Wales New\ South\ Wales
 Nevo\ South\ Wales New\ South\ Wales
 Nevs\ South\ Wales New\ South\ Wales
+oertain certain
 of\ Bates of\ Rates
+Oon-viction Conviction
 or\ Bates or\ Rates
 PA88ED PASSED
 PARLIAMBNT PARLIAMENT
@@ -79,10 +89,20 @@ Penaltie8 Penalties
 pe-\ nalties penalties
 pe-nalties penalties
 pe\ nalties penalties
+per-4\ formed performed
+Per-4\ son Person
+per-formed performed
 Poet\ Office Post\ Office
 Poor\ Bates Poor\ Rates
+qf of
+REGINiE REGINAE
+REGINjE REGINAE
+Roadfrom Road\ from
+saia said
 Schcdulc Schedule	
 Schedulc Schedule
+{Scotland (Scotland
+Scot-land Scotland
 Seijeant Serjeant
 Seijeants Serjeants
 snbject subject
@@ -92,7 +112,17 @@ StampDuties Stamp\ Duties
 such\ Bates such\ Rates
 tbat that
 Tbat That
+tbe the
+T\ do\ solemnly I\ do\ solemnly
+T\ do\ swear I\ do\ swear
 the\ Bates the\ Rates
+thou-sand thousand
+TIT\ HERE\ AS WHEREAS
+tlie the
+Tlie The
+tne the
+TT7HEREAS WHEREAS
+V1CTORLE VICTORIAE
 VICfORIiE VICTORIAE
 Vicf Vict
 Vicj Vict
@@ -108,8 +138,11 @@ VICTOKIjE VICTORIAE
 VICTOKIJE VICTORIAE
 VICTOKLE VICTORIAE
 VICTORIiE VICTORIAE
+VICTORIjE VICTORIAE
+VICTORLE VICTORIAE
 VICTOR!® VICTORIAE
 ViCT VICT
+Viet Vict
 VIGTOEIjE VICTORIAE
 Vigt Vict
 ViGT VICT
@@ -121,6 +154,7 @@ VjCT VICT
 VKTTORIiE VICTORIAE
 VlbTORIiE VICTORIAE
 VLCTORIiE VICTORIAE
+Vlct Vict
 VlcT Vict
 VlCt Vict
 VlCT VICT
@@ -132,7 +166,9 @@ vonshireor vonshire\ or
 Voteand Vote\ and
 Vrcr Vict
 VTCTORIiE VICTORIAE
+VTCTORIjE VICTORIAE
 VtCT VICT
+VTTHEREAS WHEREAS
 VV\ Reign Reign
 VV\ the the
 We&minster Westminster
@@ -153,5 +189,6 @@ Yjct Vict
 Ylcf Vict
 Ylct Vict
 Ytct Vict
+YVTHEREAS WHEREAS
 zanceof zance\ of
 
