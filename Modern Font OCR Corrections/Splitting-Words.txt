@@ -1,0 +1,7 @@
+andalso and\ also
+andany and\ any
+andby and\ by
+andexcept and\ except
+andin and\ in
+andif and\ if
+

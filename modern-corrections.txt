@@ -1,3 +1,4 @@
+-beforc -before - stem or ending?
 Ads Acts
 Aet Act
 Ail\ Act An\ Act
@@ -7,55 +8,26 @@ Am\ Act An\ Act
 ana and
 Apt Act
 A\ T\ the AT\ the
-Begular Regular
-Beign Reign
-Bemoval Removal
-Bepair Repair
-Bepairs Repairs
-Bepresentations Representations
-Betail Retail
-Bevision Revision
-Biding Riding
-Bntry Entry
-Boads Roads
-Boyal Royal
-Camarvon Carnarvon
-certaiu certain
-Churohes Churches
-Cnurch Church
-Com-pany Company
 con-\ sisting consisting
-con-tained contained
-con-taining con-taining
 conti-\ nued continued
 Con-\ viction Conviction
 COPIE8 COPIES
 Cor-4\ poration Corporation
-Cor-poration Corporation
 disbandedForeignCorps disbanded\ Foreign\ Corps
 District\ Bates District Rates
 Eng-4\ land England
-Eng-land England
 exemptfrom exempt\ from
-Ex-pence Expence
-Fenalty Penalty
-Fen-cibles Fencibles
 fhe the
 Ghapter Chapter
 Half\ Fay Half\ Pay
-Here-ford Hereford
 hun-4\ dred hundred
-hun-dred hundred
 Im-4\ provement Improvement
 Ire-4\ land Ireland
 {Ireland (Ireland
-Ire-land Ireland
 iVeta\ South\ Wales New\ South\ Wales
 ivhich which
 jng ing
 jn in
-Kailway Railway
-Koyal Royal
 M08T MOST
 military\ poet military\ post
 Military\ Poet Military\ Post
@@ -82,45 +54,26 @@ Par-\ W\ liament Parliament
 ParW\ liament Parliament
 ParYV\ liament Parliament
 ParYY\ liament Parliament
-peijury perjury
-Peijury Perjury
-Penally Penalty
 Penaltie8 Penalties
 pe-\ nalties penalties
-pe-nalties penalties
 pe\ nalties penalties
 per-4\ formed performed
 Per-4\ son Person
-per-formed performed
 Poet\ Office Post\ Office
 Poor\ Bates Poor\ Rates
 qf of
 REGINiE REGINAE
 REGINjE REGINAE
 Roadfrom Road\ from
-saia said
-Schcdulc Schedule	
-Schedulc Schedule
 {Scotland (Scotland
-Scot-land Scotland
 Seijeant Serjeant
-Seijeants Serjeants
-snbject subject
-snch such
-Sneriff Sheriff
 StampDuties Stamp\ Duties
 such\ Bates such\ Rates
-tbat that
-Tbat That
-tbe the
+
 T\ do\ solemnly I\ do\ solemnly
 T\ do\ swear I\ do\ swear
 the\ Bates the\ Rates
-thou-sand thousand
 TIT\ HERE\ AS WHEREAS
-tlie the
-Tlie The
-tne the
 TT7HEREAS WHEREAS
 V1CTORLE VICTORIAE
 VICfORIiE VICTORIAE
@@ -161,7 +114,6 @@ VlCT VICT
 VlfcTORIiE VICTORIAE
 VlOT VICT
 Vn\ Act An\ Act
-Vncancies Vacancies
 vonshireor vonshire\ or
 Voteand Vote\ and
 Vrcr Vict
@@ -169,15 +121,10 @@ VTCTORIiE VICTORIAE
 VTCTORIjE VICTORIAE
 VtCT VICT
 VTTHEREAS WHEREAS
-VV\ Reign Reign
-VV\ the the
 We&minster Westminster
 wenty twenty
 w\ hereas whereas
-wnich which
-Yerdict Verdict
-Yestry Vestry
-Yicarage Vicarage
+
 Yicl Vict
 Yicr Vict
 yiCTORIiE VICTORIAE
@@ -191,4 +138,9 @@ Ylct Vict
 Ytct Vict
 YVTHEREAS WHEREAS
 zanceof zance\ of
-
+presentpar-liament present\ parliament
+ofpar-liament of\ parliament
+theEstablish-ment the\ Establishment
+otherpunish-ment other\ punishment
+nojudge-ment no\ judgement
+°ffice office

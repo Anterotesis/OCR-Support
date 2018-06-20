@@ -265,6 +265,7 @@ Difeharge Discharge
 \ difem \ disem
 difenarge discharge
 difeontinu discontinu
+difeourage discourage
 diflrain distrain
 difmiff dismiss
 Difmiff Dismiss
@@ -383,6 +384,7 @@ exift exist
 expeft expect
 Expeft Expect 
 Expencc Expence
+expreff express
 extraA extract
 ExtraA Extract
 fa&ion faction
@@ -526,6 +528,7 @@ GlaJgow Glasgow
 Gloucefter Gloucester
 Gloucejler Gloucester
 GlouceJler Gloucester
+Gommission Commission
 Gxorgi Georgi
 havebeen have\ been
 HEKEAS HEREAS
@@ -557,6 +560,7 @@ houfe house
 Houfe House
 Houfes Houses
 housesof houses\ of
+hujband husband
 iddlefcx iddlesex
 iddlefex iddlesex
 ifhmonger ishmonger
@@ -565,6 +569,12 @@ impofed imposed
 impojition imposition
 imprifbn imprison
 Imprifbn Imprison
+impri-fon imprison
+Impri-fon Imprison
+indorfc indorse
+Indorfc Indorse
+indorfe indorse
+Indorfe Indorse
 indosure inclosure
 Indosure Inclosure
 inftruction instruction
@@ -618,6 +628,7 @@ Jhould should
 jlamp stamp
 Jlamp stamp
 jlaple staple
+Jlatute statute
 jlminster stminster
 Jndge Judge
 jnftice justice
@@ -709,6 +720,7 @@ men-tioned
 Middlc Middle
 middlefex middlesex
 Middlefex Middlesex
+Midfummer Midsummer
 mifbehaviour misbehaviour
 Mifbehaviour Misbehaviour
 mifbehav misbehav
@@ -772,8 +784,7 @@ obftrubt obstruct
 obftrucf obstruct
 obftruct obstruct
 obftruCt obstruct
-Obftru&ing Obstructing
-Obftru&ion Obstruction
+Obftru& Obstruct
 obftru& obstruct
 occaflon occasion
 Occaflon Occasion
@@ -900,6 +911,7 @@ recoyer recover
 re-ferving reserving
 referving reserving
 refidence residence
+refident resident
 refign resign
 reflriftion restriction
 refpcctive respective
@@ -1044,6 +1056,7 @@ tvejlmin Westmin
 Tvvcnty Twenty
 Tvventy Twenty
 Twcnty Twenty
+Twecd Tweed
 twenfy twenty
 twentietn twentieth
 Twentv Twenty
@@ -1109,4 +1122,39 @@ yourMaje your\ Maje
 yvarehouse warehouse
 YVarehouse Warehouse
 zvhicb which
-
+dwelling-boufe dwelling-house
+Jbire shire
+IVeJlmin Westmin
+Predeceffor Predecessor
+Prefbyt Presbyt
+conftable constable
+Conftable Constable
+conftablc constable
+Conftablc Constable
+ViAuall Victuall
+Vi&uall Victuall
+Mqjesty Majesty
+Sur-\ geon Surgeon
+Sur-\ name Surname
+PofTession Possession
+feijeant serjeant
+Afleflment Assessment
+feilion session
+feiiion session
+Mojefly Majesty
+par-liament parliament
+Par-liament Parliament
+fuc-ceflbr successor
+fuc-ceed succeed
+Merchandife Merchandise
+Merchandifc Merchandise
+mercband merchand
+Mercband Merchand
+Affiftant Assistant
+Justioe Justice
+justioe justice
+Kiugston Kingston
+Bishop-rick Bishoprick
+Publifher Publisher
+Promife Promise
+Pofleflion Possession

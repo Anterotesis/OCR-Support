@@ -116,7 +116,7 @@ an\ A3 an\ Act
 An\ a3 An\ act
 An\ A3 An\ Act
 an\ a51 an\ act
-An\  a51 An\ act
+An\ a51 An\ act
 An\ a51 An\ act
 an\ A\ 61 an\ Act
 An\ A\ 61 An\ Act
@@ -128,12 +128,9 @@ an\ Aa an\ Act
 an\ AA an\ Act
 An\ aa An\ act
 An\ a\ A An\ act
-An\ a\ A\  An\ act\ 
 An\ aA An\ Act
 An\ A\ a An\ Act
-An\ A\ a\  An\ Act\ 
 An\ A\ A An\ Act
-An\ A\ A\  An\ Act\ 
 An\ AA An\ Act
 an\ aa\ for an\ act\ for
 an\ AA\ for an\ Act\ for
@@ -402,7 +399,7 @@ fet\ down set\ down
 fet\ forth set\ forth
 fet\ out set\ out
 fet\ upon set\ upon
-fhali\ be  shall\ be
+fhali\ be shall\ be
 Fifh\ Curer Fish\ Curer
 Fifh\ Curers Fish\ Curers
 fifty\ fix fifty\ six
@@ -784,6 +781,11 @@ yin\ A3 an\ Act
 yin\ Act an\ Act
 yin\ Ad an\ Act
 yin\ Aft an\ Act
+spiritual\ arid\ temporal spiritual\ and\ temporal
+Spiritual\ arid\ Temporal Spiritual\ and\ Temporal
+arid\ all and\ all
+arid\ may and\ may
+arid\ persons and\ persons
 younger\ fons younger\ sons
 Your\ 4\ Majesty Your\ Majesty
 \/aid\ acts said\ acts
@@ -803,3 +805,44 @@ acts\ ot\ parliament acts\ of\ parliament
 Acts\ ot\ Parliament Acts\ of\ Parliament
 Acts\ parted Acts\ passed
 acts\ parted acts\ passed
+Tear\ of\ His Year\ of\ His
+Month\ and\ Tear Month\ and\ Year
+yin\ A8 an\ Act
+yin\ Atl an\ Act
+yin\ Att an\ Act
+yin\ AS an\ Act
+moil\ Excellent most\ Excellent
+HE\ RE\ AS HEREAS
+recited\ AS recited\ Act
+Her\ 4\ present Her\ present
+His\ 4\ present His\ present
+His\ 4\ said His\ said
+His\ 4\ late His\ late
+be\ 4\ paid be\ paid
+be\ 4\ made be\ made
+be\ 4\ lawful be\ lawful
+called\ 44\ The called\ The
+intituled\ 44\ The intituled\ The
+intituled\ 44\ An intituled\ An
+entitled\ 44\ An entitled\ An
+of\ 44\ the of\ the
+of\ 44\ The of\ The
+fell\ annuities sell\ annuities
+an\ Abl an\ Act
+An\ Abl An\ Act
+An\ abl An\ act
+Abl\ or\ Abls Act\ or\ Acts
+abl\ or\ abls act\ or\ acts
+present\ abl present\ act
+present\ Abl present\ Act
+this\ Abl this\ Act
+Public\ Ad Public\ Act
+Publick\ Ad Publick\ Act
+to\ ad\ as to\ act\ as
+An\ 4\ Ad An\ Act
+an\ 4\ Ad an\ Act
+shall\ aft shall\ act
+Heirs\ arid Heirs\ and
+heirs\ arid heirs\ and
+year\ af year\ of
+Year\ af Year\ of

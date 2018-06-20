@@ -1,3 +1,5 @@
+Anrio Anno
+Hbnrici Henrici
 0£tavo Octavo
 6UL1ELMI GULIELMI
 6ULIELM1 GULIELMI
@@ -637,6 +639,7 @@ EdWARDI EDWARDI
 EdwARDI EDWARDI
 EdwaRdi Edwardi
 EdwarDI Edwardi
+Anno\ fegni Anno\ regni
 EdwarDi Edwardi
 EdwardiIII Edwardi\ III
 EdWARDIIV EDWARDI\ IV
@@ -651,3 +654,5 @@ quintoGsorgii quinto\ Georgii
 GEoRgii Georgii
 diiodedmo duodecimo
 Rlchardi Richardi
+Anno\ regrii Anno\ regni
+regiii regni

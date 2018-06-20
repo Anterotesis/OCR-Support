@@ -1,4 +1,9 @@
 AAiddlejex Middlesex
+Win-chester Winchester
+Dalton-in-Fumess Dalton-in-Furness
+Dalton-in-Furaess Dalton-in-Furness
+Ken-nington Kennington
+Kenning-ton Kennington
 Abbingtcn Abbington
 Aberbroihwick Aberbrothwick
 Abercaimey Abercairney
@@ -1221,6 +1226,7 @@ Mid-diefex Middlesex
 Mid-dlefex Middlesex
 M-ddhfex Middlesex
 Ef-iex Essex
+Afbton Ashton
 Mid-dlcsex Middlesex
 Mid-tUcsex Middlesex
 Mid-djesex Middlesex
@@ -1235,3 +1241,11 @@ Ashby-dc-la-Zouch Ashby-de-la-Zouch
 Ashby-deda-Zouch Ashby-de-la-Zouch
 Ashby-deda-Zouck Ashby-de-la-Zouch
 Ashby-de-la-Zoueh Ashby-de-la-Zouch
+jvestminster Westminster
+Lancajlcr Lancaster
+Swanfea Swansea
+Batterfea Battersea
+Montrofe Montrose
+Limeboufe Limehouse
+IVedminster Westminster
+Eng\ land England

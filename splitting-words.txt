@@ -1,3 +1,6 @@
+AdditionalTrustees Additional\ Trustees
+personor person\ or
+thirdyear third\ year
 voL6 vol\ 6
 whoshall who\ shall
 a3for act\ for
@@ -225,7 +228,7 @@ faidCa said\ Ca
 faidcasks said\ casks
 faidcbc said\ cbc
 faidCdnrt said\ Cdnrt
-faidCertificatcs said\ Certificatcs
+faidCertificatcs said\ Certificates
 faidcertificate said\ certificate
 faidcft said\ cft
 faidchamberlain said\ chamberlain
@@ -252,7 +255,6 @@ faidcol said\ col
 faidcommif said\ commif
 faidCommif said\ Commif
 faidCommilfioucr said\ Commilfioucr
-faidcommimoners said\ commimoners
 faidcommissioners said\ commissioners
 faidCommissioners said\ Commissioners
 faidcommission said\ commission
@@ -269,8 +271,6 @@ faidcorpomion said\ corpomion
 faidCosumfliafiefs said\ Cosumfliafiefs
 faidcot said\ cot
 faidcoun said\ coun
-faidcounties said\ counties
-faidcounty said\ county
 faidCounty said\ County
 faidcourf said\ courf
 faidcourt said\ court
@@ -592,7 +592,7 @@ faidPremifes said\ Premifes
 faidpresent said\ present
 faidprincipals said\ principals
 faidprison said\ prison
-faidprocefsy said\ procefsy
+faidprocefsy said\ processy
 faidprovifion said\ provision
 faidprovinces said\ provinces
 faidp said\ p
@@ -1288,14 +1288,29 @@ theseventh the\ seventh
 Theseveral The\ several
 effectualpunishing effectual\ punishing
 ejfeftualpunishing effectual\ punishing
-IrishA61 Irish\ Acts
 A61Be Act\ Be
 ofHis of\ His
 HisMoft His\ Most
 Hispresent His\ present
 forinclofing for\ inclosing
 affe&ingthe affecting\ the
+thestreets the\ streets
 statutesat statutes\ at
 STATUTESat STATUTES\ at
 actor\ acts act\ or\ acts
 pafledin passed\ in
+orinftru-ment or\ instrument
+presentpar-liament present\ parliament
+ofpar-liament of\ parliament
+theEstablish-ment the\ Establishment
+otherpunish-ment other\ punishment
+nojudge-ment no\ judgement
+StampingAffign-ment Stamping\ Assignment
+orifjudge-ment or\ if\ judgement
+prefcntjpar-liament present\ parliament
+enpar-liament en\ parliament
+HerMajesty Her\ Majesty
+Courfesof Courses\ of
+Courfethereby Course\ thereby
+remainingunfold remaing\ unsold
+Commissionersof Commissioners\ of
