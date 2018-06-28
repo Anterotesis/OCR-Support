@@ -147,6 +147,7 @@ Chejhunt Cheshunt
 Chejier Chester
 Chejler Chester
 Chelfea Chelsea
+Cbel\/ea Chelsea
 Chelhire Cheshire
 Chepjlow Chepstow
 Chtfhunt Cheshunt
@@ -1249,3 +1250,4 @@ Montrofe Montrose
 Limeboufe Limehouse
 IVedminster Westminster
 Eng\ land England
+Shrewjbury Shrewsbury

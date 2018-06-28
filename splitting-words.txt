@@ -1,10 +1,6 @@
-AdditionalTrustees Additional\ Trustees
-personor person\ or
-thirdyear third\ year
-voL6 vol\ 6
-whoshall who\ shall
 a3for act\ for
 A3for Act\ for
+A61Be Act\ Be
 a8for act\ for
 A8for Act\ for
 aaafardaid as\ aforesaid
@@ -24,6 +20,7 @@ abroadBe abroad\ Be
 absenceof absence\ of
 actfor act\ for
 Actfor Act\ for
+actor\ acts act\ or\ acts
 AdditionalTrnjlees Additional\ Trustees
 AdditionalTrufees Additional\ Trustees
 AdditionalTrufiees Additional\ Trustees
@@ -32,6 +29,8 @@ AdditionalTruftees Additional\ Trustees
 AdditionalTrujlees Additional\ Trustees
 AdditionalTruJlees Additional\ Trustees
 AdditionalTrujleet Additional\ Trustees
+AdditionalTrustees Additional\ Trustees
+affe&ingthe affecting\ the
 Africaand Africa\ and
 aftfor act\ for
 Aftfor Act\ for
@@ -67,6 +66,7 @@ AndJorasmuch And\ forasmuch
 andJpecially and\ specially
 andJubjefts and\ subjects
 andof and\ of
+andher and\ her
 andseventy and\ seventy
 andsixty and\ sixty
 andthe and\ the
@@ -79,6 +79,9 @@ annoprimo anno\ primo
 anyfuch any\ such
 anyperfon any\ person
 anywifenotwithftanuing anywise\ notwithstanding
+ApabllckaA A\ publick\ act
+ApubijckaA A\ publick\ act
+ApublickaA A\ publick\ act
 arifefrom arise\ from
 arifingby arising\ by
 as-aforesaid as\ aforesaid
@@ -118,6 +121,7 @@ caufeof cause\ of
 cleanfingand cleansing\ and
 cleanfingthe cleansing\ the
 Commifficnsshall  Commissions\ shall
+Commissionersof Commissioners\ of
 Commissiouersof Commissioners\ of
 compensatedfor compensated\ for
 comprifednotwithstanding comprised\ notwithstanding
@@ -137,6 +141,8 @@ contrarynotwith contrary\ notwith
 contrarynotwithstanding contrary\ notwithstanding
 countyof county\ of
 courfeof course\ of
+Courfesof Courses\ of
+Courfethereby Course\ thereby
 cpntrarynotwithstanding  contrary\ notwithstanding
 describedBe described\ Be
 difpofedof disposed\ of
@@ -146,6 +152,14 @@ dischargedfrom discharged\ from
 dischargethe discharge\ the
 donotwithjlanding do\ notwithstanding
 dutyof duty\ of
+effectualpreservation effectual\ preservation
+effectualpreserving effectual\ preserving
+effectualpreventing effectual\ preventing
+effectualprovifion effectual\ provision
+effectualprovision effectual\ provision
+effectualpunishing effectual\ punishing
+effectualseveral effectual\ several
+ejfeftualpunishing effectual\ punishing
 employmentsand employments\ and
 enactedand enacted\ and
 enactedby enacted\ by
@@ -153,6 +167,7 @@ enadtedby enacted\ by
 enaftedand enacted\ and
 enaftedby enacted\ by
 enaftedThat enacted\ That
+enpar-liament en\ parliament
 excellentMajesty excellent\ Majesty
 excellentprincefs excellent\ princess
 exceptfuch except\ such
@@ -734,6 +749,7 @@ feVeralacts several\ acts
 fhouldbe should\ be
 fixthyear sixth\ year
 fomuch so\ much
+forinclofing for\ inclosing
 forthebetter for\ the\ better
 forthechild for\ the\ child
 forthechurch for\ the\ church
@@ -770,6 +786,7 @@ fpaceof space\ of
 fraudulentContrivances fraudulent\ Contrivances
 ftatutcof statute\ of
 ftatuteof statute\ of
+fuchOflicer such\ Officer
 fumof sum\ of
 fwornupon sworn\ upon
 GeorgiiII Georgii\ II
@@ -779,6 +796,7 @@ hercbygranted hereby\ granted
 herMajeftv her\ Majesty
 herMajestyfor her\ Majesty\ for
 herMajesty her\ Majesty
+HerMajesty Her\ Majesty
 herMajtfty her\ Majesty
 Highnessand Highness\ and
 Highnessfrom Highness\ from
@@ -791,6 +809,8 @@ HisMajeity His\ Majesty
 hisMajeJly his\ Majesty
 hismajejty his\ majesty
 hisMajessy his\ Majesty
+HisMoft His\ Most
+Hispresent His\ present
 houseof house\ of
 iflandof island\ of
 Iflandof Island\ of
@@ -862,6 +882,7 @@ moflExcellent most\ Excellent
 moftroyal most\ royal
 monthsaftcr months\ after
 mustbe must\ be
+nojudge-ment no\ judgement
 noperson no\ person
 Nospiritsfrom No\ spirits\ from
 Octoberone October\ one
@@ -905,7 +926,10 @@ ofexecute of\ execute
 offuch of\ such
 ofGreat of\ Great
 ofhis of\ his
+ofHis of\ His
 ofMarch of\ March
+ofOftober of\ October
+ofpar-liament of\ parliament
 ofparliament of\ parliament
 ofScotland of\ Scotland
 ofSeptember of\ September
@@ -935,13 +959,17 @@ orChapel or\ Chapel
 orCheshire or\ Cheshire
 orexisting or\ existing
 orfuch or\ such
+orifjudge-ment or\ if\ judgement
+orinftru-ment or\ instrument
 orthemfelves or\ themselves
+otherpunish-ment other\ punishment
 paffedin passed\ in
 paffingof passing\ of
 paffingout passing\ out
 paffingover passing\ over
 paffingtheir passing\ their
 paffingthrough passing\ through
+pafledin passed\ in
 paflingof passing\ of
 parifhof parish\ of
 parifof parish\ of
@@ -952,14 +980,20 @@ Parliamentand Parliament\ and
 Parliamentbe Parliament\ be
 ParliamentBe Parliament\ Be
 ParliamentMay Parliament\ May
+personor person\ or
 pfthe of\ the
 placeof place\ of
+poblickaA publick\ act
+prefcntjpar-liament present\ parliament
 preffedby pressed\ by
 preffinginto pressing\ into
+presentpar-liament present\ parliament
 proposedBe proposed\ Be
 proposedWorks proposed\ Works
 providedbe provided\ be
 providedBe provided\ Be
+publickaA publick\ act
+PublickAa Publick\ Act
 Publickact Publick\ act
 Publickad Publick\ act
 PublickAft Publick\ Act
@@ -977,6 +1011,7 @@ Rcfiducof Residue\ of
 reasonof reason\ of
 Refiducof Residue\ of
 refpedof respect\ of
+remainingunfold remaing\ unsold
 Rentsand Rents\ and
 repealedbe repealed\ be
 repealedBe repealed\ Be
@@ -995,6 +1030,9 @@ smallfums small\ sums
 sofar so\ far
 spiritsfrom spirits\ from
 Spiritsfrom Spirits\ from
+StampingAffign-ment Stamping\ Assignment
+statutesat statutes\ at
+STATUTESat STATUTES\ at
 subjectsfrom subjects\ from
 subje&to subject\ to
 SupportBe Support\ Be
@@ -1149,6 +1187,7 @@ theChairman the\ Chairman
 TheCheshire The\ Cheshire
 thecity the\ city
 thecuftody the\ custody
+theEstablish-ment the\ Establishment
 thefaid the\ said
 thefame the\ same
 thefpaceof the\ space\ of
@@ -1172,6 +1211,17 @@ theprofecutor the\ prosecutor
 theproprietor the\ proprietor
 theprovifion the\ provision
 thepurchafeof the\ purchase\ of
+TheQaeen The\ Queen
+theQuecn the\ Queen
+theQueen the\ Queen
+Thequeen The\ queen
+thereforeenacted therefore\ enacted
+thereforeenafled therefore\ enacted
+thereforeenaftei therefore\ enacted
+thereforeeoaftrd therefore\ enacted
+thereforefurther therefore\ further
+thereforeplcafc therefore\ please
+thereforepleafe therefore\ please
 theregiftcr the\ register
 theregifter the\ register
 theregiftry the\ registry
@@ -1180,11 +1230,32 @@ thereofnotwithstanding thereof\ notwithstanding
 thereofrespectivelv thereof\ respectively
 thereofrespectively thereof\ respectively
 thesaid the\ said
+theserviceofthepublick the\ service\ of\ the\ publick
+theservice the\ service
+theService the\ Service
+thesessions the\sessions
+theSession the\Session
+theseventh the\ seventh
 theseveral the\ several
+Theseveral The\ several
+thestreets the\ streets
+thesubjects the\ subjects
+thesubjefts the\ subjects
+thesubjeSts the\ subjects
+thesubjetts the\ subjects
+thesugar the\ sugar
+thesummer the\ summer
+thesumof the\ sum\ of
+thesum the\ sum
+theSum the\ Sum
 thethirty the\ thirty
+thetime the\ time
+theTime the\ Time
+tHetime the\ time
 theTreafury the\ Treasury
 thetwelfth the\ twelfth
 theyJbould they\ should
+thirdyear third\ year
 thisaA this\ act
 thisact this\ act
 thisadl this\ act
@@ -1211,6 +1282,7 @@ valueof value\ of
 Vesselsliable Vessels\ liable
 Victoriaand Victoria\ and
 virtueof virtue\ of
+voL6 vol\ 6
 volunteersfrom volunteers\ from
 WestIndies West\ Indies
 WHEREASan WHEREAS\ an
@@ -1218,7 +1290,9 @@ whereasby whereas\ by
 WHEREASby WHEREAS\ by 
 Whereasfrom Whereas\ from
 whereasthe whereas\ the
+Whereasthe Whereas\ the
 whocould who\ could
+whoshall who\ shall
 wifenotwithstanding wife\ notwithstanding
 Wifenotwithstanding Wife\ notwithstanding
 winesfrom wines\ from
@@ -1241,76 +1315,4 @@ zapitaljlock capital\ stock
 Zealandbe Zealand\ be
 ZealandBe Zealand\ Be
 zvbereoffuch whereof\ such
-fuchOflicer such\ Officer
-poblickaA publick\ act
-PublickAa Publick\ Act
-publickaA publick\ act
-ApublickaA A\ publick\ act
-ApubijckaA A\ publick\ act
-ApabllckaA A\ publick\ act
-ofOftober of\ October
-thesubjects the\ subjects
-thesubjefts the\ subjects
-thesubjeSts the\ subjects
-thesubjetts the\ subjects
-thesugar the\ sugar
-thesummer the\ summer
-thesumof the\ sum\ of
-thesum the\ sum
-theSum the\ Sum
-thetime the\ time
-theTime the\ Time
-tHetime the\ time
-thereforeenacted therefore\ enacted
-thereforeenafled therefore\ enacted
-thereforeenaftei therefore\ enacted
-thereforeeoaftrd therefore\ enacted
-thereforefurther therefore\ further
-thereforeplcafc therefore\ please
-thereforepleafe therefore\ please
-effectualpreservation effectual\ preservation
-effectualpreserving effectual\ preserving
-effectualpreventing effectual\ preventing
-effectualprovifion effectual\ provision
-effectualprovision effectual\ provision
-effectualpunishing effectual\ punishing
-effectualseveral effectual\ several
-theQuecn the\ Queen
-Thequeen The\ queen
-theQueen the\ Queen
-TheQaeen The\ Queen
-theService the\ Service
-theservice the\ service
-theserviceofthepublick the\ service\ of\ the\ publick
-theSession the\Session
-thesessions the\sessions
-theseventh the\ seventh
-Theseveral The\ several
-effectualpunishing effectual\ punishing
-ejfeftualpunishing effectual\ punishing
-A61Be Act\ Be
-ofHis of\ His
-HisMoft His\ Most
-Hispresent His\ present
-forinclofing for\ inclosing
-affe&ingthe affecting\ the
-thestreets the\ streets
-statutesat statutes\ at
-STATUTESat STATUTES\ at
-actor\ acts act\ or\ acts
-pafledin passed\ in
-orinftru-ment or\ instrument
-presentpar-liament present\ parliament
-ofpar-liament of\ parliament
-theEstablish-ment the\ Establishment
-otherpunish-ment other\ punishment
-nojudge-ment no\ judgement
-StampingAffign-ment Stamping\ Assignment
-orifjudge-ment or\ if\ judgement
-prefcntjpar-liament present\ parliament
-enpar-liament en\ parliament
-HerMajesty Her\ Majesty
-Courfesof Courses\ of
-Courfethereby Course\ thereby
-remainingunfold remaing\ unsold
-Commissionersof Commissioners\ of
+

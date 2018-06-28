@@ -274,6 +274,10 @@ afeertaining ascertaining
 a(fent assent
 a<ff act
 affaulting assaulting
+af-fcflment assessment
+affcflment assessment
+Af-fcflment Assessment
+Affcflment Assessment
 affedting affecting
 Affeffed Assessed
 af-feflors assessors
@@ -294,10 +298,14 @@ af-fignment assignment
 Af-fignment Assignment
 Affign-ment Assignment
 Affize Assize
+Afft-flment Assessment
+Afftflment Assessment
 Afhes Ashes
 af-icmblies assemblies
 Afieffment Assessment
 afiembled assembled
+afiemblies assemblies
+Afiemblies Assemblies
 A(fiftance assistance
 a(fign-ments assignments
 Afiignees Assignees
@@ -309,6 +317,8 @@ a(fize assize
 A(fize Assize
 a<fl act
 afl act
+Aflc-flment Assessment
+Aflcflment Assessment
 afleflors assessors
 aflembled assembled
 aflemblies assemblies
@@ -569,6 +579,10 @@ appiy apply
 Ap-plotment Applotment
 applymg applying
 ap-pointed appointed
+appoint-ment appointment
+Appoint-ment Appointment
+appraife-ment appraisement
+Appraife-ment Appraisement
 appreheudiug apprehending
 apprenticelhip apprenticeship
 aqd and
@@ -874,6 +888,7 @@ caftcr caster
 caftle castle
 Caftle Castle
 ca(h cash
+Ca(h Cash
 ca(hier cashier
 ca(hiers cashiers
 cajk cask
@@ -941,6 +956,7 @@ certaia certain
 cer-\ tain certain
 cer-tain certain
 certaiu certain
+Certificatcs Certificates
 cffeftual effectual
 cffe&ual effectual
 cffe&ually effectually
@@ -1071,8 +1087,14 @@ Cna&ed enacted
 cnaffed enacted
 cna<fted enacted
 cnafted enacted
+cnarge charge
+cnarged charged
+cnarges charges
 cna£ted enacted
+cnclofc enclose
+cnclofing enclosing
 cn-couragement encouragement
+Cnftoms Customs
 cnlift enlist
 coacb coach
 coacbes coaches
@@ -1341,6 +1363,9 @@ Contrads Contracts
 contradts contracts
 contraft contract
 Contra&ing Contracting
+con-\ trary contrary
+con-trary contrary
+con\ trary contrary
 contra-ry contrary
 contra#s contracts
 Contra&s Contracts
@@ -1399,6 +1424,7 @@ coun\ ty county
 courfe course
 Courtefy Courtesy
 Cousolidated Consolidated
+coutrary contrary
 Coven-try Coventry
 cpmpany company
 Cpnsolidated Consolidated
@@ -2036,6 +2062,8 @@ exprejjed expressed
 exprejjing expressing
 exprelled expressed
 extenftve extensive
+ex-tinguifhment extinguishment
+Ex-tinguifhment Extinguishment
 Extin&ion Extinction
 extra£1 extract
 Extra£1 Extract
@@ -2808,6 +2836,7 @@ hy by
 Id-ftrument Instrument
 iecurity security
 ieveral several
+iffiied issued
 iffiie issue
 iffiued issued
 iffiue issue
@@ -3045,12 +3074,15 @@ Ira-prisonment Imprisonment
 Irifb Irish
 Irifh Irish
 Irifti Irish
+Iri(h Irish
+Iri\/h Irish
 Irijb Irish
 Irilh Irish
 Irtjh Irish
 issumg issuing
 i(Tued issued
 i(Tue issue
+i(Tuing issuing
 iuch such
 Iuch such
 iuftice justice
@@ -4476,6 +4508,8 @@ pa\ r(fh parish
 par-fonage parsonage
 Parfonage Parsonage
 par-iament parliament
+pariffi parish
+Pariffi Parish
 parifh-church parish-church
 parifhes parishes
 Pa-rifhes Parishes
@@ -4712,6 +4746,7 @@ Prc-fentment Presentment
 prcmif-fory promissory
 precediug preceding
 precedmg preceding
+Prefcnt-ment Presentment
 prefeat present
 prefence presence
 prefenf present
@@ -4736,6 +4771,7 @@ premifTes premisses
 Premiftes premisses
 premisles premisses
 present-ing presenting
+present-ment presentment
 Present-ment Presentment
 Present-ments Presentments
 preserv-ing preserving
@@ -4779,6 +4815,7 @@ prjsoner prisoner
 Prlsoners Prisoners
 prlson prison
 Prmters Printers
+Prnfent-ment Presentment
 Proceed-ings Proceedings
 Procefles Processes
 Procefs Process
@@ -5496,6 +5533,9 @@ Stcwartry Stewartry
 Stewardfhips Stewardships 
 Stutb-Sea South-Sea
 subfcribers subscribers
+Subfiflcnce Subsistence
+subfiflence subsistence
+Subfiflence Subsistence
 Subje61 Subject
 subjebls subjects
 subjeCls subjects
@@ -5505,6 +5545,7 @@ Succcf-fors Successors
 Succcffors Successors
 Succeffors Successors
 Succefiors Successors
+Succeflbrs Successors
 succeftors successors
 SuccefTors Successors
 succeftor successor
@@ -5533,6 +5574,7 @@ Suppreilion Suppression
 Supprejfon Suppression
 SuppreJJion Suppression
 survey-ors surveyors
+surviv-ing surviving
 survivorfhip survivorship
 survivorfliip survivorship
 survivorflup survivorship
@@ -5882,7 +5924,6 @@ trurtees trustees
 TT7HEREAS WHEREAS
 TTEM ITEM
 t© to
-Certificatcs Certificates
 TTT\ HEREAS WHEREAS
 TTTHEREAS WHEREAS
 Tuefday Tuesday
@@ -5962,6 +6003,7 @@ utmojl utmost
 Vcffels Vessels
 Vcrdegris Verdegris
 Vctdegris Verdegris
+Veffela Vessels
 vef-fels vessels
 veffels vessels
 vef-fel vessel
@@ -6117,6 +6159,7 @@ whbre where
 whcrcunto whereunto
 whereaa whereas
 w\ hereas whereas
+WHE\ REAS WHEREAS
 whicb which
 whicH which
 whicli which
@@ -6339,4 +6382,8 @@ zvriting writing
 zvrits writs
 zvritten written
 zvrit writ
-
+Re6lor Rector
+Afiizes Assizes
+Promiflory Promissory
+Exercxje Exercise
+Highneft Highness

@@ -67,4 +67,5 @@ Yerdict Verdict
 Yestry Vestry
 Yicarage Vicarage
 yirtne virtue
-
+coutrary contrary
+beginuing beginning

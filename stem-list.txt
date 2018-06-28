@@ -16,10 +16,12 @@ Afcertain Ascertain
 afeertain ascertain
 affeA affect
 affeff assess
+Affiftant Assistant
 affign assign
 afiemble assemble
 Afiemble Assemble
 afleffment assessment
+Afleflment Assessment
 aforesaidy aforesaid,
 aftault assault
 afTeffment assessment
@@ -92,6 +94,7 @@ befeech beseech
 bifhop bishop
 bijhop bishop
 Bijhop Bishop
+Bishop-rick Bishoprick
 bis\ Maj his\ Maj
 blifhed blished
 bofpital hospital
@@ -114,6 +117,8 @@ Britilh British
 burgb burgh
 Byo-Law Bye-Law
 caftle castle
+ca(hier cashier
+Ca(hier Cashier
 car-riage carriage
 Car-riage Carriage
 Cbmmiff Commiss
@@ -137,6 +142,9 @@ Claim-ant
 Claufe Clause
 clofures closures
 Clofures Closures
+cnarge charge
+Cnarge Charge
+cnclofe enclose
 cnurch church
 Cnurch Church
 coacb coach
@@ -198,8 +206,12 @@ confent consent
 confiable constable
 Confiable Constable
 confider consider
+conftablc constable
+Conftablc Constable
 conftable constable
+Conftable Constable
 conftru& construct
+Confump Consump
 coniider consider
 Coniider Consider
 Coni-mission Commission
@@ -310,6 +322,7 @@ djhire dshire
 Dorfet Dorset
 drefTed dressed
 du&ion duction
+dwelling-boufe dwelling-house
 dwell-ing dwelling
 Eafement Easement
 Eafi-Ind East-Ind
@@ -405,6 +418,9 @@ fcveral several
 fearch search
 fecond second
 fecurity security
+feiiion session
+feijeant serjeant
+feilion session
 Fenaltie Penaltie
 ferjeant serjeant
 fervice service
@@ -488,7 +504,9 @@ fublift subsist
 fubscribe subscribe
 fuCccffor successor
 fucccff success
+fuc-ceed succeed
 fucceff success
+fuc-ceflbr successor
 fufpend suspend
 fuftain sustain
 fugar sugar
@@ -597,6 +615,8 @@ Intereft Interest
 Iriffi Irish
 Irijb Irish
 Irijh Irish
+i(Tue issue
+I(Tue Issue
 IVefim Westm
 IVeflm Westm
 iveftmin Westmin
@@ -606,9 +626,11 @@ IVeJimin Westmin
 ivejlmin Westmin
 Ivejlmin Westmin
 IVejlmin Westmin
+IVeJlmin Westmin
 jbip ship
 Jbip ship
 jbire shire
+Jbire shire
 jefty jesty
 Jefuit Jesuit
 Jerfey Jersey
@@ -666,6 +688,8 @@ Jurrender surrender
 juslice justice
 Juslice Justice
 justiceof justice\ of
+justioe justice
+Justioe Justice
 jveftmin Westmin
 Jveftmin Westmin
 jveft west
@@ -676,6 +700,7 @@ kceper keeper
 kecper keeper
 keepcr keeper
 Kiddcrm Kidderm
+Kiugston Kingston
 licenfe license
 loyalfub loyal\ sub
 mafter master
@@ -714,9 +739,14 @@ mcnt ment
 mcrchant merchant
 meafure measure
 meafuring measuring
+Mef-fuage Messuage
 mejesty majesty
 Mejesty Majesty
 men-tioned
+mercband merchand
+Mercband Merchand
+Merchandifc Merchandise
+Merchandife Merchandise
 Middlc Middle
 middlefex middlesex
 Middlefex Middlesex
@@ -749,7 +779,9 @@ minjler minster
 minJler minster
 minjter minster
 moGeo mo\ Geo
+Mojefly Majesty
 moutb mouth
+Mqjesty Majesty
 ncgledt neglect
 ncgleft neglect
 ncvcr never
@@ -784,8 +816,8 @@ obftrubt obstruct
 obftrucf obstruct
 obftruct obstruct
 obftruCt obstruct
-Obftru& Obstruct
 obftru& obstruct
+Obftru& Obstruct
 occaflon occasion
 Occaflon Occasion
 occaiion occasion
@@ -820,6 +852,8 @@ parijh parish
 pariJh parish
 Parijh Parish
 PariJh Parish
+par-liament parliament
+Par-liament Parliament
 parUament parliament
 ParUament Parliament
 Pay-ment Payment
@@ -828,6 +862,7 @@ pcrfon person
 pCrfon person
 Pcrfon Person
 PCrfon Person
+Pen-fioner Pensioner
 Per-fbn Person
 per-fon person
 Per-fon Person
@@ -839,8 +874,10 @@ P°int Point
 poffeff possess
 poffefs possess
 poffejf possess
+Pofleflion Possession
 pofsession possession
 Pofsession Possession
+PofTession Possession
 poftmaster postmaster
 pojfeff possess
 Pojfeff Possess
@@ -850,6 +887,8 @@ pojjejf possess
 pojjejj possess
 prccinft precinct
 Prccinft Precinct
+Predeceffor Predecessor
+Prefbyt Presbyt
 prefcribe prescribe
 prefent present
 Prefent Present
@@ -859,6 +898,7 @@ Produ6t Product
 pro-duce produce
 Pro-duce Produce
 Profccution Prosecution
+Promife Promise
 provi-fion provision
 Provi-fion Provision
 proviflon provision
@@ -868,6 +908,7 @@ provi-lion provision
 Provi-lion Provision
 publiffi publish
 Publiffi Publish
+Publifher Publisher
 publi(h publish
 publilh publish
 Publilh Publish
@@ -943,6 +984,7 @@ refpedt respect
 refpeftiv respectiv
 re-fpeft respect
 refpeft respect
+Reftridion Restriction
 regifler register
 Regifler Register
 regifter register
@@ -992,7 +1034,9 @@ Sub-jeft Subject
 Subjeft Subject
 Subje& Subject
 subscriptt subscript
+Sur-\ geon Surgeon
 Sur-geon Surgeon
+Sur-\ name Surname
 (tatute statute
 tbefaid the\ said
 tbere there
@@ -1062,12 +1106,15 @@ twentietn twentieth
 Twentv Twenty
 ublickaft ublick\ act
 ufbandrv usbandry
+ufual usual
 unjkilful unskilful
 Utenfil Utensil
+Veffel Vessel
 vefifels vessels
 verthelefs vertheless
 vertifement vertisement
 vfcefi vicesi
+ViAuall Victuall
 vicefimo vicesimo
 VICT0R VICTOR
 vidfual victual
@@ -1076,6 +1123,7 @@ vifcount viscount
 Vifcount Viscount
 vifions visions
 Vilcount Viscount
+Vi&uall Victuall
 -vpon- -upon-
 vvithstand withstand
 warehoufc warehouse
@@ -1122,39 +1170,4 @@ yourMaje your\ Maje
 yvarehouse warehouse
 YVarehouse Warehouse
 zvhicb which
-dwelling-boufe dwelling-house
-Jbire shire
-IVeJlmin Westmin
-Predeceffor Predecessor
-Prefbyt Presbyt
-conftable constable
-Conftable Constable
-conftablc constable
-Conftablc Constable
-ViAuall Victuall
-Vi&uall Victuall
-Mqjesty Majesty
-Sur-\ geon Surgeon
-Sur-\ name Surname
-PofTession Possession
-feijeant serjeant
-Afleflment Assessment
-feilion session
-feiiion session
-Mojefly Majesty
-par-liament parliament
-Par-liament Parliament
-fuc-ceflbr successor
-fuc-ceed succeed
-Merchandife Merchandise
-Merchandifc Merchandise
-mercband merchand
-Mercband Merchand
-Affiftant Assistant
-Justioe Justice
-justioe justice
-Kiugston Kingston
-Bishop-rick Bishoprick
-Publifher Publisher
-Promife Promise
-Pofleflion Possession
+

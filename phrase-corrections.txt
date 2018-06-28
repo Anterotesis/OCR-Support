@@ -771,7 +771,6 @@ Walh\ brewed Wash\ brewed
 Walh\ Stills Wash\ Stills
 Walh\ Still Wash\ Still
 weft\ riding west\ riding
-Whereasthe Whereas\ the
 which\ aft which\ act
 wilfully\ aft wilfully\ act
 willingly\ aft willingly\ act
@@ -846,3 +845,10 @@ Heirs\ arid Heirs\ and
 heirs\ arid heirs\ and
 year\ af year\ of
 Year\ af Year\ of
+he,\ (he\ and\ they he,\ she\ and\ they
+he,\ (he\ or\ they he,\ she\ or\ they
+An\ AB An\ Act
+an\ AB an\ Act
+an\ AH\ of an\ Act\ of
+an\ AH\ passed an\ Act\ passed
+intituled,\ Ah intituled,\ An

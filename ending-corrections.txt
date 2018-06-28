@@ -74,6 +74,7 @@ fwcr swer
 fwortb sworth
 gncd gned
 gtng ging
+guifhed guished
 guifh guish
 guilhed guished
 guilh guish
@@ -129,6 +130,7 @@ nmg ning
 oaer oner
 oaers oners
 obcr ober
+ofmg osing
 omcd omed
 om-ed omed
 oncd oned
@@ -186,3 +188,4 @@ xcife xcise
 yiog ying
 ytng ying
 yy y,
+mcnt ment
