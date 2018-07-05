@@ -7,3 +7,6 @@ Bishop-rick Bishoprick
 cnarge charge
 Cnarge Charge
 Begist Regist
+warchouse warehouse
+Warchouse Warehouse
+Ad-ministrator Administrator

@@ -313,6 +313,7 @@ Afiign-ment Assignment
 Afiignments Assignments
 afiigns assigns
 afiize assize
+Afiizes Assizes
 a(fize assize
 A(fize Assize
 a<fl act
@@ -1466,6 +1467,7 @@ db-stroy destroy
 dcbtors debtors
 dcceafcd deceased
 dcceafed deceased
+Dcfertion Desertion
 deanfed cleansed
 Deatli Death
 debt-ors debtors
@@ -2043,6 +2045,7 @@ Exer-cife Exercise
 Exercife Exercise
 exer-cifing exercising
 exercifmg exercising
+Exercxje Exercise
 Exiftence Existence
 exist-ing existing
 expcnce expence
@@ -2735,6 +2738,7 @@ high-nefs highness
 highnefs highness
 High-nefs Highness
 Highnefs Highness
+Highneft Highness
 highnejs highness
 Highnejs Highness
 highnels highness
@@ -3408,6 +3412,8 @@ lajt last
 (lamped stamped
 landiug landing
 laodiug laoding
+lapfing lapsing
+lapflng lapsing
 latisfy satisfy
 (latutes statutes
 (lave slave
@@ -4728,6 +4734,7 @@ popifti popish
 popijh popish
 popilh popish
 porpofe purpose
+Portuguefc Portuguese
 Potafh Potash
 Potafli Potash
 Potalh Potash
@@ -4850,6 +4857,7 @@ Pro-miffory Promissory
 Promif-fory Promissory
 Promiffory Promissory
 promiflory promissory
+Promiflory Promissory
 promiftory promissory
 promifTory promissory
 Pro-miftory Promissory
@@ -5131,6 +5139,7 @@ rc-imburfing re-imbursing
 Rcmeasure-ment Remeasurement
 Rdief Relief
 Re61or Rector
+Re6lor Rector
 Re6lory Rectory
 Re6tories Rectories
 reafbn reason
@@ -6382,8 +6391,4 @@ zvriting writing
 zvrits writs
 zvritten written
 zvrit writ
-Re6lor Rector
-Afiizes Assizes
-Promiflory Promissory
-Exercxje Exercise
-Highneft Highness
+
