@@ -6,6 +6,7 @@ accomplijb accomplish
 accomplijh accomplish
 adminiftra administra
 Adminillrat Administrat
+Ad-ministrator Administrator
 advertife advertise
 Advertife Advertise
 advife advise
@@ -22,6 +23,7 @@ afiemble assemble
 Afiemble Assemble
 afleffment assessment
 Afleflment Assessment
+aflem-bl assembl
 aforesaidy aforesaid,
 aftault assault
 afTeffment assessment
@@ -92,9 +94,11 @@ ascer-tain ascertain
 bajlard bastard
 befeech beseech
 bifhop bishop
+Bijbop Bishop
 bijhop bishop
 Bijhop Bishop
 Bishop-rick Bishoprick
+Bis\ Majesty His\ Majesty
 bis\ Maj his\ Maj
 blifhed blished
 bofpital hospital
@@ -216,6 +220,10 @@ coniider consider
 Coniider Consider
 Coni-mission Commission
 con-stable constable
+convi6t convict
+Convi6t Convict
+convi& convict
+Convi& Convict
 cornmiffion commission
 correfpond correspond
 Correfpond Correspond
@@ -271,6 +279,8 @@ Difcover Discover
 difcretion discretion
 Difcretion Discretion
 Difeafe Disease
+dif-ebarge discharge
+Dif-ebarge Discharge
 difeharg discharg
 difeharge discharge
 Difeharge Discharge
@@ -278,6 +288,7 @@ Difeharge Discharge
 difenarge discharge
 difeontinu discontinu
 difeourage discourage
+Dif-fent Dissent
 diflrain distrain
 difmiff dismiss
 Difmiff Dismiss
@@ -297,7 +308,9 @@ diftinCt distinct
 diftingu distingu
 diftrain distrain
 Diftrain Distrain
+diftri-but distribut
 diftribut distribut
+Diftri-but Distribut
 Diftribut Distribut
 difturb disturb
 Difturb Disturb
@@ -312,7 +325,9 @@ Dire61 Direct
 dire6t direct
 Dire6t Direct
 direbtor director
+dire& direct
 dire&ed directed
+Dire&or Director
 dis-ting disting
 ditcb ditch
 Ditcb Ditch
@@ -388,8 +403,13 @@ Englijl English
 EngU Engli
 eonftable constable
 ertablish establish
+establiffi establish
 etfcftual effectual
+ex-clufive exclusive
+ex-empt exempt
 exercife exercise
+ex-ercif exercis
+Ex-ercif Exercis
 exereife exercise
 exereije exercise
 exerrife exercise
@@ -397,6 +417,8 @@ exift exist
 expeft expect
 Expeft Expect 
 Expencc Expence
+ex-port export
+Ex-port Export
 expreff express
 extraA extract
 ExtraA Extract
@@ -442,8 +464,10 @@ fhilling shilling
 -fhire -shire
 fhire- shire-
 fieid field
+Fi(h Fish
 fiiire shire
 filver silver
+-firft -first
 firjl first
 fixpenc sixpenc
 fixteen sixteen
@@ -456,7 +480,10 @@ foever soever
 foeVer soever
 forefaid foresaid
 forefeid foresaid
+Foreft Forest
 forejlall forestall
+for-feit forfeit
+For-feit Forfeit
 fortv forty
 Fortv Forty
 fourtb fourth
@@ -507,6 +534,8 @@ fucccff success
 fuc-ceed succeed
 fucceff success
 fuc-ceflbr successor
+fuccelfive successive
+fuffi-cient sufficient
 fufpend suspend
 fuftain sustain
 fugar sugar
@@ -583,6 +612,7 @@ iddlefcx iddlesex
 iddlefex iddlesex
 ifhmonger ishmonger
 -iixth -sixth
+imburfe imburse
 impofed imposed
 impojition imposition
 imprifbn imprison
@@ -595,6 +625,7 @@ indorfe indorse
 Indorfe Indorse
 indosure inclosure
 Indosure Inclosure
+Infpe&or Inspector
 inftruction instruction
 inftruCtion instruction
 Inftruction Instruction
@@ -647,6 +678,7 @@ jhort short
 Jhort short
 jhould should
 Jhould should
+Jincere sincere
 jlamp stamp
 Jlamp stamp
 jlaple staple
@@ -702,8 +734,12 @@ keepcr keeper
 Kiddcrm Kidderm
 Kiugston Kingston
 licenfe license
+lnftance instance
+lnftruftion instruction
+lnftrument instrument
 loyalfub loyal\ sub
 mafter master
+Mafter Master
 magiftrat magistrat
 magijlrate magijlrate
 magiltrate magistrate
@@ -778,6 +814,13 @@ minjier minster
 minjler minster
 minJler minster
 minjter minster
+Mngiftrate Magistrate
+mnjcfty majesty
+Mnjcfty Majesty
+mnjefly majesty
+Mnjefly Majesty
+mnjesty majesty
+Mnjesty Majesty
 moGeo mo\ Geo
 Mojefly Majesty
 moutb mouth
@@ -786,6 +829,7 @@ ncgledt neglect
 ncgleft neglect
 ncvcr never
 negleft neglect
+negle& neglect
 nevcr never
 neverihe neverthe
 ne-ver never
@@ -838,8 +882,12 @@ othcrw otherw
 otherwife otherwise
 Paf-fage Passage
 Paffeng Passeng
+Pafienger Passenger
+pafleboard pasteboard
+Pafleboard Pasteboard
 paflenger passenger
 Paflenger Passenger
+PafTenger Passenger
 Palfenger Passenger
 parifb parish
 Parifb Parish
@@ -878,6 +926,7 @@ Pofleflion Possession
 pofsession possession
 Pofsession Possession
 PofTession Possession
+poft-master post-master
 poftmaster postmaster
 pojfeff possess
 Pojfeff Possess
@@ -920,8 +969,12 @@ punifti punish
 punijb punish
 punijh punish
 punilh punish
+pur-chafe purchase
+Pur-chafe Purchase
+Pur-pofc Purpose
 purpofeof purpose\ of
 purpofe purpose
+Pur-pofe Purpose
 Purpofe Purpose
 Qffice Office
 quadragcfimo quadragesimo
@@ -929,6 +982,7 @@ quadragef quadrages
 quadragesimopri quadragesimo\ pri
 quadragesimoq quadragesimo\ q
 quadragesimotertio quadragesimo\ tertio
+Quartcr Quarter
 quartoGe quarto\ Ge
 quartoGE quarto\ GE
 quintoGEO quinto\ GEO
@@ -997,8 +1051,10 @@ rejpeft respect
 relpebtive respective
 relpecf respect
 relpect respect
+relpedlive respective
 relpedt respect
 relpeft respect
+re-move remove
 respecfive respective
 respec-\ tive respective
 rtotwith notwith
@@ -1109,6 +1165,14 @@ ufbandrv usbandry
 ufual usual
 unjkilful unskilful
 Utenfil Utensil
+vcffcl vessel
+Vcffcl Vessel
+vcffel vessel
+Vcffel Vessel
+vcflcl vessel
+Vcflcl Vessel
+vcflel vessel
+Vcflel Vessel
 Veffel Vessel
 vefifels vessels
 verthelefs vertheless
@@ -1126,6 +1190,8 @@ Vilcount Viscount
 Vi&uall Victuall
 -vpon- -upon-
 vvithstand withstand
+warchouse warehouse
+Warchouse Warehouse
 warehoufc warehouse
 Warehoufc Warehouse
 warehoul warehous
@@ -1170,14 +1236,9 @@ yourMaje your\ Maje
 yvarehouse warehouse
 YVarehouse Warehouse
 zvhicb which
-Bijbop Bishop
-Foreft Forest
-poft-master post-master
-dire& direct
-warchouse warehouse
-Warchouse Warehouse
-Ad-ministrator Administrator
-diftri-but distribut
-Diftri-but Distribut
-Bis\ Majesty His\ Majesty
--firft -first
+fub-fiftence subsistence
+aiiemble assemble
+fub-ftantial substantial
+fub-ftitute substitute
+fub-governor sub-governor
+fub-je& subject
