@@ -1,13 +1,19 @@
 AAiddlejex Middlesex
-Win-chester Winchester
-Dalton-in-Fumess Dalton-in-Furness
-Dalton-in-Furaess Dalton-in-Furness
-Ken-nington Kennington
-Kenning-ton Kennington
 Abbingtcn Abbington
+Abcrdeenshire Aberdeenshire
+Abcrnethy Abernethy
+Abcrystwyth Aberystwyth
 Aberbroihwick Aberbrothwick
 Abercaimey Abercairney
+Aberdcen Aberdeen
+Aberdcenshire Aberdeenshire
+Aberdecnshire Aberdeenshire
+Aberdeenfhire Aberdeenshire
 Aberdeenjhire Aberdeenshire
+Aberdeensbire Aberdeenshire
+Aberdeenshirc Aberdeenshire
+Aberncthy Abernethy
+Abernetby Abernethy
 Aberyflwith Aberystwith
 Aberyflwytb Aberystwyth
 Aberyflwyth Aberystwyth
@@ -16,6 +22,7 @@ Aberyftwyth Aberystwyth
 Aberyfwyth Aberystwyth
 Aberyjlwyth Aberystwyth
 Aberystwitk Aberystwith 
+Afbton Ashton
 AFrica Africa
 AJhburton Ashburton
 AJhchurch Ashchurch
@@ -50,9 +57,15 @@ Angleley Anglesey
 Annefley Annesley
 Argylelhire Argyleshire
 Arnerica America
+Ashby-dc-la-Zouch Ashby-de-la-Zouch
+Ashby-deda-Zouch Ashby-de-la-Zouch
+Ashby-deda-Zouck Ashby-de-la-Zouch
+Ashby-de-la-Zoueh Ashby-de-la-Zouch
 Aylefbury Aylesbury
+Baft-Indies East-Indies
 Balingftoke Basingstoke
 Barnfley Barnsley
+Batterfea Battersea
 Bedfordfliire Bedfordshire
 Bedfordjbire Bedfordshire
 Bedfordlhire Bedfordshire
@@ -123,6 +136,7 @@ Cbeflerfield Chesterfield
 Cbeftcr Chester
 Cbefterfield Chesterfield
 Cbejhunt Cheshunt
+Cbel\/ea Chelsea
 Cbelfea Chelsea
 Cbester Chester
 Cbicbefier Chichester
@@ -147,7 +161,6 @@ Chejhunt Cheshunt
 Chejier Chester
 Chejler Chester
 Chelfea Chelsea
-Cbel\/ea Chelsea
 Chelhire Cheshire
 Chepjlow Chepstow
 Chtfhunt Cheshunt
@@ -161,6 +174,7 @@ Cirenceiler Cirencester
 Cirenceiter Cirencester
 CirenceJier Cirencester
 Cirencejler Cirencester
+Ciren-cester
 City\ of\ Tori City\ of\ York
 Cnefhire Cheshire
 Cnelfea Chelsea
@@ -182,6 +196,8 @@ Colchetfer Colchester
 Colchetter Colchester
 Crewkeme Crewkerne
 Cumber-land Cumberland
+Dalton-in-Fumess Dalton-in-Furness
+Dalton-in-Furaess Dalton-in-Furness
 Devonfbire Devonshire
 Devonfhire Devonshire
 DeVonfhire Devonshire
@@ -218,11 +234,17 @@ Dunftable Dunstable
 Eafi\ Indies East\ Indies
 Eaf\ Indies East\ Indies
 Eafl-Indies East-Indies
+Eafl-indiess East-Indies
 Eaft-India East-India
+Eaft-indies East-indies
 Eafton Easton
+Eait-Indies East-Indies
 Eajl-India East-India
 Eajl-Indies East-Indies
+Eajt-Indies East-Indies
 Ealmg Ealing
+Ealt-Indies East-Indies
+East-Jndies East-Indies
 Edingburgb Edinburgh
 Edmondfham Edmondsham
 Edmondfon Edmondson
@@ -233,6 +255,7 @@ Edmonfton Edmonston
 Edmonftone Edmonstone
 Edmonjlone Edmonstone
 Effcx Essex
+Ef-iex Essex
 Efsex Essex
 Egbam Egham
 Ejfcx Essex
@@ -247,8 +270,10 @@ Englaitd England
 Englajid England
 Englancl England
 Eng-land England
+Eng\ land England
 Englond England
 Eppmg Epping
+Eqfl-Indiess East-Indies
 Eristol Bristol
 Exhamfhire Exhamshire
 Eynjbam Eynsham
@@ -274,6 +299,7 @@ Frodjham Frodsham
 fVefiminster Westminster
 fVeJlminfler Westminster
 Gatcjhead Gateshead
+Gatejhead Gateshead
 Gioucefier Gloucester
 giouceftef gloucester
 gioucester gloucester
@@ -284,6 +310,7 @@ Glafgbw Glasgow
 Glafgoiv Glasgow
 Glafgow Glasgow
 Glafgpw Glasgow
+Gla\/gow Glasgow
 Glajlonbury Glastonbury
 Glalgow Glasgow
 Glamorganfhirc Glamorganshire
@@ -299,6 +326,7 @@ Glducefter Gloucester
 Gloiucjltr Gloucester
 Gloiuefler Gloucester
 Glouccficr Gloucester
+Glouccftcr Gloucester
 Glouccfter Gloucester
 Glouccftre Gloucester
 Gloucciter Gloucester
@@ -363,6 +391,7 @@ Hampftiire Hampshire
 Hampihire Hampshire
 Hampjbire Hampshire
 Hamplhire Hampshire
+Hartlcpool Hartlepool
 Herefordfhire Herefordshire
 Here-ford Hereford
 Herefordjbire Herefordshire
@@ -382,6 +411,7 @@ Heverjbam Heversham
 Heverjham Heversham
 Hjghgate Highgate
 Horfbam Horsham
+Horfe-ferry Horseferry
 Horfley Horsley
 Hounflow Hounslow
 HucknaU Hucknall
@@ -396,6 +426,7 @@ IreIand Ireland
 Ire-land Ireland
 IVales Wales
 IVcJlminJler Westminster
+IVedminster Westminster
 IVefminster Westminster
 iveftmijifter Westminster
 iVeftminfler Westminster
@@ -470,6 +501,7 @@ jvejlminfier Westminster
 JVejlminfier Westminster
 jvejlminfler Westminster
 JVejlminfler Westminster
+jvestminster Westminster
 jvhiteehapel Whitechapel
 jvorcefer Worcester
 JVorcefer Worcester
@@ -492,6 +524,8 @@ Jvorcester Worcester
 JVorcester Worcester
 Kelfo Kelso
 Kenfington Kensington
+Ken-nington Kennington
+Kenning-ton Kennington
 Kidclerminster Kidderminster
 Kiddenninftcr Kidderminster
 Kidderminfer Kidderminster
@@ -523,6 +557,7 @@ KingJlonupon Kingston\ upon
 Kingstonupon Kingston\ upon
 Kinrofs Kinross
 Knarefbrough Knaresbrough
+Knarejborough Knaresborough
 Knarelborough Knaresborough
 Knigbtley Knightley
 Knightfbridge Knightsbridge
@@ -534,6 +569,7 @@ Lancafter Lancaster
 Lancaftjr Lancaster
 Lancaftor Lancaster
 Lancajier Lancaster
+Lancajlcr Lancaster
 Lancajler Lancaster
 Lancaller Lancaster
 Lancalter Lancaster
@@ -545,6 +581,8 @@ Lanccjlcr Lancaster
 Lancdfter Lancaster
 Lancdjltr Lancaster
 Lancqftcr Lancaster
+Lancqjler Lancaster
+Laneajler Lancaster
 Lciceftcr Leicester
 Lcominster Leominster
 Leiceficr Leicester
@@ -566,9 +604,12 @@ Leinftcr Leinster
 Leominjier Leominster
 Lifbon Lisbon
 Lijbon Lisbon
+Limeboufe Limehouse
 Lin-coin Lincoln
 Lincolnffiire Lincolnshire
 Lincolnsliire Lincolshire
+Lon-donderry Londonderry
+London-derry Londonderry
 Lon-\ don London
 Lon-don London
 Loudon London
@@ -594,6 +635,7 @@ Manchejler Manchester
 Marjbalfea Marshalsea
 Marlhalfea Marshalsea
 Mdddlesex Middlesex
+M-ddhfex Middlesex
 Mddkfex Middlesex
 Mddlefex Middlesex
 Mddlesex Middlesex
@@ -608,17 +650,28 @@ Middefex Middlesex
 Middhsex Middlesex
 Middidex Middlesex
 Middiefcx Middlesex
+Mid-diefex Middlesex
 Middiefex Middlesex
 Middiesex Middlesex
 MiddIesex Middlesex
 MiddJefex Middlesex
+Mid-djesex Middlesex
 MiddJesex Middlesex
 Middlcfex Middlesex
+Mid-dlcsex Middlesex
+Wor-cester Worcester
+So-merfet Somerset
+Widdring-10n Widdrington
+Widdring-ton Widdrington
+Wif-bech Wisbech
+Winchef-ter Winchester
 Middlcsex Middlesex
+Mid-dlefex Middlesex
 Middle-fex Middlesex
 Middlefex Middlesex
 MiddlefeX Middlesex
 Middlefiex Middlesex
+Middle-fix Middlesex
 Middlefrx Middlesex
 Middleftx Middlesex
 Middleiex Middlesex
@@ -628,6 +681,7 @@ Middlelcx Middlesex
 Middlelex Middlesex
 Middlelox Middlesex
 mid\ dlesex middlesex
+Mid-dlesex Middlesex
 Middle-sex Middlesex
 Middlseex Middlesex
 Middlssex Middlesex
@@ -640,21 +694,27 @@ Middtefex Middlesex
 Middtesex Middlesex
 middufcx middlesex
 middufex middlesex
+MiddU-fex Middlesex
 MiddUfex Middlesex
 middusex middlesex
 MiddUsex Middlesex
+Mid-Hefex Middlesex
+Mid-tUcsex Middlesex
 Mincbinhampton Minchinhampton
 MiUbank Millbank
 Mjddfesex Middlesex
 Mlddlefex Middlesex
 Mlddlesex Middlesex
 Mlddlrfcx Middlesex
+Mont-gomery Montgomery
+Montrofe Montrose
 Mtddlefex Middlesex
 Mtddlesex Middlesex
 Najfau Nassau
 Ncwcaftlc Newcastle
 Neiyfoundland Newfoundland
 Neufoundland Newfoundland
+Neva\ South\ Wales New\ South\ Wales
 Newbaven Newhaven
 Newcafle Newcastle
 Newcaflie Newcastle
@@ -758,6 +818,7 @@ Shaftesbuky Shaftesbury
 Sheernefs Sheerness
 ShiffnaU Shiffnall
 Shircoaks Shireoaks
+Shrewjbury Shrewsbury
 Shropfhirc Shropshire
 Shropfhire Shropshire
 Shropfliire Shropshire
@@ -803,6 +864,7 @@ SuJJcx Sussex
 Sujjex Sussex
 SuJJex Sussex
 Sujsex Sussex
+Swanfea Swansea
 Taviftock Tavistock
 Tavijlock Tavistock
 Tbetfbrd Thetford
@@ -811,7 +873,10 @@ Tewkejbury Tewkesbury
 Tewkelbury Tewkesbury
 Tewkfbury Tewksbury
 Thame$ Thames
+theEast-Indies the\ East-Indies
 Threadnecdle Threadneedle
+thzEdft-Indies the\ East-Indies
+Tippe-rary Tipperary
 Torkjhire Yorkshire
 Torkjhlre Yorkshire
 Torkshire Yorkshire
@@ -870,6 +935,7 @@ Wefimnjler Westminster
 Wefkminster Westminster
 Weflminjler Westminster
 Wefminftcr Westminster
+Weft-Indies West-Indies
 Weftininster Westminster
 weftminffcr westminster
 Weftminfier Westminster
@@ -959,6 +1025,7 @@ WeJLminJltr Westminster
 wejlminjur Westminster
 WeJlminjUr Westminster
 WeJlminJUr Westminster
+Wejl-minster Westminster
 Wejlminster Westminster
 Wejlmirfer Westminster
 Wejlmirfler Westminster
@@ -978,7 +1045,9 @@ Wejlmnfitr Westminster
 Wejlmnfler Westminster
 Wejlmnfter Westminster
 Wejlmoreland Westmoreland
+Wejlmor-land Westmorland
 Wejlmorland Westmorland
+Wejl-mtnjler Westminster
 Wejlmtnjler Westminster
 Wejlmuiftcr Westminster
 Wejlmuifter Westminster
@@ -1000,6 +1069,7 @@ Wejltninftir Westminster
 Wejltninjier Westminster
 Wejltninjler Westminster
 Wejstminster Westminster
+Welt-minster Westminster
 Weltminster Westminster
 Wesfminster Westminster
 Wesiminfier Westminster
@@ -1108,12 +1178,14 @@ Winchejler Winchester
 Winchelfea Winchelsea
 Wincheller Winchester
 Winchelter Winchester
+Win-chester Winchester
 Winchtjler Winchester
 Winckester Winchester
 Windfor Windsor
 Wistminster Westminster
 Witbam Witham
 Wittingftall Wittingstall
+W&jbninfier Westminster
 WJlminster Westminster
 WJtminster Westminster
 Wmchejler Winchester
@@ -1182,6 +1254,7 @@ Yorbjhire Yorkshire
 Yorkfbire Yorkshire
 Yorkfhire Yorkshire
 Yorkfiiire Yorkshire
+Yorkfire Yorkshire
 Yorkfitire Yorkshire
 Yorkfkire Yorkshire
 Yorkflnre Yorkshire
@@ -1202,59 +1275,40 @@ zoucb zouch
 Zoucb Zouch
 Zoucii Zouch
 Zouck Zouch
-W&jbninfier Westminster
-Knarejborough Knaresborough
-Ciren-cester
-Gla\/gow Glasgow
-Lancqjler Lancaster
-Laneajler Lancaster
-Yorkfire Yorkshire
-Neva\ South\ Wales New\ South\ Wales
-Eafl-indiess East-Indies
-Eqfl-Indiess East-Indies
-Baft-Indies East-Indies
-Eaft-indies East-indies
-thzEdft-Indies the\ East-Indies
-Weft-Indies West-Indies
-Eait-Indies East-Indies
-Eajt-Indies East-Indies
-Ealt-Indies East-Indies
-theEast-Indies the\ East-Indies
-East-Jndies East-Indies
-MiddU-fex Middlesex
-Mid-Hefex Middlesex
-Mid-diefex Middlesex
-Mid-dlefex Middlesex
-M-ddhfex Middlesex
-Ef-iex Essex
-Afbton Ashton
-Mid-dlcsex Middlesex
-Mid-tUcsex Middlesex
-Mid-djesex Middlesex
-Mid-dlesex Middlesex
-Middle-fix Middlesex
-Tippe-rary Tipperary
-Mont-gomery Montgomery
-London-derry Londonderry
-Lon-donderry Londonderry
-Horfe-ferry Horseferry
-Ashby-dc-la-Zouch Ashby-de-la-Zouch
-Ashby-deda-Zouch Ashby-de-la-Zouch
-Ashby-deda-Zouck Ashby-de-la-Zouch
-Ashby-de-la-Zoueh Ashby-de-la-Zouch
-jvestminster Westminster
-Lancajlcr Lancaster
-Swanfea Swansea
-Batterfea Battersea
-Montrofe Montrose
-Limeboufe Limehouse
-IVedminster Westminster
-Eng\ land England
-Shrewjbury Shrewsbury
-Glouccftcr Gloucester
-Wejl-minster Westminster
-Wejl-mtnjler Westminster
-Wejlmor-land Westmorland
-Welt-minster Westminster
-Gatejhead Gateshead
-
+Faverjham Faversham
+DubUn Dublin
+Hacknev Hackney
+Gloucejicrshire Gloucestershire
+GlouceJIer Gloucester
+Gloucejier Gloucester
+GlouceJUr Gloucester
+GloucejUr Gloucester
+Gloucelter Gloucester
+Gloucester-shire Gloucestershire
+Glouctfterfbiro Gloucestershire
+Glouctftershire Gloucestershire
+Glouctjlershire Gloucestershire
+Glouerflcr Gloucester
+Glouetfter Gloucester
+Glouoester Gloucester
+Gloycefier Gloucester
+Gloycester Gloucester
+Glqfltnbury Glastonbury
+Glqftonbury Glastonbury
+Gnernfcy Guernsey
+Gnernfey Guernsey
+Gnernfij Guernsey
+Gnerrrfey Guernsey
+Wtfi-minster Westminster
+Wtfl-minster Westminster
+Wtft-mnjier Westminster
+Wy-mondham Wymondham
+Wor-eefier Worcester
+Wor-eefler Worcester
+Wor-eefter Worcester
+Worce-iter Worcester
+Worcef-ter Worcester
+Worcefier-shire Worcestershire
+Worcester-fllire Worcestershire
+Worcester-foire Worcestershire
+Worcester-Ihire Worcestershire

@@ -1,6 +1,3 @@
-Anrio Anno
-Henmci Henrici
-Hbnrici Henrici
 0£tavo Octavo
 6UL1ELMI GULIELMI
 6ULIELM1 GULIELMI
@@ -23,8 +20,12 @@ Anna\ tricesimo Anno\ tricesimo
 Anna\ vicesimo Anno\ vicesimo
 Annd Anno
 AnnO Anno
+Annodccimo Anno\ decimo
 Annodecimo Anno\ decimo
 Anno\ dedmo Anno\ decimo
+Annodedmo Anno\ decimo
+Annodetimo Anno\ decimo
+Anno\ fegni Anno\ regni
 Annofexto Anno\ sexto
 Annonono Anno\ nono
 Annoo&avo Anno\ octavo
@@ -33,12 +34,16 @@ AnnOquinto Anno\ quinto
 Anno\ qumto Anno\ quinto
 Annoregm Anno\ regni
 Annoregni Anno\ regni
+Anno\ regrii Anno\ regni
 Annosecundo Anno\ secundo
 Annoseptimo Anno\ septimo
 Annovicesimo Anno\ vicesimo
 Annpquinto Anno\ quinto
+Anrio Anno
 Anrtoquinto Anno\ quinto
+Apno Anno
 Arino Anno
+Artno Anno
 ceorgii Georgii
 Ceorgii Georgii
 ceorgir Georgii
@@ -55,12 +60,23 @@ declmo decimo
 dedmo decimo
 deeimo decimo
 detimo decimo
+diiodedmo duodecimo
 duodedmo duodecimo
 (ecundo secundo
+EdwarDi Edwardi
+EdwarDI Edwardi
+EdwaRdi Edwardi
+EdwARDI EDWARDI
+EdWARDI EDWARDI
+EDwARDi EDWARDI
+EDWARDi EDWARDI
+EdwardiIII Edwardi\ III
+EdWARDIIV EDWARDI\ IV
 eglife eglise
 (eptimo septimo
 fccundo secundo
 fcptimo septimo
+fcptlmo septimo
 fcxto sexto
 feciindo secundo
 fecnndo secundo
@@ -70,6 +86,8 @@ feptimo septimo
 feptlmo septimo
 fexto sexto
 ftptimo septimo
+Garoli Caroli
+GAROLI CAROLI
 Gborgii Georgii
 Gboroii Georgii
 Gbougii Georgii
@@ -170,6 +188,7 @@ GeoRGIi Georgii
 GeoRGII Georgii
 GeOrgii Georgii
 GEorgii Georgii
+GEoRgii Georgii
 GEoRGII GEORGII
 GEORGii Georgii
 GEORGIi GEORGII
@@ -267,6 +286,24 @@ GEQRGII GEORGII
 gfcorgii Georgii
 GfioRGii Georgii
 GFORGII GEORGII
+GioRCii Giorgii
+GioRdi Giorgii
+GioRdii Giorgii
+giorgii Giorgii
+Giorgii Giorgii
+GiorgIi Giorgii
+GioRGii Giorgii
+GiORGII GIORGII
+GIorgii Giorgii
+giorgir giorgii
+Giorgit Giorgii
+Giorgji Giorgii
+GioRGli Giorgii
+Giorgt Giorgii
+Gioroii Giorgii
+GioROii Giorgii
+GioROli Giorgii
+GiotGil Giorgii
 Gkorgii Georgii
 GLJL1ELMI GULIELMI
 G£orgii Georgii
@@ -286,11 +323,28 @@ Gsorgii Georgii
 Gtorgii Georgii
 GUL1ELMI GULIELMI
 Guublmi Gulielmi
+Hbnrici Henrici
 Hcnrici Henrici
+Henmci Henrici
+HenricI Henrici
+HenriCi Henrici
+HenriCI Henrici
+HenrIci Henrici
+HenrICI Henrici
+HenRici Henrici
+HenRiCi Henrici
+HenRIci Henrici
+HenRICI Henrici
+HeNrici Henrici
+HeNRici Henrici
+HenriciIV Henrici\ IV
+Henricj Henrici
 iecundo secundo
+leptimo septimo
 Nift\ Prius Nisi\ Prius
 noftre nostre
 o6lavo octavo
+Oaroli Caroli
 o&avo octavo
 o&aVo octavo
 O&avo Octavo
@@ -317,6 +371,8 @@ primoGEORGii primo\ Georgii
 prirno primo
 prlmo primo
 qaodragesimo quadragesimo
+Qaroli Caroli
+QAROLi CAROLI
 qeorgii Georgii
 Qeorgii Georgii
 QeorgiI Georgii
@@ -424,15 +480,26 @@ quinfo quinto
 quinquagefinio quinquagesimo
 quinquageiimo quinquagesimo
 quinquagelimo quinquagesimo
+quintoGcoRGH quinto\ Georgii
+quintogedrgll quinto\ Georgii
 quintoGEORGii quinto\ Georgii
+quintoGfioRGii quinto\ Georgii
+quintoGfiORGii quinto\ Georgii
+quintoGioRGii quinto\ Georgii
+quintoGsorgii quinto\ Georgii
+quintoGsoRGii quinto\ Georgii
+qulnto quinto
+qumquagesimo quinquagesimo
 qumto quinto
 rcgniquadiagesimoquinto regni\ quadragesimo\ quinto
 rcgniquadragesimo regni\ quadragesimo
 rcgni regni
+regiii regni
 regnl regni
 regnt regni
 Rjchardi Richardi
 Rjchardj Richardi
+Rlchardi Richardi
 tcrtio tertio
 teftio tertio
 terrio tertio
@@ -535,6 +602,7 @@ viccgmo vicesimo
 viccGmo vicesimo
 vicdimo vicesimo
 vicedmo vicesimo
+viceffmo vicesimo
 vicefifno vicesimo
 vicefiino vicesimo
 vicefima vicesimo
@@ -591,69 +659,9 @@ yiccfimo vicesimo
 yicefimo vicesimo
 Yicefimo vicesimo
 ylcefimo vicesimo
-GAROLI CAROLI
-Garoli Caroli
-Oaroli Caroli
-QAROLi CAROLI
-Qaroli Caroli
-fcptlmo septimo
-viceffmo vicesimo
-Artno Anno
-Apno Anno
-Annodccimo Anno\ decimo
-Annodetimo Anno\ decimo
-Annodedmo Anno\ decimo
-GioRGii Giorgii
-GiorgIi Giorgii
-Giorgii Giorgii
-giorgii Giorgii
-giorgir giorgii
-Giorgit Giorgii
-Giorgji Giorgii
-GioRGli Giorgii
-Giorgt Giorgii
-GioRCii Giorgii
-GioRdi Giorgii
-GioRdii Giorgii
-GIorgii Giorgii
-GiORGII GIORGII
-GioROii Giorgii
-Gioroii Giorgii
-GioROli Giorgii
-GiotGil Giorgii
-HeNRici Henrici
-HeNrici Henrici
-HenRICI Henrici
-HenRIci Henrici
-HenRiCi Henrici
-HenRici Henrici
-HenrICI Henrici
-HenrIci Henrici
-HenriCI Henrici
-HenriCi Henrici
-HenricI Henrici
-HenriciIV Henrici\ IV
-Henricj Henrici
-EDWARDi EDWARDI
-EDwARDi EDWARDI
-EdWARDI EDWARDI
-EdwARDI EDWARDI
-EdwaRdi Edwardi
-EdwarDI Edwardi
-Anno\ fegni Anno\ regni
-EdwarDi Edwardi
-EdwardiIII Edwardi\ III
-EdWARDIIV EDWARDI\ IV
-qumquagesimo quinquagesimo
-quintoGcoRGH quinto\ Georgii
-quintogedrgll quinto\ Georgii
-quintoGfiORGii quinto\ Georgii
-quintoGfioRGii quinto\ Georgii
-quintoGioRGii quinto\ Georgii
-quintoGsoRGii quinto\ Georgii
-quintoGsorgii quinto\ Georgii
-GEoRgii Georgii
-diiodedmo duodecimo
-Rlchardi Richardi
-Anno\ regrii Anno\ regni
-regiii regni
+Gbor6ii Georgii
+GeoR6ii Georgii
+Geor6iI Georgii
+Geor6ii Georgii
+geor6ii Georgii
+OeoR6ii Georgii

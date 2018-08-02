@@ -1,10 +1,6 @@
 -beforc -before - stem or ending?
 Ads Acts
 Aet Act
-Ail\ Act An\ Act
-ail\ such all\ such
-ail\ the all\ the
-Am\ Act An\ Act
 ana and
 Apt Act
 A\ T\ the AT\ the
@@ -16,9 +12,7 @@ Cor-4\ poration Corporation
 disbandedForeignCorps disbanded\ Foreign\ Corps
 District\ Bates District Rates
 Eng-4\ land England
-exemptfrom exempt\ from
 fhe the
-Ghapter Chapter
 Half\ Fay Half\ Pay
 hun-4\ dred hundred
 Im-4\ provement Improvement
@@ -42,12 +36,7 @@ Neu)\ South\ Wales New\ South\ Wales
 Neva\ South\ Wales New\ South\ Wales
 Nevo\ South\ Wales New\ South\ Wales
 Nevs\ South\ Wales New\ South\ Wales
-oertain certain
-of\ Bates of\ Rates
 Oon-viction Conviction
-or\ Bates or\ Rates
-PA88ED PASSED
-PARLIAMBNT PARLIAMENT
 parlia-nent parliament
 ParVV\ liament Parliament
 Par-\ W\ liament Parliament
@@ -60,16 +49,10 @@ pe\ nalties penalties
 per-4\ formed performed
 Per-4\ son Person
 Poet\ Office Post\ Office
-Poor\ Bates Poor\ Rates
 qf of
 REGINiE REGINAE
 REGINjE REGINAE
-Roadfrom Road\ from
 {Scotland (Scotland
-Seijeant Serjeant
-StampDuties Stamp\ Duties
-such\ Bates such\ Rates
-
 T\ do\ solemnly I\ do\ solemnly
 T\ do\ swear I\ do\ swear
 the\ Bates the\ Rates
@@ -114,7 +97,6 @@ VlCT VICT
 VlfcTORIiE VICTORIAE
 VlOT VICT
 Vn\ Act An\ Act
-vonshireor vonshire\ or
 Voteand Vote\ and
 Vrcr Vict
 VTCTORIiE VICTORIAE
@@ -124,7 +106,6 @@ VTTHEREAS WHEREAS
 We&minster Westminster
 wenty twenty
 w\ hereas whereas
-
 Yicl Vict
 Yicr Vict
 yiCTORIiE VICTORIAE

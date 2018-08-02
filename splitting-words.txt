@@ -1322,3 +1322,9 @@ anyjustice any\ justice
 anyperson any\ person
 anythe any\ the
 (hallnot shall\ not
+Andfor And\ for
+firstyear first\ year
+bythe by\ the
+inthe in\ the
+answerfor answer\ for
+demandedfor demanded\ for
