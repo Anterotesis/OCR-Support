@@ -9,6 +9,8 @@ Beniamin Benjamin
 Bepjamin Benjamin
 Buttolpbes Buttolphes
 Cavendifb Cavendish
+Cbarles Charles
+Cbarlotte Charlotte
 Cbriflopbcr Christopher
 Cbrifopbcr Christopher
 Cbrijlofher Christopher
@@ -18,6 +20,7 @@ cbrijlopher Christopher
 Cbrijlopher Christopher
 Cbrijlopherfon Christopherson
 cbrijtopbcr Christopher
+Ceorge George
 Chrifiopher Christopher
 Chriftopber Christopher
 Chriftophers Christophers
@@ -29,6 +32,7 @@ Chrlftopher Christopher
 Churcbill Churchill
 Ckriftopher Christopher
 Ckrijlopber Christopher
+Denifon Denison
 Dickenfon Dickenson
 Douglafs Douglass
 Edivard Edward
@@ -42,6 +46,10 @@ FitzwiUiam Fitzwilliam
 Fojler Foster
 fVilliam William
 Hewfon Hewson
+Holdernefs Holderness
+Ifaacfcn Isaacson
+Ifaacfon Isaacson
+Ifaac Isaac
 Ifabel Isabel
 Ihomas Thomas
 IVilliam William
@@ -57,6 +65,8 @@ JVilliam William
 jvillougbby Willoughby
 jvilloughby Willoughby
 jvilloughhy Willoughby
+Mofeley Moseley
+Mofes Moses
 Nicholfon Nicholson
 Oeorge George
 Rjchard Richard
@@ -83,4 +93,6 @@ Watfon Watson
 Wilkinfon Wilkinson
 Wjlliam William
 yVilliam William
-
+Cbarles Charles
+Cbarlotte Charlotte
+Crojby Crosby

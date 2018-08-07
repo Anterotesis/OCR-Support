@@ -25,6 +25,8 @@ beatb heath
 blcd bled
 blv bly
 bornc borne
+boufc house
+boufe house
 bournc bourne
 caflcr caster
 cafter caster
@@ -44,6 +46,7 @@ ciaj cial
 ciaJ cial
 ckcn cken
 clijfe cliffe
+clufive clusive
 cmbled embled
 creafe crease
 crs ers
@@ -68,6 +71,7 @@ etb eth
 etli eth
 evcd eved
 eventb eventh
+fajd said
 fbam sham
 fbips ships
 fbrd ford
@@ -75,6 +79,7 @@ fcttlc settle
 fcttle settle
 fcx sex
 felves selves
+fexto sexto
 ffary ssary
 fhing shing
 fhip ship
@@ -89,16 +94,23 @@ fline stine
 flreet street
 focvcr soever
 focver soever
+fquare square
 fsly ssly
 ftand stand
 ftcr fter
 ftdly fully
 fteads steads
 ftead stead
+ftical stical
+ftieet street
 ftine stine
 ftock stock
 ftoke stoke
 ftonc stone
+ftrcct street
+ftrcet street
+-ftrect -street
+ftreet street
 furc sure
 fwcr swer
 fwortb sworth
@@ -140,6 +152,7 @@ ivortb worth
 ixtb ixth
 izcd ized
 jbirc shire
+jbury sbury
 jham sham
 Jham sham
 jhing shing
@@ -158,6 +171,7 @@ makcr maker
 mbcr mber
 mcnt ment
 meht ment
+meiit ment
 &mg cting
 -mg ing
 minfier minster
@@ -199,6 +213,7 @@ owcr ower
 owercd owered
 panv pany
 pber pher
+pifti pish
 -poft -post
 ppcd pped
 pplv pply
@@ -206,6 +221,7 @@ qaer quer
 qucnt quent
 reafcd reased
 rgcd rged
+rifti rish
 rilh rish
 rilv rily
 ritv rity
@@ -230,6 +246,7 @@ tioq tion
 tioQ tion
 tiori tion
 tipn tion
+titulcd tituled
 tlcd tled
 tlv tly
 toiy tory
@@ -260,10 +277,11 @@ weU well
 wicb wich
 wicli wich
 wifc wife
+wije wise
 witb with
 wortb worth
 wtje wise
 xcife xcise
 ytng ying
 yy y,
-ftreet street
+

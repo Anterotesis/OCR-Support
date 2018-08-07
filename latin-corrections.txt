@@ -88,6 +88,7 @@ fexto sexto
 ftptimo septimo
 Garoli Caroli
 GAROLI CAROLI
+Gbor6ii Georgii
 Gborgii Georgii
 Gboroii Georgii
 Gbougii Georgii
@@ -148,6 +149,10 @@ GeoKGII Georgii
 GEokGii Georgii
 GEOkGii Georgii
 GEOKGII GEORGII
+geor6ii Georgii
+Geor6ii Georgii
+Geor6iI Georgii
+GeoR6ii Georgii
 georcii Georgii
 Georcii Georgii
 GeorciI Georgii
@@ -340,7 +345,9 @@ HeNRici Henrici
 HenriciIV Henrici\ IV
 Henricj Henrici
 iecundo secundo
+iexto sexto
 leptimo septimo
+lexto sexto
 Nift\ Prius Nisi\ Prius
 noftre nostre
 o6lavo octavo
@@ -350,6 +357,7 @@ o&aVo octavo
 O&avo Octavo
 odavo octavo
 odlavo octavo
+OeoR6ii Georgii
 oeorgii Georgii
 Oeorgii Georgii
 OeorgIi Georgii
@@ -659,9 +667,4 @@ yiccfimo vicesimo
 yicefimo vicesimo
 Yicefimo vicesimo
 ylcefimo vicesimo
-Gbor6ii Georgii
-GeoR6ii Georgii
-Geor6iI Georgii
-Geor6ii Georgii
-geor6ii Georgii
-OeoR6ii Georgii
+

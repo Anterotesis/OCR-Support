@@ -11,6 +11,7 @@ advertife advertise
 Advertife Advertise
 advife advise
 advowfon advowson
+Ad-vowson Advowson
 a£f act
 afcertain ascertain
 Afcertain Ascertain
@@ -44,6 +45,7 @@ aftual actual
 Afturance Assurance
 againft against
 agefimo agesimo
+aiiemble assemble
 AJbton Ashton
 ajcertain ascertain
 ajfejfment assessment
@@ -132,6 +134,8 @@ cburch church
 ccmmiff commiss
 ccnfider consider
 cejter cester
+cer-tificate cer-tificate
+Cer-tificate Cer-tificate
 cftablilh establish
 chargedof charged\ of
 chefter chester
@@ -142,7 +146,7 @@ chrift christ
 churcb church
 circumftanc circumstanc
 cjuad quad
-Claim-ant
+Claim-ant Claimant
 Claufe Clause
 clofures closures
 Clofures Closures
@@ -195,6 +199,10 @@ Commihion Commission
 CommiHion Commission
 commiHioner commissioner
 commiifion commission
+Commiiiion Commission
+commiilion commission
+Commiilion Commission
+CommiiTion Commission
 commijfion commission
 commijfon commission
 commijjion commission
@@ -204,6 +212,7 @@ commiliion commission
 Commiliion Commission
 Commillion Commission
 commilTion commission
+CommilTion Commission
 Com-penfat Compensat
 com-pleat compleat
 confent consent
@@ -219,6 +228,9 @@ Confump Consump
 coniider consider
 Coniider Consider
 Coni-mission Commission
+conjider consider
+conjlable constable
+Conjlable Constable
 con-stable constable
 convi6t convict
 Convi6t Convict
@@ -228,6 +240,8 @@ cornmiffion commission
 correfpond correspond
 Correfpond Correspond
 Correftion Correction
+coufolidat consolidat
+Coufolidat Consolidat
 coun-fel counsel
 coun-terfeit counterfeit
 counter-fign counter-sign
@@ -259,7 +273,11 @@ demolijh demolish
 demolilh demolish
 depofit deposit
 dfhire dshire
+difburfc Disburse
+Difburfc Disburse
 difburf disburs
+dif-burfe disburse
+Dif-burfe Disburse
 Difburfe Disburse
 difcbar dischar
 difcfiarge discharge
@@ -347,6 +365,7 @@ Eaft-lnd East-Ind
 EEEAS EREAS
 efcbeator escheator
 Efcheator Escheator
+effectnal effectual
 effedlual effectual
 efFedlual effectual
 effedual effectual
@@ -367,9 +386,12 @@ efie&ual effectual
 efpecial especial
 eftabfifh establish
 eftabli establi
+efta-blifh establish
 eftablifh establish
 Eftablifh Establish
 eftablijh establish
+efta-blilh establish
+efta-blish establish
 eftahlifh establish
 eftahlijh establish
 eftate estate
@@ -472,12 +494,16 @@ firjl first
 fixpenc sixpenc
 fixteen sixteen
 -fixth -sixth
+fixtv- sixty-
 fixty sixty
 flroy stroy
 fmiths smiths
 fnbfcrib subscrib
 foever soever
 foeVer soever
+foli-cit solicit
+folicit solicit
+fome-time sometime
 forefaid foresaid
 forefeid foresaid
 Foreft Forest
@@ -522,10 +548,15 @@ fubdiv subdiv
 fubfcrib subscrib
 fubfcrip subscrip
 fubfequent subsequent
+fub-fiftence subsistence
+fub-ftantial substantial
 fubftant substant
+fub-ftitute substitute
 fubftitute substitute
+fub-governor sub-governor
 fubjeft subject
 fubje subje
+fub-je& subject
 fubjlit substit
 fublift subsist
 fubscribe subscribe
@@ -543,6 +574,7 @@ fuhfcrib subscrib
 fumsof sums\ of
 fupply supply
 fupport support
+furnifh furnish
 furpluf surplus
 fur-plus surplus
 furrender surrender
@@ -615,10 +647,14 @@ ifhmonger ishmonger
 imburfe imburse
 impofed imposed
 impojition imposition
+impovver impower
+impreff impress
+Impreff Impress
 imprifbn imprison
 Imprifbn Imprison
 impri-fon imprison
 Impri-fon Imprison
+Incnmbrance Incumbrance
 indorfc indorse
 Indorfc Indorse
 indorfe indorse
@@ -771,6 +807,7 @@ Manufadlur Manufacture
 manufadur manufactur
 manufaft manufact
 Manufaft Manufact
+mar-riage marriage
 mcnt ment
 mcrchant merchant
 meafure measure
@@ -778,7 +815,7 @@ meafuring measuring
 Mef-fuage Messuage
 mejesty majesty
 Mejesty Majesty
-men-tioned
+men-tioned mentioned
 mercband merchand
 Mercband Merchand
 Merchandifc Merchandise
@@ -806,6 +843,12 @@ miffion mission
 mifiion mission
 miflioner missioner
 miflion mission
+mifmanagc mismanage
+Mifmanagc Mismanage
+mifmanage mismanage
+Mifmanage Mismanage
+mildemeanor misdemeanor
+Mildemeanor Misdemeanor
 milfioner missioner
 minfter minster
 mi-nifter minister
@@ -915,10 +958,16 @@ Per-fbn Person
 per-fon person
 Per-fon Person
 Perfon Person
+phy-fician physician
+phyfi-cian physician
+Phy-fician Physician
+Phyfi-cian Physician
 phyfic physic
 Phyfic Physic
 p°int point
 P°int Point
+plain-tiff plaintiff
+Plain-tiff Plaintiff
 poffeff possess
 poffefs possess
 poffejf possess
@@ -943,10 +992,19 @@ prefent present
 Prefent Present
 preferv preserv
 prifon prison
+Primrofe Primrose
 Produ6t Product
 pro-duce produce
 Pro-duce Produce
 Profccution Prosecution
+profefibr professor
+Profefibr Professor
+profefior professor
+Profefior Professor
+profeflbr professor
+Profeflbr Professor
+profeflor professor
+Profeflor Professor
 Promife Promise
 provi-fion provision
 Provi-fion Provision
@@ -970,7 +1028,9 @@ punijb punish
 punijh punish
 punilh punish
 pur-chafe purchase
+purchafe purchase
 Pur-chafe Purchase
+purdhase purchase
 Pur-pofc Purpose
 purpofeof purpose\ of
 purpofe purpose
@@ -997,6 +1057,7 @@ rcfpec respec
 rcfpect respect
 rcfpeCt respect
 rcfpedl respect
+rcfpe& respect
 rcgiftcr register
 rcgjfter register
 reafcn reason
@@ -1038,6 +1099,7 @@ refpedt respect
 refpeftiv respectiv
 re-fpeft respect
 refpeft respect
+re-fpe& respect
 Reftridion Restriction
 regifler register
 Regifler Register
@@ -1050,6 +1112,7 @@ rejpebtive respective
 rejpeft respect
 relpebtive respective
 relpecf respect
+relpec-tive respective
 relpect respect
 relpedlive respective
 relpedt respect
@@ -1064,6 +1127,14 @@ scffion session
 Scffion Session
 scflion session
 Scflion Session
+Scottifh Scottish
+Scottifli Scottish
+Scottiih Scottish
+Scottijb Scottish
+Scottijh Scottish
+Scottisb Scottish
+Sef-fion Session
+Sefflon Session
 Sefiion Session
 Seflion Session
 Seifion Session
@@ -1086,13 +1157,16 @@ Subje6t Subject
 subjeA subject
 subjeC subjec
 SubjeC Subjec
+sub-ject subject
 Sub-jeft Subject
 Subjeft Subject
 Subje& Subject
+sub-scrib subscrib
 subscriptt subscript
 Sur-\ geon Surgeon
 Sur-geon Surgeon
 Sur-\ name Surname
+Tafkmaster Taskmaster
 (tatute statute
 tbefaid the\ said
 tbere there
@@ -1141,6 +1215,10 @@ tranfport transport
 Tranfport Transport
 tranlcript transcript
 Tranlcript Transcript
+trea-furer treasurer
+treafur-er treasurer
+Trea-furer Treasurer
+Treafur-er Treasurer
 Treafurer Treasurer
 Treafury Treasury
 Treblecoft Treble\ cost
@@ -1151,6 +1229,7 @@ tricesimose tricesimo\ se
 truflee trustee
 Truflee Trustee
 truftees trustees
+Truf-tee Trustee
 Truftee Trustee
 tvejlmin Westmin
 Tvvcnty Twenty
@@ -1235,62 +1314,6 @@ yourmaje your\ maje
 yourMaje your\ Maje
 yvarehouse warehouse
 YVarehouse Warehouse
-zvhicb which
-fub-fiftence subsistence
-aiiemble assemble
-fub-ftantial substantial
-fub-ftitute substitute
-fub-governor sub-governor
-fub-je& subject
-purchafe purchase
-impovver impower
-impreff impress
-Impreff Impress
-Scottifh Scottish
-Scottifli Scottish
-Scottiih Scottish
-Scottijb Scottish
-Scottijh Scottish
-Scottisb Scottish
-Ad-vowson Advowson
-Cer-tificate Cer-tificate
-cer-tificate cer-tificate
-
-Phy-fician Physician
-phy-fician physician
-phyfi-cian physician
-Phyfi-cian Physician
-Trea-furer Treasurer
-trea-furer treasurer
-treafur-er treasurer
-Treafur-er Treasurer
 zvater-bailiff water-bailiff
-mar-riage marriage
-Plain-tiff Plaintiff
-plain-tiff plaintiff
-efta-blifh establish
-efta-blilh establish
-efta-blish establish
-Truf-tee Trustee
-Sef-fion Session
-fixtv- sixty-
-Tafkmaster Taskmaster
-Difburfc Disburse
-difburfc Disburse
-Dif-burfe Disburse
-dif-burfe disburse
-Incnmbrance Incumbrance
-mifmanage mismanage
-Mifmanage Mismanage
-mifmanagc mismanage
-Mifmanagc Mismanage
-Mildemeanor Misdemeanor
-mildemeanor misdemeanor
-Conjlable Constable
-conjlable constable
-conjider consider
-effectnal effectual
-furnifh furnish
-Cer-tificate Certificate
-cer-tificate certificate
-manufac-ture manufacture
+zvhicb which
+

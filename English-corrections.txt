@@ -572,6 +572,8 @@ anywifc anywise
 anywife anywise
 anywiie anywise
 anywile anywise
+aod and
+Aod And
 Aot Act
 aoting acting
 aotwitbstanding notwithstanding
@@ -739,6 +741,7 @@ Bal-laft Ballast
 (ball shall
 banilhed banished
 Banka Banks
+Bankiupt Bankrupt
 Bank-\ rupt Bankrupt
 Bank-rupt Bankrupt
 Bank\ rupt Bankrupt
@@ -950,6 +953,8 @@ caufmg causing
 cauje cause
 cbapel chapel
 Cbapel Chapel
+Cbapwoman Chapwoman
+Cbecfemonger Cheesemonger
 Cbrifimas Christmas
 Cbriflmas Christmas
 Cbrijlmas Christmas
@@ -972,6 +977,8 @@ ccordmg ccording
 ceafe cease
 ceivmg ceiving
 cenfpira-cies conspiracies
+Centle-man Gentleman
+Centleman Gentleman
 cerfain certain
 certaia certain
 cer-\ tain certain
@@ -1168,7 +1175,10 @@ Colleftors Collectors
 Colle&ion Collection
 colle&ors collectors
 Colle&ors Collectors
+ColleSion Collection
+collested collected
 collester collecter
+collesting collecting
 Colonics Colonies
 Combuftible Combustible
 cominiffioners commissioners
@@ -1279,6 +1289,7 @@ com-penfation compensation
 compen-fation compensation
 compenfa-tion compensation
 compenfation compensation
+Compenfation Compensation
 completidn completion
 completmg completing
 compofmg composing
@@ -1292,6 +1303,14 @@ concemmg concerning
 concern-\ ing concerning
 concern-ing concerning
 concern\ ing concerning
+conciu-five conclusive
+conciufive conclusive
+conclufivc conclusive
+conclu-five conclusive
+concluftve conclusive
+concluiive conclusive
+Conclulion Conclusion
+conclulive conclusive
 condi-tion condition
 Condi-tions Conditions
 conditipns conditions
@@ -2540,6 +2559,7 @@ Diyifions Divisions
 dlfcharged discharged
 dlreftions directions
 doivn down
+Doties Duties
 Draftfmen Draftsmen
 Drawiug Drawing
 drfcharged discharged
@@ -2601,8 +2621,16 @@ effe6ually effectually
 effeAual effectual
 effectuai effectual
 effec-tual effectual
+effediual effectual
+effedive effectice
+Effedl Effect
+Effedls Effects
 effedlual effectual
 effedlually effectually
+Effeds Effects
+EfFeds Effects
+Effedt Effect
+Effedts Effects
 effedtual effectual
 efFedtual effectual
 effeduai effectual
@@ -2937,6 +2965,9 @@ e(quire esquire
 ere61 erect
 ereAed erected
 eredfing erecting
+eredied erected
+erediing erecting
+ereding erecting
 erefting erecting
 eria&ed enacted
 eriafted enacted
@@ -3310,6 +3341,8 @@ finking sinking
 fireet street
 Firfb first
 firfi first
+firfl first
+Firfl First
 fir\ ft first
 firft first
 Fir\ ft First
@@ -3631,6 +3664,7 @@ goldfmith goldsmith
 Goldfmith Goldsmith
 Goldfmiths Goldsmiths
 gommissioners commissioners
+Gonsolidated Consolidated
 good$ goods
 Govcrment Goverment
 Govcrn Govern
@@ -3708,6 +3742,8 @@ hewfpapers newspapers
 (hewn shewn
 hi3 his
 Hi3 His
+hi6 his
+Hi6 His
 Hi9 His
 Hiftory History
 Higbgate Highgate
@@ -3731,6 +3767,8 @@ hilletting billetting
 {hilling shilling
 (hillings shillings
 {hillings shillings
+himielf himself
+himlelf himself
 (hipped shipped
 (hipping shipping
 (hip ship
@@ -3815,6 +3853,7 @@ hujbands husbands
 Hujbands Husbands
 hulband husband
 hunared hundred
+huodred hundred
 hy by
 Id-ftrument Instrument
 iecurity security
@@ -3985,6 +4024,7 @@ Infolvcnt Insolvent
 infolvency insolvency
 Infolvency Insolvency
 infolvent insolvent
+Infolvent Insolvent
 infolyent insolvent
 infpedlor inspector
 infpedor inspector
@@ -4428,6 +4468,10 @@ leafes leases
 Leayiug Leaving
 l>e be
 lecond second
+lecured secured
+lecuring securing
+lecurities securities
+lecurity security
 lega-cies legacies
 legaUy legally
 Lepa-cies Legacies
@@ -4755,6 +4799,7 @@ malieiously maliciously
 maltftcr maltster
 Maltftcr Maltster
 Maltftcrs Maltsters
+Maltfter Maltster
 Maltfters Maltsters
 Malt-houle Malt-house
 manage-ment management
@@ -4803,6 +4848,7 @@ Marfhalsea Marshalsea
 marjb marsh
 Marjb Marsh
 Marjhalfea Marshalsea
+Marjhal Marshal
 marjhalsea marshalsea
 Marjhalsea Marshalsea
 marlhand marshland
@@ -5580,12 +5626,12 @@ Parisli Parish
 paristi parish
 Paristi Parish
 parith parish
-Par-liament
 par-\ liament parliament
 par-liament parliament
 par\ liament parliament
 parlia-ment parliament
 Par-\ liament Parliament
+Par-liament Parliament
 Parlia-\ ment Parliament
 Parlia-ment Parliament
 parlia-nent parliament
@@ -5712,6 +5758,7 @@ perrons persons
 Personafy Personaly
 per\ sons persons
 Persou Person
+Perufal Perusal
 petfons persons
 pf of
 P°ge Page
@@ -5881,15 +5928,18 @@ Prifoner Prisoner
 prifoners prisoners
 Prifoners Prisoners
 prifon prison
+Prifon Prison
 pri-fons prisons
 prifons prisons
 Pri-fons Prisons
+Prifons Prisons
 priibn prison
 priioner prisoner
 priion prison
 prijoner prisoner
 prijoners prisoners
 prijon prison
+Prijon Prison
 prilbn prison
 Priloners Prisoners
 Prilons Prisons
@@ -5940,8 +5990,8 @@ Proceflion Procession
 Proceflions Processions
 Procefs Process
 proceftes processes
-proceft	process
-Proceft	Process
+proceft process
+Proceft Process
 procejfes processes
 Prochc Proche
 Procla1med Proclaimed
@@ -6890,6 +6940,7 @@ refufmg refusing
 Re-fumption Resumption
 refusiug refusing
 regifired registred
+Regiflrar Registrar
 Regiflry Registry
 regiftcrcd registercd
 regiftcred registered
@@ -6931,6 +6982,7 @@ rejpeftive respective
 relatidn relation
 relatiug relating
 relatmg relating
+reliding residing
 Relidue Residue
 relpedively respectively
 relpeds respects
@@ -8245,6 +8297,8 @@ YlfHEREAS WHEREAS
 yoUng young
 Yoyage Voyage
 YT7HEREAS WHEREAS
+yTEM ITEM
+YTEM ITEM
 YTTHEREAS WHEREAS
 YVarrant Warrant
 YVater Water
@@ -8298,9 +8352,11 @@ zvriting writing
 zvrits writs
 zvritten written
 zvrit writ
-Iieutenant Lieutenant
-Marshalsca Marshalsea
-Marslialsea Marshalsea
-MARSIIALSEA MARSHALSEA
-Parifli Parish
-parifli parish
+Notiee Notice
+n°t not
+Oatb Oath
+Oatbs Oaths
+oatb oath
+oatbs oaths
+mignt might
+sub\ fiftence subsistence

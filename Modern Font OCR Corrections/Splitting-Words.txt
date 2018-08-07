@@ -56,3 +56,5 @@ theSum the\ Sum
 thethirty the\ thirty
 thetime the\ time
 theTime the\ Time
+commissionersof commissioners\ of
+Onethousand One\ thousand
