@@ -155,3 +155,11 @@ stonc stone
 bornc borne
 bournc bourne
 titulcd tituled
+larv lary
+marv mary
+narv nary
+trv try
+burv bury
+argc arge
+catc cate
+gatc gate
