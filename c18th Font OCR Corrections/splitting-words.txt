@@ -1339,3 +1339,6 @@ thousandjeven thousand\ seven
 thousandsof thousands\ of
 commissionersof commissioners\ of
 Onethousand One\ thousand
+Countyof County\ of
+Parishof Parish\ of
+bythe by\ the

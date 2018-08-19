@@ -163,3 +163,5 @@ burv bury
 argc arge
 catc cate
 gatc gate
+ain-ed ained
+tion-ed tioned

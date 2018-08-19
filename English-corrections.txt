@@ -339,6 +339,7 @@ aflign-ment assignment
 Aflign-ment Assignment
 Aflize Assize
 afls acts
+aflVmbled assembled
 afoiefaid aforesaid
 aforc&id aforesaid
 a-fordaid aforesaid
@@ -384,6 +385,7 @@ aforqfaid aforesaid
 aforqfaii aforesaid
 aforqfajd aforesaid
 aforqsaid aforesaid
+afortsaid aforesaid
 afoseCaid aforesaid
 afosefeid aforesaid
 afosefiud aforesaid
@@ -636,6 +638,7 @@ arorefiud aforesaid
 arorelaid aforesaid
 aroresaid aforesaid
 ar-rear arrear
+Arrejls Arrests
 arthbifhops archbishops
 arthbijhop archbishop
 arthbilhop archbishop
@@ -693,6 +696,7 @@ Attor-nies Attornies
 a£tual actual
 aU all
 aud and
+Auftin Austin
 AugmCntatidn Augmentation
 Augufi August
 Augufl August
@@ -831,6 +835,7 @@ bouses houses
 Breakiug Breaking
 brew-houle brew-house
 Brew-houle Brew-house
+Britainy Britain,
 briti(b british
 Briti(b British
 briti(b-built british-built
@@ -865,9 +870,11 @@ britrlh british
 Brittfh British
 brittih british
 Brittjb British
+Brittjh British
 Brrtifl British
 Brrtijh British
 Brrtijk British
+Brttifb British
 btlletting billetting
 bufband husband
 bufbandry husbandry
@@ -896,6 +903,7 @@ bv by
 cafe case
 cafes cases
 Cafh Cash
+Cafhevv Cashew
 cafhicr cashier
 cafhicrs cashiers
 cafhier cashier
@@ -1155,6 +1163,7 @@ collect-ing collecting
 collect\ ing collecting
 collect-ors collectors
 colled-ing collecting
+colleding collecting
 colledions collections
 colledl-ing collecting
 Colledlion Collection
@@ -1601,6 +1610,7 @@ di(charged discharged
 di(charge discharge
 di(charging discharging
 di(continued discontinued
+difabhng disabling
 Difabilities Disabilities
 dif-ability disability
 difa-bility disability
@@ -2489,6 +2499,7 @@ Diredlly Directly
 Diredls Directs
 Diredly Directly
 Diredor Director
+Diredors Directors
 Direds Directs
 Diredt Direct
 Diredted Directed
@@ -2598,6 +2609,7 @@ Eafter Easter
 eaji east
 eajl east
 Eajl East
+EaJl East
 Eajler Easter
 ecdefiaftical ecclesiastical
 Ecdefiaftical Ecclesiastical
@@ -2706,6 +2718,7 @@ Eftimate Estimate
 Eftsa-blifhment Establishment
 eightv-fix eighty-six
 eighty-fix eighty-six
+eignt eight
 eiquire esquire
 eitabiilhed established
 eitablifhing establishing
@@ -3013,6 +3026,7 @@ Excife Excise
 Exciie Excise
 Excije Excise
 executiug executing
+Exeife Excise
 exeluded excluded
 ex-ercife exercise
 exer-cife exercise
@@ -3234,7 +3248,9 @@ feveral several
 feveraL several
 feVeral several
 fevera! several
+feverol several
 fevpnty-fix seventy-six
+fevtral several
 feyen seven
 feyenteenth seventeenth
 feyeral several
@@ -3504,6 +3520,7 @@ ftotwithstanding notwithstanding
 ftreets streets
 ftreet street
 ftretcbing stretching
+Ftrft First
 ftrictly strictly
 ftriCtly strictly
 ftrong strong
@@ -3616,6 +3633,7 @@ fumma-ry summary
 fum-mit summit
 fummon-ing summoning
 fum sum
+Funifhment Punishment
 fuoh such
 fupervisor supervisor
 fuppfies supplies
@@ -3740,6 +3758,7 @@ herem-before herein-before
 hewfpapers newspapers
 (hewing shewing
 (hewn shewn
+(hew shew
 hi3 his
 Hi3 His
 hi6 his
@@ -3854,6 +3873,7 @@ Hujbands Husbands
 hulband husband
 hunared hundred
 huodred hundred
+Hutbandman Husbandman
 hy by
 Id-ftrument Instrument
 iecurity security
@@ -3898,6 +3918,9 @@ iifty-fix fifty-six
 iifued issued
 iifue issue
 iifuing issuing
+iikewife likewise
+iiland island
+iilands islands
 iile isle
 iituated situated
 iiTue issue
@@ -4152,6 +4175,8 @@ jberiff sheriff
 Jberiff sheriff
 Jberiffs sheriffs
 Jberijf sheriff
+jbid Ibid
+Jbid Ibid
 jbilling shilling
 jbillings shillings
 Jbillings shillings
@@ -4504,6 +4529,7 @@ lighthoufes lighthouses
 lightiug lighting
 ligliter lighter
 likewife likewise
+Likewife likewise
 lingular singular
 liolden holden
 liotwithfbindiug notwithstanding
@@ -4511,6 +4537,7 @@ liotwithflanding notwithstanding
 liotwithstanding notwithstanding
 liotwitlirtanding notwithstanding
 liotxvithstanding notwithstanding
+lixteen sixteen
 lixty-fix sixty-six
 lmpreflion impression
 lmpression impression
@@ -4745,6 +4772,7 @@ MajeRy Majesty
 majessy majesty
 Majessy Majesty
 Ma-\ jesty Majesty
+Ma-jesty Majesty
 Ma\ jesty Majesty
 majesty\*s majesty's
 Majesty\*s Majesty's
@@ -4933,6 +4961,8 @@ mi\ fli\ oners missioners
 mifprison misprison
 miftake mistake
 Miftakes Mistakes
+mifused misused
+mignt might
 Miiitia Militia
 miilion million
 Miilion Million
@@ -5004,6 +5034,7 @@ Mvtmy Mutiny
 MX-jetty Majesty
 Myftcrics Mysteries
 Mz-jetty Majesty
+Navv Navy
 Ncceffarics Necessaries
 Ncceffaries Necessaries
 nc-ceffary necessary
@@ -5175,6 +5206,7 @@ non-commif-fioned non-commissioned
 non-fuit non-suit
 north-eaft north-east
 north-weft north-west
+Notiee Notice
 notlvithftanding notwithstanding
 notvnthfianding notwithstanding
 notvrirhstanding notwithstanding
@@ -5382,9 +5414,14 @@ nptwithstanding notwithstanding
 nptWtbfranding notwithstanding
 nQtwithstanding notwithstanding
 Nt-celfity Necessity
+n°t not
 nuifanccs nuisances
 Num-\ bers Numbers
 nundred hundred
+oatb oath
+Oatb Oath
+oatbs oaths
+Oatbs Oaths
 obfervation observation
 Obfervation Observation
 obfervations observations
@@ -5554,6 +5591,7 @@ Pafs Pass
 pafTcd passed
 Pafteboard Pasteboard
 pafTed passed
+Paiace Palace
 paifing passing
 pailiament parliament
 Pailia-ment Parliament
@@ -5687,6 +5725,7 @@ Paymatter Paymaster
 pay\ ment payment
 paymg paying
 Pcnfions Pensions
+Pcrfbn Person
 Pcrfon Person
 pcr-fons persons
 (peed speed
@@ -5717,6 +5756,7 @@ Penlions Pensions
 Penlious Pensions
 Peoalty Penalty
 perfbn person
+Perfbn Person
 perfbns persons
 Perfcns Persons
 perfoh person
@@ -5767,6 +5807,7 @@ Phyfical Physical
 Phyfician Physician
 Phyficians Physicians
 Phyfick Physick
+piirpose purpose
 (piritual spiritual
 Pitch-houle Pitch-house
 Plaiftcr Plaister
@@ -5894,6 +5935,7 @@ Pre-fentment Presentment
 prefent present
 preferibed prescribed
 prefervation preservation
+Prefervation Preservation
 preferving preserving
 prefeut present
 preffed pressed
@@ -5902,6 +5944,7 @@ Prefidency Presidency
 Prefident President
 prefi-dents presidents
 Prefidents Presidents
+prefont present
 preient present
 prelent present
 premifes premises
@@ -6504,6 +6547,7 @@ Provifion Provision
 provifions provisions
 Provifions Provisions
 Provifipns Provisions
+Proviflon Provision
 Provifoes Provisoes
 provifo proviso
 Provifo Proviso
@@ -6701,6 +6745,7 @@ purehafed purchased
 purehafe purchase
 purehafer purchaser
 Purfers Pursers
+purfnance pursuance
 purfuanceof pursuance\ of
 pur-fuance pursuance
 purfuance pursuance
@@ -6753,6 +6798,7 @@ queftions questions
 queft quest
 quefts quests
 Rad-cliffe Radcliffe
+raifcd raised
 raifed raised
 raife raise
 raif-ing raising
@@ -6922,6 +6968,7 @@ refpe£tively respectively
 refpettivcly respectively
 refpettively respectively
 refpett respect
+refpe&ve respective
 refpt&ively respectively
 re-frefhment refreshment
 refriftions restrictions
@@ -7087,6 +7134,7 @@ rofemary rosemary
 °r or
 ©r or
 rotwithstanding notwithstanding
+rtspective respective
 sailmg sailing
 Saiut Saint
 samc same
@@ -7152,9 +7200,11 @@ Se-cretary Secretary
 Sec-retary Secretary
 Secre-tary Secretary
 sectibn section
+Seffioa Session
 seffion session
 Seffion Session
 Seffions Sessions
+Seffiou Session
 sefiion session
 Seflion Session
 Seflions Sessions
@@ -7225,6 +7275,7 @@ Spantfb Spanish
 Spantfh Spanish
 Spantjb Spanish
 Spinftcr Spinster
+Spinfter Spinster
 spiritua! spiritual
 stainp-duty stamp-duty
 standmg standing
@@ -7252,6 +7303,7 @@ Subfiflcnce Subsistence
 subfiflence subsistence
 Subfiflence Subsistence
 Subfiftance Subsistance
+sub\ fiftence subsistence
 Subfiftence Subsistence
 Subflances Substances
 Subflance Substance
@@ -7332,6 +7384,7 @@ takiug taking
 (tamped stamped
 (tamps stamps
 (tamp stamp
+tbat that
 tbaufand thousand
 tbbufand thousand
 tbcufand thousand
@@ -7486,11 +7539,14 @@ thoufnnd thousand
 thouftnd thousand
 thou-fund thousand
 thouiand thousand
+thouiaod thousand
+thouiaud thousand
 thou-jand thousand
 thoujand thousand
 thou-Jand thousand
 thou-land thousand
 thouland thousand
+Thouland Thousand
 thould should
 thou&nd thousand
 thousandtb thousandth
@@ -7519,6 +7575,7 @@ tieafury treasury
 Tieafury Treasury
 tieasurer Treasurer
 Tieaty Treaty
+t(ie the
 tiie the
 TIT\ HERE\ AS WHEREAS
 TITHEREAS WHEREAS
@@ -7995,6 +8052,7 @@ veJJels vessels
 Vejjels Vessels
 velfel vessel
 veljels vessels
+VelTels Vessels
 Verdi61 Verdict
 Verdidls Verdicts
 Verdidl Verdict
@@ -8005,6 +8063,7 @@ Verdid Verdict
 Ver-di& Verdict
 Verdi& Verdict
 verting vesting
+vfed used
 VI7HEREAS WHEREAS
 Vice-Conful Vice-Consul
 vidtualling victualling
@@ -8051,6 +8110,7 @@ vvithin within
 vvitnefs witness
 vvrit writ
 wafb wash
+Wafh Wash
 Wardihip Wardship
 Wardjhip Wardship
 Wardlhip Wardship
@@ -8095,12 +8155,14 @@ wbatjdever whatsoever
 wbatsoever whatsoever
 wbereaa whereas
 wbereas whereas
+Wbere Where
 wbicb which
 wbich which
 wbofe whose
 Wcjl West
 wcll-disposea well-disposed
 Weftcrn Western
+Weftern Western
 weftward westward
 weft west
 Weft West
@@ -8138,6 +8200,7 @@ witbflanding withstanding
 witbin within
 witb with
 withiu within
+Witlidrawn Withdrawn
 witliin within
 witliout without
 witlistanding withstanding
@@ -8352,33 +8415,4 @@ zvriting writing
 zvrits writs
 zvritten written
 zvrit writ
-Notiee Notice
-n°t not
-Oatb Oath
-Oatbs Oaths
-oatb oath
-oatbs oaths
-mignt might
-sub\ fiftence subsistence
-Weftern Western
-iiland island
-iilands islands
-Spinfter Spinster
-Funifhment Punishment
-Exeife Excise
-VelTels Vessels
-Ftrft First
-Wafh Wash
-vfed used
-difabhng disabling
-t(ie the
-fevtral several
-(hew shew
-feverol several
-iikewife likewise
-Likewife likewise
-thouiaod thousand
-thouiaud thousand
-Thouland Thousand
-Jbid Ibid
-jbid Ibid
+
