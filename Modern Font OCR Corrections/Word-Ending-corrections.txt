@@ -165,3 +165,5 @@ catc cate
 gatc gate
 ain-ed ained
 tion-ed tioned
+tcncc tence
+tcnce tence

@@ -2,8 +2,10 @@ aafwer answer
 Aaminiftrator Administrator
 abftrac abstrac
 accomplifh accomplish
+accompliih accomplish
 accomplijb accomplish
 accomplijh accomplish
+accomplilh accomplish
 adminiftra administra
 Adminillrat Administrat
 Ad-ministrator Administrator
@@ -107,6 +109,7 @@ bofpital hospital
 Bookfeller Bookseller
 borougb borough
 Borougb Borough
+BritHh British
 Britifb British
 Bri-tifh British
 Britifh British
@@ -114,12 +117,15 @@ Britifi British
 Britifl British
 britifti british
 Britifti British
+Britiih British
 britijb british
 Britijb British
 BritiJb British
 Britijh British
 BritiJh British
 Britilh British
+BritiOi British
+BritiQi British
 burgb burgh
 Byo-Law Bye-Law
 caftle castle
@@ -213,6 +219,18 @@ Commiliion Commission
 Commillion Commission
 commilTion commission
 CommilTion Commission
+commissicn commission
+Commissicn Commission
+commissiion commission
+Commissiion Commission
+commissioa commission
+Commissioa Commission
+commissioD commission
+CommissioD Commission
+commissioii commission
+Commissioii Commission
+commissiontr commissioner
+Commissiontr Commissioner
 Com-penfat Compensat
 com-pleat compleat
 confent consent
@@ -354,6 +372,7 @@ divifton division
 djhire dshire
 Dorfet Dorset
 drefTed dressed
+dtstroy destroy
 du&ion duction
 dwelling-boufe dwelling-house
 dwell-ing dwelling
@@ -427,6 +446,8 @@ eonftable constable
 ertablish establish
 establiffi establish
 etfcftual effectual
+Excifc Excise
+Excife Excise
 ex-clufive exclusive
 ex-empt exempt
 exercife exercise
@@ -472,6 +493,7 @@ fetfhire setshire
 fevcn seven
 fevcral several
 feven seven
+fevtnty seventy
 fextoG sexto\ G
 ffeCt ffect
 fhall shall
@@ -497,6 +519,7 @@ fixteen sixteen
 fixtv- sixty-
 fixty sixty
 flroy stroy
+fmithfield smithfield
 fmiths smiths
 fnbfcrib subscrib
 foever soever
@@ -527,6 +550,7 @@ fpe&ive spective
 fpirit spirit
 fpread spread
 franchife franchise
+Frifoner Prisoner
 f°rty forty
 ftabiifb stablish
 ftabiifh stablish
@@ -566,11 +590,16 @@ fuc-ceed succeed
 fucceff success
 fuc-ceflbr successor
 fuccelfive successive
+fuccertor successor
+fuccess success
+fufficien sufficien
 fuffi-cient sufficient
+fufiicien sufficien
 fufpend suspend
 fuftain sustain
 fugar sugar
 fuhfcrib subscrib
+fummon summon
 fumsof sums\ of
 fupply supply
 fupport support
@@ -785,6 +814,7 @@ Magjftrate Magistrate
 magtftrate magistrate
 Magtftrate Magistrate
 maieft majest
+Maiefty Majesty
 Majcfty Majesty
 majefby majesty
 Majefby Majesty
@@ -793,8 +823,10 @@ Majefcy Majesty
 majefdy majesty
 Majefdy Majesty
 Majeflie Majestie
+Maje\ fly Majesty
 majeft majest
 Majeftv Majefty
+Maje\ fty Majesty
 Majefy Majesty
 Majejly Majesty
 Majelly Majesty
@@ -802,6 +834,7 @@ majelt majest
 Majelty Majesty
 majestv majesty
 Majestv Majesty
+Maje&y Majesty
 manufadlur manufacture
 Manufadlur Manufacture
 manufadur manufactur
@@ -879,6 +912,7 @@ ne-ver never
 neVer never
 nevertbe neverthe
 neverthc neverthe
+Newcaftlc Newcastle
 nonoGeo nono\ Geo
 nortb north
 Nortb North
@@ -958,6 +992,7 @@ Per-fbn Person
 per-fon person
 Per-fon Person
 Perfon Person
+perquifite perquisite
 phy-fician physician
 phyfi-cian physician
 Phy-fician Physician
@@ -977,6 +1012,7 @@ Pofsession Possession
 PofTession Possession
 poft-master post-master
 poftmaster postmaster
+Poftmaster Postmaster
 pojfeff possess
 Pojfeff Possess
 pojfejf possess
@@ -991,6 +1027,7 @@ prefcribe prescribe
 prefent present
 Prefent Present
 preferv preserv
+Prefi-dent President
 prifon prison
 Primrofe Primrose
 Produ6t Product
@@ -1019,6 +1056,7 @@ Publifher Publisher
 publi(h publish
 publilh publish
 Publilh Publish
+p°und pound
 Puni8h Punish
 punifh punish
 Punifh Punish
@@ -1027,10 +1065,16 @@ punifti punish
 punijb punish
 punijh punish
 punilh punish
+Purcbafe Purchase
 pur-chafe purchase
 purchafe purchase
 Pur-chafe Purchase
 purdhase purchase
+purp0fe purpose
+purpcfc purpose
+Purpcfc Purpose
+purpcfe purpose
+Purpcfe Purpose
 Pur-pofc Purpose
 purpofeof purpose\ of
 purpofe purpose
@@ -1045,6 +1089,7 @@ quadragesimotertio quadragesimo\ tertio
 Quartcr Quarter
 quartoGe quarto\ Ge
 quartoGE quarto\ GE
+queftion question
 quintoGEO quinto\ GEO
 quintoGe quinto\ Ge
 quintoGE quinto\ GE
@@ -1058,6 +1103,8 @@ rcfpect respect
 rcfpeCt respect
 rcfpedl respect
 rcfpe& respect
+Rcftridion Restriction
+Rcftriftion Restriction
 rcgiftcr register
 rcgjfter register
 reafcn reason
@@ -1100,6 +1147,7 @@ refpeftiv respectiv
 re-fpeft respect
 refpeft respect
 re-fpe& respect
+reftify rectify
 Reftridion Restriction
 regifler register
 Regifler Register
@@ -1120,6 +1168,7 @@ relpeft respect
 re-move remove
 respecfive respective
 respec-\ tive respective
+Restriftion Restriction
 rtotwith notwith
 sbould should
 Scbool School
@@ -1147,6 +1196,7 @@ Somerfct Somerset
 Somerfet Somerset
 soutb south
 Soutb South
+Subdivilion Subdivision
 Subfcrib Subscrib
 Subfiftence Subsistence
 Subftitut Substitut
@@ -1163,6 +1213,7 @@ Subjeft Subject
 Subje& Subject
 sub-scrib subscrib
 subscriptt subscript
+Sufpenfion Suspension
 Sur-\ geon Surgeon
 Sur-geon Surgeon
 Sur-\ name Surname
@@ -1217,6 +1268,7 @@ tranlcript transcript
 Tranlcript Transcript
 trea-furer treasurer
 treafur-er treasurer
+treafurer treasurer
 Trea-furer Treasurer
 Treafur-er Treasurer
 Treafurer Treasurer
@@ -1231,6 +1283,15 @@ Truflee Trustee
 truftees trustees
 Truf-tee Trustee
 Truftee Trustee
+truitee trustee
+Truitee Trustee
+trujiee trustee
+Trujiee Trustee
+TrujIee Trustee
+trujlee trustee
+Trujlee Trustee
+trujtee trustee
+Trujtee Trustee
 tvejlmin Westmin
 Tvvcnty Twenty
 Tvventy Twenty
@@ -1316,17 +1377,4 @@ yvarehouse warehouse
 YVarehouse Warehouse
 zvater-bailiff water-bailiff
 zvhicb which
-queftion question
-fevtnty seventy
-fmithfield smithfield
 
-Frifoner Prisoner
-Sufpenfion Suspension
-Newcaftlc Newcastle
-Rcftriftion Restriction
-Rcftridion Restriction
-BritiQi British
-BritiOi British
-Britiih British
-BritHh British
-Prefi-dent President

@@ -45,6 +45,7 @@ cefter cester
 cejler cester
 ceJler cester
 cenfed censed
+chcd ched
 chejlcr chester
 chifm chism
 ciaj cial
@@ -84,12 +85,16 @@ fa&ure facture
 fbam sham
 fbips ships
 fbrd ford
+fclvcs selves
+fclves selves
 fcttlc settle
 fcttle settle
 fcx sex
+felvcs selves
 felves selves
 fexto sexto
 ffary ssary
+fhcd shed
 fhing shing
 fhip ship
 fhips ships
@@ -224,6 +229,7 @@ ongft ongst
 ophcr opher
 otber other
 ouflv ously
+oufy ously
 ougli ough
 ouje ouse
 ovcr over
@@ -232,6 +238,7 @@ owercd owered
 panv pany
 pber pher
 pifti pish
+pofed posed
 -poft -post
 ppcd pped
 pplv pply
@@ -253,9 +260,12 @@ sscd ssed
 stonc stone
 tbcr ther 
 tcd ted
+tcncc tence
+tcnce tence
 tecn teen
 t-ed ted
 telv tely
+tfy tly
 thcn then
 tiag ting
 ticn tion
@@ -286,6 +296,7 @@ urcli urch
 vcnt vent
 vcrt vert
 velv vely
+verfy versy
 veycd veyed
 vi&cd victed
 vi&ed victed
