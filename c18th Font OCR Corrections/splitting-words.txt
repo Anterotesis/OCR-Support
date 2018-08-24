@@ -1,3 +1,5 @@
+0fthc of\ the
+0fthe of\ the
 a3for act\ for
 A3for Act\ for
 A61Be Act\ Be
@@ -103,6 +105,7 @@ Bankruptbe Bankrupt\ be
 BankruptBe Bankrupt\ Be
 beenacted been\ acted
 beenafted been\ acted
+beforethe before\ the
 beingof being\ of
 beit be\ it
 Beit Be\ it
@@ -131,6 +134,8 @@ cleanfingthe cleansing\ the
 Commifficnsshall  Commissions\ shall
 commissionersof commissioners\ of
 Commissionersof Commissioners\ of
+commissionof commission\ of
+Commissionof Commission\ of
 Commissiouersof Commissioners\ of
 compensatedfor compensated\ for
 comprifednotwithstanding comprised\ notwithstanding
@@ -149,6 +154,7 @@ contrarynotwitb contrary\ notwith
 contrarynotwith contrary\ notwith
 contrarynotwithstanding contrary\ notwithstanding
 countyof county\ of
+Countyof County\ of
 courfeof course\ of
 Courfesof Courses\ of
 Courfethereby Course\ thereby
@@ -760,6 +766,7 @@ fhouldbe should\ be
 firstyear first\ year
 fixthyear sixth\ year
 fomuch so\ much
+forcedby forced\ by
 forinclofing for\ inclosing
 forthebetter for\ the\ better
 forthechild for\ the\ child
@@ -795,9 +802,15 @@ fortheUfeor for\ the\ Use\ or
 forthofe for\ those
 fpaceof space\ of
 fraudulentContrivances fraudulent\ Contrivances
+fromperfon from\ person
+fromplaces from\ places
+fromships from\ ships
+fromsoldiers from\ soldiers
+fromthe from\ the
 ftatutcof statute\ of
 ftatuteof statute\ of
 fuchOflicer such\ Officer
+fufferdeath suffer\ death
 fumof sum\ of
 fwornupon sworn\ upon
 GeorgiiII Georgii\ II
@@ -843,6 +856,13 @@ Intentsand Intents\ and
 Interestbe Interest\ be
 InterestBe Interest\ Be
 inthe in\ the
+ipfofaclo ipso\ facto
+ipfofaflo ipso\ facto
+ipfofafto ipso\ facto
+ipfofailo ipso\ facto
+ipfofa£io ipso\ facto
+ipfofasio ipso\ facto
+ipfofatio ipso\ facto
 Irelandand Ireland\ and
 IrelandAnd Ireland\ And
 Irelandbe Ireland\ be
@@ -853,11 +873,15 @@ Irelandthe Ireland\ the
 itfurther it\ further
 jecondyear second\ year
 jhouldbe should\ be
+Justiceof Justice\ of
 keepthe keep\ the
 Kingdombe Kingdom\ be
 KingdomBe Kingdom\ Be
 KingJames King\ James
+kingjlon kingston
+Kingjton Kingston
 KingWilliam King\ William
+Knightshridge Knightsbridge
 knowtedgaand knowledge\ and
 landsfrom lands\ from
 lateMaiefiy late\ Majesty
@@ -971,6 +995,7 @@ onethoujhnd one\ thousand
 onethouland one\ thousand
 onethousand one\ thousand
 Onethousand One\ thousand
+onfuch on\ such
 orChapel or\ Chapel
 orCheshire or\ Cheshire
 orexisting or\ existing
@@ -991,6 +1016,7 @@ parifhof parish\ of
 parifof parish\ of
 parilhof parish\ of
 parishof parish\ of
+Parishof Parish\ of
 parliamentand parliament\ and
 Parliamentand Parliament\ and
 Parliamentbe Parliament\ be
@@ -1192,6 +1218,10 @@ Thamesfrom Thames\ from
 thatfrom that\ from
 Thatfrom That\ from
 thcauthority the\ authority
+thccountics the\ counties
+thccounty the\ county
+thccourtof the\ court\ of
+thccouuty the\ county
 thcfaid the\ said
 thcjustices the\ justices
 thcKing the\ King
@@ -1219,6 +1249,7 @@ themilitia the\ militia
 thenavy the\ navy
 theofficer the\ officer
 thepaffing the\ passing
+theparish the\ parish
 theprincipal the\ principal
 theprisons the\ prisons
 thepritoner the\ prisoner
@@ -1226,6 +1257,13 @@ theprodudion the\ production
 theprofecutor the\ prosecutor
 theproprietor the\ proprietor
 theprovifion the\ provision
+thepublick the\ publick
+thepublirk the\ publick
+thepubllck the\ publick
+thepufclick the\ publick
+thepuhlick the\ publick
+thepunishmeat the\ punishment
+Thepunishment The\ punishment
 thepurchafeof the\ purchase\ of
 TheQaeen The\ Queen
 theQuecn the\ Queen
@@ -1282,8 +1320,13 @@ thisAft this\ Act
 thiskingdom this\ kingdom
 thispresent this\ present
 tho\ said the\ said
+thousandeight thousand\ eight
+thousandfive thousand\ five
 thousandfix thousand\ six
+thousandjeven thousand\ seven
+thousandJeven thousand\ seven
 thousandseven thousand\ seven
+thousandsof thousands\ of
 tionof tion\ of
 Tntentsand Intents\ and
 toextend to\ extend
@@ -1331,47 +1374,4 @@ zapitaljlock capital\ stock
 Zealandbe Zealand\ be
 ZealandBe Zealand\ Be
 zvbereoffuch whereof\ such
-Justiceof Justice\ of
-thousandeight thousand\ eight
-thousandfive thousand\ five
-thousandJeven thousand\ seven
-thousandjeven thousand\ seven
-thousandsof thousands\ of
-commissionersof commissioners\ of
-Onethousand One\ thousand
-Countyof County\ of
-Parishof Parish\ of
-bythe by\ the
-Commissionof Commission\ of
-commissionof commission\ of
-ipfofaclo ipso\ facto
-ipfofaflo ipso\ facto
-ipfofafto ipso\ facto
-ipfofailo ipso\ facto
-ipfofasio ipso\ facto
-ipfofatio ipso\ facto
-ipfofa£io ipso\ facto
-fufferdeath suffer\ death
-kingjlon kingston
-Kingjton Kingston
-Knightshridge Knightsbridge
-0fthc of\ the
-0fthe of\ the
-forcedby forced\ by
-fromthe from\ the
-fromperfon from\ person
-fromplaces from\ places
-fromships from\ ships
-fromsoldiers from\ soldiers
-thccountics the\ counties
-thccounty the\ county
-thccourtof the\ court\ of
-thccouuty the\ county
-theparish the\ parish
-thepublick the\ publick
-thepublirk the\ publick
-thepubllck the\ publick
-thepufclick the\ publick
-thepuhlick the\ publick
-thepunishmeat the\ punishment
-Thepunishment The\ punishment
+
