@@ -661,3 +661,5 @@ e-quity equity
 weft-\ ward westward
 weft-ward west-ward
 Weft-ward West-ward
+un-der under
+or-der order

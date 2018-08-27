@@ -903,7 +903,6 @@ of\ 4\ the of\ the
 passed\ 4\ in passed\ in
 the\ 4\ said the\ said
 A\ N\ Act AN\ Act
-A\ N\ D AND
 I\ N\ D\ E\ X INDEX
 fold\ at sold\ at
 fold\ as sold\ as
@@ -928,4 +927,9 @@ An\ A81 An\ Act
 An\ ASl An\ Act
 An\ ASi An\ Act
 County\ of\ Fork County\ of\ York
-onfuch on\ such
+fix\ Weeks six\ Weeks
+fix\ Shillings six\ Shillings
+fix\ Years six\ Years
+fix\ Months six\ Months
+jn\ this in\ this
+jn\ the in\ the
