@@ -45,9 +45,11 @@ ccjler cester
 cdvely ctively
 ceafed ceased
 cefter cester
+cejjion cession
 cejler cester
 ceJler cester
 cenfed censed
+charg-ed charged
 chcd ched
 chejlcr chester
 chifm chism
@@ -100,6 +102,7 @@ felves selves
 fexto sexto
 ffary ssary
 fhcd shed
+fhcr sher
 fhed shed
 fhing shing
 fhip ship
@@ -109,6 +112,7 @@ fhire shire
 fhop shop
 ficd fied
 ficld field
+fign-ed signed
 fliip ship
 fliire shire
 fline stine
@@ -155,15 +159,19 @@ hurfl hurst
 hurjl hurst
 hurJl hurst
 iblc ible
+iffioner issioner
+iffioners issioners
 igncd igned
 ihip ship
 ihips ships
 iiig ing
 ilvcr ilver
 incd ined
+infter inster
 inq ing
 iog ing
 ioufly iously
+&ipn ction
 itejy itely
 iug ing
 ivcd ived
@@ -183,6 +191,7 @@ jhing shing
 jhip ship
 Jhip ship
 jhips ships
+jng ing
 larv lary
 ldcr lder
 leigb leigh
@@ -206,6 +215,7 @@ minflcr minster
 minfler minster
 minjlcr minster
 minJlcr minster
+mmpn mmon
 mtnfler minster
 mtnJler minster
 mucb much
@@ -220,6 +230,7 @@ ndcd nded
 ndcr nder
 nfion nsion
 nihg ning
+nish-ed nished
 nmg ning
 nucd nued
 oaer oner
@@ -249,12 +260,16 @@ pofed posed
 -poft -post
 ppcd pped
 pplv pply
+priet°r prietor
+priet°rs prietors
 p-ter pter
 qaer quer
 qucnt quent
 ragc rage
 reafcd reased
 rgcd rged
+riag ring
+rib-ed ribed
 ridgc ridge
 rifti rish
 rihg ring
@@ -288,6 +303,7 @@ tioo tion
 tioq tion
 tioQ tion
 tiori tion
+tipns tions
 tipn tion
 titulcd tituled
 tl0n tion
@@ -307,6 +323,7 @@ uilbed uished
 ullv ully
 urcb urch
 urcli urch
+uriag uring
 vcnt vent
 vcrt vert
 velv vely
@@ -318,6 +335,7 @@ vifo viso
 vi&ion viction
 villc ville
 vmg ving
+vvife wife
 wav way
 wbere where
 wecn ween
@@ -336,8 +354,4 @@ y-fix y-six
 yihg ying
 ytng ying
 yy y,
-priet°rs prietors
-priet°r prietor
-uriag uring
-fhcr sher
-iffioners issioners
+

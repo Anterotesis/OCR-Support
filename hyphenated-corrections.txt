@@ -696,4 +696,13 @@ pubiifh-ed published
 Stew-artries Stewartries
 Stew-artry Stewartry
 Eng-lish English
+con-(table constable
+con-(tables constables
+Con-(tables Constables
+di-(trained distrained
+Engli(h-born English-born
+Engli(h-built English-built
+establi(h-ment establishment
+fign-ed signed
+gene-ral general
 
