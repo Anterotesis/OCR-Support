@@ -12,3 +12,5 @@ con-diti conditi
 rcspect respect
 com-m comm
 Com-m Comm
+govcrn govern
+Govcrn Govern

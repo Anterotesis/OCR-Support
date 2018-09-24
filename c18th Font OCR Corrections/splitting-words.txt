@@ -397,15 +397,12 @@ faidfim said\ fim
 faidfines said\ fines
 faidfinglo said\ finglo
 faidfinking said\ finking
-faidfirfifruits said\ firfifruits
-faidfirfi said\ firfi
-faidfirfl said\ firfl
-faidfirft said\ firft
+faidfirfifruits said\ first\ fruits
+faidfirfi said\ first
+faidfirfl said\ first
+faidfirft said\ firfst
 faidfir said\ fir
 faidfirst said\ first
-faidfi said\ fi
-faidfiteSy said\ fiteSy
-faidfittn said\ fittn
 faidfive said\ five
 faidfix said\ fix
 faidfixteen said\ fixteen
@@ -1375,4 +1372,12 @@ zapitaljlock capital\ stock
 Zealandbe Zealand\ be
 ZealandBe Zealand\ Be
 zvbereoffuch whereof\ such
-
+Thefollowing The\ following
+thefurther the\ further
+theparliament the\ parliament
+theAct the\ Act
+givingto giving\ to
+Januaryand January\ and
+thedebt the\ debt
+africansand africans\ and
+zvbereoffuch whereof\ such

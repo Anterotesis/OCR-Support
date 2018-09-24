@@ -1,5 +1,6 @@
 aafwer answer
 Aaminiftrator Administrator
+Abfent Absent
 abftrac abstrac
 accomplifh accomplish
 accompliih accomplish
@@ -9,6 +10,7 @@ accomplilh accomplish
 adminiftra administra
 Adminillrat Administrat
 Ad-ministrator Administrator
+ad-vance advance
 advertife advertise
 Advertife Advertise
 advife advise
@@ -20,12 +22,17 @@ Afcertain Ascertain
 afeertain ascertain
 affeA affect
 affeff assess
+Affeffor Assessor
+Affefiment Assessment
+Affeflment Assessment
+AffefTment Assessment
 Affiftant Assistant
 affign assign
 afiemble assemble
 Afiemble Assemble
 afleffment assessment
 Afleflment Assessment
+Afleflor Assessor
 aflem-bl assembl
 aforesaidy aforesaid,
 aftault assault
@@ -94,21 +101,20 @@ Annovic Anno\ vic
 Arcbbishop Archbishop
 archhifhop archbishop
 Archhifhop Archbishop
+Arreft Arrest
 ascer-tain ascertain
+Baftard Bastard
 bajlard bastard
+Banifb Banish
+Banifh Banish
 befeech beseech
 bifhop bishop
-Occa-fion Occasion
-occa-fion occasion
-Obftacle Obstacle
-Prison-er Prisoner
-m-missioner mmissioner
 Bijbop Bishop
 bijhop bishop
 Bijhop Bishop
 Bishop-rick Bishoprick
-Bis\ Majesty His\ Majesty
-bis\ Maj his\ Maj
+bis\ Maje his\ Maje
+Bis\ Maje His\ Maje
 blifhed blished
 bofpital hospital
 Bookfeller Bookseller
@@ -154,6 +160,7 @@ cheJlcr chester
 cheJler chester
 chnrch church
 chrift christ
+Chriftian Christian
 churcb church
 circumftanc circumstanc
 cjuad quad
@@ -295,6 +302,10 @@ dejtroy destroy
 demolijh demolish
 demolilh demolish
 depofit deposit
+Deputy-marfhal Deputy-marshal
+Deputy-Marfhal Deputy-Marshal
+Deputy-marlhal Deputy-marshal
+Deputy-Marlhal Deputy-Marshal
 dfhire dshire
 difburfc Disburse
 Difburfc Disburse
@@ -367,6 +378,7 @@ dire6t direct
 Dire6t Direct
 direbtor director
 dire& direct
+Diredlor Director
 dire&ed directed
 Dire&or Director
 dis-ting disting
@@ -387,8 +399,10 @@ Eafl-Ind East-Ind
 Eaft-Ind East-Ind
 Eaft-lnd East-Ind
 EEEAS EREAS
+Efcape Escape
 efcbeator escheator
 Efcheator Escheator
+Effc& Effect
 effectnal effectual
 effedlual effectual
 efFedlual effectual
@@ -712,7 +726,14 @@ Inqueft Inquest
 inquejl inquest
 inspedtor inspector
 inspeftor inspector
+intereft interest
 Intereft Interest
+Interejl Interesl
+interejl interest
+interell interest
+Interell Interest
+interelt interest
+Interelt Interest
 Iriffi Irish
 Irijb Irish
 Irijh Irish
@@ -810,6 +831,7 @@ lnftrument instrument
 loyalfub loyal\ sub
 mafter master
 Mafter Master
+Magiflrate Magistrate
 magiftrat magistrat
 magijlrate magijlrate
 magiltrate magistrate
@@ -821,6 +843,7 @@ Magtftrate Magistrate
 maieft majest
 Maiefty Majesty
 Majcfty Majesty
+Majedy Majesty
 majefby majesty
 Majefby Majesty
 majefcy majesty
@@ -845,6 +868,8 @@ Manufadlur Manufacture
 manufadur manufactur
 manufaft manufact
 Manufaft Manufact
+marfhal marshal
+Marfhal Marshal
 mar-riage marriage
 mcnt ment
 mcrchant merchant
@@ -895,6 +920,7 @@ minjier minster
 minjler minster
 minJler minster
 minjter minster
+m-missioner mmissioner
 Mngiftrate Magistrate
 mnjcfty majesty
 Mnjcfty Majesty
@@ -937,6 +963,7 @@ notwtth notwith
 nufa&ure nufacture
 ob-ferve observe
 obferv observ
+Obftacle Obstacle
 obftrubl obstruct
 obftrubt obstruct
 obftrucf obstruct
@@ -944,6 +971,8 @@ obftruct obstruct
 obftruCt obstruct
 obftru& obstruct
 Obftru& Obstruct
+occa-fion occasion
+Occa-fion Occasion
 occaflon occasion
 Occaflon Occasion
 occaiion occasion
@@ -962,7 +991,9 @@ omniiffion ommission
 orafmuch orasmuch
 othcrw otherw
 otherwife otherwise
+Oyfter Oyster
 Paf-fage Passage
+Paffage Passage
 Paffeng Passeng
 Pafienger Passenger
 pafleboard pasteboard
@@ -1035,6 +1066,8 @@ preferv preserv
 Prefi-dent President
 prifon prison
 Primrofe Primrose
+Prison-er Prisoner
+Pro-ceed Proceed
 Produ6t Product
 pro-duce produce
 Pro-duce Produce
@@ -1055,6 +1088,10 @@ provi(ion provision
 Provi(ion Provision
 provi-lion provision
 Provi-lion Provision
+Provoft-marfhal Provost-marshal
+Provoft-Marfhal Provost-Marshal
+Provoft-marlhal Provost-marshal
+Provoft-Marlhal Provost-Marshal
 publiffi publish
 Publiffi Publish
 Publifher Publisher
@@ -1222,6 +1259,7 @@ Sufpenfion Suspension
 Sur-\ geon Surgeon
 Sur-geon Surgeon
 Sur-\ name Surname
+Surplufage Surplusage
 Tafkmaster Taskmaster
 (tatute statute
 tbefaid the\ said
@@ -1235,6 +1273,7 @@ tcenth teenth
 tcrtio tertio
 tecnth teenth
 teentb teenth
+Teftament Testament
 T>E\ it BE\ it
 tertioE tertio\ E
 tertioG tertio\ G
@@ -1242,6 +1281,8 @@ theauthor the\ author
 theAuthor the\ Author
 Theauthor The\ author
 TheAuthor The\ Author
+theCommission the\ Commission
+theExpen the\ Expen
 theirc their\ c
 theparifh the\ parish
 theParifh the\ Parish
@@ -1309,6 +1350,12 @@ ublickaft ublick\ act
 ufbandrv usbandry
 ufual usual
 unjkilful unskilful
+urifdidion urisdiction
+urifdidtion urisdiction
+urifdiilion urisdiction
+urisdicfion urisdiction
+urisdichon urisdiction
+urisdiciion urisdiction
 Utenfil Utensil
 vcffcl vessel
 Vcffcl Vessel
@@ -1318,6 +1365,7 @@ vcflcl vessel
 Vcflcl Vessel
 vcflel vessel
 Vcflel Vessel
+Veffcl Vessel
 Veffel Vessel
 vefifels vessels
 verthelefs vertheless
@@ -1382,51 +1430,6 @@ yvarehouse warehouse
 YVarehouse Warehouse
 zvater-bailiff water-bailiff
 zvhicb which
-interelt interest
-Interelt Interest
-interell interest
-Interell Interest
-interejl interest
-Interejl Interesl
-intereft interest
-Intereft Interest
-Majestv Majesty
-majestv majesty
-Arreft Arrest
-Provoft-marfhal Provost-marshal
-Deputy-marfhal Deputy-marshal
-Provoft-marlhal Provost-marshal
-Deputy-marlhal Deputy-marshal
-Provoft-Marfhal Provost-Marshal
-Deputy-Marfhal Deputy-Marshal
-Provoft-Marlhal Provost-Marshal
-Deputy-Marlhal Deputy-Marshal
-marfhal marshal
-Marfhal Marshal
-Paffage Passage
-Teftament Testament
-Surplufage Surplusage
-Chriftian Christian
-Majedy Majesty
-Affeffor Assessor
-Afleflor Assessor
-Affefiment Assessment
-AffefTment Assessment
-Affeflment Assessment
-Veffcl Vessel
-Efcape Escape
-Effc& Effect
-Pro-ceed Proceed
-Magiflrate Magistrate
-Banifh Banish
-Banifb Banish
-Baftard Bastard
-Abfent Absent
-Diredlor Director
-Oyfter Oyster
-urifdidion urisdiction
-urifdidtion urisdiction
-urifdiilion urisdiction
-urisdicfion urisdiction
-urisdiciion urisdiction
-urisdichon urisdiction
+Adminiffrator Administrator
+adminiffrator administrator
+Eledfion Election

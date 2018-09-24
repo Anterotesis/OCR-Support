@@ -178,3 +178,11 @@ effe& effect
 cxer exer
 Arcb Arch
 progreff progress
+deftru destru
+ftag stag
+eftimat estimat
+€xc Exc
+pub-lish publish
+Pub-lish Publish
+Succcff Success
+Succeff Success
