@@ -935,3 +935,12 @@ jn\ this in\ this
 jn\ the in\ the
 Ah\ aft An\ act
 An\ ah\ to An\ act\ to
+buying\ or\ felling buying\ or\ selling
+vending\ or\ felling vending\ or\ selling
+felling\ Ale selling\ Ale
+felling\ Beer selling\ Beer
+felling\ Spirituous selling\ Spirituous
+aforesaid\ Ad aforesaid\ Act
+Ad\ of\ Parliament Act\ of\ Parliament
+any\ Ad\ or\ Ada any\ Act\ or\ Acts
+be\ uled be\ used
