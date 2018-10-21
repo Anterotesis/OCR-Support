@@ -1,5 +1,3 @@
-otlier other
-otlior other
 0ath Oath
 0f of
 ABMY ARMY
@@ -50,6 +48,7 @@ demandabte demandable
 distriot district
 Distriot District
 eacli each
+eigliteen eighteen
 eignt eight
 exereise exercise
 Exereise Exercise
@@ -82,6 +81,8 @@ oatbs oaths
 Oatbs Oaths
 oertain certain
 Oflicer Officer
+otlier other
+otlior other
 PA88ED PASSED
 Pablic Public
 PARLIAMBNT PARLIAMENT

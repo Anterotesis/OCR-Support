@@ -7,6 +7,8 @@ accompliih accomplish
 accomplijb accomplish
 accomplijh accomplish
 accomplilh accomplish
+adminiffrator administrator
+Adminiffrator Administrator
 adminiftra administra
 Adminillrat Administrat
 Ad-ministrator Administrator
@@ -103,6 +105,8 @@ archhifhop archbishop
 Archhifhop Archbishop
 Arreft Arrest
 ascer-tain ascertain
+Assess-ment Assessment
+Auftion Auction
 Baftard Bastard
 bajlard bastard
 Banifb Banish
@@ -137,11 +141,14 @@ BritiJh British
 Britilh British
 BritiOi British
 BritiQi British
+Britisb British
 burgb burgh
 Byo-Law Bye-Law
 caftle castle
 ca(hier cashier
 Ca(hier Cashier
+cap-tain captain
+Cap-tain Captain
 car-riage carriage
 Car-riage Carriage
 Cbmmiff Commiss
@@ -245,12 +252,18 @@ commissiontr commissioner
 Commissiontr Commissioner
 Com-penfat Compensat
 com-pleat compleat
+Compofit Composit
+Compolit Composit
 confent consent
 confiable constable
 Confiable Constable
 confider consider
 conftablc constable
 Conftablc Constable
+con-ftabl constabl
+conftabl constabl
+Con-ftabl Constabl
+Conftabl Constabl
 conftable constable
 Conftable Constable
 conftru& construct
@@ -295,6 +308,9 @@ decimotertio decimo\ tertio
 Dedu& Deduct
 defcribe describe
 Defeft Defect
+deferip-tion description
+defeription description
+Defeription Description
 deferter deserter
 Deferter Deserter
 deftroy destroy
@@ -350,9 +366,12 @@ difobey disobey
 Difobey Disobey
 difpenf dispens
 Difpenf Dispens
+difpofcd disposed
 dif-pofe dispose
 difpofe dispose
+difpojed disposed
 Difpute Dispute
+difqharge discharge
 diftill distill
 Diftill Distill
 diftinct distinct
@@ -378,14 +397,19 @@ dire6t direct
 Dire6t Direct
 direbtor director
 dire& direct
+Diredlion Direction
 Diredlor Director
+Diredtor Director
 dire&ed directed
 Dire&or Director
+dis-charge discharge
 dis-ting disting
 ditcb ditch
 Ditcb Ditch
 divifion division
 divifton division
+di-vision division
+Di-vision Division
 djhire dshire
 Dorfet Dorset
 drefTed dressed
@@ -437,6 +461,7 @@ Eftate Estate
 Eftimate Estimate
 efTor essor
 eigtb eigth
+Eledfion Election
 ellablifh establish
 Ellablifh Establish
 EllZA ELIZA
@@ -462,9 +487,12 @@ englijl english
 Englijl English
 EngU Engli
 eonftable constable
+Ereftion Erection
 ertablish establish
 establiffi establish
 etfcftual effectual
+every£ every\ £
+Evglijh English
 Excifc Excise
 Excife Excise
 ex-clufive exclusive
@@ -472,6 +500,8 @@ ex-empt exempt
 exercife exercise
 ex-ercif exercis
 Ex-ercif Exercis
+exercile exercise
+Exercile Exercise
 exereife exercise
 exereije exercise
 exerrife exercise
@@ -487,6 +517,7 @@ ExtraA Extract
 fa&ion faction
 fatisfaft satisfact
 fatisfa satisfa
+fa&ure facture
 fbire shire
 fchcdule schedule
 fchedule schedule
@@ -527,7 +558,9 @@ fhilling shilling
 -fhire -shire
 fhire- shire-
 fieid field
+fiftb fifth
 Fi(h Fish
+Fiiher Fisher
 fiiire shire
 filver silver
 -firft -first
@@ -545,6 +578,7 @@ foever soever
 foeVer soever
 foli-cit solicit
 folicit solicit
+fol-low follow
 fome-time sometime
 forefaid foresaid
 forefeid foresaid
@@ -611,6 +645,9 @@ fuc-ceflbr successor
 fuccelfive successive
 fuccertor successor
 fuccess success
+fuchjustice such\ justice
+fuchperson such\ person
+fuchPerson such\ Person
 fufficien sufficien
 fuffi-cient sufficient
 fufiicien sufficien
@@ -621,6 +658,7 @@ fuhfcrib subscrib
 fummon summon
 fumsof sums\ of
 fupply supply
+fuppofe suppose
 fupport support
 furnifh furnish
 furpluf surplus
@@ -638,11 +676,18 @@ fVeJlmin Westmin
 fvejtmin Westmin
 fVeJtmin Westmin
 G1I GII
+gcncral general
+Gcncral General
+gcneral general
+Gcneral General
 g°°d good
 ge0 geo
 Ge0 Geo
 GE0 GEO
 Ge6r Geor
+gencral general
+Gencral General
+genera) general
 GEORGii GEORGII
 GeorgiiIII Georgii\ III
 GEORGU GEORGII
@@ -679,6 +724,8 @@ holpital hospital
 Holpital Hospital
 Homeftead Homestead
 honeft honest
+(hopkeeper shopkeeper
+Horfc Horse
 houfc house
 Houfc House
 houfeholder householder
@@ -687,13 +734,17 @@ houfe house
 Houfe House
 Houfes Houses
 housesof houses\ of
+huf-band husband
+Huf-band Husband
 hujband husband
+hundredand hundred\ and
 iddlefcx iddlesex
 iddlefex iddlesex
 ifhmonger ishmonger
 -iixth -sixth
 imburfe imburse
 impofed imposed
+Impofttion Imposition
 impojition imposition
 impovver impower
 impreff impress
@@ -724,8 +775,10 @@ inquefl inquest
 inqueft inquest
 Inqueft Inquest
 inquejl inquest
+inspe&cd inspected
 inspedtor inspector
 inspeftor inspector
+inspe&or inspector
 intereft interest
 Intereft Interest
 Interejl Interesl
@@ -778,6 +831,7 @@ jlminster stminster
 Jndge Judge
 jnftice justice
 Jnftice Justice
+Joftice Justice
 jpeftive spective
 jpirit spirit
 Jpirit spirit
@@ -822,6 +876,8 @@ JVeJ Wes
 kceper keeper
 kecper keeper
 keepcr keeper
+Keftridion Restriction
+Keftri&ion Restriction
 Kiddcrm Kidderm
 Kiugston Kingston
 licenfe license
@@ -865,6 +921,7 @@ Majestv Majesty
 Maje&y Majesty
 manufadlur manufacture
 Manufadlur Manufacture
+manufadture manufacture
 manufadur manufactur
 manufaft manufact
 Manufaft Manufact
@@ -881,6 +938,7 @@ Mejesty Majesty
 men-tioned mentioned
 mercband merchand
 Mercband Merchand
+merchandifc merchandise
 Merchandifc Merchandise
 Merchandife Merchandise
 Middlc Middle
@@ -910,6 +968,7 @@ mifmanagc mismanage
 Mifmanagc Mismanage
 mifmanage mismanage
 Mifmanage Mismanage
+mijjion mission
 mildemeanor misdemeanor
 Mildemeanor Misdemeanor
 milfioner missioner
@@ -932,6 +991,7 @@ moGeo mo\ Geo
 Mojefly Majesty
 moutb mouth
 Mqjesty Majesty
+Mufcovy Muscovy
 ncgledt neglect
 ncgleft neglect
 ncvcr never
@@ -943,7 +1003,18 @@ ne-ver never
 neVer never
 nevertbe neverthe
 neverthc neverthe
+Newcafile Newcastle
+Newcafllc Newcastle
+Newcaflle Newcastle
 Newcaftlc Newcastle
+Newcajllc Newcastle
+NewcaJllc Newcastle
+New-cajlle Newcastle
+Newcajlle Newcastle
+NewcaJlle Newcastle
+New-castle Newcastle
+news-paper newspaper
+News-paper Newspaper
 nonoGeo nono\ Geo
 nortb north
 Nortb North
@@ -959,6 +1030,7 @@ notwithtland notwithstand
 notwitk notwith
 notwitli notwith
 notwitn notwith
+notwjth notwith
 notwtth notwith
 nufa&ure nufacture
 ob-ferve observe
@@ -971,6 +1043,8 @@ obftruct obstruct
 obftruCt obstruct
 obftru& obstruct
 Obftru& Obstruct
+obstruft obstruct
+Obstruft Obstruct
 occa-fion occasion
 Occa-fion Occasion
 occaflon occasion
@@ -1001,6 +1075,7 @@ Pafleboard Pasteboard
 paflenger passenger
 Paflenger Passenger
 PafTenger Passenger
+Pajlurc Pasture
 Palfenger Passenger
 parifb parish
 Parifb Parish
@@ -1024,6 +1099,7 @@ pCrfon person
 Pcrfon Person
 PCrfon Person
 Pen-fioner Pensioner
+Penfion Pension
 Per-fbn Person
 per-fon person
 Per-fon Person
@@ -1042,6 +1118,7 @@ Plain-tiff Plaintiff
 poffeff possess
 poffefs possess
 poffejf possess
+pofition position
 Pofleflion Possession
 pofsession possession
 Pofsession Possession
@@ -1055,6 +1132,7 @@ pojfejf possess
 pojfejj possess
 pojjejf possess
 pojjejj possess
+poveri(hed poverished
 prccinft precinct
 Prccinft Precinct
 Predeceffor Predecessor
@@ -1064,6 +1142,7 @@ prefent present
 Prefent Present
 preferv preserv
 Prefi-dent President
+presentMajesty present\ Majesty
 prifon prison
 Primrofe Primrose
 Prison-er Prisoner
@@ -1122,6 +1201,10 @@ purpofeof purpose\ of
 purpofe purpose
 Pur-pofe Purpose
 Purpofe Purpose
+Pur-pole Purpose
+Pur-pose Purpose
+qbftruftion obstruction
+Qbftruftion Obstructions
 Qffice Office
 quadragcfimo quadragesimo
 quadragef quadrages
@@ -1147,6 +1230,8 @@ rcfpedl respect
 rcfpe& respect
 Rcftridion Restriction
 Rcftriftion Restriction
+rcftri& restrict
+Rcftri& Restrict
 rcgiftcr register
 rcgjfter register
 reafcn reason
@@ -1155,9 +1240,20 @@ re-cognifance recognisance
 recoyer recover
 re-ferving reserving
 referving reserving
+refi-dcncc residence
+refidcnce residence
+refi-dence residence
 refidence residence
+Refi-dence Residence
+refi-dent resident
 refident resident
+Refi-deuce Residence
+Refi-due Residue
+Refidue Residue
 refign resign
+refldent resident
+Reflridlion Restriction
+Reflridtion Restriction
 reflriftion restriction
 refpcctive respective
 refpcCtive respective
@@ -1191,6 +1287,8 @@ refpeft respect
 re-fpe& respect
 reftify rectify
 Reftridion Restriction
+reftri& restrict
+Reftri& Restrict
 regifler register
 Regifler Register
 regifter register
@@ -1232,12 +1330,15 @@ Seifion Session
 Seilion Session
 Se(lions Sessions
 shall\ t>e shall\ be
+soidier soldier
 Somcrfct Somerset
 Somcrfet Somerset
 Somerfct Somerset
+somerfet somerset
 Somerfet Somerset
 soutb south
 Soutb South
+speCt spect
 Subdivilion Subdivision
 Subfcrib Subscrib
 Subfiftence Subsistence
@@ -1284,10 +1385,12 @@ TheAuthor The\ Author
 theCommission the\ Commission
 theExpen the\ Expen
 theirc their\ c
+theJaid the\ said
 theparifh the\ parish
 theParifh the\ Parish
 thirtv thirty
 Thirtv Thirty
+thjrty thirty
 thoufand thousand
 thoufimd thousand
 thoufond thousand
@@ -1297,6 +1400,8 @@ thouJand thousand
 thousandpound thousand\ pound
 thousandsix thousand\ six
 ti(h tish
+Tin&ure Tincture
+tionofthe tion\ of\ the
 tivcly tively
 tiventy twenty
 to\ t>e to\ be
@@ -1310,8 +1415,11 @@ townlhip township
 tranf-port transport
 tranfport transport
 Tranfport Transport
+traniport transport
 tranlcript transcript
 Tranlcript Transcript
+transeript transcript
+Transeript Transcript
 trea-furer treasurer
 treafur-er treasurer
 treafurer treasurer
@@ -1346,6 +1454,7 @@ Twecd Tweed
 twenfy twenty
 twentietn twentieth
 Twentv Twenty
+ubfcrib ubscrib
 ublickaft ublick\ act
 ufbandrv usbandry
 ufual usual
@@ -1405,6 +1514,8 @@ Wejtmln Westmin
 Weslmin Westmin
 Westminft Westminst
 Westminjl Westminst
+Westminj Westmins
+WestminJ Westmins
 Wettmin Westmin
 wifhftand withstand
 Wincbe Winche
@@ -1430,55 +1541,4 @@ yvarehouse warehouse
 YVarehouse Warehouse
 zvater-bailiff water-bailiff
 zvhicb which
-Adminiffrator Administrator
-adminiffrator administrator
-Eledfion Election
-traniport transport
-notwjth notwith
-mijjion mission
-speCt spect
-Rcftri& Restrict
-rcftri& restrict
-Reftri& Restrict
-reftri& restrict
-inspe&cd inspected
-inspe&or inspector
-Qbftruftion Obstructions
-qbftruftion obstruction
-fa&ure facture
-poveri(hed poverished
-Tin&ure Tincture
-tionofthe tion\ of\ the
-fuchjustice such\ justice
-fuchPerson such\ Person
-fuchperson such\ person
-theJaid the\ said
-genera) general
-Impofttion Imposition
-Horfc Horse
-fol-low follow
-Auftion Auction
-Fiiher Fisher
-presentMajesty present\ Majesty
-Ereftion Erection
-Reflridlion Restriction
-Reflridtion Restriction
-Britisb British
-Compofit Composit
-Compolit Composit
-Assess-ment Assessment
-Pur-pose Purpose
-Pur-pole Purpose
-Joftice Justice
-soidier soldier
-Obstruft Obstruct
-obstruft obstruct
-refidcnce residence
-refi-dence residence
-refi-dcncc residence
-refi-dent resident
-refldent resident
-Refi-dence Residence
-Refi-deuce Residence
-Refi-due Residue
-Pajlurc Pasture
+

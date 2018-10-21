@@ -7,6 +7,8 @@ cer-tificate certificate
 cer-tificate cer-tificate
 Cer-tificate Certificate
 Cer-tificate Cer-tificate
+circmnstance circumstance
+circuinstance circumstance
 cnarge charge
 Cnarge Charge
 effectnal effectual
@@ -15,25 +17,22 @@ justioe justice
 Justioe Justice
 Kiugston Kingston
 mar-riage marriage
+m-missioner mmissioner
 plain-tiff plaintiff
 Plain-tiff Plaintiff
+Pro-ceed Proceed
 Rail-way Railway
 seijeant serjeant
 Seijeant Serjeant
 sub-ject subject
 sub-scrib subscrib
+Suhurb Suburb
 Tbirteen Thirteen
 Tbirty Thirty
-warchouse warehouse
-Warchouse Warehouse
-sub-scrib subscrib
-sub-ject subject
-circuinstance circumstance
-circmnstance circumstance
 tdbunal tribunal
 Tdbunal Tribunal
-Pro-ceed Proceed
-m-missioner mmissioner
 theCommission the\ Commission
 theExpen the\ Expen
+warchouse warehouse
+Warchouse Warehouse
 

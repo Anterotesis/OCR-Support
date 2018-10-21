@@ -50,6 +50,7 @@ Act\ fer Act\ for
 act\ fir act\ for
 Act\ for\ veiling Act\ for\ vesting
 act\ fqr act\ for
+Act\ paded Act\ passed
 act\ paffed act\ passed
 act\ paffei act\ passed
 Act\ paifed Act\ passed
@@ -69,11 +70,13 @@ Ad\ Act An\ Act
 ad\ aforesaid as\ aforesaid
 ad\ ditional additional
 ad\ for act\ for
+Ad\ for Act\ for
 adl\ for act\ for
 adl\ made act\ made
 adl\ to act\ to
 ad\ made act\ made
 ad\ of\ parliament act\ of\ parliament
+Ad\ of\ Parliament Act\ of\ Parliament
 ad\ or\ acts act\ or\ acts
 Ad\ or\ Acts Act\ or\ Acts
 ads\ of\ parliament acts\ of\ parliament
@@ -82,6 +85,7 @@ adt\ of\ parliament act\ of\ parliament
 advice\ ana\ consent advice\ and\ consent
 Advice\ ana\ Consent Advice\ and\ Consent
 afi\ of\ parliament act\ of\ parliament
+aforesaid\ Ad aforesaid\ Act
 aforesaid\ aft aforesaid\ act
 aforesaid\ Aft aforesaid\ Act
 aft\ and\ acts act\ and\ acts
@@ -111,6 +115,7 @@ Ah\ Act An\ Act
 Ah\ Ad An\ Act
 ah\ aft an\ act
 Ah\ a\ ft An\ act
+Ah\ aft An\ act
 Ah\ A\ ft An\ Act
 Ah\ AS An\ Act
 ahd\ for and\ for
@@ -119,6 +124,7 @@ aH\ Intents all\ Intents
 aH\ such all\ such
 \/aid\ acts said\ acts
 aid\ aft said\ act
+Aii\ Act An\ Act
 Ail\ Act An\ Act
 a\ lift a\ list
 a\ Lift a\ List
@@ -126,6 +132,7 @@ all\ A&s all\ Acts
 alt\ of\ parliament act\ of\ parliament
 alts\ of\ parliament acts\ of\ parliament
 Am\ Act An\ Act
+Am\ Ad An\ Act
 amending\ the\ fame amending\ the\ same
 an\ 4\ Ad an\ Act
 An\ 4\ Ad An\ Act
@@ -134,11 +141,16 @@ An\ a3 An\ act
 An\ A3 An\ Act
 an\ a51 an\ act
 An\ a51 An\ act
+An\ A5t An\ Act
 an\ A\ 61 an\ Act
 An\ A\ 61 An\ Act
+An\ A6t An\ Act
+An\ A81 An\ Act
 an\ A8 an\ Act
 An\ a8 An\ act
 An\ A8 An\ Act
+An\ A8i An\ Act
+An\ A9\ for An\ Act\ for
 an\ aA an\ Act
 an\ Aa an\ Act
 an\ A\ A an\ Act
@@ -187,6 +199,7 @@ An\ A\ cl An\ Act
 An\ Acl An\ Act
 An\ A\ Cl An\ Act
 An\ A\ CL An\ Act
+A\ N\ Act AN\ Act
 An\ act\ far An\ act\ for
 An\ Act\ far An\ Act\ for
 An\ act\ fdr An\ act\ for
@@ -255,6 +268,7 @@ An\ ah\ for An\ act\ for
 an\ AH\ made an\ Act\ made
 an\ AH\ of an\ Act\ of
 an\ AH\ passed an\ Act\ passed
+An\ ah\ to An\ act\ to
 ana\ if and\ if
 An\ Ail An\ Act
 An\ ail\ for An\ act\ for
@@ -281,7 +295,9 @@ An\ AQ An\ Act
 an\ AS an\ Act
 An\ aS An\ act
 An\ AS An\ Act
+An\ ASi An\ Act
 An\ A\ SI An\ Act
+An\ ASl An\ Act
 An\ a\ St An\ Act
 An\ A\ St An\ Act
 An\ at1 An\ act
@@ -293,6 +309,7 @@ ana\ that and\ that
 an\ at\ made an\ act\ made
 An\ At\ to An\ Act\ to
 and\ alio and\ also
+And\ bt\ it And\ be\ it
 and\ cods and\ costs
 and\ fbr and\ for
 An\ dft An\ act
@@ -311,6 +328,7 @@ any\ aA any\ act
 any\ Aa any\ Act
 any\ AA any\ Act
 any\ AA\ or any\ Act\ or
+any\ Ad\ or\ Ada any\ Act\ or\ Acts
 any\ aft any\ act
 any\ fort\ of any\ sort\ of
 any\ lift any\ list
@@ -352,6 +370,7 @@ aU\ such all\ such
 Authority\ of\ the\ fame Authority\ of\ the\ same
 authority\ of\ the\ lame authority\ of\ the\ same
 Ax\ Act An\ Act
+Bank\ of\ Inland Bank\ of\ Ireland
 be\ 4\ lawful be\ lawful
 be\ 4\ made be\ made
 be\ 4\ paid be\ paid
@@ -365,6 +384,7 @@ be\ it\ enaded be\ it\ enacted
 be\ jt\ further be\ it\ further
 be\ lt\ enacted be\ it\ enacted
 be\ railed\ in be\ raised\ in
+be\ uled be\ used
 beyond\ the\ Teas beyond\ the\ seas
 bis\ deputy his\ deputy
 bis\ Deputy his\ Deputy
@@ -389,6 +409,7 @@ bis\ wife his\ wife
 bis\ Wife his\ Wife
 Brother\ or\ Sifter Brother\ or\ Sister
 buying\ and\ felling buying\ and\ selling
+buying\ or\ felling buying\ or\ selling
 by\ aa\ Act by\ an\ Act
 by\ aft by\ act
 by\ ah\ act by\ an\ act
@@ -397,6 +418,9 @@ called\ 44\ The called\ The
 capital\ flock capital\ stock
 capital\ (lock capital\ stock
 cf\ the of\ the
+cither\ by either\ by
+cither\ in either\ in
+cither\ of either\ of
 civil\ lift civil\ list
 Civil\ lift Civil\ list
 Civil\ Lift Civil\ List
@@ -404,6 +428,7 @@ cods\ of\ suit costs\ of\ suit
 colts\ of\ suit costs\ of\ suit
 com-VV\ mons commons
 Cotton\ Yam Cotton\ Yarn
+County\ of\ Fork County\ of\ York
 county\ of\ Tori county\ of\ York
 County\ of\ Tori County\ of\ York
 county\ of\ Tork county\ of\ York
@@ -415,6 +440,9 @@ Double\ cods Double\ costs
 Double\ Cods Double\ Costs
 duke\ of\ Tori duke\ of\ York
 Duke\ of\ Tori Duke\ of\ York
+Eafi\ India East\ India
+eafi\ riding east\ riding
+Eajf\ Indies East\ Indies
 ef\ the of\ the
 entitled\ 44\ An entitled\ An
 Excifeofficcrs Excise\ officers
@@ -423,13 +451,17 @@ fa\ id\ acts said\ acts
 fa\ id\ Acts said\ Acts
 fail\ cloth sail\ cloth
 fame\ session same\ session
+fame\ Session same\ Session
 far\ aa far\ as
 fb\ much so\ much
 fbr\ the for\ the
 fell\ and\ convey sell\ and\ convey
 fell\ and\ dispose sell\ and\ dispose
 fell\ annuities sell\ annuities
+felling\ Ale selling\ Ale
 felling\ annuities selling\ annuities
+felling\ Beer selling\ Beer
+felling\ Spirituous selling\ Spirituous
 fell\ or\ expose sell\ or\ expose
 fend\ and\ receive send\ and\ receive
 fending\ and\ receiving sending\ and\ receiving
@@ -447,17 +479,22 @@ fifty\ fix fifty\ six
 fir\ John sir\ John
 fir\ William sir\ William
 fix\ acres six\ acres
+fix\ calendar six\ calendar
 fix\ days six\ days
 fix\ hundred six\ hundred 
 fix\ millions six\ millions
 fix\ months six\ months
+fix\ Months six\ Months
 fix\ pence six\ pence
 fix\ pounds six\ pounds
 fix\ shillings six\ shillings
+fix\ Shillings six\ Shillings
 fixtb\ Tear sixth\ Year
 fix\ thousand six\ thousand
 fix\ weeks six\ weeks
+fix\ Weeks six\ Weeks
 fix\ years six\ years
+fix\ Years six\ Years
 fn\ case in\ case
 fn\ every in\ every
 fn\ such in\ such
@@ -469,7 +506,11 @@ foie\ purpose sole\ purpose
 foie\ Purpose sole\ Purpose
 foie\ right sole\ right
 foie\ use sole\ use
+fold\ as sold\ as
+fold\ at sold\ at
+fold\ by sold\ by
 fold\ pursuant sold\ pursuant
+fold\ to sold\ to
 fo\ much so\ much
 forfeited\ and\ loft forfeited\ and\ lost
 former\ aa former\ act
@@ -477,6 +518,7 @@ former\ Aa former\ Act
 former\ AA former\ Act
 former\ ad former\ act
 former\ aft former\ act
+former\ AT former\ Act
 for\ railing\ a for\ raising\ a
 For\ railing\ a For\ raising\ a
 for\ railing\ the for\ raising\ the
@@ -509,6 +551,7 @@ futn\ and sum\ and
 futn\ not sum\ not
 futn\ of sum\ of
 futn\ or sum\ or
+Gaolers\ ot\ Keepers Gaolers\ or\ Keepers
 General\ iffue General\ issue
 General\ ifiuc General\ issue
 GEORGE\ Ill GEORGE\ III
@@ -522,6 +565,7 @@ Georgii\ IT Georgii\ II
 Georgii\ TII Georgii\ III
 Georgii\ TIL Georgii\ III
 Gnat\ Britain Great\ Britain
+Goalers\ ot\ Keepers Goalers\ or\ Keepers
 gold\ and\ fiver gold\ and\ silver
 gold\ or\ fiver gold\ or\ silver
 haye\ been have\ been
@@ -535,9 +579,14 @@ he\ or\ (he he\ or\ she
 he\ or\ lhe he\ or\ she
 Her\ 4\ present Her\ present
 HE\ RE\ AS HEREAS
+Hi9\ Majesty His\ Majesty
+hia\ Majesty his\ Majesty
 Hia\ Majesty His\ Majesty
+hia\ or\ her his\ or\ her
+hia\ or\ their his\ or\ their
 Hia\ present His\ present
 Hie\ Majesty His\ Majesty
+Hii\ Majesty His\ Majesty
 His\ 4\ late His\ late
 His\ 4\ Majesty His\ Majesty
 His\ 4\ present His\ present
@@ -549,6 +598,7 @@ hun-4\ dred hundred
 hundred\ 4\ and hundred\ and
 hundred\ 4\ thousand hundred\ thousand
 hundred\ ana hundred\ and
+hundred\ and\ fix hundred\ and\ six
 hundred\ arid hundred\ and
 hy\ an by\ an
 hy\ the by\ the
@@ -556,6 +606,8 @@ ih\ the in\ the
 in\ 4\ the in\ the
 in\ any\ wife in\ any\ wise 
 in\ cafe\ his in\ case\ his
+I\ N\ D\ E\ X INDEX
+info\ Great into\ Great
 in\ ibe in\ the
 (inking\ fund sinking\ fund
 inoft\ excellent most\ excellent
@@ -590,8 +642,14 @@ Jin\ AS An\ Act
 Jive\ hundred five\ hundred
 Jive\ pounds five\ pounds
 Jive\ thousand five\ thousand
+jn\ the in\ the
+jn\ this in\ this
+jo\ far so\ far
+Jo\ far so\ far
 jor\ the for\ the
 Jor\ the for\ the
+jo\ to\ do so\ to\ do
+Jo\ to\ do so\ to\ do
 just\ ices\ of justices\ of
 lad\ aforesaid last\ aforesaid
 lad\ day last\ day
@@ -604,7 +662,11 @@ lad\ recited last\ recited
 lad\ session last\ session
 lad\ Session last\ Session
 laid\ Act said\ Act
+lall\ mentioned last\ mentioned
+lall\ Session last\ Session
+lall\ Will last\ Will
 lame\ county same\ county
+lame\ Session same\ Session
 lame\ uses same\ uses
 (lamp\ duties stamp\ duties
 Lards\ Spiritual Lords\ Spiritual
@@ -634,6 +696,7 @@ mod\ excellent most\ excellent
 mod\ Excellent most\ Excellent
 Mod\ Excellent Most\ Excellent
 mod\ expedient most\ expedient
+mod\ faithful most\ faithful
 mod\ gracious most\ gracious
 mod\ Gracious most\ Gracious
 Mod\ Gracious Most\ Gracious
@@ -650,11 +713,15 @@ mod\ usual most\ usual
 mofi\ excellent most\ excellent
 Mofi\ gracious Most\ gracious
 moil\ Excellent most\ Excellent
+Moil\ Excellent Most\ Excellent
 Mojl\ gracious Most\ gracious
+moll\ dutiful most\ dutiful
 moll\ excellent most\ excellent
+moll\ Excellent most\ Excellent
 Moll\ Excellent Most\ Excellent
 moll\ gracious most\ gracious
 Moll\ gracious Most\ gracious
+Moll\ Gracious Most\ Gracious
 Month\ and\ Tear Month\ and\ Year
 m\ pursuance in\ pursuance
 m\ regard in\ regard
@@ -663,14 +730,18 @@ m\ Scotland in\ Scotland
 m\ such in\ such
 m\ the in\ the
 m\ this in\ this
+nis\ Majesty his\ Majesty
+nis\ present his\ present
 Number\ ot Number\ of
 of\ 44\ the of\ the
 of\ 44\ The of\ The
+of\ 4\ the of\ the
 of\ bis of\ his
 of\ ibe of\ the
 of\ the\ fame of\ the\ fame
 of\ this\ aff of\ this\ act
 one\ thou\ land one\ thousand
+or\ tp or\ to
 ot\ any of\ any
 other\ aA other\ act
 other\ AA other\ Act
@@ -679,9 +750,13 @@ other\ fons other\ sons
 other\ wife other\ wise
 ot\ his of\ his
 ot\ the of\ the
+oue\ thousand one\ thousand
+Oue\ thousand One\ thousand
+pailed\ in passed\ in
 Parish\ ot Parish\ of
 parted\ in\ the passed\ in\ the
 particular\ cafes particular\ cases
+passed\ 4\ in passed\ in
 patted\ in passed\ in
 pf\ any of\ any
 pf\ his of\ his
@@ -696,6 +771,7 @@ present\ AA present\ Act
 present\ abl present\ act
 present\ Abl present\ Act
 present\ ad present\ act
+present\ Ad present\ Act
 present\ aft present\ act
 private\ Aft private\ Act
 Public\ Aa Public\ Act
@@ -740,6 +816,7 @@ said\ AAs said\ Acts
 said\ ad said\ act
 said\ Ad said\ Act
 said\ adt said\ act
+said\ a\ ft said\ act
 said\ aft said\ act
 said\ Aft said\ Act
 said\ AH said\ Act
@@ -749,6 +826,10 @@ said\ alts said\ acts
 said\ Jum said\ sum
 Same\ ad Same\ act
 Same\ aft Same\ act
+session\ cf\ parliament session\ of\ parliament
+session\ cf\ Parliament session\ of\ Parliament
+Session\ cf\ parliament Session\ of\ parliament
+Session\ cf\ Parliament Session\ of\ Parliament
 several\ AAs several\ Acts
 several\ adls several\ acts
 several\ ads several\ acts
@@ -771,6 +852,8 @@ Tear\ of\ the\ Reign Year\ of\ the\ Reign
 Tear\ One\ thousand Year\ One\ thousand
 that\ aft that\ act
 That\ ail\ and That\ all\ and
+the\ 4\ said the\ said
+the\ Ad\ of the\ Act\ of
 the\ aft the\ act
 the\ (aid the\ said
 the\ fame\ act the\ same\ act
@@ -823,6 +906,7 @@ thou\ fan\ d thousand
 thou\ sand thousand
 time\ ot time\ of
 Time\ ot Time\ of
+time\ tp\ time time\ to\ time
 to\ ad\ as to\ act\ as
 to\ aft to\ act
 to\ be\ railed to\ be\ raised
@@ -840,6 +924,7 @@ Two\ AAs Two\ Acts
 two\ afts two\ acts
 veiling\ in vesting\ in
 vended\ or\ fold vended\ or\ sold
+vending\ or\ felling vending\ or\ selling
 virtue\ ot virtue\ of
 Virtue\ ot Virtue\ of
 VV\ His His
@@ -856,7 +941,12 @@ VV\ Year Year
 Walh\ brewed Wash\ brewed
 Walh\ Stills Wash\ Stills
 Walh\ Still Wash\ Still
+Wef\ Indies West\ Indies
 weft\ riding west\ riding
+Welt\ India West\ India
+Welt\ Indies West\ Indies
+welt\ riding west\ riding
+welt\ side west\ side
 which\ aft which\ act
 wilfully\ aft wilfully\ act
 willingly\ aft willingly\ act
@@ -875,72 +965,4 @@ yin\ Atl an\ Act
 yin\ Att an\ Act
 younger\ fons younger\ sons
 Your\ 4\ Majesty Your\ Majesty
-Aii\ Act An\ Act
-former\ AT former\ Act
-Moll\ Gracious Most\ Gracious
-Moil\ Excellent Most\ Excellent
-Am\ Ad An\ Act
-said\ a\ ft said\ act
-Bank\ of\ Inland Bank\ of\ Ireland
-Eafi\ India East\ India
-eafi\ riding east\ riding
-Goalers\ ot\ Keepers Goalers\ or\ Keepers
-Gaolers\ ot\ Keepers Gaolers\ or\ Keepers
-Oue\ thousand One\ thousand
-oue\ thousand one\ thousand
-hundred\ and\ fix hundred\ and\ six
-fix\ calendar six\ calendar
-pailed\ in passed\ in
-Ad\ for Act\ for
-the\ Ad\ of the\ Act\ of
-An\ A9\ for An\ Act\ for
-a9\ aforesaid as\ aforesaid
-Au\ Act An\ Act
-Wef\ Indies West\ Indies
-Act\ paded Act\ passed
-Hii\ Majesty His\ Majesty
-of\ 4\ the of\ the
-passed\ 4\ in passed\ in
-the\ 4\ said the\ said
-A\ N\ Act AN\ Act
-I\ N\ D\ E\ X INDEX
-fold\ at sold\ at
-fold\ as sold\ as
-fold\ by sold\ by
-fold\ to sold\ to
-mod\ faithful most\ faithful
-present\ Ad present\ Act
-Hi9\ Majesty His\ Majesty
-lame\ Session same\ Session
-Eajf\ Indies East\ Indies
-moll\ Excellent most\ Excellent
-moll\ dutiful most\ dutiful
-And\ bt\ it And\ be\ it
-Hi9\ Majesty His\ Majesty
-hia\ Majesty his\ Majesty
-hia\ or\ her his\ or\ her
-hia\ or\ their his\ or\ their
-An\ A5t An\ Act
-An\ A6t An\ Act
-An\ A8i An\ Act
-An\ A81 An\ Act
-An\ ASl An\ Act
-An\ ASi An\ Act
-County\ of\ Fork County\ of\ York
-fix\ Weeks six\ Weeks
-fix\ Shillings six\ Shillings
-fix\ Years six\ Years
-fix\ Months six\ Months
-jn\ this in\ this
-jn\ the in\ the
-Ah\ aft An\ act
-An\ ah\ to An\ act\ to
-buying\ or\ felling buying\ or\ selling
-vending\ or\ felling vending\ or\ selling
-felling\ Ale selling\ Ale
-felling\ Beer selling\ Beer
-felling\ Spirituous selling\ Spirituous
-aforesaid\ Ad aforesaid\ Act
-Ad\ of\ Parliament Act\ of\ Parliament
-any\ Ad\ or\ Ada any\ Act\ or\ Acts
-be\ uled be\ used
+

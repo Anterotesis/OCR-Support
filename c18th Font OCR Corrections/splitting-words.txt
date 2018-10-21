@@ -1,9 +1,9 @@
-onfuch on\ such
 0fthc of\ the
 0fthe of\ the
 a3for act\ for
 A3for Act\ for
 A61Be Act\ Be
+A61(hall Act\ shall
 a8for act\ for
 A8for Act\ for
 aaafardaid as\ aforesaid
@@ -35,6 +35,7 @@ AdditionalTrujleet Additional\ Trustees
 AdditionalTrustees Additional\ Trustees
 affe&ingthe affecting\ the
 Africaand Africa\ and
+africansand africans\ and
 aftfor act\ for
 Aftfor Act\ for
 aftpaffed act\ passed
@@ -43,6 +44,7 @@ alfoenacted also\ enacted
 alfoenadled also\ enacted
 alfoenafted also\ enacted
 allowBe allow\ Be
+allpersons all\ persons
 amendedbe amended\ be
 amendedBe amended\ Be
 Americaand America\ and
@@ -89,6 +91,7 @@ anyperson any\ person
 anythe any\ the
 anywifenotwithftanuing anywise\ notwithstanding
 ApabllckaA A\ publick\ act
+appeal(hall appeal\ shall
 ApubijckaA A\ publick\ act
 ApublickaA A\ publick\ act
 arifefrom arise\ from
@@ -130,6 +133,8 @@ bythe by\ the
 bythis by\ this
 Canadaand Canada\ and
 caufeof cause\ of
+cityof city\ of
+Cityof City\ of
 cleanfingand cleansing\ and
 cleanfingthe cleansing\ the
 Commifficnsshall  Commissions\ shall
@@ -165,6 +170,7 @@ describedBe described\ Be
 difpofedof disposed\ of
 Diftancesfrom Distances\ from
 Dillancesfrom Distances\ from
+directedto directed\ to
 dischargedfrom discharged\ from
 dischargethe discharge\ the
 donotwithjlanding do\ notwithstanding
@@ -185,6 +191,10 @@ enaftedand enacted\ and
 enaftedby enacted\ by
 enaftedThat enacted\ That
 enpar-liament en\ parliament
+establi(hedby established\ by
+everyfuch every\ such
+Everyfuch Every\ such
+everyperson every\ person
 excellentMajesty excellent\ Majesty
 excellentprincefs excellent\ princess
 exceptfuch except\ such
@@ -763,6 +773,7 @@ feVeralacts several\ acts
 fhouldbe should\ be
 firstyear first\ year
 fixthyear sixth\ year
+fomeof some\ of
 fomuch so\ much
 forcedby forced\ by
 forinclofing for\ inclosing
@@ -809,9 +820,12 @@ ftatutcof statute\ of
 ftatuteof statute\ of
 fuchOflicer such\ Officer
 fufferdeath suffer\ death
+fufpe&edtobe  suspected\ to\ be
+fufpe&edto suspected\ to
 fumof sum\ of
 fwornupon sworn\ upon
 GeorgiiII Georgii\ II
+givingto giving\ to
 goodsfrom goods\ from
 GreatBritain Great\ Britain
 (hallnot shall\ not
@@ -833,6 +847,7 @@ hisMajeJly his\ Majesty
 hismajejty his\ majesty
 hisMajessy his\ Majesty
 HisMoft His\ Most
+hispresent his\ present
 His-present His\ present
 Hispresent His\ present
 houseof house\ of
@@ -869,6 +884,7 @@ Irelandfor Ireland\ for
 Irelandof Ireland\ of
 Irelandthe Ireland\ the
 itfurther it\ further
+Januaryand January\ and
 jecondyear second\ year
 jhouldbe should\ be
 Justiceof Justice\ of
@@ -967,6 +983,7 @@ ofMarch of\ March
 ofOftober of\ October
 ofpar-liament of\ parliament
 ofparliament of\ parliament
+ofpersons of\ persons
 ofScotland of\ Scotland
 ofSeptember of\ September
 oftbe of\ the
@@ -1020,6 +1037,7 @@ Parliamentand Parliament\ and
 Parliamentbe Parliament\ be
 ParliamentBe Parliament\ Be
 ParliamentMay Parliament\ May
+paythe pay\ the
 personor person\ or
 pfthe of\ the
 placeof place\ of
@@ -1226,20 +1244,25 @@ thcKing the\ King
 thcQueen the\ Queen
 thcstatutcof the\ statute\ of
 thcTreafury the\ Treasury
+theAct the\ Act
 theaforesaid the\ aforesaid
 theChairman the\ Chairman
 TheCheshire The\ Cheshire
 thecity the\ city
 thecuftody the\ custody
+thedebt the\ debt
 theEstablish-ment the\ Establishment
 thefaid the\ said
 thefame the\ same
+Thefollowing The\ following
 thefpaceof the\ space\ of
 theftatute the\ statute
 thefums the\ sums
 thefum the\ sum
+thefurther the\ further
 thehoufe the\ house
 theirMajesties their\ Majesties
+thejaid the\ said
 thejustices the\ justices
 thelaft the\ last
 thelflandof the\ island\ of
@@ -1248,6 +1271,8 @@ thenavy the\ navy
 theofficer the\ officer
 thepaffing the\ passing
 theparish the\ parish
+theparliament the\ parliament
+thepersons the\ persons
 theprincipal the\ principal
 theprisons the\ prisons
 thepritoner the\ prisoner
@@ -1372,22 +1397,31 @@ zapitaljlock capital\ stock
 Zealandbe Zealand\ be
 ZealandBe Zealand\ Be
 zvbereoffuch whereof\ such
-Thefollowing The\ following
-thefurther the\ further
-theparliament the\ parliament
-theAct the\ Act
-givingto giving\ to
-Januaryand January\ and
-thedebt the\ debt
-africansand africans\ and
-zvbereoffuch whereof\ such
-ofpersons of\ persons
-thejaid the\ said
-thepersons the\ persons
-fufpe&edtobe  suspected\ to\ be
-fufpe&edto suspected\ to
-establi(hedby established\ by
-appeal(hall appeal\ shall
-allpersons all\ persons
-A61(hall Act\ shall
+fballhave shall\ have
+fhalLhave shall\ have
+fhouldhave should\ have
+Jballhave shall\ have
+JbalLhave shall\ have
+jbouidhave should\ have
+Jbouldhave should\ have
+fuchperfbn such\ person
+fuchperfcn such\ person
+fuchperfons such\ persons
+fuchperfon such\ person
+fuchprisons such\ prisons
+fuchprison such\ prison
+fuchproposed such\ proposed
+fuchProvisions such\ Provisions
+fuchPurchafe such\ Purchase
+fuchTicket fuch\ Ticket
+fuchVerification fuch\ Verification
+shallhave shall\ have
+shouldhave should\ have
+ufesand uses\ and
+Ufesand Uses\ and
+lhallhave shall\ have
+lhalLhave shall\ have
+Jh&uldhave should\ have
+lordsspiritual lords\ spiritual
+Ihouldhave should\ have
 
