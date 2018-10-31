@@ -47,7 +47,9 @@ eht ent
 emblc emble
 encc ence
 engtb ength
+entv enty
 ervcd erved
+estv esty
 etber ether
 etb eth
 etli eth
@@ -65,6 +67,7 @@ igncd igned
 ilvcr ilver
 incd ined
 inq ing
+irtv irty
 ivcd ived
 ivcly ively
 ivcr iver
@@ -99,6 +102,7 @@ odv ody
 olvcd olved
 omcd omed
 om-ed omed
+omerv omery
 oncd oned
 onev oney
 ophcr opher
@@ -116,6 +120,7 @@ pplv pply
 qaer quer
 qucnt quent
 ragc rage
+ratc rate
 rgcd rged
 ridgc ridge
 rilv rily
@@ -171,6 +176,7 @@ wav way
 wbere where
 weli well
 weU well
+whcrc where
 wicb wich
 wicli wich
 witb with
@@ -179,4 +185,5 @@ wtje wise
 xcife xcise
 yiog ying
 ytng ying
+zurc zure
 

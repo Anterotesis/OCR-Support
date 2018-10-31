@@ -60,6 +60,8 @@ Act\ paiTed Act\ passed
 act\ palTed act\ passed
 Act\ pasted Act\ passed
 Act\ patted Act\ passed
+act\ puffed act\ passed
+Act\ puffed Act\ passed
 acts\ ot\ parliament acts\ of\ parliament
 Acts\ ot\ Parliament Acts\ of\ Parliament
 Acts\ pa\ fled Acts\ passed
@@ -192,12 +194,14 @@ an\ acl an\ act
 an\ a\ Cl an\ act
 an\ Acl an\ Act
 an\ A\ Cl an\ Act
+an\ ACl an\ Act
 an\ A\ CL an\ Act
 An\ acl An\ act
 An\ aCl An\ act
 An\ A\ cl An\ Act
 An\ Acl An\ Act
 An\ A\ Cl An\ Act
+An\ ACl An\ Act
 An\ A\ CL An\ Act
 A\ N\ Act AN\ Act
 An\ act\ far An\ act\ for
@@ -269,6 +273,7 @@ an\ AH\ made an\ Act\ made
 an\ AH\ of an\ Act\ of
 an\ AH\ passed an\ Act\ passed
 An\ ah\ to An\ act\ to
+An\ Ah\ to An\ Act\ to
 ana\ if and\ if
 An\ Ail An\ Act
 An\ ail\ for An\ act\ for
@@ -307,6 +312,7 @@ An\ At\ for An\ Act\ for
 An\ AT\ for An\ Act\ for
 ana\ that and\ that
 an\ at\ made an\ act\ made
+An\ Att An\ Act
 An\ At\ to An\ Act\ to
 and\ alio and\ also
 And\ bt\ it And\ be\ it
@@ -407,6 +413,7 @@ bis\ realm his\ realm
 bis\ said his\ said
 bis\ wife his\ wife
 bis\ Wife his\ Wife
+bought\ and\ fold bought\ and\ sold
 Brother\ or\ Sifter Brother\ or\ Sister
 buying\ and\ felling buying\ and\ selling
 buying\ or\ felling buying\ or\ selling
@@ -426,6 +433,8 @@ Civil\ lift Civil\ list
 Civil\ Lift Civil\ List
 cods\ of\ suit costs\ of\ suit
 colts\ of\ suit costs\ of\ suit
+Com\ or\ Grain Corn\ or\ Grain
+complete\ the\ fame complete\ the\ same
 com-VV\ mons commons
 Cotton\ Yam Cotton\ Yarn
 County\ of\ Fork County\ of\ York
@@ -450,6 +459,18 @@ Excifeofficers Excise\ officers
 fa\ id\ acts said\ acts
 fa\ id\ Acts said\ Acts
 fail\ cloth sail\ cloth
+fame\ Ad same\ Act
+fame\ manner same\ manner
+fame\ Manner same\ Manner
+fame\ parish same\ parish
+fame\ Parish same\ Parish
+fame\ Period same\ Period
+fame\ person same\ person
+fame\ Person same\ Person
+fame\ place same\ place
+fame\ Place same\ Place
+fame\ rules same\ rules
+fame\ Rules same\ Rules
 fame\ session same\ session
 fame\ Session same\ Session
 far\ aa far\ as
@@ -480,13 +501,17 @@ fir\ John sir\ John
 fir\ William sir\ William
 fix\ acres six\ acres
 fix\ calendar six\ calendar
+fix\ Calendar six\ Calendar
 fix\ days six\ days
 fix\ hundred six\ hundred 
 fix\ millions six\ millions
+fix\ Millions six\ Millions
 fix\ months six\ months
 fix\ Months six\ Months
 fix\ pence six\ pence
+fix\ Pence six\ Pence
 fix\ pounds six\ pounds
+fix\ Pounds six\ Pounds
 fix\ shillings six\ shillings
 fix\ Shillings six\ Shillings
 fixtb\ Tear sixth\ Year
@@ -571,6 +596,7 @@ gold\ or\ fiver gold\ or\ silver
 haye\ been have\ been
 HEBE\ AS HEREAS
 he,\ (he\ and\ they he,\ she\ and\ they
+he,\ (he,\ or he,\ she,\ or
 he,\ (he\ or\ they he,\ she\ or\ they
 heirs\ arid heirs\ and
 Heirs\ arid Heirs\ and
@@ -584,6 +610,7 @@ hia\ Majesty his\ Majesty
 Hia\ Majesty His\ Majesty
 hia\ or\ her his\ or\ her
 hia\ or\ their his\ or\ their
+hia\ present his\ present
 Hia\ present His\ present
 Hie\ Majesty His\ Majesty
 Hii\ Majesty His\ Majesty
@@ -592,6 +619,7 @@ His\ 4\ Majesty His\ Majesty
 His\ 4\ present His\ present
 His\ 4\ said His\ said
 his\ laid\ Majesty his\ said\ Majesty
+His\ Mayfly His\ Majesty
 Hit\ present\ Majesty His\ present\ Majesty
 Houles\ of\ Correction Houses\ of\ Correction
 hun-4\ dred hundred
@@ -603,6 +631,7 @@ hundred\ arid hundred\ and
 hy\ an by\ an
 hy\ the by\ the
 ih\ the in\ the
+improving\ the\ fame improving\ the\ same
 in\ 4\ the in\ the
 in\ any\ wife in\ any\ wise 
 in\ cafe\ his in\ case\ his
@@ -676,6 +705,7 @@ linking\ fund sinking\ fund
 live\ hundred five\ hundred
 live\ pounds five\ pounds
 loft\ or\ destroyed lost\ or\ destroyed
+loft\ or\ mislaid lost\ or\ mislaid
 loft\ their lost\ their
 made\ and\ pajfed made\ and\ passed
 made\ m\ the made\ in\ the
@@ -683,6 +713,7 @@ making\ the\ fame making\ the\ same
 manner\ aa manner\ as
 many\ wife many\ wise
 marine\ farces marine\ forces
+may\ aft\ as may\ act\ as
 mentioned\ ad mentioned\ act
 mentioned\ Ad mentioned\ Act
 mentioned\ aft mentioned\ act
@@ -808,6 +839,7 @@ recited\ Aft recited\ Act
 recited\ afts recited\ acts
 recited\ AS recited\ Act
 Ruffian\ Majesty Russian\ Majesty
+said\ 4\ recited said\ recited
 said\ aA said\ act
 said\ Aa said\ Act
 said\ AA said\ Act
@@ -826,6 +858,7 @@ said\ alts said\ acts
 said\ Jum said\ sum
 Same\ ad Same\ act
 Same\ aft Same\ act
+Seed\ Com Seed\ Corn
 session\ cf\ parliament session\ of\ parliament
 session\ cf\ Parliament session\ of\ Parliament
 Session\ cf\ parliament Session\ of\ parliament
@@ -849,9 +882,11 @@ such\ aft such\ act
 such\ cods such\ costs
 Tear\ of\ His Year\ of\ His
 Tear\ of\ the\ Reign Year\ of\ the\ Reign
+Tear\ one\ thousand Year\ one\ thousand
 Tear\ One\ thousand Year\ One\ thousand
 that\ aft that\ act
 That\ ail\ and That\ all\ and
+the\ 4\ Reign the\ Reign
 the\ 4\ said the\ said
 the\ Ad\ of the\ Act\ of
 the\ aft the\ act
@@ -920,6 +955,7 @@ Treble\ colts Treble\ costs
 twenty-fir\ ft twenty-first
 twenty\ fix twenty\ six
 twenty\ lixth twenty\ sixth
+two\ AAs two\ Acts
 Two\ AAs Two\ Acts
 two\ afts two\ acts
 veiling\ in vesting\ in
@@ -938,11 +974,14 @@ VV\ present present
 VV\ Reign Reign
 VV\ Years Years
 VV\ Year Year
+Waite\ Grounds Waste\ Grounds
 Walh\ brewed Wash\ brewed
 Walh\ Stills Wash\ Stills
 Walh\ Still Wash\ Still
+Watte\ Grounds Waste\ Grounds
 Wef\ Indies West\ Indies
 weft\ riding west\ riding
+Well\ Riding West\ Riding
 Welt\ India West\ India
 Welt\ Indies West\ Indies
 welt\ riding west\ riding
@@ -950,6 +989,7 @@ welt\ side west\ side
 which\ aft which\ act
 wilfully\ aft wilfully\ act
 willingly\ aft willingly\ act
+within\ the\ fame within\ the\ same
 Wool\ or\ Yam Wool\ or\ Yarn
 year\ af year\ of
 Year\ af Year\ of
@@ -964,5 +1004,6 @@ yin\ AS an\ Act
 yin\ Atl an\ Act
 yin\ Att an\ Act
 younger\ fons younger\ sons
+your\ 4\ Majesty your\ Majesty
 Your\ 4\ Majesty Your\ Majesty
 

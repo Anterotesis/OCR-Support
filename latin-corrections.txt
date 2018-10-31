@@ -15,7 +15,9 @@ Ahnoquinto Anno\ quinto
 Aimo\ tricesimo Anno\ tricesimo
 Anao Anno
 Ann6 Anno
+Anna\ nono Anno\ nono
 Annaquinto Anno\ quinto
+Anna\ regni Anno\ regni
 Anna\ tricesimo Anno\ tricesimo
 Anna\ vicesimo Anno\ vicesimo
 Annd Anno
@@ -26,6 +28,7 @@ Anno\ dedmo Anno\ decimo
 Annodedmo Anno\ decimo
 Annodetimo Anno\ decimo
 Anno\ fegni Anno\ regni
+Annofegni Anno\ regni
 Annofexto Anno\ sexto
 Annonono Anno\ nono
 Annoo&avo Anno\ octavo
@@ -38,14 +41,29 @@ Anno\ regrii Anno\ regni
 Annosecundo Anno\ secundo
 Annoseptimo Anno\ septimo
 Annovicesimo Anno\ vicesimo
+Annoxegni Anno\ regni
 Annpquinto Anno\ quinto
 Anrio Anno
 Anrtoquinto Anno\ quinto
 Apno Anno
 Arino Anno
 Artno Anno
+CarolI Caroli
+CaroLi Caroli
+CarOli Caroli
+CaRoli Caroli
+CaRolI Caroli
+CaRoLI CAROLI
+CaROli Caroli
+CaROlI Caroli
+CaROLI Caroli
+CAroli Caroli
+CArOli Caroli
+CARolI Caroli
+CAROLi CAROLI
 ceorgii Georgii
 Ceorgii Georgii
+CEORGII GEORGII
 ceorgir Georgii
 Ceoroii Georgii
 CEORqri Georgii
@@ -55,6 +73,7 @@ dccimb decimo
 dccime decimo
 dccimo decimo
 dcclmo decimo
+dcdmo decimo
 decimoquinto decimo\ quinto
 declmo decimo
 dedmo decimo
@@ -73,6 +92,7 @@ EDWARDi EDWARDI
 EdwardiIII Edwardi\ III
 EdWARDIIV EDWARDI\ IV
 eglife eglise
+&EORGII GEORGII
 (eptimo septimo
 fccundo secundo
 fcptimo septimo
@@ -86,30 +106,56 @@ feptimo septimo
 feptlmo septimo
 fexto sexto
 ftptimo septimo
+G10RGII GEORGII
 Garoli Caroli
 GAROLI CAROLI
 Gbor6ii Georgii
 Gborgii Georgii
+GborgiiIII Georgii\ III
 Gboroii Georgii
+gborqii georgii
+Gborqii Georgii
+GboRQII GEORGII
+GBorqii Georgii
 Gbougii Georgii
 Gcorgii Georgii
 GE0RGII GEORGII
+Ge6RGH GEORGII
 Ge6rgii Georgii
+geaeral general
+Geaeral General
 Gebrgii Georgii
 Gecrgii Georgii
+GECRGii GEORGII
+GECRGII GEORGII
 Gecrgij Georgii
 Gecroii Georgii
 Gectgii Georgii
 Gedrgii Georgii
+GeDrgii GEORGII
+GEdRGii GEORGII
+GEdRGII GEORGII
+GEDRGii GEORGII
+GEDRGII GEORGII
+GEDRGIl GEORGII
+GEdRGlI GEORGII
+GEDRGri GEORGII
+GeDRoII GEORGII
 Gegrgii Georgii
+GEGRGIi GEORGII
+GEGRGII GEORGII
+GeoAGH Georgii
 geoagii Georgii
 GeoAgii Georgii
 GeoAGIi Georgii
+GeoAgiiIII Georgii\ III
 Geobgii Georgii
+Geo&cii Georgii
 Geoegii Georgii
 GeoEgii Georgii
 GeoEgiI Georgii
 GeoEGII Georgii
+GeoegiiIH Georgii\ III
 Geoegij Georgii
 Geoegji Georgii
 Geoeqii Georgii
@@ -121,8 +167,17 @@ geoftgll Georgii
 geoftgti Georgii
 geoftoii Georgii
 GEOftoii Georgii
+Geo&GH GEORGII
+Geo&gh  Georgii
+geo&gi georgii
 geo&gii georgii
 Geo&gii Georgii
+Geo&gIi Georgii
+Geo&Gii Georgii
+Geo&GII GEORGII
+GEO&GII GEORGII
+Geo&giiI Georgii\ I
+Geo&gu Georgii
 Geohgii Georgii
 GeoHgii Georgii
 GeoHoii Georgii
@@ -149,6 +204,9 @@ GeoKGII Georgii
 GEokGii Georgii
 GEOkGii Georgii
 GEOKGII GEORGII
+Geo&oii Georgii
+Geo&oiiTI Georgii\ II
+Geopgii Georgii
 geor6ii Georgii
 Geor6ii Georgii
 Geor6iI Georgii
@@ -162,8 +220,12 @@ GeoRcii Georgii
 GeoRCii Georgii
 GeoRCiI Georgii
 GeoRCII Georgii
+GeorciiIII Georgii\ III
+GEORciiIII GEORGII\ III
+GEORCIIIII GEORGII\ III
 Georg\ 11 Georgii
 Georg11 Georgii
+GEORG11 GEORGII
 Georg\ 11II Georgii\ II
 GEORG1I GEORGII
 georgh Georgii
@@ -180,15 +242,26 @@ GEORGI1 GEORGII
 GEORGIf GEORGII
 georgi! Georgii
 Georgi! Georgii
+G-EORGII GEORGII
+GE\ ORGII GEORGII
+Geor-gii Georgii
 Georg\ ii Georgii
+Georg\ II Georgii
+GEORG\ II GEORGII
+Georgii Georgii
 GeorgiI Georgii
 GeorgIi Georgii
-Georg\ II Georgii
 GeorgII Georgii
 GeorGii Georgii
+GeorGiI Georgii
+GeorGIi Georgii
 GeorGII Georgii
 GeoRgii Georgii
+GeoRgiI Georgii
+GeoRgIi Georgii
+GeoRgII Georgii
 GeoRGii Georgii
+GeoRGiI Georgii
 GeoRGIi Georgii
 GeoRGII Georgii
 GeOrgii Georgii
@@ -197,16 +270,36 @@ GEoRgii Georgii
 GEoRGII GEORGII
 GEORGii Georgii
 GEORGIi GEORGII
-G-EORGII GEORGII
-GE\ ORGII GEORGII
-GEORG\ II GEORGII
+Georgiii Georgii\ I
+GeorgiiI Georgii\ I
+GeorgIii Georgii\ I
+GeorgiiIH Georgii\ III
+GeorgiIIH Georgii\ III
+GeorgIIII Georgii\ II
+GeoRGiiII Georgii\ II
+georgiiiii georgii\ III
+GeoRGiiIII Georgii\ III
+GeoRGIiIII Georgii\ III
+GeoRGIIIII Georgii\ III
+GEoRGiiIII GEORGII\ III
+GEORGIIIII GEORGII\ III
 GeorgiiIII Georgii\ III
+GeoRGiiIII Georgii\ III
+GeoRGIiIII Georgii\ III
+GeoRGIIIII Georgii\ III
 Georgii\ TIT Georgii\ III
 Georgij Georgii
 GEORGIJ GEORGII
 georgil Georgii
+Georgil Georgii
+GeorGil Georgii
 GEORGil GEORGII
+GEORGIl GEORGII
 Georgit Georgii
+GEORGIT GEORGII
+Georgix Georgii
+GeoRgix Georgii
+GeoRGix Georgii
 GEORGIX GEORGII
 Georgji Georgii
 GeorgjI Georgii
@@ -231,6 +324,7 @@ GeorGM Georgii
 GeoRgm Georgii
 GeORgm Georgii
 GEORGM GEORGII
+Georg\ n Georgii
 georgn georgii
 Georgn Georgii
 GEoRGn GEORGII
@@ -247,9 +341,29 @@ Georgti Georgii
 GeorgTi Georgii
 GeoRgti Georgii
 GeoRGTI Georgii
+GEORGTI GEORGII
 georgtj Georgii
 Georgu Georgii
 Georgxi Georgii
+GeorgxI Georgii
+GeorGXI Georgii
+GeoRgxi Georgii
+GeoRGXi Georgii
+GeoRGXI Georgii
+GeorgxiIII Georgii\ III
+Geor&h Georgii
+Geor&H Georgii
+Geor&hTI Georgii\ II
+Geor&i Georgii
+GeoR&i Georgii
+geor&ii georgii
+Geor&ii Georgii
+Geor&iI Georgii
+Geor&Ii Georgii
+GeoR&ii Georgii
+GeoRjgii Georgii
+GeoRjGII Georgii
+Georkjii Georgii
 georoii Georgii
 Georoii Georgii
 GeoroiI Georgii
@@ -286,10 +400,27 @@ GeoUgii Georgii
 GeoUgIi Georgii
 GeoUGII Georgii
 GEougii Georgii
+Geoxgii Georgii
+GeoXgii Georgii
+Geoxgji Georgii
+Geoxgti Georgii
+Geoxoii Georgii
+Geoxoil Georgii
 Geqrgii Georgii
 GEQRGII GEORGII
+ge&rgii georgii
+Ge&rgii Georgii
 gfcorgii Georgii
+GfcoRGil Georgii
+GfcoRGit Georgii
+GfcoRGli Georgii
+GfcoRGn Georgii
+GfcORGn Georgii
+GfcoROll Georgii
+GfcoRon Georgii
+GfcoRtJii Georgii
 GfioRGii Georgii
+GfiORGII GEORGII
 GFORGII GEORGII
 GioRCii Giorgii
 GioRdi Giorgii
@@ -309,10 +440,25 @@ Gioroii Giorgii
 GioROii Giorgii
 GioROli Giorgii
 GiotGil Giorgii
+GkobgiiIII Georgii\ III
 Gkorgii Georgii
+Gkoroii Georgii
+GkorOii Georgii
+Gkougii Georgii
+Gkoxgii Georgii
+GkProii Georgii
+Gkq»&ii Georgii
+Gkqrgii Georgii
+Gkqroii Georgii
+Gkqrqji Georgii
 GLJL1ELMI GULIELMI
+G&ORGH GEORGII
 G£orgii Georgii
 G&orgii Georgii
+G&ORGII GEORGII
+G&orgiiIII Georgii\ III
+g&orqii georgii
+G&orqii Georgii
 gporgii Georgii
 Gporgii Georgii
 GporGii Georgii
@@ -407,6 +553,7 @@ qnadragelimo quadragesimo
 qnadragesimo quadragesimo
 qninto quinto
 qointo quinto
+quackag&imo quadragesimo
 quadcagesimo quadragesimo
 quadfagcsimo quadragesimo
 quadfagdimo quadragesimo
@@ -455,6 +602,7 @@ quadrageftmo quadragesimo
 quadrageifimo quadragesimo
 quadrageiimo quadragesimo
 quadrageilmo quadragesimo
+quadrage&imo quadragesimo
 quadragejimo quadragesimo
 quadrageliino quadragesimo
 quadragelimo quadragesimo
@@ -462,6 +610,7 @@ quadragelirno quadragesimo
 quadragelkno quadragesimo
 quadragellmo quadragesimo
 quadragelTmo quadragesimo
+quadrage&mo quadragesimo
 quadragesifflo quadragesimo
 quadragesiifio quadragesimo
 quadragesiiiio quadragesimo
@@ -472,11 +621,14 @@ quadrageslmo quadragesimo
 quadragesltno quadragesimo
 quadragesrmo quadragesimo
 quadragestmo quadragesimo
+quadragesuno quadragesimo
 quadragetimo quadragesimo
 quadragpsimo quadragesimo
 quadragriimo quadragesimo
 quadragtfimo quadragesimo
 quadragttimo quadragesimo
+quadr&gesimo quadragesimo
+quadr&gestmo quadragesimo
 quadrigefimb quadragesimo
 quadrigefimo quadragesimo
 quadrigesimo quadragesimo
@@ -503,6 +655,8 @@ rcgniquadiagesimoquinto regni\ quadragesimo\ quinto
 rcgniquadragesimo regni\ quadragesimo
 rcgni regni
 regiii regni
+regnj regni
+RegnJ Regni
 regnl regni
 regnt regni
 Rjchardi Richardi
@@ -637,6 +791,7 @@ viceiimo vicesimo
 vicejimo vicesimo
 vicelimo vicesimo
 vicesimu vicesimo
+VICESJMO VICESIMO
 vicetimo vicesimo
 vicifimo vicesimo
 vicpfimo vicesimo
@@ -646,6 +801,8 @@ vieefimo vicesimo
 vieelimo vicesimo
 vioefimo vicesimo
 vjcefimo vicesimo
+VJCESIMO VICESIMO
+VJCESJMO VICESIMO
 vjeefimo vicesimo
 vkafimo vicesimo
 vkefima vicesimo
@@ -660,6 +817,7 @@ vlcefitno vicesimo
 vlceftmo vicesimo
 vlceiimo vicesimo
 vlcelimo vicesimo
+VLCESIMO VICESIMO
 vtcefimo vicesimo
 vtceflmo vicesimo
 vteefimo vicesimo
@@ -667,163 +825,4 @@ yiccfimo vicesimo
 yicefimo vicesimo
 Yicefimo vicesimo
 ylcefimo vicesimo
-Georg\ n Georgii
-quadragesuno quadragesimo
-&EORGII GEORGII
-CEORGII GEORGII
-VLCESIMO VICESIMO
-VJCESIMO VICESIMO
-VJCESJMO VICESIMO
-VICESJMO VICESIMO
-G&ORGH GEORGII
-G&ORGII GEORGII
-GfcoRGil Georgii
-GfcoRGit Georgii
-GfcoRGli Georgii
-GfcORGn Georgii
-GfcoRGn Georgii
-GfcoROll Georgii
-GfcoRon Georgii
-GfcoRtJii Georgii
-GkorOii Georgii
-Gkoroii Georgii
-Gkougii Georgii
-Gkoxgii Georgii
-GkProii Georgii
-Gkqrgii Georgii
-Gkqroii Georgii
-Gkqrqji Georgii
-Gkq»&ii Georgii
-Anna\ regni Anno\ regni
-quackag&imo quadragesimo
-quadrage&imo quadragesimo
-quadrage&mo quadragesimo
-quadr&gesimo quadragesimo
-quadr&gestmo quadragesimo
-Geo&gh  Georgii
-Geo&GH GEORGII
-geo&gi georgii
-Geo&gIi Georgii
-Geo&Gii Georgii
-Geo&GII GEORGII
-GEO&GII GEORGII
-geor&ii georgii
-Geor&ii Georgii
-Geor&iI Georgii
-Geor&Ii Georgii
-GeoR&ii Georgii
-Annofegni Anno\ regni
-Annoxegni Anno\ regni
-dcdmo decimo
-GborgiiIII Georgii\ II
-Ge6RGH GEORGII
-geaeral general
-Geaeral General
-GECRGii GEORGII
-GECRGII GEORGII
-GeDrgii GEORGII
-GEdRGii GEORGII
-GEdRGII GEORGII
-GEDRGii GEORGII
-GEDRGII GEORGII
-GEDRGIl GEORGII
-GEdRGlI GEORGII
-GEDRGri GEORGII
-GeDRoII GEORGII
-GEGRGIi GEORGII
-GEGRGII GEORGII
-GeoAgiiIII Georgii\ II
-Geopgii Georgii
-GeorciiIII Georgii\ II
-GEORciiIII GEORGII\ II
-GEORCIIIII GEORGII\ II
-Geor-gii Georgii
-Georgii Georgii
-GeorgiI Georgii
-GeorGii Georgii
-GeorGiI Georgii
-GeorGIi Georgii
-GeoRgiI Georgii
-GeoRgIi Georgii
-GeoRgII Georgii
-GeoRGii Georgii
-GeoRGiI Georgii
-GeoRGII Georgii
-georgiiiii georgii\ II
-GeoRGiiIII Georgii\ II
-GeoRGIiIII Georgii\ II
-GeoRGIIIII Georgii\ II
-GEoRGiiIII GEORGII\ II
-GEORGIIIII GEORGII\ II
-GeorgxI Georgii
-GeorGXI Georgii
-GeoRgxi Georgii
-GeoRGXi Georgii
-GeoRGXI Georgii
-GeorgxiIII Georgii\ II
-Geor&h Georgii
-Geor&H Georgii
-Geor&hTI Georgii\ II
-Geor&i Georgii
-GeoR&i Georgii
-Geor&ii Georgii
-GeoRjgii Georgii
-GeoRjGII Georgii
-Georkjii Georgii
-Geoxgii Georgii
-GeoXgii Georgii
-Geoxgji Georgii
-Geoxgti Georgii
-Geoxoii Georgii
-Geoxoil Georgii
-CarolI Caroli
-CaroLi Caroli
-CarOli Caroli
-CaRoli Caroli
-CaRolI Caroli
-CaRoLI CAROLI
-CaROli Caroli
-CaROlI Caroli
-CaROLI Caroli
-CAroli Caroli
-CArOli Caroli
-CARolI Caroli
-CAROLi CAROLI
-Anna\ nono Anno\ nono
-ge&rgii georgii
-Ge&rgii Georgii
-GkobgiiIII Georgii\ II
-G&orgiiIII Georgii\ II
-regnj regni
-RegnJ Regni
-G10RGII GEORGII
-gborqii georgii
-Gborqii Georgii
-GboRQII GEORGII
-GBorqii Georgii
-GeoAGH Georgii
-Geo&cii Georgii
-GeoegiiIH Georgii\ III
-Geo&gii Georgii
-Geo&giiI Georgii\ I
-Geo&gu Georgii
-Geo&oii Georgii
-Geo&oiiTI Georgii\ II
-Georgiii Georgii\ I
-GeorgiiI Georgii\ I
-GeorgIii Georgii\ I
-GeorgiiIH Georgii\ III
-GeorgiIIH Georgii\ III
-GeorgIIII Georgii\ II
-GeoRGiiII Georgii\ II
-GeoRGiiIII Georgii\ III
-GeoRGIiIII Georgii\ III
-GeoRGIIIII Georgii\ III
-Georgil Georgii
-GeorGil Georgii
-Georgix Georgii
-GeoRgix Georgii
-GeoRGix Georgii
-g&orqii georgii
-G&orqii Georgii
-
+GEORG!I GEORGII

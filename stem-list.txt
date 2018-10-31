@@ -2,6 +2,10 @@ aafwer answer
 Aaminiftrator Administrator
 Abfent Absent
 abftrac abstrac
+abftract abstract
+abftraft abstract
+aboliih abolish
+Aboliih Abolish
 accomplifh accomplish
 accompliih accomplish
 accomplijb accomplish
@@ -261,9 +265,7 @@ confider consider
 conftablc constable
 Conftablc Constable
 con-ftabl constabl
-conftabl constabl
 Con-ftabl Constabl
-Conftabl Constabl
 conftable constable
 Conftable Constable
 conftru& construct
@@ -274,11 +276,16 @@ Coni-mission Commission
 conjider consider
 conjlable constable
 Conjlable Constable
+Conltable Constable
 con-stable constable
 convi6t convict
 Convi6t Convict
 convi& convict
 Convi& Convict
+con-vict convict
+Con-vict Convict
+con-vift convict
+Con-vift Convict
 cornmiffion commission
 correfpond correspond
 Correfpond Correspond
@@ -291,6 +298,7 @@ counter-fign counter-sign
 counterfign countersign
 countiesof counties\ of
 courfes courses
+craftfman craftsman
 crofs cross
 cuft°dy custody
 cuftom custom
@@ -308,6 +316,7 @@ decimotertio decimo\ tertio
 Dedu& Deduct
 defcribe describe
 Defeft Defect
+de-ferib describ
 deferip-tion description
 defeription description
 Defeription Description
@@ -342,6 +351,7 @@ Difclofur Disclosur
 difcontin discontin
 Difcontin Discontin
 difcount discount
+Difcourse Discourse
 difcover discover
 Difcover Discover
 difcretion discretion
@@ -728,8 +738,6 @@ honeft honest
 Horfc Horse
 houfc house
 Houfc House
-houfeholder householder
-Houfeholder Householder
 houfe house
 Houfe House
 Houfes Houses
@@ -839,10 +847,12 @@ jubfcrib subscrib
 jubfcrip subscrip
 Jucceffors successors
 juccejfors successors
+Judice Justice
 Juflice Justice
 juflices justices
 Jufticc Justice
 ju-ftice justice
+juf-tice justice
 juftice justice
 Ju-ftice Justice
 Juftice Justice
@@ -864,6 +874,7 @@ jurisdi£tion jurisdiction
 Jurrender surrender
 juslice justice
 Juslice Justice
+justicc justice
 justiceof justice\ of
 justioe justice
 Justioe Justice
@@ -885,6 +896,7 @@ lnftance instance
 lnftruftion instruction
 lnftrument instrument
 loyalfub loyal\ sub
+Luteftring Lutestring
 mafter master
 Mafter Master
 Magiflrate Magistrate
@@ -892,6 +904,7 @@ magiftrat magistrat
 magijlrate magijlrate
 magiltrate magistrate
 Magiltrate Magistrate
+Magi-strat Magistrat
 magjftrate magistrate
 Magjftrate Magistrate
 magtftrate magistrate
@@ -916,6 +929,10 @@ Majejly Majesty
 Majelly Majesty
 majelt majest
 Majelty Majesty
+majesiy majesty
+Majesiy Majesty
+majesly majesty
+Majesly Majesty
 majestv majesty
 Majestv Majesty
 Maje&y Majesty
@@ -927,6 +944,7 @@ manufaft manufact
 Manufaft Manufact
 marfhal marshal
 Marfhal Marshal
+Marihal Marshal
 mar-riage marriage
 mcnt ment
 mcrchant merchant
@@ -1141,6 +1159,7 @@ prefcribe prescribe
 prefent present
 Prefent Present
 preferv preserv
+Preffer Presser
 Prefi-dent President
 presentMajesty present\ Majesty
 prifon prison
@@ -1286,6 +1305,7 @@ re-fpeft respect
 refpeft respect
 re-fpe& respect
 reftify rectify
+ReftriCtion Restriction
 Reftridion Restriction
 reftri& restrict
 Reftri& Restrict
@@ -1369,6 +1389,8 @@ tbirty thirty
 Tbirty Thirty
 tborp thorp
 tbou thou
+tbwnlhip township
+tbwnship township
 tccnth teenth
 tcenth teenth
 tcrtio tertio
@@ -1409,9 +1431,11 @@ Townfbip Township
 Townffiip Township
 townfhip township
 Townfhip Township
+Townfhjp Township
 Townfliip Township
 Townftiip Township
 townlhip township
+Townlnip Township
 tranf-port transport
 tranfport transport
 Tranfport Transport

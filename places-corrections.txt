@@ -88,6 +88,7 @@ Bedfordlhire Bedfordshire
 Berkmire Berkshire
 Bermondfey Bermondsey
 Bermondscy Bermondsey
+Berwick-upon-Tweedy Berwick-upon-Tweed,
 Bifbopfgate Bishopsgate
 Bifbopjgate Bishopsgate
 Bifhopfgate Bishopsgate
@@ -194,11 +195,13 @@ Cheftcrfield  Chesterfield
 Chefter Chester
 Chefterfield Chesterfield
 Chejbire Cheshire
+Chejfcr Chester
 Chejhire Cheshire
 Chejhunt Cheshunt
 Chejier Chester
 Chejier  Chester
 Chejler Chester
+Chejlerfield Chesterfield
 Chelfea Chelsea
 Chelhire Cheshire
 Cheljea Chelsea
@@ -363,10 +366,11 @@ Giouctfler Gloucester
 Glafeow Glasgow
 Glafgbw Glasgow
 Glafgoiu Glasgow
+Glaf-goiv Glasgow
 Glafgoiv Glasgow
+Glaf-gow Glasgow
 Glafgow Glasgow
 Glafgpw Glasgow
-Gla\/gow Glasgow
 Glajlonbury Glastonbury
 Glalgow Glasgow
 Gla-morgandiire Glamorganshire
@@ -682,6 +686,7 @@ Lancqjler Lancaster
 Laneajler Lancaster
 Lciceftcr Leicester
 Lcominster Leominster
+Leiceffer Leicester
 Leiceficr Leicester
 Leicefier Leicester
 Leicefler Leicester
@@ -911,6 +916,7 @@ Rochejler Rochester
 Roebefier Rochester
 Roebefler Rochester
 Roebester Rochester
+Rotberhithe Rotherhithe
 Rristol Bristol
 Ruffta Russia
 RuJJia Russia
@@ -926,6 +932,7 @@ Scot\ land Scotland
 Scvcnoaks Sevenoaks
 Shaftesbuky Shaftesbury
 Sheernefs Sheerness
+Shef-field Sheffield
 ShiffnaU Shiffnall
 Shircoaks Shireoaks
 Shrewfbury Shrewsbury
@@ -1127,6 +1134,7 @@ Wejiminster Westminster
 Wejimirijler Westminster
 wejimirjjler Westminster
 Wejimirjler Westminster
+Wejimorland Westmorland
 Wejimtnfler Westminster
 Wejimtnfter Westminster
 Wejimtnjler Westminster

@@ -4,9 +4,7 @@ Begist Regist
 Bevenue Revenue
 Bishop-rick Bishoprick
 cer-tificate certificate
-cer-tificate cer-tificate
 Cer-tificate Certificate
-Cer-tificate Cer-tificate
 circmnstance circumstance
 circuinstance circumstance
 cnarge charge
@@ -35,4 +33,4 @@ theCommission the\ Commission
 theExpen the\ Expen
 warchouse warehouse
 Warchouse Warehouse
-
+Pifth Fifth

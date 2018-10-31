@@ -1,6 +1,7 @@
 0fthc of\ the
 0fthe of\ the
 aaaforesaid as\ aforesaid
+africansand africans\ and
 andalso and\ also
 andany and\ any
 andbe and\ be
@@ -43,7 +44,9 @@ fromplaces from\ places
 fromships from\ ships
 fromsoldiers from\ soldiers
 fromthe from\ the
+givingto giving\ to
 inthe in\ the
+Januaryand January\ and
 Onethousand One\ thousand
 retumingfrom returning\ from
 Roadfrom Road\ from
@@ -54,6 +57,7 @@ thccounty the\ county
 thccourtof the\ court\ of
 thccouuty the\ county
 theAct the\ Act
+thedebt the\ debt
 Thefollowing The\ following
 thefurther the\ further
 theparish the\ parish
@@ -68,10 +72,8 @@ thetime the\ time
 theTime the\ Time
 thisact this\ act
 thisAct this\ Act
+ThisAct This\ act
 thispresent this\ present
 underthe under\ the
 Yearof Year\ of
-givingto giving\ to
-Januaryand January\ and
-thedebt the\ debt
-africansand africans\ and
+
