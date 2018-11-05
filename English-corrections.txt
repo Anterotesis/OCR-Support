@@ -212,8 +212,11 @@ ACfs Acts
 aCls acts
 aCt act
 Actibn Action
+aCtion action
+ACtion Action
 actiug acting
 actmg acting
+ACtor Actor
 aCts acts
 a<d act
 ad! act
@@ -633,6 +636,7 @@ altually actually
 amend-ing amending
 a-mendment amendment
 Amerita America
+(ame same
 amongfi amongst
 amongft amongst
 amOngft amongst
@@ -643,6 +647,7 @@ an-couragement encouragement
 A\ ND AND
 an<f and
 Anfwcrs Answers
+anfweiing answering
 an-fwer answer
 anfWer answer
 An-fwer Answer
@@ -1020,6 +1025,7 @@ Britijh British
 Britiji) British
 Britijk British
 Britijl British
+Britilb British
 Britilh British
 bri\ tish british
 Bri-tish British
@@ -1285,6 +1291,7 @@ cleanflng cleansing
 cleanfmg cleansing
 Cleanfmg Cleansing
 cleanftng cleansing
+cleaniing cleansing
 cleanjing cleansing
 cleanjmg cleansing
 Cleiks Clerks
@@ -1341,9 +1348,12 @@ coacliman coachman
 coaclimen coachmen
 Coaft Coast
 Coafts Coasts
+Coaftwife Coastwise
+Coaftwise Coastwise
 coajlwife coastwise
 coallwife coastwise
 Coallwife Coastwise
+Coastwife Coastwise
 Cockfpur Cockspur
 cod-ftantly constantly
 cofts costs
@@ -1354,6 +1364,7 @@ cohfent consent
 cohftrued construed
 coilector collector
 coileftors collectors
+coionics colonies
 Coionics Colonies
 Colieftor Collector
 Coliege College
@@ -1366,8 +1377,11 @@ colled-ing collecting
 colleding collecting
 colledions collections
 colledl-ing collecting
+colledling collecting
+Colledling Collecting
 Colledlion Collection
 Colledlions Collections
+colledlor collector
 Colledlor Collector
 colledor collector
 Colledor Collector
@@ -1402,6 +1416,7 @@ com-mencement commencement
 Com-mencement Commencement
 commeneed commenced
 com-ment comment
+commidioners commissioners
 Commifficmers Commissioners
 Commifficn Commission
 Commifficncrs Commissioners
@@ -1440,6 +1455,7 @@ com-mifiioners commissioners
 com\ mifiioners commissioners
 commif-iioners commissioners
 commifiioners commissioners
+Commifiiouers Commissioners
 commif-(ioners commissioners
 commifjioners commissioners
 commiflion commission
@@ -1470,6 +1486,7 @@ commijfioners commissioners
 Commijfioners Commissioners
 commijf\ oners commissioners
 commijftoners commissioners
+commijftons commissions
 commiJJioners commissioners
 Commilfloners Commissioners
 Commil&oners Commissioners
@@ -1748,6 +1765,8 @@ Cuf-toms Customs
 Cuilody Custody
 cujlom custom
 cujloms customs
+cullody custody
+Cullody Custody
 Cultody Custody
 curfitor cursitor
 Cursiug Cursing
@@ -1767,6 +1786,7 @@ dcceafed deceased
 Dcceafe Decease
 Dccreafe Decrease
 dceeased deceased
+dcfertion desertion
 Dcfertion Desertion
 deanfed cleansed
 Deatli Death
@@ -1784,6 +1804,7 @@ Dedu61ion Deduction
 Dedu&ed Deducted
 dedu&ing deducting
 dedu#ing deducting
+deeeafed deceased
 deeeased deceased
 defauiters defaulters
 Defcfts Defects
@@ -3064,6 +3085,7 @@ Efqoire Esquire
 efquife esquire
 Efquife Esquire
 efquirc esquire
+Efquircs Esquires
 ef-quire esquire
 ef\ quire esquire
 efquire esquire
@@ -3100,12 +3122,18 @@ eftate estate
 e-ftates estates
 eftates estates
 Eftates Estates
+eftedtual effectual
+eftedtually effectually
 Eftimate Estimate
 Eftsa-blifhment Establishment
 Eicleftaflical Ecclesiastical
 eightv-fix eighty-six
 eighty-fix eighty-six
 eignt eight
+eilate estate
+Eilate Estate
+eilates estates
+Eilates Estates
 eiquire esquire
 eitabiilhed established
 eitablifhing establishing
@@ -3117,6 +3145,8 @@ eitablished established
 eitner either
 Ejc&ment Ejectment
 Eje&ment Ejectment
+ejfedual effectual
+ejfedually effectually
 ejfeftual effectual
 ejfeftually effectually
 ejiate estate
@@ -3309,6 +3339,7 @@ enaCted enacted
 enad-ed enacted
 enad!ed enacted
 enadfed enacted
+enadhed enacted
 enadied enacted
 enadked enacted
 enadlcd enacted
@@ -3385,6 +3416,7 @@ Enliflment Enlistment
 En-liftment Enlistment
 Enliftment Enlistment
 enn&ed enacted
+eollefting collecting
 eommiffioners commissioners
 eommifiioners commissioners
 eommiflioners commissioners
@@ -3401,6 +3433,11 @@ eredfing erecting
 eredied erected
 erediing erecting
 ereding erecting
+eredion erection
+Eredion Erection
+eredions erections
+Eredions Erections
+eredling erecting
 erefting erecting
 !>erfon person
 !>erfons persons
@@ -3409,6 +3446,7 @@ eriafted enacted
 (ervant servant
 (ervants servants
 e-squire esquire
+establifhment establishment
 establi(hcd established
 establi(hed established
 establi(h establish
@@ -3419,6 +3457,7 @@ establiihing establishing
 establijbing establishing
 establish-ment establishment
 Establish-ment Establishment
+e(tate estate
 Ettates Estates
 ettimate estimate
 ettimation estimation
@@ -3502,6 +3541,7 @@ Extra£1 Extract
 extra£ed extracted
 Extra&ed Extracted
 Extra& Extract
+extrafting extracting
 extra&ing extracting
 Extra£k Extract
 extra£led extracted
@@ -3631,6 +3671,7 @@ feizures seizures
 fejfion session
 fejfions sessions
 fejfton session
+fejftons sessions
 fejjion session
 felfion session
 felfions sessions
@@ -3766,6 +3807,8 @@ fifti fish
 fiftimonger fishmonger
 fiftli fifth
 Fiftli Fifth
+fiftn fifth
+Fiftn Fifth
 fiftv fifty
 Fiftv Fifty
 fifty-fire fifty-five
@@ -4195,6 +4238,7 @@ furtner further
 fur-vivor survivor
 fuspending suspending
 fuspend suspend
+fu(tain sustain
 futficient sufficient
 futns sums
 fvvorn sworn
@@ -4312,6 +4356,7 @@ heredi-taments hereditaments
 herem-before herein-before
 (heriffdom sheriffdom
 (heriff sheriff
+(hewed shewed
 hewfpapers newspapers
 (hewing shewing
 (hewn shewn
@@ -4477,6 +4522,7 @@ hou-(hold houshold
 hou(hold houshold
 Hou(hold Houshold
 (houid should
+(houjd should
 (hould should
 houle house
 Houle House
@@ -4562,6 +4608,7 @@ iifty-fix fifty-six
 iifued issued
 iifue issue
 iifuing issuing
+II(houid should
 iikewife likewise
 iiland island
 iilands islands
@@ -4603,6 +4650,7 @@ Illand Island
 illands islands
 Illands Islands
 Illnefs Illness
+ilTue issue
 ilTues issues
 im-piilonment imprisonment
 im-ployment imployment
@@ -5026,6 +5074,8 @@ Jubfidy subsidy
 Jubjefts Subjects
 Jubjeft Subject
 jubordinate subordinate
+jucb such
+Jucb such
 Jucceffors successors
 juch such
 Juch such
@@ -5355,6 +5405,8 @@ lubjedt subject
 lubordinate subordinate
 luch such
 lucli such
+luffered suffered
+luffer suffer
 lufficient sufficient
 (luffs stuffs
 luftice justice
@@ -5726,6 +5778,7 @@ Mercbandifes Merchandises
 mereliant merchant
 meritioned mentioned
 Met-jetty Majesty
+Micbaelmat Michaelmas
 Micnaelmas Michaelmas
 Mid-dlefcxy Middlesex,
 Mid-dlefexy Middlesex,
@@ -5878,6 +5931,8 @@ ne-ccffary necessary
 neccf-fary necessary
 ne-ccflary necessary
 neccfla-ry necessary
+neccjfary neccessary
+neccjTary neccessary
 ne-cdfity necessity
 neceffaiy necessary
 necef-faries necessaries
@@ -6489,6 +6544,7 @@ pajfage passage
 pajfages passages
 pajfed passed
 pajfengers passengers
+pajfing passing
 pajjages passages
 pajjed passed
 pajjing passing
@@ -6500,6 +6556,8 @@ palTcd passed
 palTed passed
 palTenger passenger
 PalTengers Passengers
+panfh parish
+Panfh Parish
 papifts papists
 Par-4\ liament Parliament
 Pardcn Pardon
@@ -6641,6 +6699,7 @@ peffon person
 Peffon Person
 Peifons Persons
 peijury perjury
+peipetual perpetual
 penaity penalty
 pe-\ nalties penalties
 pe-nalties penalties
@@ -6717,6 +6776,7 @@ perlons persons
 Perlons Persons
 per-mit permit
 Per\^ons Persons
+per-petual perpetual
 perrons persons
 Personafy Personaly
 per\ sons persons
@@ -6816,6 +6876,7 @@ Poflerior Posterior
 Poflerity Posterity
 Poflmafler Postmaster
 Poflmaster Postmaster
+Poftagc Postage
 poftage postage
 pofteffion possession
 Poftmafler Postmaster
@@ -6898,6 +6959,8 @@ previoutly previously
 previuufly previously
 prevjoufly previously
 prevjous previous
+prifage prisage
+Prifage Prisage
 prifbn prison
 Prifcn Prison
 prifoner prisoner
@@ -7583,6 +7646,7 @@ publiek publick
 Publiek Publick
 Publifhing Publishing
 Publiok Publick
+PUBLJCK PUBLICK
 publkk publick
 Publkk Publick
 Publtck Publick
@@ -7889,6 +7953,8 @@ re-compence recompence
 Re-compence Recompence
 recruitmg recruiting
 redifying rectifying
+redlifying rectifying
+redlify rectify
 ReduAion Reduction
 Reduc-tion Reduction
 redudlion reduction
@@ -8064,11 +8130,15 @@ re-ifluable re-issuable
 Re-ifluable Re-issuable
 re-iftuable re-issuable
 re-ifTuable re-issuable
+reiidence residence
+Reiidence Residence
 Reiidue Residue
 re-imburfing re-imbursing
 reipc&ivriy respectively
 reipe&ively respectively
 re-Jemble resemble
+rejidence residence
+Rejidence Residence
 rejlored restored
 rejlore restore
 rejloring restoring
@@ -8214,11 +8284,15 @@ Ridiug Riding
 riotwithstanding notwithstanding
 Roacl Road
 rofemary rosemary
+Romi(h Romish
 °r or
 ©r or
 rotwithstanding notwithstanding
 rtfpctt respect
 rtspective respective
+rubbi(h rubbish
+ru(hes rushes
+ru(h rushis His
 sailmg sailing
 Saiut Saint
 samc same
@@ -8731,6 +8805,7 @@ tlie the
 Tlie The
 tliis this
 tlioufand thousand
+tliouland thousand
 tnajefty majesty
 tnat that
 Tnat That
@@ -9056,6 +9131,8 @@ tre-fury tresury
 Tremcns Tremens
 Tremendoufly Tremendously
 Tremendouslv Tremendously
+trudees trustees
+Trudees Trustees
 truf-tees trustees
 Truftees Trustees
 truft-monies trust-monies
@@ -9255,6 +9332,7 @@ vi&ual victual
 Vi&ual Victual
 Vi&uaUing Victualling
 vjhereas whereas
+vnshipped unshipped
 volun-teers volunteers
 volun-teer volunteer
 voL vol
@@ -9268,6 +9346,7 @@ Vtjjels Vessels
 Vtrdcgris Verdegris
 VV7HEREAS WHEREAS
 vva(h wash
+vvash wash
 vvhatsoever whatsoever
 vvhcn when
 VVhcn When
@@ -9633,4 +9712,4 @@ zvriting writing
 zvrits writs
 zvritten written
 zvrit writ
-
+several\ ly  severally

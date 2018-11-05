@@ -293,6 +293,7 @@ Ealmg Ealing
 Ealt-Indies East-Indies
 East-Indla East-India
 East-Jndies East-Indies
+Edin-burgh Edinburgh
 Edingburgb Edinburgh
 Edmondfham Edmondsham
 Edmondfon Edmondson
@@ -429,6 +430,7 @@ Gravefend Gravesend
 Great\ 4\ Britain Great\ Britain
 Green-wich Greenwich
 Grimfby Grimsby
+Grimjby Grimsby
 Grimlby Grimsby
 Grinjlead Grinstead
 Grtmfby Grimsby
@@ -916,6 +918,8 @@ Rochejler Rochester
 Roebefier Rochester
 Roebefler Rochester
 Roebester Rochester
+Rollefton Rolleston
+Romfey Romsey
 Rotberhithe Rotherhithe
 Rristol Bristol
 Ruffta Russia
@@ -1430,4 +1434,5 @@ zoucb zouch
 Zoucb Zouch
 Zoucii Zouch
 Zouck Zouch
-
+Westmin-ster Westminster
+We£tminster Westminster

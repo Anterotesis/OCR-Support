@@ -1428,3 +1428,6 @@ andfecuring and\ securing
 twojustices two\ justices
 andfeals and\ seals
 ThisAct This\ act
+Adfor Act\ for
+adfor act\ for
+establishedby established\ by
