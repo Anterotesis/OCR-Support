@@ -57,11 +57,14 @@ evcd eved
 eventb eventh
 fbrd ford
 ficd fied
+-flrst -first
 gatc gate
 giug ging
 gncd gned
 haU hall
+havcn haven
 heatb heath
+iatc iate
 iblc ible
 igncd igned
 ilvcr ilver
@@ -83,6 +86,7 @@ makcr maker
 marv mary
 mbcr mber
 mcnt ment
+mCnt ment
 &mg cting
 -mg ing
 mucb much
@@ -94,6 +98,7 @@ nCrs ners
 ndcd nded
 ndcr nder
 nmg ning
+nncr nner
 nucd nued
 oaer oner
 oaers oners
@@ -133,6 +138,7 @@ sa-tion sation
 sa-tions sations
 shcd shed
 sscd ssed
+stcr ster
 stonc stone
 tbcr ther 
 tcd ted
@@ -172,6 +178,7 @@ vi&ed victed
 vi&ion viction
 villc ville
 vmg ving
+waitc waite
 wav way
 wbere where
 weli well

@@ -3,7 +3,6 @@
 a3for act\ for
 A3for Act\ for
 A61Be Act\ Be
-A61(hall Act\ shall
 a8for act\ for
 A8for Act\ for
 aaafardaid as\ aforesaid
@@ -33,7 +32,10 @@ AdditionalTrujlees Additional\ Trustees
 AdditionalTruJlees Additional\ Trustees
 AdditionalTrujleet Additional\ Trustees
 AdditionalTrustees Additional\ Trustees
+adfor act\ for
+Adfor Act\ for
 affe&ingthe affecting\ the
+afmuch as\ much
 Africaand Africa\ and
 africansand africans\ and
 aftfor act\ for
@@ -43,6 +45,7 @@ Aftpaffed Act\ passed
 alfoenacted also\ enacted
 alfoenadled also\ enacted
 alfoenafted also\ enacted
+allfuch all\ such
 allowBe allow\ Be
 allpersons all\ persons
 amendedbe amended\ be
@@ -56,7 +59,9 @@ andbe and\ be
 Andbe And\ be
 Andbeit And\ be\ it
 andconfent and\ consent
+andfeals and\ seals
 andfeaman and\ seamen
+andfecuring and\ securing
 andfervants and\ servants
 andfingular and\ singular
 Andforafmucb And\ forasmuch
@@ -91,12 +96,10 @@ anyperson any\ person
 anythe any\ the
 anywifenotwithftanuing anywise\ notwithstanding
 ApabllckaA A\ publick\ act
-appeal(hall appeal\ shall
 ApubijckaA A\ publick\ act
 ApublickaA A\ publick\ act
 arifefrom arise\ from
 arifingby arising\ by
-as-aforesaid as\ aforesaid
 asaforesaid as\ aforesaid
 atWeft at\ West
 atWestminster at\ Westminster
@@ -132,11 +135,13 @@ byany by\ any
 bythe by\ the
 bythis by\ this
 Canadaand Canada\ and
+caufefuch cause\ such
 caufeof cause\ of
 cityof city\ of
 Cityof City\ of
 cleanfingand cleansing\ and
 cleanfingthe cleansing\ the
+coastof coast\ of
 Commifficnsshall  Commissions\ shall
 commissionersof commissioners\ of
 Commissionersof Commissioners\ of
@@ -171,6 +176,8 @@ difpofedof disposed\ of
 Diftancesfrom Distances\ from
 Dillancesfrom Distances\ from
 directedto directed\ to
+Directionsof Directions\ of
+Directorsmay Directors\ may
 dischargedfrom discharged\ from
 dischargethe discharge\ the
 donotwithjlanding do\ notwithstanding
@@ -190,8 +197,7 @@ enadtedby enacted\ by
 enaftedand enacted\ and
 enaftedby enacted\ by
 enaftedThat enacted\ That
-enpar-liament en\ parliament
-establi(hedby established\ by
+establishedby established\ by
 everyfuch every\ such
 Everyfuch Every\ such
 everyperson every\ person
@@ -764,18 +770,23 @@ faidyear said\ year
 faidy said\ y
 faidza said\ za
 faleof sale\ of
+fballhave shall\ have
 fealof seal\ of
 fecuringthe securing\ the
 feflionof session\ of
 ferVefor serve\ for
 fessionof session\ of
 feVeralacts several\ acts
+fhalLhave shall\ have
 fhouldbe should\ be
+fhouldhave should\ have
+firstfruits first\ fruits
 firstyear first\ year
 fixthyear sixth\ year
 fomeof some\ of
 fomuch so\ much
 forcedby forced\ by
+forfuch for\ such
 forinclofing for\ inclosing
 forthebetter for\ the\ better
 forthechild for\ the\ child
@@ -819,6 +830,17 @@ fromthe from\ the
 ftatutcof statute\ of
 ftatuteof statute\ of
 fuchOflicer such\ Officer
+fuchperfbn such\ person
+fuchperfcn such\ person
+fuchperfons such\ persons
+fuchperfon such\ person
+fuchprisons such\ prisons
+fuchprison such\ prison
+fuchproposed such\ proposed
+fuchProvisions such\ Provisions
+fuchPurchafe such\ Purchase
+fuchTicket fuch\ Ticket
+fuchVerification fuch\ Verification
 fufferdeath suffer\ death
 fufpe&edtobe  suspected\ to\ be
 fufpe&edto suspected\ to
@@ -828,7 +850,6 @@ GeorgiiII Georgii\ II
 givingto giving\ to
 goodsfrom goods\ from
 GreatBritain Great\ Britain
-(hallnot shall\ not
 hercbygranted hereby\ granted
 herMajeftv her\ Majesty
 herMajestyfor her\ Majesty\ for
@@ -848,11 +869,13 @@ hismajejty his\ majesty
 hisMajessy his\ Majesty
 HisMoft His\ Most
 hispresent his\ present
-His-present His\ present
 Hispresent His\ present
 houseof house\ of
+Houseof House\ of
+iffuch if\ such
 iflandof island\ of
 Iflandof Island\ of
+Ihouldhave should\ have
 iilandof island\ of
 ijlandof island\ of
 increasedbe increased\ be
@@ -861,6 +884,7 @@ IndiaBe India\ Be
 IndiaCompany India\ Company
 IndiaSection India\ Section
 infteadof instead\ of
+infuch in\ such
 ingthe ing\ the
 insolventBe insolvent\ Be
 InsolventBe Insolvent\ Be
@@ -885,8 +909,13 @@ Irelandof Ireland\ of
 Irelandthe Ireland\ the
 itfurther it\ further
 Januaryand January\ and
+Jballhave shall\ have
+JbalLhave shall\ have
+jbouidhave should\ have
+Jbouldhave should\ have
 jecondyear second\ year
 jhouldbe should\ be
+Jh&uldhave should\ have
 Justiceof Justice\ of
 keepthe keep\ the
 Kingdombe Kingdom\ be
@@ -907,10 +936,13 @@ lateMajesty late\ Majesty
 lateMajtfty late\ Majesty
 latemajtjiy late\ majesty
 lflandof island\ of
+lhallhave shall\ have
+lhalLhave shall\ have
 LocalAuthority Local\ Authority
 Londonand London\ and
 lordsfpiritual lords\ spiritual
 lordsJpirttual lords\ spiritual
+lordsspiritual lords\ spiritual
 lordstfpiritual lords\ spiritual
 Lordtreafnrer Lord\ treasurer
 lordtreafurer Lord\ treasurer
@@ -934,7 +966,6 @@ moflExcellent most\ Excellent
 moftroyal most\ royal
 monthsaftcr months\ after
 mustbe must\ be
-nojudge-ment no\ judgement
 noperson no\ person
 Nospiritsfrom No\ spirits\ from
 Octoberone October\ one
@@ -975,17 +1006,19 @@ ofexclufive of\ exclusive
 ofexdfc of\ excise
 ofexdfe of\ excise
 ofexecute of\ execute
+offifty of\ fifty
 offuch of\ such
 ofGreat of\ Great
 ofhis of\ his
 ofHis of\ His
 ofMarch of\ March
 ofOftober of\ October
-ofpar-liament of\ parliament
 ofparliament of\ parliament
 ofpersons of\ persons
 ofScotland of\ Scotland
 ofSeptember of\ September
+ofspirits of\ spirits
+ofSurry of\ Surry
 oftbe of\ the
 ofThanet of\ Thanet
 ofthc of\ the
@@ -994,6 +1027,7 @@ oftheir of\ their
 ofthem of\ them
 ofthe of\ the
 ofthis of\ this
+ofWales of\ Wales
 ofWestminster of\ Westminster
 ofWilliam of\ William
 ofWinchester of\ Winchester
@@ -1015,10 +1049,7 @@ orChapel or\ Chapel
 orCheshire or\ Cheshire
 orexisting or\ existing
 orfuch or\ such
-orifjudge-ment or\ if\ judgement
-orinftru-ment or\ instrument
 orthemfelves or\ themselves
-otherpunish-ment other\ punishment
 paffedin passed\ in
 paffingof passing\ of
 paffingout passing\ out
@@ -1042,10 +1073,8 @@ personor person\ or
 pfthe of\ the
 placeof place\ of
 poblickaA publick\ act
-prefcntjpar-liament present\ parliament
 preffedby pressed\ by
 preffinginto pressing\ into
-presentpar-liament present\ parliament
 proposedBe proposed\ Be
 proposedWorks proposed\ Works
 providedbe provided\ be
@@ -1062,13 +1091,19 @@ Punifhmenton Punishment\ on
 punifhmentor punishment\ or
 Punifhmentor Punishment\ or
 Puniftimentof Punishment\ of
+punishedby punished\ by
 purchafeof purchase\ of
+purchasedby purchased\ by
 purpofesof purposes\ of
+purposesand purposes\ and
 Purposesas  Purposes\ as
+purposesfor purposes\ for
+purposestherein purposes\ therein
 Rcfiducof Residue\ of
 reasonof reason\ of
 Refiducof Residue\ of
 refpedof respect\ of
+Reliefof Relief\ of
 remainingunfold remaing\ unsold
 Rentsand Rents\ and
 repealedbe repealed\ be
@@ -1081,18 +1116,20 @@ Rtfiducof Residue\ of
 serviceof service\ of
 seventyfix seventy\ six
 shallbe shall\ be
+shallhave shall\ have
 shallpay shall\ pay
 shallprepare shall\ prepare
 shallproduce shall\ produce
+shouldhave should\ have
 smallfums small\ sums
 sofar so\ far
 spiritsfrom spirits\ from
 Spiritsfrom Spirits\ from
-StampingAffign-ment Stamping\ Assignment
 statutesat statutes\ at
 STATUTESat STATUTES\ at
 subjectsfrom subjects\ from
 subje&to subject\ to
+sumof sum\ of
 SupportBe Support\ Be
 tbeadvowry the\ advowry
 tbeafiigns the\ assigns
@@ -1233,6 +1270,7 @@ Tflandof Island\ of
 Thamesfrom Thames\ from
 thatfrom that\ from
 Thatfrom That\ from
+thatfuch that\ such
 thcauthority the\ authority
 thccountics the\ counties
 thccounty the\ county
@@ -1251,7 +1289,6 @@ TheCheshire The\ Cheshire
 thecity the\ city
 thecuftody the\ custody
 thedebt the\ debt
-theEstablish-ment the\ Establishment
 thefaid the\ said
 thefame the\ same
 Thefollowing The\ following
@@ -1265,6 +1302,7 @@ theirMajesties their\ Majesties
 thejaid the\ said
 thejustices the\ justices
 thelaft the\ last
+thelast the\ last
 thelflandof the\ island\ of
 themilitia the\ militia
 thenavy the\ navy
@@ -1335,6 +1373,8 @@ theyJbould they\ should
 thirdyear third\ year
 thisaA this\ act
 thisact this\ act
+thisAct this\ Act
+ThisAct This\ act
 thisadl this\ act
 thisad this\ act
 thisadt this\ act
@@ -1359,7 +1399,11 @@ tofuch to\ such
 tohis to\ his
 toLondon to\ London
 tothe to\ the
+twojustices two\ justices
+ufefuch use\ such
 ufeof use\ of
+ufesand uses\ and
+Ufesand Uses\ and
 valueof value\ of
 Vesselsliable Vessels\ liable
 Victoriaand Victoria\ and
@@ -1397,37 +1441,4 @@ zapitaljlock capital\ stock
 Zealandbe Zealand\ be
 ZealandBe Zealand\ Be
 zvbereoffuch whereof\ such
-fballhave shall\ have
-fhalLhave shall\ have
-fhouldhave should\ have
-Jballhave shall\ have
-JbalLhave shall\ have
-jbouidhave should\ have
-Jbouldhave should\ have
-fuchperfbn such\ person
-fuchperfcn such\ person
-fuchperfons such\ persons
-fuchperfon such\ person
-fuchprisons such\ prisons
-fuchprison such\ prison
-fuchproposed such\ proposed
-fuchProvisions such\ Provisions
-fuchPurchafe such\ Purchase
-fuchTicket fuch\ Ticket
-fuchVerification fuch\ Verification
-shallhave shall\ have
-shouldhave should\ have
-ufesand uses\ and
-Ufesand Uses\ and
-lhallhave shall\ have
-lhalLhave shall\ have
-Jh&uldhave should\ have
-lordsspiritual lords\ spiritual
-Ihouldhave should\ have
-andfecuring and\ securing
-twojustices two\ justices
-andfeals and\ seals
-ThisAct This\ act
-Adfor Act\ for
-adfor act\ for
-establishedby established\ by
+

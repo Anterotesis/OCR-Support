@@ -11,6 +11,7 @@ accompliih accomplish
 accomplijb accomplish
 accomplijh accomplish
 accomplilh accomplish
+ad-\ dition addition
 adminiffrator administrator
 Adminiffrator Administrator
 adminiftra administra
@@ -41,6 +42,7 @@ Afleflment Assessment
 Afleflor Assessor
 aflem-bl assembl
 aforesaidy aforesaid,
+af-sign assign
 aftault assault
 afTeffment assessment
 AfTeflment Assessment
@@ -58,9 +60,11 @@ AfTign Assign
 Aftion Action
 aftual actual
 Afturance Assurance
+AfTurance Assurance
 againft against
 agefimo agesimo
 aiiemble assemble
+aiTembl assembl
 AJbton Ashton
 ajcertain ascertain
 ajfejfment assessment
@@ -72,6 +76,7 @@ AJfignment Assignment
 AJfurance Assurance
 AJhby Ashby
 AJhton Ashton
+ajjignment assignment
 alehoufc alehouse
 alfeff assess
 Alfign Assign
@@ -105,11 +110,14 @@ Announ Anno\ un
 Annovi Anno\ vi
 Annovic Anno\ vic
 Arcbbishop Archbishop
+archbi-shop archbishop
+Archbi-shop Archbishop
 archhifhop archbishop
 Archhifhop Archbishop
 Arreft Arrest
 ascer-tain ascertain
 Assess-ment Assessment
+Audlioneer Auctioneer
 Auftion Auction
 Baftard Bastard
 bajlard bastard
@@ -176,6 +184,8 @@ churcb church
 circumftanc circumstanc
 cjuad quad
 Claim-ant Claimant
+clandejtin clandestin
+clandestinc clandestine
 Claufe Clause
 clofures closures
 Clofures Closures
@@ -200,6 +210,7 @@ Commiffio Commissio
 commiffioh commission
 commiffiom commission
 commiffion commission
+Commif-\ fion Commission
 Commif-fion Commission
 Commiffion Commission
 Commif-flo Commissio
@@ -213,9 +224,11 @@ Commifiion Commission
 commifilon commission
 Commifilon Commission
 commifjion commission
+Commiflio Commissio
 commiflion commission
 Commif-lion Commission
 Commiflion Commission
+Commifliouer Commissioner
 commifllon commission
 commifsion commission
 commiftion commission
@@ -252,15 +265,19 @@ commissioD commission
 CommissioD Commission
 commissioii commission
 Commissioii Commission
+Com-\ mission Commission
 commissiontr commissioner
 Commissiontr Commissioner
 Com-penfat Compensat
 com-pleat compleat
 Compofit Composit
 Compolit Composit
+Comrnissioner Commissioner
 confent consent
 confiable constable
 Confiable Constable
+confide-ration consideration
+Confide-ration Consideration
 confider consider
 conftablc constable
 Conftablc Constable
@@ -276,6 +293,7 @@ Coni-mission Commission
 conjider consider
 conjlable constable
 Conjlable Constable
+conlpirator conspirator
 Conltable Constable
 con-stable constable
 convi6t convict
@@ -290,6 +308,7 @@ cornmiffion commission
 correfpond correspond
 Correfpond Correspond
 Correftion Correction
+Cotn-mission Commission
 coufolidat consolidat
 Coufolidat Consolidat
 coun-fel counsel
@@ -301,6 +320,8 @@ courfes courses
 craftfman craftsman
 crofs cross
 cuft°dy custody
+Cuftody Custody
+cuf-tom custom
 cuftom custom
 Cuftom Custom
 cxecut execut
@@ -393,14 +414,18 @@ diftri-but distribut
 diftribut distribut
 Diftri-but Distribut
 Diftribut Distribut
+Diftri£t District
 difturb disturb
 Difturb Disturb
 di&ion diction
+Diitiller Distiller
 dijcont discont
+DiJcover Discover
 dijlurb disturb
 dijpofe dispose
 dilband disband
 dilburfe disburse
+Dilcover Discover
 dire61 direct
 Dire61 Direct
 dire6t direct
@@ -414,6 +439,7 @@ dire&ed directed
 Dire&or Director
 dis-charge discharge
 dis-ting disting
+Distri£t District
 ditcb ditch
 Ditcb Ditch
 divifion division
@@ -437,6 +463,7 @@ Efcape Escape
 efcbeator escheator
 Efcheator Escheator
 Effc& Effect
+effcftual effectual
 effectnal effectual
 effedlual effectual
 efFedlual effectual
@@ -447,6 +474,7 @@ effeft effect
 efFeftual effectual
 effehual effectual
 effeHual effectual
+effeQual effectual
 effeSual effectual
 Effe&t Effect
 effetftual effectual
@@ -457,6 +485,7 @@ effion ession
 efie&ual effectual
 efpecial especial
 eftabfifh establish
+eftabiilh establish
 eftabli establi
 efta-blifh establish
 eftablifh establish
@@ -525,9 +554,12 @@ expreff express
 extraA extract
 ExtraA Extract
 fa&ion faction
+fartherprov farther\ prov
+Fartherprov Farther\ prov
 fatisfaft satisfact
 fatisfa satisfa
 fa&ure facture
+fbilling shilling
 fbire shire
 fchcdule schedule
 fchedule schedule
@@ -543,6 +575,7 @@ fcveral several
 fearch search
 fecond second
 fecurity security
+fef-(ion session
 feiiion session
 feijeant serjeant
 feilion session
@@ -550,6 +583,7 @@ Fenaltie Penaltie
 ferjeant serjeant
 fervice service
 fetfhire setshire
+fettle-ment settlement
 fevcn seven
 fevcral several
 feven seven
@@ -573,6 +607,9 @@ Fi(h Fish
 Fiiher Fisher
 fiiire shire
 filver silver
+Fire-fhovcl Fire-shovel
+Fire-fhovel Fire-shovel
+Fire-lhovel Fire-shovel
 -firft -first
 firjl first
 fixpenc sixpenc
@@ -612,6 +649,7 @@ fpeftive spective
 fpe&ive spective
 fpirit spirit
 fpread spread
+fran-chife franchise
 franchife franchise
 Frifoner Prisoner
 f°rty forty
@@ -628,6 +666,7 @@ ftatute statute
 ftminster stminster
 ftration stration
 ftrators strators
+ftriftion striction
 ftru&ing structing
 ftru&ion struction
 fuanceof suance\ of
@@ -665,6 +704,7 @@ fufpend suspend
 fuftain sustain
 fugar sugar
 fuhfcrib subscrib
+fujficient sufficient
 fummon summon
 fumsof sums\ of
 fupply supply
@@ -741,6 +781,7 @@ Houfc House
 houfe house
 Houfe House
 Houfes Houses
+Hounjlow Hounslow
 housesof houses\ of
 huf-band husband
 Huf-band Husband
@@ -748,6 +789,7 @@ hujband husband
 hundredand hundred\ and
 iddlefcx iddlesex
 iddlefex iddlesex
+if-fioners issioners
 ifhmonger ishmonger
 -iixth -sixth
 imburfe imburse
@@ -768,6 +810,7 @@ indorfe indorse
 Indorfe Indorse
 indosure inclosure
 Indosure Inclosure
+infli£t inflict
 Infpe&or Inspector
 inftruction instruction
 inftruCtion instruction
@@ -784,6 +827,7 @@ inqueft inquest
 Inqueft Inquest
 inquejl inquest
 inspe&cd inspected
+Inspec-tor Inspector
 inspedtor inspector
 inspeftor inspector
 inspe&or inspector
@@ -810,6 +854,7 @@ ivejlmin Westmin
 Ivejlmin Westmin
 IVejlmin Westmin
 IVeJlmin Westmin
+Jberiff sheriff
 jbip ship
 Jbip ship
 jbire shire
@@ -821,6 +866,7 @@ Jerjeant serjeant
 jevent sevent
 Jevent sevent
 Jhall shall
+Jheriff sheriff
 jhirc shire
 jhire shire
 Jhire shire
@@ -831,6 +877,7 @@ Jhort short
 jhould should
 Jhould should
 Jincere sincere
+JJion ssion
 jlamp stamp
 Jlamp stamp
 jlaple staple
@@ -854,12 +901,18 @@ Jufticc Justice
 ju-ftice justice
 juf-tice justice
 juftice justice
+jufti-ce Justice
 Ju-ftice Justice
+Juf-\ tice Justice
+Juf-tice Justice
 Juftice Justice
 juftic justic
 Juftiee Justice
+Juftioe Justice
 juftjce justice
 Juftjce Justice
+juitice justice
+Juitice Justice
 Julfice Justice
 Jultice Justice
 Jupport support
@@ -891,27 +944,33 @@ Keftridion Restriction
 Keftri&ion Restriction
 Kiddcrm Kidderm
 Kiugston Kingston
+lheriff sheriff
 licenfe license
 lnftance instance
 lnftruftion instruction
 lnftrument instrument
 loyalfub loyal\ sub
+lucceffor successor
 Luteftring Lutestring
 mafter master
 Mafter Master
+Magidrate Magistrate
 Magiflrate Magistrate
 magiftrat magistrat
 magijlrate magijlrate
 magiltrate magistrate
 Magiltrate Magistrate
 Magi-strat Magistrat
+Magittrate Magistrate
 magjftrate magistrate
 Magjftrate Magistrate
 magtftrate magistrate
 Magtftrate Magistrate
 maieft majest
 Maiefty Majesty
+Maiejly Majesty
 Majcfty Majesty
+Ma-jedy Majesty
 Majedy Majesty
 majefby majesty
 Majefby Majesty
@@ -924,11 +983,15 @@ Maje\ fly Majesty
 majeft majest
 Majeftv Majefty
 Maje\ fty Majesty
+Majefty Majesty
 Majefy Majesty
+Majeiiy Majesty
 Majejly Majesty
 Majelly Majesty
 majelt majest
 Majelty Majesty
+majesfy majesty
+Majesfy Majesty
 majesiy majesty
 Majesiy Majesty
 majesly majesty
@@ -936,6 +999,7 @@ Majesly Majesty
 majestv majesty
 Majestv Majesty
 Maje&y Majesty
+Majrfty Majesty
 manufadlur manufacture
 Manufadlur Manufacture
 manufadture manufacture
@@ -946,6 +1010,7 @@ marfhal marshal
 Marfhal Marshal
 Marihal Marshal
 mar-riage marriage
+Mceting Meeting
 mcnt ment
 mcrchant merchant
 meafure measure
@@ -953,6 +1018,7 @@ meafuring measuring
 Mef-fuage Messuage
 mejesty majesty
 Mejesty Majesty
+menticned mentioned
 men-tioned mentioned
 mercband merchand
 Mercband Merchand
@@ -986,6 +1052,7 @@ mifmanagc mismanage
 Mifmanagc Mismanage
 mifmanage mismanage
 Mifmanage Mismanage
+Mijesty Majesty
 mijjion mission
 mildemeanor misdemeanor
 Mildemeanor Misdemeanor
@@ -996,6 +1063,7 @@ minifter minister
 minjier minster
 minjler minster
 minJler minster
+Minjler Minster
 minjter minster
 m-missioner mmissioner
 Mngiftrate Magistrate
@@ -1034,6 +1102,7 @@ New-castle Newcastle
 news-paper newspaper
 News-paper Newspaper
 nonoGeo nono\ Geo
+nonoGEO nono\ GEO
 nortb north
 Nortb North
 notvvith notwith
@@ -1078,6 +1147,7 @@ ommiifion ommission
 ommijfion ommission
 ommijjion ommission
 ommilfion ommission
+ommission-er ommissioner
 ommlffion ommission
 omniiffion ommission
 orafmuch orasmuch
@@ -1108,6 +1178,7 @@ Parijh Parish
 PariJh Parish
 par-liament parliament
 Par-liament Parliament
+Parpose Purpose
 parUament parliament
 ParUament Parliament
 Pay-ment Payment
@@ -1123,6 +1194,8 @@ per-fon person
 Per-fon Person
 Perfon Person
 perquifite perquisite
+personai personal
+Personai Personal
 phy-fician physician
 phyfi-cian physician
 Phy-fician Physician
@@ -1133,23 +1206,34 @@ p°int point
 P°int Point
 plain-tiff plaintiff
 Plain-tiff Plaintiff
+pof-fcffion possession
+poffcffion possession
+Pof-fcffion Possession
+Poffcffion Possession
 poffeff possess
 poffefs possess
 poffejf possess
+PoffelTion Possession
 pofition position
 Pofleflion Possession
 pofsession possession
 Pofsession Possession
+PofTeflion Possession
 PofTession Possession
 poft-master post-master
 poftmaster postmaster
 Poftmaster Postmaster
+PoiTession Possession
 pojfeff possess
 Pojfeff Possess
 pojfejf possess
 pojfejj possess
+Pojfession Possession
+PoJfession Possession
 pojjejf possess
 pojjejj possess
+polfellion possession
+Polfellion Possession
 poveri(hed poverished
 prccinft precinct
 Prccinft Precinct
@@ -1170,6 +1254,7 @@ Produ6t Product
 pro-duce produce
 Pro-duce Produce
 Profccution Prosecution
+profecu-tor prosecutor
 profefibr professor
 Profefibr Professor
 profefior professor
@@ -1178,10 +1263,18 @@ profeflbr professor
 Profeflbr Professor
 profeflor professor
 Profeflor Professor
+progrefiive progressive
 Promife Promise
+Protcflant Protestant
+Protcjlant Protestant
+ProtcJlant Protestant
+Proteflant Protestant
+Protejlant Protestant
+ProteJlant Protestant
 provi-fion provision
 Provi-fion Provision
 proviflon provision
+Provifton Provision
 provi(ion provision
 Provi(ion Provision
 provi-lion provision
@@ -1209,6 +1302,8 @@ Purcbafe Purchase
 pur-chafe purchase
 purchafe purchase
 Pur-chafe Purchase
+purchaie purchase
+Purchaie Purchase
 purdhase purchase
 purp0fe purpose
 purpcfc purpose
@@ -1257,6 +1352,7 @@ reafcn reason
 reafon reason
 re-cognifance recognisance
 recoyer recover
+Redriftion Restriction
 re-ferving reserving
 referving reserving
 refi-dcncc residence
@@ -1305,6 +1401,9 @@ re-fpeft respect
 refpeft respect
 re-fpe& respect
 reftify rectify
+Reftndion Restriction
+reftric-tion restriction
+Reftric-tion Restriction
 ReftriCtion Restriction
 Reftridion Restriction
 reftri& restrict
@@ -1326,9 +1425,11 @@ relpedlive respective
 relpedt respect
 relpeft respect
 re-move remove
+respeAive respective
 respecfive respective
 respec-\ tive respective
 Restriftion Restriction
+Reve-nue Revenue
 rtotwith notwith
 sbould should
 Scbool School
@@ -1346,8 +1447,10 @@ Sef-fion Session
 Sefflon Session
 Sefiion Session
 Seflion Session
+Sef&on Session
 Seifion Session
 Seilion Session
+Sei&on Session
 Se(lions Sessions
 shall\ t>e shall\ be
 soidier soldier
@@ -1359,6 +1462,7 @@ Somerfet Somerset
 soutb south
 Soutb South
 speCt spect
+Sqaare Square
 Subdivilion Subdivision
 Subfcrib Subscrib
 Subfiftence Subsistence
@@ -1371,12 +1475,24 @@ subjeA subject
 subjeC subjec
 SubjeC Subjec
 sub-ject subject
+subjedl subject
+Subjedl Subject
 Sub-jeft Subject
 Subjeft Subject
 Subje& Subject
 sub-scrib subscrib
 subscriptt subscript
+Suc-ceffor Successor
+Suc-ceflbr Successor
+Succtffor Successor
+Sue-ceflor Successor
+Sue-cessor Successor
+Sufpcnsion Suspension
 Sufpenfion Suspension
+Sufpenfiou Suspension
+Sufpension Suspension
+Suggeflion Suggestion
+Suggellion Suggestion
 Sur-\ geon Surgeon
 Sur-geon Surgeon
 Sur-\ name Surname
@@ -1388,7 +1504,6 @@ tbere there
 tbirty thirty
 Tbirty Thirty
 tborp thorp
-tbou thou
 tbwnlhip township
 tbwnship township
 tccnth teenth
@@ -1410,6 +1525,7 @@ theirc their\ c
 theJaid the\ said
 theparifh the\ parish
 theParifh the\ Parish
+thereef thereof
 thirtv thirty
 Thirtv Thirty
 thjrty thirty
@@ -1452,6 +1568,10 @@ Treafur-er Treasurer
 Treafurer Treasurer
 Treafury Treasury
 Treblecoft Treble\ cost
+tref-paff trespass
+Tref-paff Trespass
+tref-pajf trespass
+Tref-pajf Trespass
 triccfimo tricesimo
 tricefi tricesi
 tricesimopri tricesimo\ pri
@@ -1473,6 +1593,7 @@ Trujtee Trustee
 tvejlmin Westmin
 Tvvcnty Twenty
 Tvventy Twenty
+twcnty twenty
 Twcnty Twenty
 Twecd Tweed
 twenfy twenty
@@ -1499,6 +1620,7 @@ Vcflcl Vessel
 vcflel vessel
 Vcflel Vessel
 Veffcl Vessel
+Vef-fel Vessel
 Veffel Vessel
 vefifels vessels
 verthelefs vertheless
@@ -1509,10 +1631,13 @@ vicefimo vicesimo
 VICT0R VICTOR
 vidfual victual
 Vidfual Victual
+vidualling-house victualling-house
 vifcount viscount
 Vifcount Viscount
 vifions visions
+viftualling-house victualling-house
 Vilcount Viscount
+vi&ualling-house victualling-house
 Vi&uall Victuall
 -vpon- -upon-
 vvithstand withstand
@@ -1520,11 +1645,12 @@ warchouse warehouse
 Warchouse Warehouse
 warehoufc warehouse
 Warehoufc Warehouse
+warehouie warehouse
+Warehouie Warehouse
 warehoul warehous
 wbite white
 Wbite White
 Weflmin Westmin
-Weftmin Westmin
 Weftmtn Westmin
 Weftm Westm
 Wejhnin Westmin
@@ -1565,41 +1691,6 @@ yvarehouse warehouse
 YVarehouse Warehouse
 zvater-bailiff water-bailiff
 zvhicb which
-ajjignment assignment
-fef-(ion session
-Confide-ration Consideration
-confide-ration consideration
-fbilling shilling
-Commifliouer Commissioner
-Minjler Minster
-Sei&on Session
-Sef&on Session
-Personai Personal
-personai personal
-Ma-jedy Majesty
-Redriftion Restriction
-effcftual effectual
-Audlioneer Auctioneer
-subjedl subject
-Subjedl Subject
-Reftndion Restriction
-Diitiller Distiller
-Fartherprov Farther\ prov
-fartherprov farther\ prov
-Purchaie Purchase
-purchaie purchase
-ftriftion striction
-Majesfy Majesty
-majesfy majesty
-Reftric-tion Restriction
-reftric-tion restriction
-Warehouie Warehouse
-warehouie warehouse
-Juitice Justice
-juitice justice
-twcnty twenty
-thereef thereof
-polfellion possession
-Polfellion Possession
-archbi-shop archbishop
-Archbi-shop Archbishop
+Nottingbam Nottingham
+ExceUent Excellent
+Cutkbert Cuthbert

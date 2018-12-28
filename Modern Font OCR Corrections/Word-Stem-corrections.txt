@@ -9,13 +9,20 @@ circmnstance circumstance
 circuinstance circumstance
 cnarge charge
 Cnarge Charge
+Cutkbert Cuthbert
 effectnal effectual
+ex-ceed exceed
+ExceUent Excellent
+ex-chang exchang
+Ex-chang Exchang
+Ex-cise Excise
 Incnmbrance Incumbrance
 justioe justice
 Justioe Justice
 Kiugston Kingston
 mar-riage marriage
 m-missioner mmissioner
+Pifth Fifth
 plain-tiff plaintiff
 Plain-tiff Plaintiff
 Pro-ceed Proceed
@@ -33,4 +40,4 @@ theCommission the\ Commission
 theExpen the\ Expen
 warchouse warehouse
 Warchouse Warehouse
-Pifth Fifth
+
