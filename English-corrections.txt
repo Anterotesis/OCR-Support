@@ -745,6 +745,7 @@ autkorifwg authorising
 autkority authority
 autliorife authorise
 autliority authority
+Autliority Authority
 autliorized authorized
 autlkorities authorities
 autlverity authority
@@ -782,6 +783,8 @@ beactes beadles
 Beaft Beast
 beajls beasts
 beariug bearing
+Beceipt Receipt
+Beceipts Receipts
 Becruit Recruit
 beeause because
 Beeause Because
@@ -817,6 +820,7 @@ Bermondiey Bermondsey
 Bermondjey Bermondsey
 Bermondley Bermondsey
 Bermonijey Bermondsey
+Besolution Resolution
 betmeen between
 Betmeen Between
 be\ tween between
@@ -850,6 +854,7 @@ bijhop bishop
 bilhop bishop
 bilhoprick bishoprick
 Bilhops Bishops
+bilietted billetted
 Bilietting Billetting
 Billctting Billetting
 billettiug billetting
@@ -868,6 +873,7 @@ blejfed blessed
 bofpttal hospital
 bom born
 borrowmg borrowing
+Boundaiy Boundary
 bouse house
 bouses houses
 bowsoever howsoever
@@ -1057,6 +1063,7 @@ Chara&cr Character
 Chara&er Character
 Chara&er$ Characters
 Chara&ers Characters
+chatties chattles
 cheapejl cheapest
 Cheefe Cheese
 cheftnuts cheftnuts
@@ -1503,6 +1510,7 @@ Contrads Contracts
 contradts contracts
 contraft contract
 Contra&ing Contracting
+contraiy contrary
 con\ trary contrary
 contra#s contracts
 Contra&s Contracts
@@ -3256,6 +3264,7 @@ Expcnce Expence
 expcnces expences
 Expcnces Expences
 Expen\ ces Expences
+Expenee Expence
 exprefied expressed
 exprefted expressed
 exprejfed expressed
@@ -3660,6 +3669,7 @@ fpaCe space
 fpeciai special
 fpeciallv specially
 fpecial special
+fpecifying specifying
 fpecify specify
 fpeedilv speedily
 fpeedv speedy
@@ -3888,6 +3898,7 @@ fugar sugar
 fuither further
 fuit suit
 fujficient sufficient
+fummaiy summary
 fum sum
 Funifhment Punishment
 fuoh such
@@ -4790,7 +4801,9 @@ kerfie kersie
 Kerfie Kersie
 kerfies kersies
 Kerfies Kersies
+Kesolution Resolution
 Ketiriug Retiring
+Kevolution Revolution
 Kiug King
 kmg king
 Kmg King
@@ -4990,6 +5003,7 @@ Maiefly Majesty
 Maieftv Majesty
 maiefty majesty
 Maiefty Majesty
+Maiesty Majesty
 Mainpnze Mainprize
 mainprife mainprise
 Mainprife Mainprise
@@ -5318,6 +5332,8 @@ Miilion Million
 mijfioners missioners
 milbehave misbehave
 milfion million
+militaiy military
+Militaiy Military
 mil\ lions millions
 minftcr minster
 miniftcr minister
@@ -5341,6 +5357,7 @@ Miuiftcrs Ministers
 Mjlitia Militia
 Mmiftcr Minister
 Mmjesty Majesty
+mo6t most
 Moft Most
 Moifture Moisture
 Mojefty Majesty
@@ -5416,6 +5433,7 @@ neceffiary neccessary
 Neceffities Necessities
 Neceffity Necessity
 necefiary necessary
+neceflaiy necessary
 Neceflaries Necessaries
 NecefTaries Necessaries
 neceftary necessary
@@ -5873,6 +5891,8 @@ O&oBer October
 o£ of
 oommanding commanding
 oommandmg commanding
+oomplete complete
+oonstrued construed
 Oouncil Council
 Oounterfigned Countersigned
 Oounty County
@@ -5884,6 +5904,8 @@ oppoftte opposite
 oppolite opposite
 OQober October
 Orafmuch Forasmuch
+ordinaiy ordinary
+Ordinaiy Ordinary
 OSober October
 otbcrwife otherwise
 otberwife otherwise
@@ -7233,6 +7255,7 @@ Qneen Queen
 Qneftion Question
 qny any
 Qommissioners Commissioners
+Qourt Court
 QQober October
 Qreat Great
 QTATUTE STATUTE
@@ -7728,10 +7751,12 @@ rofemary rosemary
 °r or
 ©r or
 rotwithstanding notwithstanding
+Roval Royal
 rtasonable reasonable
 rtfpctt respect
 Rtftri&ions Restrictions
 rtspective respective
+saicl said
 Saiht Saint
 sailmg sailing
 Saiut Saint
@@ -7821,6 +7846,7 @@ Schoolmxfters Schoolmasters
 Schoolniafters Schoolmasters
 scribiug scribing
 Seafide Seaside
+Secretaiy Secretary
 sectibn section
 Seffioa Session
 seffion session
@@ -7866,6 +7892,7 @@ seventli seventh
 Seventli Seventh
 several\ ly  severally
 shaH shall
+shail shall
 shajj shall
 shaJJ shall
 shalj shall
@@ -7877,9 +7904,11 @@ Sicknefs Sickness
 silverfmith silversmith
 Silverfmith Silversmith
 sittmg sitting
+sliall shall
 smaU small
 SmaU Small
 Sneriff Sheriff
+Sngar Sugar
 Snpply Supply
 soidlers soldiers
 sotwithstanding notwithstanding
@@ -7978,6 +8007,7 @@ Subjtdls Subjects
 Subjtds Subjects
 subseriber subscriber
 sucb such
+Sucb Such
 Succcffors Successors
 Succeffors Successors
 Succefiors Successors
@@ -7989,6 +8019,7 @@ succeftor successor
 SucceiTors Successors
 Succelfors Successors
 sucn such
+sueh such
 Sufpenflon Suspension
 Sufpenfton Suspension
 Sufpeniion Suspension
@@ -7996,6 +8027,8 @@ Sufpeufion Suspension
 Sufpicion Suspicion
 suhsisting subsisting
 sumg suing
+summaiy summary
+Summaiy Summary
 Summonfes Summonses
 suoceediug succeeding
 Supprcffion Suppression
@@ -8090,6 +8123,8 @@ tentli tenth
 tespectively respectively
 Tespectively respectively
 tfie the
+thaf that
+Thaf That
 Thankfgivirig Thanksgiving
 Thankigivings Thanksgivings
 thaufand thousand
@@ -8145,6 +8180,7 @@ thjng thing
 Thjng Thing
 thjrty thirty
 thjs this
+thls this
 thoafand thousand
 thofe those
 thoifand thousand
@@ -8227,6 +8263,7 @@ tjie the
 TJTAHEREAS WHEREAS
 tjvelve twelve
 TlfHEREAS WHEREAS
+tliat that
 tlieir their
 tliem them
 tlie the
@@ -8250,8 +8287,10 @@ tnereto thereto
 tne the
 Tne The
 tney they
+Tnird Third
 tnose those
 tnoufand thousand
+tnousand thousand
 tnstead instead
 Tnstead Instead
 tnsufficient insufficient
@@ -8885,6 +8924,7 @@ whicb which
 whicH which
 whicli which
 whicn which
+whieh which
 Whitfuntide Whitsuntide
 whstsoever whatsoever
 widen\ ing widening

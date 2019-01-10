@@ -17,6 +17,8 @@ ajions asions
 akcn aken
 akcr aker
 alcd aled
+aljy ally
+alJy ally
 allv ally
 ampcd amped
 ancc ance
@@ -38,19 +40,26 @@ bcr ber
 beatb heath
 b-ing bing
 blcd bled
+blifhment blishment
+blijbment blishment
+blijbments blishments
 blilh blish
 blilhcd blishcd
 blilhed blished
 blv bly
+-bmlt -built
 bornc borne
 boufc house
 -boufcs -houses
 boufe house
 -boufes -houses
+boume bourne
 bournc bourne
 -bouses -houses
 bUJhed blished
+burfed bursed
 burv bury
+-bwlt -built
 caflcr caster
 cafter caster
 cajler caster
@@ -58,10 +67,12 @@ castlc castle
 catc cate
 cbefler chester
 cbefter chester
+cbeJler chester
 cbester chester
 cbifm chism
 cbing ching
 ccjler cester
+ccnfcd censed
 cdvely ctively
 ceafed ceased
 cefter cester
@@ -70,11 +81,13 @@ cejfors cessors
 cejjion cession
 cejler cester
 ceJler cester
+cenfcd censed
 cenfed censed
 cercd cered
 charg-ed charged
 chcd ched
 chcjler chester
+chefter chester
 chejlcr chester
 chifm chism
 ch-ing ching
@@ -90,7 +103,9 @@ clofed closed
 clof-ing closing
 clufive clusive
 cmbled embled
+cnce ence
 counf count
+craftfmen craftsmen
 crcd ered
 creafe crease
 creafed creased
@@ -114,17 +129,24 @@ dmg ding
 drcd dred
 dtng ding
 duA duct
+eascd eased
 effioa ession
 eflbr essor
 eflbrs essors
+efTcd essed
 efTes esses
 eht ent
+eITcd essed
+eiTed essed
 ejler ester
 emblc emble
 encc ence
 engtb ength
+entjy ently
+entJy ently
 ent-ly ently
 entv enty
+ercd ered
 ermoft ermost
 ertcn erton
 ervcd erved
@@ -169,6 +191,8 @@ fhip ship
 fhips ships
 fhirc shire
 fhire shire
+fh-ment shment
+fhment shment
 fhoe shoe
 fhop shop
 ficd fied
@@ -180,6 +204,7 @@ fign-ed signed
 fivc five
 -fixtli -sixth
 fliip ship
+fliips ships
 fliire shire
 fline stine
 flreet street
@@ -200,6 +225,7 @@ ftdly fully
 fteads steads
 ftead stead
 ftical stical
+ftick stick
 ftieet street
 ftine stine
 ftng fing
@@ -235,6 +261,7 @@ guilhed guished
 guilh guish
 guilhing guishing
 haU hall
+havcn haven
 heatb heath
 hefler hester
 (hip ship
@@ -331,6 +358,7 @@ llcd lled
 loycd loyed
 -ltreet -street
 maflcr master
+majler master
 makcr maker
 marv mary
 mbcr mber
@@ -350,6 +378,7 @@ mmpn mmon
 mojl most
 moutn mouth
 mtnfler minster
+mtnjler minster
 mtnJler minster
 mucb much
 mucli much
@@ -363,6 +392,7 @@ ndcd nded
 ndcr nder
 nejs ness
 nfion nsion
+nfwick nswick
 niftor nistor
 nihg ning
 niihed nished
@@ -373,6 +403,8 @@ nilh nish
 nish-ed nished
 nitb nith
 nmg ning
+nncr nner
+nojler noster
 nucd nued
 oaer oner
 oaers oners
@@ -406,6 +438,7 @@ pber pher
 pifti pish
 pluffes plusses
 pofal posal
+pofcd posed
 pofed posed
 -poft -post
 ppcd pped
@@ -497,6 +530,7 @@ uaiy uary
 &ual ctual
 ublc uble
 ucb uch
+uctmg ucting
 uijbed uished
 uilbed uished
 ullv ully
@@ -519,6 +553,8 @@ vifo viso
 viiions visions
 vi&ion viction
 villc ville
+vlcted victed
+vlction viction
 vmg ving
 vvife wife
 waitc waite
@@ -545,4 +581,4 @@ yipg ying
 ytng ying
 yy y,
 zurc zure
-nncr nner
+

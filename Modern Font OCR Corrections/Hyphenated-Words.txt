@@ -10,6 +10,8 @@ ad-vertisement advertisement
 Ad-vertisement Advertisement
 Advertise-ment Advertisement
 Advertise-ments Advertisements
+Advow-son Advowson
+Advow-sons Advowsons
 afore-said aforesaid
 a-gents agents
 agree-ment agreement
@@ -17,8 +19,10 @@ Agree-ment Agreement
 agree-ments agreements
 Agree-ments Agreements
 Allot-ments Allotments
+Allow-ances Allowances
 a-mendment amendment
 Amend-ment Amendment
+Ames-bury Amesbury
 answer-able answerable
 Ap-\ peal Appeal
 Ap-peal Appeal
@@ -28,12 +32,66 @@ Ap-\ plication Application
 Ap-plication Application
 ap-\ point appoint
 ap-point appoint
+ap-pointed appointed
 appoint-ment appointment
 Appoint-ment Appointment
 apportion-able apportionable
+appor-\ tioned apportioned
+appor-tioned apportioned
+Ap-\ portionment Apportionment
+Ap-portionment Apportionment
+Apportion-\ ment Apportionment
+Apportion-ment Apportionment
+Ap-\ portionments Apportionments
+Ap-portionments Apportionments
+Ap-\ propriate Appropriate
+Ap-propriate Appropriate
+appro-\ priated appropriated
+appro-priated appropriated
+Appro-\ priation Appropriation
+Appro-priation Appropriation
+appro-\ priations appropriations
+appro-priations appropriations
+appur-\ tenances appurtenances
+appur-tenances appurtenances
+Appur-\ tenances Appurtenances
+Appur-tenances Appurtenances
+Appurte-\ nances Appurtenances
+Appurte-nances Appurtenances
 Ascertain-ment Ascertainment
+Ash-\ bourn Ashbourn
+Ash-bourn Ashbourn
+Ash-\ burnham Ashburnham
+Ash-burnham Ashburnham
+Ash-\ burton Ashburton
+Ash-burton Ashburton
+Ash-\ by Ashby
+Ash-by Ashby
 asherein-after as\ herein-after
+assem-\ bled assembled
+assem-bled assembled
 Assession-able Assessionable
+As-\ signment Assignment
+As-signment Assignment
+Assign-\ ments Assignments
+Assign-ments Assignments
+Attach-\ ment Attachment
+Attach-ment Attachment
+at-\ tempt attempt
+at-tempt attempt
+At-\ tendance Attendance
+At-tendance Attendance
+Attend-\ ance Attendance
+Attend-ance Attendance
+atten-\ dants attendants
+atten-dants attendants
+at-\ tend attend
+at-tend attend
+Attomey-at-Law Attorney-at-Law
+Attomeys-at-Law Attorneys-at-Law
+Attor-nies Attornies
+Austra-\ lasian Australasian
+Austra-lasian Australasian
 Autho-\ rity Authority
 Autho-rity Authority
 autho-rized authorized
@@ -56,11 +114,18 @@ Barrow-in-Fumess Barrow-in-Furness
 Barrow-in-Furaess Barrow-in-Furness
 be-\ fore before
 be-fore before
+bil-letted billeted
+billet-ting billeting
+Bir-mingham Birmingham
 Bo-ronghbridge Boroughbridge
 bo-rough borough
 Bo-roughbridge Boroughbridge
 Bo-roughs Boroughs
 Brad-ford Bradford
+Bras-\ sington Brassington
+Bras-sington Brassington
+Brassing-\ ton Brassington
+Brassing-ton Brassington
 C6m-mons Commons
 Cam-\ bridge Cambridge
 Cam-bridge Cambridge
@@ -84,11 +149,18 @@ circum-stances circumstances
 circum-stanees circumstances
 Clap-bam Clapham
 Clap-ham Clapham
+cleans-\ ing cleansing
+cleans-ing cleansing
+Clee-\ thorpes Cleethorpes
 Clee-thorpes Cleethorpes
 Clerken-\ well Clerkenwell
 Clerken-well Clerkenwell
 Clian-cellor Chancellor
 Clian-cery Chancery
+Cocker-\ ham Cockerham
+Cocker-ham Cockerham
+Cocker-\ mouth Cockermouth
+Cocker-mouth Cockermouth
 co-exten9ive co-extensive
 co-extensfve co-extensive
 co-ex-tensive co-extensive
@@ -113,21 +185,42 @@ Commission-\ ers Commissioners
 Commission-ers Commissioners
 com-mitment commitment
 Com-mitment Commitment
+Commit-sioners Commissioners
 Com-pany Company
+com-\ pensation compensation
 com-pensation compensation
 Com-\ pensation Compensation
 Com-pensation Compensation
+Com-wall Cornwall
 con-\ cerning concerning
+confine-\ ment confinement
+confine-ment confinement
+Confine-\ ment Confinement
+Confine-ment Confinement
 con-sent consent
 Con-sent Consent
 con-\ sequence consequence
 con-sequence consequence
 conse-\ quence consequence
 conse-quence consequence
+con-\ sisting consisting
+con-sisting consisting
+consis-\ torial consistorial
+consis-torial consistorial
+Con-\ sistorial Consistorial
+Con-sistorial Consistorial
+Consis-\ torial Consistorial
+Consis-torial Consistorial
 Consoli-ated Consolidated
 Consoli-dation Consolidation
+con-\ spicuous conspicuous
+con-spicuous conspicuous
+con-\ tain contain
+con-tain contain
 con-tained contained
 con-taining con-taining
+Con-\ tinuous Continuous
+Con-tinuous Continuous
 con-\ trary contrary
 con-trary contrary
 con-\ venient convenient
@@ -149,6 +242,15 @@ con-veying conveying
 convey-\ ing conveying
 convey-ing conveying
 Cor-poration Corporation
+Cor-porations Cor-porations
+Cot-tingham Cottingham
+Courta-martiai Courts-Martial
+Courta-martial Courts-Martial
+court-martiaL court-martial
+Court-martiaL  Court-Martial
+Court-martini Court-martial
+courts-martiaL courts-martial
+Courts-martiaL Courts-martial
 Dalton-in-Fumess Dalton-in-Furness
 Dalton-in-Furaess Dalton-in-Furness
 demand-able demandable
@@ -160,6 +262,8 @@ Direc-\ tions Directions
 Direc-tions Directions
 Disburse-ment Disbursement
 -Ditto -\ Ditto
+Eigh-\ teen Eighteen
+Eigh-teen Eighteen
 eighty-onc eighty-one
 eiglity-two eighty-two
 enfranchise-ment enfranchisement
@@ -170,8 +274,25 @@ Equit-able Equitable
 eri-ginal original
 establish-ment establishment
 Establish-ment Establishment
+Ex-\ amination Examination
+Ex-amination Examination
+ex-\ amined examined
+ex-amined examined
+exa-\ mined examined
+exa-mined examined
+Ex-chequer Exchequer
+Exche-quer Exchequer
+ex-ciseable exciseable
 excise-able exciseable
 Excise-able Exciseable
+Exe-\ chequer Exechequer
+Exe-chequer Exechequer
+Ex-\ ecutors Executors
+Ex-ecutors Executors
+Exe-\ cutors Executors
+Exe-cutors Executors
+Execu-\ tors Executors
+Execu-tors Executors
 exercise-able exerciseable
 Ex-pcnces Expences
 Ex-pence Expence
@@ -180,13 +301,25 @@ Ex-\ pences Expences
 Ex-pences Expences
 Ex-penecs Expences
 Ex-penees Expences
+Ex-\ penses Expenses
+Ex-penses Expenses
 extra-parocbial extra-parochial
 extra-paro-chial extra-parochial
 Extra-parocliial Extra-parochial
+Farn-\ borough Farnborough
+Farn-borough Farnborough
+Farn-\ hurst Farnhurst
+Farn-hurst Farnhurst
+Farring-\ don Farringdon
+Farring-don Farringdon
+Faver-\ sham Faversham
+Faver-sham Faversham
 Febru-ary February
 Fen-cibles Fencibles
 forfeit-able forfeitable
 -For -\ For
+four-\ teen fourteen
+four-teen fourteen
 Gawle-abovethe-Wood Gawle-above-the-Wood
 Gawle-under-the-VVood Gawle-under-the-Wood
 gene-ral general
@@ -334,6 +467,8 @@ negoci-able negociable
 Neigh-\ bourhood Neighbourhood
 Neigh-bourhood Neighbourhood
 Neiv-foundland Newfoundland
+nine-\ teen nineteen
+nine-teen nineteen
 nomi-\ nated nominated
 nomi-nated nominated
 nomi-\ nate nominate
@@ -347,6 +482,8 @@ Offi-\ cers Officers
 Offi-cers Officers
 of-the of\ the
 on-the on\ the
+oourt-martial court-martial
+oourts-martial courts-martial
 Opera-tion Operation
 Or-\ dinances Ordinances
 Or-dinances Ordinances
@@ -357,6 +494,7 @@ other-wise otherwise
 Parfia-ment Parliament
 Pariii-ment Parliament
 Parik-ment Parliament
+Park-hurst Parkhurst
 par-liament parliament
 parlia-ment parliament
 Parlia-\ ment Parliament
@@ -446,8 +584,14 @@ satis-fied satisfied
 Scot-land Scotland
 Scotlandy Scotland,
 Settle-ment Settlement
+Ship-\ ping Shipping
+Ship-ping Shipping
 Shore-\ ham Shoreham
 Shore-ham Shoreham
+six-\ teen sixteen
+six-teen sixteen
+Six-\ teen Sixteen
+Six-teen Sixteen
 South-\ port Southport
 South-port Southport
 Spe-cial Special
@@ -459,11 +603,16 @@ Stew-artries Stewartries
 Stew-\ artry Stewartry
 Stew-artry Stewartry
 surviv-ing surviving
+t>e be
+T>e Be
+T>E BE
 Tene-ments Tenements
 them-selves themselves
 them-selyes themselves
 -the -\ the
 -The -\ The
+Thir-\ teenth Thirteenth
+Thir-teenth Thirteenth
 thou-sand thousand
 Trea-snry Treasury
 treason-able treasonable
@@ -483,128 +632,38 @@ writ-ten written
 Yice-President Vice-President
 Yolun-teers Volunteers
 York-shire Yorkshire
-cleans-ing cleansing
-Clee-thorpes Cleethorpes
-Cocker-ham Cockerham
-Cocker-mouth Cockermouth
-Ex-penses Expenses
-confine-ment confinement
-Confine-ment Confinement
-con-sisting consisting
-consis-torial consistorial
-Con-sistorial Consistorial
-Consis-torial Consistorial
-con-spicuous conspicuous
-con-tain contain
-Con-tinuous Continuous
-Bras-sington Brassington
-Brassing-ton Brassington
-Austra-lasian Australasian
-Attach-ment Attachment
-at-tend attend
-At-tendance Attendance
-Attend-ance Attendance
-atten-dants attendants
-at-tempt attempt
-assem-bled assembled
-Ash-bourn Ashbourn
-Ash-burnham Ashburnham
-Ash-burton Ashburton
-Ash-by Ashby
-appur-tenances appurtenances
-Appur-tenances Appurtenances
-Appurte-nances Appurtenances
-Appro-priation Appropriation
-appro-priations appropriations
-Ap-propriate Appropriate
-appro-priated appropriated
-appor-tioned apportioned
-Ap-portionment Apportionment
-Apportion-ment Apportionment
-Ap-portionments Apportionments
-Ex-amination Examination
-ex-amined examined
-exa-mined examined
-Ex-ecutors Executors
-Exe-cutors Executors
-Execu-tors Executors
-Exe-chequer Exechequer
-Farn-borough Farnborough
-Farn-hurst Farnhurst
-Faver-sham Faversham
-Farring-don Farringdon
-four-teen fourteen
-nine-teen nineteen
-six-teen sixteen
-Six-teen Sixteen
-Thir-teenth Thirteenth
-Eigh-teen Eighteen
-Ship-ping Shipping
-As-signment Assignment
-Assign-ments Assignments
-com-pensation compensation
-Com-pensation Compensation
-cleans-\ ing cleansing
-Clee-\ thorpes Cleethorpes
-Cocker-\ ham Cockerham
-Cocker-\ mouth Cockermouth
-Ex-\ penses Expenses
-confine-\ ment confinement
-Confine-\ ment Confinement
-con-\ sisting consisting
-consis-\ torial consistorial
-Con-\ sistorial Consistorial
-Consis-\ torial Consistorial
-con-\ spicuous conspicuous
-con-\ tain contain
-Con-\ tinuous Continuous
-Bras-\ sington Brassington
-Brassing-\ ton Brassington
-Austra-\ lasian Australasian
-Attach-\ ment Attachment
-at-\ tend attend
-At-\ tendance Attendance
-Attend-\ ance Attendance
-atten-\ dants attendants
-at-\ tempt attempt
-assem-\ bled assembled
-Ash-\ bourn Ashbourn
-Ash-\ burnham Ashburnham
-Ash-\ burton Ashburton
-Ash-\ by Ashby
-appur-\ tenances appurtenances
-Appur-\ tenances Appurtenances
-Appurte-\ nances Appurtenances
-Appro-\ priation Appropriation
-appro-\ priations appropriations
-Ap-\ propriate Appropriate
-appro-\ priated appropriated
-appor-\ tioned apportioned
-Ap-\ portionment Apportionment
-Apportion-\ ment Apportionment
-Ap-\ portionments Apportionments
-Ex-\ amination Examination
-ex-\ amined examined
-exa-\ mined examined
-Ex-\ ecutors Executors
-Exe-\ cutors Executors
-Execu-\ tors Executors
-Exe-\ chequer Exechequer
-Farn-\ borough Farnborough
-Farn-\ hurst Farnhurst
-Faver-\ sham Faversham
-Farring-\ don Farringdon
-four-\ teen fourteen
-nine-\ teen nineteen
-six-\ teen sixteen
-Six-\ teen Sixteen
-Thir-\ teenth Thirteenth
-Eigh-\ teen Eighteen
-Ship-\ ping Shipping
-As-\ signment Assignment
-Assign-\ ments Assignments
-com-\ pensation compensation
-Com-\ pensation Compensation
-T>E BE
-T>e Be
-t>e be
+pei-son person
+Pei-son Person
+pro-vided provided
+Pro-vided Provided
+Pro-vision Provision
+Pro-visions Provisions
+pro-visions provisions
+Provi-sions Provisions
+quar-terly quarterly
+Rick-mansworth Rickman-worth
+Rickmans-worth Rickman-worth
+Secrctary-at-War Secretary-at-War
+Secretaiy-at-War Secretary-at-War
+Secre-tary-at-War Secretary-at-War
+sec-tion section
+Seeretary-at-War Secretary-at-War
+Sep-tember September
+South-ampton Southampton
+thirty-fonr thirty-four
+trans-ferrable transferrable
+Twenty-filth Twenty-fifth
+up-wards upwards
+Vic-toria Victoria
+in-tituled intituled
+after-wards afterwards
+re-fusing refusing
+Trus-tees Trustees
+disem-bodied disembodied
+billet-ting billetting
+Pre-mises Premises
+deter-mine determine
+Cran-brooke Cranbrooke
+hereip-after herein-after
+hereiu-after herein-after
+hevein-after herein-after

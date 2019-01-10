@@ -40,4 +40,9 @@ theCommission the\ Commission
 theExpen the\ Expen
 warchouse warehouse
 Warchouse Warehouse
-
+Quar-ter Quarter
+quar-ter quarter
+Beceive Receive
+Discliarg Discharg
+discliarg discharg
+Secre-tary Secretary

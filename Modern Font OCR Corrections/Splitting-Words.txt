@@ -1,6 +1,7 @@
 0fthc of\ the
 0fthe of\ the
 aaaforesaid as\ aforesaid
+Actof Act\ of
 africansand africans\ and
 andalso and\ also
 andany and\ any
@@ -9,6 +10,7 @@ Andbe And\ be
 Andbeit And\ be\ it
 andby and\ by
 andexcept and\ except
+andExpences and\ Expences
 andfor and\ for
 Andfor And\ for
 andfrom and\ from
@@ -16,6 +18,7 @@ andher and\ her
 andhis and\ his
 andif and\ if
 andin and\ in
+andJames and\ James
 andof and\ of
 andseventy and\ seventy
 andsixty and\ sixty
@@ -32,11 +35,13 @@ anyperson any\ person
 anythe any\ the
 asaforesaid as\ aforesaid
 beingof being\ of
+BoardofTrade Board\ of\ Trade
 bythe by\ the
 commissionersof commissioners\ of
 commissionof commission\ of
 Commissionof Commission\ of
 demandedfor demanded\ for
+exemptedfrom exempted\ from
 exemptfrom exempt\ from
 firstyear first\ year
 forcedby forced\ by
@@ -76,5 +81,4 @@ ThisAct This\ act
 thispresent this\ present
 underthe under\ the
 Yearof Year\ of
-Actof Act\ of
-BoardofTrade Board\ of\ Trade
+
