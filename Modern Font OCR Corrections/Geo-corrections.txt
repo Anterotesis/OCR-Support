@@ -16,7 +16,6 @@ aberdcenshire aberdeenshire
 Aberdcenshire Aberdeenshire
 aberdecnshire aberdeenshire
 Aberdecnshire Aberdeenshire
-Aberdeenjhire Aberdeenshire
 aberdeensbire aberdeenshire
 Aberdeensbire Aberdeenshire
 aberdeenshirc aberdeenshire
@@ -25,12 +24,6 @@ aberncthy abernethy
 Aberncthy Abernethy
 abernetby abernethy
 Abernetby Abernethy
-Aberyflwith Aberystwith
-Aberyflwytb Aberystwyth
-Aberyflwyth Aberystwyth
-Aberyftwith Aberystwith
-Aberyftwyth Aberystwyth
-Aberyfwyth Aberystwyth
 Aberyjlwyth Aberystwyth
 Aberystwitk Aberystwith 
 Afbton Ashton
@@ -54,14 +47,6 @@ Aliddlcfex Middlesex
 Aliddlefcx Middlesex
 Aliddlefex Middlesex
 Aliddlesex  Middlesex
-amflerdam amsterdam
-Amflerdam Amsterdam
-amftcrdam amsterdam
-Amftcrdam Amsterdam
-amfterdam amsterdam
-Amfterdam Amsterdam
-Amjlcrdam Amsterdam
-Amjlerdam Amsterdam
 amstcrdam amsterdam
 Amstcrdam Amsterdam
 Anglcfca Anglesea
@@ -113,10 +98,6 @@ Bermondley Bermondsey
 bermondscy bermondsey
 Bermondscy Bermondsey
 Bermonijey Bermondsey
-Bifbopfgate Bishopsgate
-Bifbopjgate Bishopsgate
-Bifhopfgate Bishopsgate
-Biglefwade Bigleswade
 Biitain Britain
 Bijbopfgate Bishopsgate
 Bijhopfgate Bishopsgate
@@ -133,12 +114,6 @@ Bnstol Bristol
 Botolpbs Botolphs
 Bqftngstoke Basingstoke
 Bridgbam Bridgham
-Brifiol Bristol
-Briftoi Bristol
-BriftoI Bristol
-Briftol Bristol
-BriftoL Bristol
-BRiftol Bristol
 Brigbtbelmjlon Brighthelmston
 Brigbthelmjlon Brighthelmston
 Brightbeimjlone Brighthelmstone
@@ -203,17 +178,6 @@ Chdfea Chelsea
 Cheapfide Cheapside
 Chefhunt Cheshunt
 Chefier Chester
-Cheflcr Chester
-chefler chester
-Chefler Chester
-cheflerfield chesterfield
-Cheflerfield Chesterfield
-Cheftcr Chester
-Cheftcrfield  Chesterfield 
-chefter chester
-Chefter Chester
-chefterfield chesterfield
-Chefterfield Chesterfield
 Cheihire Cheshire
 Chejfcr Chester
 chejhire cheshire
@@ -223,8 +187,6 @@ Chejier Chester
 Chejier  Chester
 Chejler Chester
 Chejlerfield Chesterfield
-chelfea chelsea
-Chelfea Chelsea
 Chelhire Cheshire
 Cheljea Chelsea
 Chepftow Chepstow
@@ -1513,4 +1475,29 @@ zoucb zouch
 Zoucb Zouch
 Zoucii Zouch
 Zouck Zouch
-
+Neic\ South\ Wales New\ South\ Wales
+Neio\ South\ Wales New\ South\ Wales
+Nem\ South\ Wales New\ South\ Wales
+Nero\ South\ Wales New\ South\ Wales
+Neto\ South\ Wales New\ South\ Wales
+Netv\ South\ Wales New\ South\ Wales
+Neu>\ South\ Wales New\ South\ Wales
+Neu)\ South\ Wales New\ South\ Wales
+Neva\ South\ Wales New\ South\ Wales
+Nevo\ South\ Wales New\ South\ Wales
+Nevs\ South\ Wales New\ South\ Wales
+Chcadle Cheadle
+United\ 4\ Kingdom United\ Kingdom
+Erigland England
+Eriglcmd England
+Whitebum Whiteburn
+Westbome Westborne
+Carrickfcrgus Carrickfergus
+Carrickfehqus Carrickfergus
+Carrickfergu3 Carrickfergus
+Carrickfergu8 Carrickfergus
+Carrick-fergus Carrickfergus
+Carrickfer-gus Carrickfergus
+Glouoester Gloucester
+Wedneebury Wednesbury
+Wednesbnry Wednesbury

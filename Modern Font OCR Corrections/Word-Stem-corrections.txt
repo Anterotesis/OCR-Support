@@ -1,5 +1,10 @@
+2Vict 2\ Vict
+addi-\ tio additio
+Addi-\ tio Additio
 Ad-ministrator Administrator
 Ad-vowson Advowson
+Allow-ance Allowance
+Beceive Receive
 Begist Regist
 Bevenue Revenue
 Bishop-rick Bishoprick
@@ -10,23 +15,38 @@ circuinstance circumstance
 cnarge charge
 Cnarge Charge
 Cutkbert Cuthbert
+dis-\ charg discharg
+Dis-\ charg Discharge
+discliarg discharg
+Discliarg Discharg
 effectnal effectual
-ex-ceed exceed
 ExceUent Excellent
-ex-chang exchang
-Ex-chang Exchang
-Ex-cise Excise
+HerMajesty Her\ Majesty
 Incnmbrance Incumbrance
 justioe justice
 Justioe Justice
 Kiugston Kingston
+Loca1 Local
+Ma-\ jesty Majesty
 mar-riage marriage
+miS81on mission
+miS8ion mission
 m-missioner mmissioner
+NationalDebt National\ Debt
+-nnd- -and-
+Pas-senger Passenger
 Pifth Fifth
 plain-tiff plaintiff
 Plain-tiff Plaintiff
+Pri-soner Prisoner
 Pro-ceed Proceed
+Punisb Punish
+Punisn Punish
+pur-chase purchase
+quar-ter quarter
+Quar-ter Quarter
 Rail-way Railway
+Secre-tary Secretary
 seijeant serjeant
 Seijeant Serjeant
 sub-ject subject
@@ -40,9 +60,4 @@ theCommission the\ Commission
 theExpen the\ Expen
 warchouse warehouse
 Warchouse Warehouse
-Quar-ter Quarter
-quar-ter quarter
-Beceive Receive
-Discliarg Discharg
-discliarg discharg
-Secre-tary Secretary
+

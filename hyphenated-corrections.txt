@@ -1381,9 +1381,6 @@ fcr-Vant servant
 fcr-Vants servants
 fea-coal sea-coal
 fea-coast sea-coast
-feafaring-man seafaring-man
-feafaring-men seafaring-men
-feafaring seafaring
 fea-fish seafish
 feaft-day feast-day
 feajl-day feast-day
@@ -3624,3 +3621,23 @@ up-wards upwards
 Cbef-ter Chester
 Lan-cajler Lancaster
 Lan-caster Lancaster
+Perse-verance Perseverance
+Re-solution Resolution
+fub-feribing subscribing
+lub-feribing subscribing
+fub-scribing subscribing
+Com-\ mittee Committee
+com-\ mittee committee
+Morn-\ ing Morning
+Morn-ing Morning
+New-castle Newcastle
+in-rolled inrolled
+In-rolments Inrolments
+Inrol-ments Inrolments
+cer-tain certain
+in-tituled intituled
+Pre-vention Prevention
+Pro-duction Production
+Pro-perty Property
+Per-jury Perjury
+de-scribing describing

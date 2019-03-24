@@ -1578,7 +1578,7 @@ tricesimopri tricesimo\ pri
 tricesimose tricesimo\ se
 truflee trustee
 Truflee Trustee
-truftees trustees
+truftee trustee
 Truf-tee Trustee
 Truftee Trustee
 truitee trustee
@@ -1699,3 +1699,83 @@ quar-ter quarter
 Discliarg Discharg
 discliarg discharg
 Secre-tary Secretary
+cornfaftor cornfactor
+Cornfaftor Cornfactor
+Cornfac-tor Cornfactor
+cornfac-tor cornfactor
+Cornfa&or Cornfactor
+cornfa&or cornfactor
+Cornfadlor Cornfactor
+cornfadlor cornfactor
+Efquire Esquire
+Ffquire Esquire
+ftipulate stipulate
+Onethouland One\ thousand
+OneThouland One\ Thousand
+Ma-\ jesty Majesty
+Loca1 Local
+Pas-senger Passenger
+Pri-soner Prisoner
+Allow-ance Allowance
+ofiicer officer
+feafaring seafaring
+prjfoner prisoner
+infant\ fon infant\ son
+fucceftive successive
+cliarge charge
+secondyear second\ year
+Debentnre Debenture
+Debeuture Debenture
+impo-fition imposition
+Impo-fition Imposition
+co-venant covenant
+Dc-feription Description
+de-fendant defendant
+De-fendant Defendant
+defen-dant defendant
+Defen-dant Defendant
+defend-ant defendant
+Defend-ant Defendant
+cor-poration corporation
+Corpora-tion Corporation
+corpora-tion corporation
+Cor-poration Corporation
+Ncwf-paper Newspaper
+Certi-ficat Certificat
+Certifi-cat Certificat
+certifi-cat certificat
+certi-ficat certificat
+Dimenfion Dimension
+Commision Commission
+commision commission
+inclufive inclusive
+Inclufive Inclusive
+fubfidy subsidy
+TownJhip Township
+townJhip township
+Townjhip Township
+townJhip township
+Exerciie Exercise
+exerciie exercise
+theKing the\ King
+TheKing The\ King
+authorife authorise
+authorifc authorise
+T10N TION
+f10n fion
+Archbilhop Archbishop
+Biftioprick Bishoprick
+Dircftor Director
+Perfia Persia
+JucceJfor successor
+WeftRiding West\ Riding
+Archbilhop Archbishop
+archbilhop archbishop
+inagistrate magistrate
+rnagistrate magistrate
+cpmmission commission
+Cpmmission Commission
+diviiion division
+Punisb Punish
+Punisn Punish
+-nnd- -and-

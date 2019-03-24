@@ -1,7 +1,22 @@
+8pirit Spirit
+8tat Stat
+addi-\ tio additio
+addi-tio additio
+Addi-\ tio Additio
+Addi-tio Additio
 ad-min admin
 Ad-min Admin
+ad-vanc advanc
+Ad-vanc Advanc
+Arcb Arch
+aUow allow
+AUow Allow
+Autbo Autho
 baukrup bankrup
 Baukrup Bankrup
+Beventy Seventy
+Bixty Sixty
+B°r Bor
 Butcb Butch
 Cbapel Chapel
 cbarge charge
@@ -15,6 +30,10 @@ clcrk clerk
 Clcrk Clerk
 com-m comm
 Com-m Comm
+com-plain complain
+Com-plain Complain
+com-plet complet
+Com-plet Complet
 con-diti conditi
 Con-diti Conditi
 conrts- courts-
@@ -23,15 +42,39 @@ con-side conside
 Con-side Conside
 con-solid consolid
 Con-stab Constab
+con-stru constru
+con-tinu continu
 cxclu exclu
 cxcr exer
 cxer exer
+dis-\ charg discharg
+dis-charg discharg
+Dis-\ charg Discharge
+Dis-charg Discharge
+dis-qual disqual
+Dis-qual Disqual
+eightv- eighty-
+eiglity eighty
+Eiglity Eighty
+eignty eighty
+Eignty Eighty
 govcrn govern
 Govcrn Govern
+hcrcin herein
+hcrein herein
 in-ter inter
 Marjb Marsh
+Neigbb Neighb
+Parhame Parliame
+Pariia Parlia
+Pur-pos purpos
 rcspect respect
+sixly sixty
+sixtv sixty
 tbem them
+Tliirty Thirty
+tnirty thirty
+Tnirty Thirty
 Tnques Inques
 wbe whe
 Wbe Whe
@@ -39,42 +82,4 @@ wbi whi
 Wbi Whi
 wbo who
 Wbo Who
-Autbo Autho
-aUow allow
-AUow Allow
-B°r Bor
-Pur-pos purpos
-Neigbb Neighb
-con-tinu continu
-con-stru constru
-com-plain complain
-Com-plain Complain
-com-plet complet
-Com-plet Complet
-Bixty Sixty
-Beventy Seventy
-Pariia Parlia
-Dis-\ charg Discharge
-dis-\ charg discharg
-Dis-charg Discharge
-dis-charg discharg
-Ad-vanc Advanc
-ad-vanc advanc
-dis-qual disqual
-Dis-qual Disqual
-eightv- eighty-
-Addi-tio Additio
-Addi-\ tio Additio
-addi-tio additio
-addi-\ tio additio
-Tliirty Thirty
-eiglity eighty
-Eiglity Eighty
-eignty eighty
-Eignty Eighty
-Parhame Parliame
-sixtv sixty
-sixly sixty
-Tnirty Thirty
-tnirty thirty
-Arcb Arch
+

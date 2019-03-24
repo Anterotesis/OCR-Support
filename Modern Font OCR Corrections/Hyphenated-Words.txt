@@ -2,10 +2,16 @@ ac-cording according
 accord-ingly accordingly
 ac-count account
 Ac-counts Accounts
+ad-measurement admeasurement
+admeasure-ment admeasurement
+Ad-measurement Admeasurement
 Admea-surement Admeasurement
 Admeasure-ment Admeasurement
 Admi-nistrators Administrators
 Ad-miralty Admiralty
+ad-mission admission
+Ad-mission Admission
+ad-mitted admitted
 ad-vertisement advertisement
 Ad-vertisement Advertisement
 Advertise-ment Advertisement
@@ -13,6 +19,7 @@ Advertise-ments Advertisements
 Advow-son Advowson
 Advow-sons Advowsons
 afore-said aforesaid
+after-wards afterwards
 a-gents agents
 agree-ment agreement
 Agree-ment Agreement
@@ -21,6 +28,7 @@ Agree-ments Agreements
 Allot-ments Allotments
 Allow-ances Allowances
 a-mendment amendment
+Amend-\ ment Amendment
 Amend-ment Amendment
 Ames-bury Amesbury
 answer-able answerable
@@ -30,6 +38,10 @@ appear-\ ing appearing
 appear-ing appearing
 Ap-\ plication Application
 Ap-plication Application
+Ap-plotment Applotment
+Applot-ment Applotment
+Ap-plotments Applotments
+ap-plotted applotted
 ap-\ point appoint
 ap-point appoint
 ap-pointed appointed
@@ -44,6 +56,7 @@ Apportion-\ ment Apportionment
 Apportion-ment Apportionment
 Ap-\ portionments Apportionments
 Ap-portionments Apportionments
+appre-1\ hended apprehended
 Ap-\ propriate Appropriate
 Ap-propriate Appropriate
 appro-\ priated appropriated
@@ -71,6 +84,7 @@ asherein-after as\ herein-after
 assem-\ bled assembled
 assem-bled assembled
 Assession-able Assessionable
+Assess-ment Assessment
 As-\ signment Assignment
 As-signment Assignment
 Assign-\ ments Assignments
@@ -116,6 +130,7 @@ be-\ fore before
 be-fore before
 bil-letted billeted
 billet-ting billeting
+billet-ting billetting
 Bir-mingham Birmingham
 Bo-ronghbridge Boroughbridge
 bo-rough borough
@@ -126,11 +141,14 @@ Bras-\ sington Brassington
 Bras-sington Brassington
 Brassing-\ ton Brassington
 Brassing-ton Brassington
+Bri-tain Britain
+Build-ings Buildings
 C6m-mons Commons
 Cam-\ bridge Cambridge
 Cam-bridge Cambridge
 Camp-\ bell Campbell
 Camp-bell Campbell
+cer-tain certain
 chaige-able chargeable
 Chamber-\ lain Chamberlain
 Chamber-lain Chamberlain
@@ -164,6 +182,7 @@ Cocker-mouth Cockermouth
 co-exten9ive co-extensive
 co-extensfve co-extensive
 co-ex-tensive co-extensive
+Cominis-sioners Commissioners
 Com-issioners Comissioners
 Com-menccment Commencement
 com-mencement commencement
@@ -219,6 +238,7 @@ con-\ tain contain
 con-tain contain
 con-tained contained
 con-taining con-taining
+conti-\ nued continued
 Con-\ tinuous Continuous
 Con-tinuous Continuous
 con-\ trary contrary
@@ -241,6 +261,7 @@ con-\ veying conveying
 con-veying conveying
 convey-\ ing conveying
 convey-ing conveying
+Con-\ viction Conviction
 Cor-poration Corporation
 Cor-porations Cor-porations
 Cot-tingham Cottingham
@@ -251,25 +272,34 @@ Court-martiaL  Court-Martial
 Court-martini Court-martial
 courts-martiaL courts-martial
 Courts-martiaL Courts-martial
+Cran-brooke Cranbrooke
 Dalton-in-Fumess Dalton-in-Furness
 Dalton-in-Furaess Dalton-in-Furness
 demand-able demandable
 Descrip-\ tion Description
 Descrip-tion Description
+deter-mine determine
 Direc-\ tion Direction
 Direc-tion Direction
 Direc-\ tions Directions
 Direc-tions Directions
 Disburse-ment Disbursement
+disem-bodied disembodied
+dis-tinguishment distinguishment
+Dis-trict District
 -Ditto -\ Ditto
 Eigh-\ teen Eighteen
 Eigh-teen Eighteen
 eighty-onc eighty-one
 eiglity-two eighty-two
+em-ployed employed
+em-powered empowered
 enfranchise-ment enfranchisement
 En-franchisement Enfranchisement
 Enfranchise-ment Enfranchisement
+Eng-\ land England
 Eng-land England
+en-titled entitled
 Equit-able Equitable
 eri-ginal original
 establish-ment establishment
@@ -293,19 +323,24 @@ Exe-\ cutors Executors
 Exe-cutors Executors
 Execu-\ tors Executors
 Execu-tors Executors
+exer-ciseable exerciseable
 exercise-able exerciseable
 Ex-pcnces Expences
 Ex-pence Expence
 ex-pences expences
 Ex-\ pences Expences
 Ex-pences Expences
+ex-pended expended
 Ex-penecs Expences
 Ex-penees Expences
 Ex-\ penses Expenses
 Ex-penses Expenses
+ex-tended extended
+ex-tend extend
 extra-parocbial extra-parochial
 extra-paro-chial extra-parochial
 Extra-parocliial Extra-parochial
+Fac-simile Facsimile
 Farn-\ borough Farnborough
 Farn-borough Farnborough
 Farn-\ hurst Farnhurst
@@ -362,13 +397,16 @@ herein-befare herein-before
 herein-befbre herein-before
 herein-hefore herein-before
 herein-nfter herein-after
+hereip-after herein-after
 hereiri-after herein-after
 hereiri-before herein-before
+hereiu-after herein-after
 hereiu-before herein-before
 hereln-after herein-after
 herem-after herein-after
 heroin-after herein-after
 heroin-before herein-before
+hevein-after herein-after
 Hi9\ Majesty His\ Majesty
 Hind-\ ley Hindley
 Hind-ley Hindley
@@ -377,8 +415,13 @@ Holds-worth Holdsworth
 hot-withstanding notwithstanding
 hun-dred hundred
 im-prisoned imprisoned
+Improve-\ ment Improvement
 inalien-able inalienable
+in-rolled inrolled
+In-rolments Inrolments
+Inrol-ments Inrolments
 in-the in\ the
+in-tituled intituled
 inti-\ tuled intituled
 inti-tuled intituled
 Ire-land Ireland
@@ -389,14 +432,19 @@ Ken-nington Kennington
 Kenning-ton Kennington
 King-\ dom Kingdom
 King-dom Kingdom
+Kingston-upon-HuU Kingston-upon-Hull
 Knot-\ tingley Knottingley
 Knot-tingley Knottingley
 last-menticned last-mentioned
+last-men-tioned last-mentioned
 latt-mentioned last-mentioned
+law-ful lawful
 Leather-\ head Leatherhead
 Leather-head Leatherhead
+Lien-tenant Lieutenant
 lierein-after herein-after
 lierein-before herein-before
+Lieu-tenant Lieutenant
 Lieute-\ nant Lieutenant
 Lieute-nant Lieutenant
 Liver-\ pool Liverpool
@@ -407,8 +455,10 @@ manage-ment management
 Manage-ment Management
 Man-chester Manchester
 manufac-ture manufacture
+Mar-kets Markets
 Marl-borough Marlborough
 mar-riages marriages
+Mar-shalsea Marshalsea
 Measure-ment Measurement
 MEASURE-MENT MEASUREMENT
 me-\ chanical mechanical
@@ -442,6 +492,7 @@ Merchan-dize Merchandize
 me-thods methods
 me-thuds methods
 me-tnod method
+Me-tropolitan Metropolitan
 Metro-\ politan Metropolitan
 Metro-politan Metropolitan
 Mid-\ dlesborough Middlesborough
@@ -467,6 +518,7 @@ negoci-able negociable
 Neigh-\ bourhood Neighbourhood
 Neigh-bourhood Neighbourhood
 Neiv-foundland Newfoundland
+New-castle Newcastle
 nine-\ teen nineteen
 nine-teen nineteen
 nomi-\ nated nominated
@@ -503,6 +555,8 @@ Pave-ment Pavement
 pay-able payable
 Pay-\ ment Payment
 Pay-ment Payment
+pei-son person
+Pei-son Person
 pe-nalties penalties
 per-\ centage percentage
 per-centage percentage
@@ -513,6 +567,7 @@ per-centages percentages
 Per-\ centages Percentages
 Per-centages Percentages
 per-formed performed
+Per-jury Perjury
 Per-\ son Person
 Per-son Person
 Per-\ sons Persons
@@ -523,8 +578,12 @@ Peti-\ tion Petition
 Peti-tion Petition
 Pferlia-ment Parliament
 Ply-mouth Plymouth
+Pre-mises Premises
 present-ment presentment
+Pre-vention Prevention
+Pro-duction Production
 profit-able profitable
+Pro-perty Property
 proportion-able proportionable
 proportion-ably proportionably
 Pro-\ prietor Proprietor
@@ -539,6 +598,12 @@ Pro-\ tection Protection
 Pro-tection Protection
 Pro-tedion Protection
 prove-able proveable
+pro-vided provided
+Pro-vided Provided
+Pro-vision Provision
+pro-visions provisions
+Pro-visions Provisions
+Provi-sions Provisions
 pui-poses purposes
 Puniah-ment Punishment
 Puniih-ments Punishments
@@ -547,12 +612,15 @@ punish-ing punishing
 punish-ment punishment
 Punish-ment Punishment
 Punish-ments Punishments
+Pur-chase Purchase
 pur-poses purposes
+quar-terly quarterly
 reason-able reasonable
 Re-\ compence Recompence
 Re-compence Recompence
 Recom-\ pence Recompence
 Recom-pence Recompence
+re-fusing refusing
 re-giment regiment
 Re-giment Regiment
 Regi-ment Regiment
@@ -562,6 +630,8 @@ Regula-\ tions Regulations
 Regula-tions Regulations
 Repay-ment Repayment
 Require-ments Requirements
+Rick-mansworth Rickman-worth
+Rickmans-worth Rickman-worth
 Saccha-romctcr saccharometer
 saccharo-\ meter saccharometer
 saccharo-meter saccharometer
@@ -583,6 +653,12 @@ satis-\ fied satisfied
 satis-fied satisfied
 Scot-land Scotland
 Scotlandy Scotland,
+Secrctary-at-War Secretary-at-War
+Secretaiy-at-War Secretary-at-War
+Secre-tary-at-War Secretary-at-War
+sec-tion section
+Seeretary-at-War Secretary-at-War
+Sep-tember September
 Settle-ment Settlement
 Ship-\ ping Shipping
 Ship-ping Shipping
@@ -592,6 +668,7 @@ six-\ teen sixteen
 six-teen sixteen
 Six-\ teen Sixteen
 Six-teen Sixteen
+South-ampton Southampton
 South-\ port Southport
 South-port Southport
 Spe-cial Special
@@ -613,7 +690,9 @@ them-selyes themselves
 -The -\ The
 Thir-\ teenth Thirteenth
 Thir-teenth Thirteenth
+thirty-fonr thirty-four
 thou-sand thousand
+trans-ferrable transferrable
 Trea-snry Treasury
 treason-able treasonable
 Treason-able Treasonable
@@ -623,7 +702,11 @@ Trea-\ surer Treasurer
 Trea-surer Treasurer
 Trea-\ sury Treasury
 Trea-sury Treasury
+Trus-tees Trustees
+Twenty-filth Twenty-fifth
 twenty-fonr twenty-four
+up-wards upwards
+Vic-toria Victoria
 West-minster Westminster
 Westmin-ster Westminster
 Widdring-ton Widdrington
@@ -632,38 +715,43 @@ writ-ten written
 Yice-President Vice-President
 Yolun-teers Volunteers
 York-shire Yorkshire
-pei-son person
-Pei-son Person
-pro-vided provided
-Pro-vided Provided
-Pro-vision Provision
-Pro-visions Provisions
-pro-visions provisions
-Provi-sions Provisions
-quar-terly quarterly
-Rick-mansworth Rickman-worth
-Rickmans-worth Rickman-worth
-Secrctary-at-War Secretary-at-War
-Secretaiy-at-War Secretary-at-War
-Secre-tary-at-War Secretary-at-War
-sec-tion section
-Seeretary-at-War Secretary-at-War
-Sep-tember September
-South-ampton Southampton
-thirty-fonr thirty-four
-trans-ferrable transferrable
-Twenty-filth Twenty-fifth
-up-wards upwards
-Vic-toria Victoria
-in-tituled intituled
-after-wards afterwards
-re-fusing refusing
-Trus-tees Trustees
-disem-bodied disembodied
-billet-ting billetting
-Pre-mises Premises
-deter-mine determine
-Cran-brooke Cranbrooke
-hereip-after herein-after
-hereiu-after herein-after
-hevein-after herein-after
+pe-\ nalties penalties
+pe\ nalties penalties
+per-4\ formed performed
+Per-4\ son Person
+Oon-viction Conviction
+parlia-nent parliament
+Aider-men Aldermen
+aider-men aldermen
+Cogni-\ zance Cognizance
+Cogni-zance Cognizance
+con-stituted constituted
+Eject-ment Ejectment
+Scot-land Scotland
+sixty-tbree sixty-three
+sixty-threc sixty-three
+sixty-throe sixty-three
+sixty-ttree sixty-three
+Green-wich Greenwich
+herein-afler herein-after
+Aider-man Alderman
+aider-man alderman
+nere-by here-by
+nerein-after herein-after
+never-theless nevertheless
+pleuro-pneu-monia pleuro-pneumonia
+Pos-session Possession
+Posses-sion Possession
+Pos-sessions Possessions
+Posses-sions Possessions
+Northumber-land Northumberland
+Northumber-\ land Northumberland
+9uch such
+3uch such
+Mate-rials Materials
+Sub-pcena Subpoena
+suffi-cient sufficient
+him-self himself
+Artil-lery Artillery
+Attor-ney Attorney
+fur-ther further
