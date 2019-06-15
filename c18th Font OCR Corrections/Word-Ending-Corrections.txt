@@ -141,8 +141,12 @@ creafed creased
 crs ers
 ctcd cded
 ctcd cted
+ctioh ction
+ctiohs ctions
 ctlon ction
 ctlv ctly
+cutioh cution
+cutiohs cutions
 datc date
 dcd ded
 dcnt dent
@@ -179,6 +183,7 @@ efTes esses
 eht ent
 eigbt eight
 eigbts eights
+eightb eighth
 eITcd essed
 eiTed essed
 ejler ester
@@ -245,6 +250,7 @@ fhoe shoe
 fhop shop
 ficd fied
 ficld field
+-fiflh -fifth
 fiftn fifth
 fign-ed signed
 -fireet -street
@@ -320,6 +326,7 @@ guijhed guished
 guilhed guished
 guilh guish
 guilhing guishing
+haugb haugh
 haU hall
 havcn haven
 heatb heath
@@ -354,6 +361,7 @@ ihip ship
 ihips ships
 iiig ing
 ijbed ished
+ijbing ishing
 ijb ish
 iJb ish
 ijh ish
@@ -361,9 +369,12 @@ iJh ish
 -ilreet -street
 ilvcr ilver
 incd ined
+in-Chicf in-Chief
 infter inster
 &ing cting
+in-Ghief in-Chief
 (ing sing
+in-Ohief in-Chief
 inq ing
 iog ing
 ion-er ioner
@@ -387,6 +398,7 @@ izcd ized
 jbam sham
 jbirc shire
 jbire shire
+jbment shment
 jbury sbury
 Jbury sbury
 jcct ject
@@ -401,6 +413,7 @@ jhing shing
 jhip ship
 Jhip ship
 jhips ships
+jhment shment
 -jixth -sixth
 jlone stone
 Jlone stone
@@ -542,9 +555,12 @@ qaer quer
 qucnt quent
 quefl quest
 quefls quests
+queft quest
+quefts quests
 quejl quest
 ragc rage
 ratc rate
+ratioh ration
 reafcd reased
 reafed reased
 rg11 rgii
@@ -575,6 +591,7 @@ sh1p ship
 sh1ps ships
 shcd shed
 shcs shes
+sioh sion
 SJMO SIMO
 sscd ssed
 statc state
@@ -619,6 +636,7 @@ tihg ting
 tijed tised
 tilh tish
 t-ing ting
+ti°n tion
 tiohed tioned
 tioh tion
 tioii tion
@@ -641,6 +659,7 @@ trlct trict
 trv try
 tuaj tual
 tuaJ tual
+tualiing tualling
 tuatty tually
 turcd tured
 tutc tute
@@ -701,6 +720,7 @@ wicn wich
 wifc wife
 wije wise
 witb with
+wlck wick
 wortb worth
 wortli worth
 wtb wth
@@ -712,7 +732,13 @@ XII1 XIII
 y-fix y-six
 yihg ying
 yipg ying
+|y ly
 ytng ying
 yy y,
 zurc zure
-
+ejght eight
+ejght eight
+ejght eight
+ejght eight
+fpital spital
+fpitals spitals
