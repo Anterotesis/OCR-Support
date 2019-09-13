@@ -1,3 +1,4 @@
+0ffice Office
 aafwer answer
 Aaminiftrator Administrator
 Abfent Absent
@@ -11,12 +12,15 @@ accompliih accomplish
 accomplijb accomplish
 accomplijh accomplish
 accomplilh accomplish
+accord-ing according
+Acknowied Acknowled
 ad-\ dition addition
 adminiffrator administrator
 Adminiffrator Administrator
 adminiftra administra
 Adminillrat Administrat
 Ad-ministrator Administrator
+Admi-ralty Admiralty
 ad-vance advance
 advertife advertise
 Advertife Advertise
@@ -32,6 +36,7 @@ affeff assess
 Affeffor Assessor
 Affefiment Assessment
 Affeflment Assessment
+Affeflor Assessor
 AffefTment Assessment
 Affiftant Assistant
 affign assign
@@ -80,6 +85,7 @@ ajjignment assignment
 alehoufc alehouse
 alfeff assess
 Alfign Assign
+Allow-ance Allowance
 almfhouse almshouse
 alTemble assemble
 amongft amongst
@@ -109,7 +115,10 @@ Annotric Anno\ tric
 Announ Anno\ un
 Annovi Anno\ vi
 Annovic Anno\ vic
+April1 April\ 1
 Arcbbishop Archbishop
+archbilhop archbishop
+Archbilhop Archbishop
 archbi-shop archbishop
 Archbi-shop Archbishop
 archhifhop archbishop
@@ -119,18 +128,28 @@ ascer-tain ascertain
 Assess-ment Assessment
 Audlioneer Auctioneer
 Auftion Auction
+authorifc authorise
+authorife authorise
 Baftard Bastard
 bajlard bastard
 Banifb Banish
 Banifh Banish
 befeech beseech
+biffiop bishop
 bifhop bishop
+bifiiop bishop
+bifliop bishop
+biftiop bishop
+Biftioprick Bishoprick
+biihop bishop
+bijbop bishop
 Bijbop Bishop
 bijhop bishop
 Bijhop Bishop
 Bishop-rick Bishoprick
 bis\ Maje his\ Maje
 Bis\ Maje His\ Maje
+bjedl bject
 blifhed blished
 bofpital hospital
 Bookfeller Bookseller
@@ -167,26 +186,35 @@ Cbmmiff Commiss
 Cbrift Christ
 cburcb church
 cburch church
+cclcsiadi cclesiasti
 ccmmiff commiss
 ccnfider consider
 cejter cester
+certi-ficat certificat
+certifi-cat certificat
+Certi-ficat Certificat
+Certifi-cat Certificat
 cer-tificate cer-tificate
 Cer-tificate Cer-tificate
 cftablilh establish
 chargedof charged\ of
 chefter chester
+Cheftnut Chestnut
 cheJlcr chester
 cheJler chester
+Chejler Chester
 chnrch church
 chrift christ
 Chriftian Christian
 churcb church
 circumftanc circumstanc
+Circum-stance Circumstance
 cjuad quad
 Claim-ant Claimant
 clandejtin clandestin
 clandestinc clandestine
 Claufe Clause
+cliarge charge
 clofures closures
 Clofures Closures
 cnarge charge
@@ -209,6 +237,7 @@ Commif-fio Commissio
 Commiffio Commissio
 commiffioh commission
 commiffiom commission
+commif-fion commission
 commiffion commission
 Commif-\ fion Commission
 Commif-fion Commission
@@ -255,6 +284,8 @@ Commiliion Commission
 Commillion Commission
 commilTion commission
 CommilTion Commission
+commision commission
+Commision Commission
 commissicn commission
 Commissicn Commission
 commissiion commission
@@ -296,6 +327,7 @@ Conjlable Constable
 conlpirator conspirator
 Conltable Constable
 con-stable constable
+con-tinue continue
 convi6t convict
 Convi6t Convict
 convi& convict
@@ -304,7 +336,19 @@ con-vict convict
 Con-vict Convict
 con-vift convict
 Con-vift Convict
+cornfac-tor cornfactor
+Cornfac-tor Cornfactor
+cornfadlor cornfactor
+Cornfadlor Cornfactor
+cornfaftor cornfactor
+Cornfaftor Cornfactor
+cornfa&or cornfactor
+Cornfa&or Cornfactor
 cornmiffion commission
+cor-poration corporation
+corpora-tion corporation
+Cor-poration Corporation
+Corpora-tion Corporation
 correfpond correspond
 Correfpond Correspond
 Correftion Correction
@@ -317,6 +361,11 @@ counter-fign counter-sign
 counterfign countersign
 countiesof counties\ of
 courfes courses
+couut count
+Couut Count
+co-venant covenant
+cpmmission commission
+Cpmmission Commission
 craftfman craftsman
 crofs cross
 cuft°dy custody
@@ -324,19 +373,29 @@ Cuftody Custody
 cuf-tom custom
 cuftom custom
 Cuftom Custom
+Cutkbert Cuthbert
 cxecut execut
 cxtinguif extinguis
 cxtra extra
 cxtra& extract
+Dc-feription Description
 dcferter deserter
 Dcferter Deserter
 dcpofit deposit
 Dcpofit Deposit
+Debentnre Debenture
+Debeuture Debenture
 decimofexto decimo\ sexto
 decimotertio decimo\ tertio
 Dedu& Deduct
 defcribe describe
 Defeft Defect
+de-fendant defendant
+defen-dant defendant
+defend-ant defendant
+De-fendant Defendant
+Defen-dant Defendant
+Defend-ant Defendant
 de-ferib describ
 deferip-tion description
 defeription description
@@ -344,6 +403,7 @@ Defeription Description
 deferter deserter
 Deferter Deserter
 deftroy destroy
+dejign design
 dejtroy destroy
 demolijh demolish
 demolilh demolish
@@ -352,6 +412,8 @@ Deputy-marfhal Deputy-marshal
 Deputy-Marfhal Deputy-Marshal
 Deputy-marlhal Deputy-marshal
 Deputy-Marlhal Deputy-Marshal
+de-scription description
+De-scription Description
 dfhire dshire
 difburfc Disburse
 Difburfc Disburse
@@ -414,6 +476,8 @@ diftri-but distribut
 diftribut distribut
 Diftri-but Distribut
 Diftribut Distribut
+dif-tridt district
+Dif-tridt District
 Diftri£t District
 difturb disturb
 Difturb Disturb
@@ -426,24 +490,45 @@ dijpofe dispose
 dilband disband
 dilburfe disburse
 Dilcover Discover
+Dimenfion Dimension
+Dircftor Director
 dire61 direct
 Dire61 Direct
 dire6t direct
 Dire6t Direct
+direblion direction
+Direblion Direction
+direbtion direction
+Direbtion Direction
 direbtor director
+Direbtor Director
+diredbion direction
+Diredbion Direction
+direddion direction
+Direddion Direction
+diredfion direction
+Diredfion Direction
+dirediion direction
+Dirediion Direction
 dire& direct
 Diredlion Direction
 Diredlor Director
 Diredtor Director
 dire&ed directed
+direflion direction
+Direflion Direction
 Dire&or Director
 dis-charge discharge
+discliarg discharg
+Discliarg Discharg
 dis-ting disting
+distinguiih distinguish
 Distri£t District
 ditcb ditch
 Ditcb Ditch
 divifion division
 divifton division
+diviiion division
 di-vision division
 Di-vision Division
 djhire dshire
@@ -453,6 +538,8 @@ dtstroy destroy
 du&ion duction
 dwelling-boufe dwelling-house
 dwell-ing dwelling
+E0R EOR
+ea3terly easterly
 Eafement Easement
 Eafi-Ind East-Ind
 Eafl-Ind East-Ind
@@ -462,6 +549,7 @@ EEEAS EREAS
 Efcape Escape
 efcbeator escheator
 Efcheator Escheator
+Efeheator Escheator
 Effc& Effect
 effcftual effectual
 effectnal effectual
@@ -484,6 +572,7 @@ effe&ual effectual
 effion ession
 efie&ual effectual
 efpecial especial
+Efquire Esquire
 eftabfifh establish
 eftabiilh establish
 eftabli establi
@@ -529,9 +618,12 @@ eonftable constable
 Ereftion Erection
 ertablish establish
 establiffi establish
+establijh establish
+establilh establish
 etfcftual effectual
 every£ every\ £
 Evglijh English
+ExceUent Excellent
 Excifc Excise
 Excife Excise
 ex-clufive exclusive
@@ -539,6 +631,8 @@ ex-empt exempt
 exercife exercise
 ex-ercif exercis
 Ex-ercif Exercis
+exerciie exercise
+Exerciie Exercise
 exercile exercise
 Exercile Exercise
 exereife exercise
@@ -553,6 +647,7 @@ Ex-port Export
 expreff express
 extraA extract
 ExtraA Extract
+f10n fion
 fa&ion faction
 fartherprov farther\ prov
 Fartherprov Farther\ prov
@@ -572,13 +667,14 @@ fcvcn seven
 fcvcral several
 fcven seven
 fcveral several
+feafaring seafaring
 fearch search
 fecond second
 fecurity security
-fef-(ion session
-feiiion session
+fef-(ion fession
+feiiion fession
 feijeant serjeant
-feilion session
+feilion fession
 Fenaltie Penaltie
 ferjeant serjeant
 fervice service
@@ -590,9 +686,9 @@ feven seven
 fevtnty seventy
 fextoG sexto\ G
 ffeCt ffect
+Ffquire Esquire
 fhall shall
 fheriff sheriff
-fheriffs sheriffs
 fherifl sheriff
 fherift sheriff
 fheriif sheriff
@@ -606,6 +702,7 @@ fiftb fifth
 Fi(h Fish
 Fiiher Fisher
 fiiire shire
+fijhermen fishermen
 filver silver
 Fire-fhovcl Fire-shovel
 Fire-fhovel Fire-shovel
@@ -647,6 +744,7 @@ fpedive spective
 fpedtive spective
 fpeftive spective
 fpe&ive spective
+fpe£tive spective
 fpirit spirit
 fpread spread
 fran-chife franchise
@@ -663,6 +761,8 @@ ftances stances
 ftanding standing
 ftatuteof statute\ of
 ftatute statute
+ftipulate stipulate
+ftitute stitute
 ftminster stminster
 ftration stration
 ftrators strators
@@ -674,6 +774,7 @@ fubdiv subdiv
 fubfcrib subscrib
 fubfcrip subscrip
 fubfequent subsequent
+fubfidy subsidy
 fub-fiftence subsistence
 fub-ftantial substantial
 fubftant substant
@@ -691,6 +792,7 @@ fucccff success
 fuc-ceed succeed
 fucceff success
 fuc-ceflbr successor
+fucceftive successive
 fuccelfive successive
 fuccertor successor
 fuccess success
@@ -740,6 +842,7 @@ Gencral General
 genera) general
 GEORGii GEORGII
 GeorgiiIII Georgii\ III
+GEORGli GEORGII
 GEORGU GEORGII
 glafgow glasgow
 Glafgow Glasgow
@@ -751,8 +854,12 @@ Gloucefter Gloucester
 Gloucejler Gloucester
 GlouceJler Gloucester
 Gommission Commission
+GUL1ELMI GULIELMI
 Gxorgi Georgi
 havebeen have\ been
+havingbeen having\ been
+Hegulation Regulation
+Hegulotion Regulation
 HEKEAS HEREAS
 HiaMaje His\ Maje
 Highivay Highway
@@ -781,6 +888,7 @@ Houfc House
 houfe house
 Houfe House
 Houfes Houses
+Houfliold Houshold
 Hounjlow Hounslow
 housesof houses\ of
 huf-band husband
@@ -794,6 +902,8 @@ ifhmonger ishmonger
 -iixth -sixth
 imburfe imburse
 impofed imposed
+impo-fition imposition
+Impo-fition Imposition
 Impofttion Imposition
 impojition imposition
 impovver impower
@@ -803,6 +913,9 @@ imprifbn imprison
 Imprifbn Imprison
 impri-fon imprison
 Impri-fon Imprison
+inagistrate magistrate
+inclufive inclusive
+Inclufive Inclusive
 Incnmbrance Incumbrance
 indorfc indorse
 Indorfc Indorse
@@ -810,6 +923,7 @@ indorfe indorse
 Indorfe Indorse
 indosure inclosure
 Indosure Inclosure
+infant\ fon infant\ son
 infli£t inflict
 Infpe&or Inspector
 inftruction instruction
@@ -821,6 +935,10 @@ infuffic insuffic
 infurance insurance
 Infurance Insurance
 infurrect insurrect
+initrument instrument
+Initrument Instrument
+injlrument instrument
+Injlrument Instrument
 Inqucft Inquest
 inquefl inquest
 inqueft inquest
@@ -842,8 +960,10 @@ Interelt Interest
 Iriffi Irish
 Irijb Irish
 Irijh Irish
+iritereft interest
 i(Tue issue
 I(Tue Issue
+iubftitute substitute
 IVefim Westm
 IVeflm Westm
 iveftmin Westmin
@@ -859,8 +979,10 @@ jbip ship
 Jbip ship
 jbire shire
 Jbire shire
+je<ft ject
 jefty jesty
 Jefuit Jesuit
+jeizure seizure
 Jerfey Jersey
 Jerjeant serjeant
 jevent sevent
@@ -894,6 +1016,7 @@ jubfcrib subscrib
 jubfcrip subscrip
 Jucceffors successors
 juccejfors successors
+JucceJfor successor
 Judice Justice
 Juflice Justice
 juflices justices
@@ -913,6 +1036,7 @@ juftjce justice
 Juftjce Justice
 juitice justice
 Juitice Justice
+JuJlice Justice
 Julfice Justice
 Jultice Justice
 Jupport support
@@ -944,11 +1068,16 @@ Keftridion Restriction
 Keftri&ion Restriction
 Kiddcrm Kidderm
 Kiugston Kingston
+largingthe larging\ the
 lheriff sheriff
 licenfe license
+lnftalment instalment
 lnftance instance
 lnftruftion instruction
 lnftrument instrument
+Loca1 Local
+lordlieut lord\ lieut
+LordLieut Lord\ Lieut
 loyalfub loyal\ sub
 lucceffor successor
 Luteftring Lutestring
@@ -998,6 +1127,8 @@ majesly majesty
 Majesly Majesty
 majestv majesty
 Majestv Majesty
+Ma-\ jesty Majesty
+Majes-ty Majesty
 Maje&y Majesty
 Majrfty Majesty
 manufadlur manufacture
@@ -1065,6 +1196,7 @@ minjler minster
 minJler minster
 Minjler Minster
 minjter minster
+missioncr missioner
 m-missioner mmissioner
 Mngiftrate Magistrate
 mnjcfty majesty
@@ -1081,6 +1213,7 @@ Mufcovy Muscovy
 ncgledt neglect
 ncgleft neglect
 ncvcr never
+Ncwf-paper Newspaper
 negleft neglect
 negle& neglect
 nevcr never
@@ -1101,10 +1234,12 @@ NewcaJlle Newcastle
 New-castle Newcastle
 news-paper newspaper
 News-paper Newspaper
+-nnd- -and-
 nonoGeo nono\ Geo
 nonoGEO nono\ GEO
 nortb north
 Nortb North
+Nottingbam Nottingham
 notvvith notwith
 notwitbft notwithst
 notwitb notwith
@@ -1138,7 +1273,9 @@ occaflon occasion
 Occaflon Occasion
 occaiion occasion
 Occaiion Occasion
+OEORGii GEORGII
 ofdebt of\ debt
+ofiicer officer
 ommHfion ommission
 ommifiion ommission
 ommiflion ommission
@@ -1150,18 +1287,25 @@ ommilfion ommission
 ommission-er ommissioner
 ommlffion ommission
 omniiffion ommission
+Onethouland One\ thousand
+OneThouland One\ Thousand
 orafmuch orasmuch
+ordsspiritual ords\ spiritual
 othcrw otherw
+otherperson other\ person
 otherwife otherwise
 Oyfter Oyster
 Paf-fage Passage
 Paffage Passage
+Paffcnger Passenger
+Paffenger Passenger
 Paffeng Passeng
 Pafienger Passenger
 pafleboard pasteboard
 Pafleboard Pasteboard
 paflenger passenger
 Paflenger Passenger
+pafteboard pasteboard
 PafTenger Passenger
 Pajlurc Pasture
 Palfenger Passenger
@@ -1181,21 +1325,27 @@ Par-liament Parliament
 Parpose Purpose
 parUament parliament
 ParUament Parliament
+Pas-senger Passenger
 Pay-ment Payment
 pcnce pence
 pcrfon person
 pCrfon person
 Pcrfon Person
 PCrfon Person
+pe<ft pect
 Pen-fioner Pensioner
+penfion pension
 Penfion Pension
 Per-fbn Person
+Perfia Persia
 per-fon person
 Per-fon Person
 Perfon Person
 perquifite perquisite
 personai personal
 Personai Personal
+peti-tion petition
+Peti-tion Petition
 phy-fician physician
 phyfi-cian physician
 Phy-fician Physician
@@ -1234,9 +1384,11 @@ pojjejf possess
 pojjejj possess
 polfellion possession
 Polfellion Possession
+pos-session possession
 poveri(hed poverished
 prccinft precinct
 Prccinft Precinct
+prcntice prentice
 Predeceffor Predecessor
 Prefbyt Presbyt
 prefcribe prescribe
@@ -1245,14 +1397,18 @@ Prefent Present
 preferv preserv
 Preffer Presser
 Prefi-dent President
+pre-scribe prescribe
 presentMajesty present\ Majesty
 prifon prison
 Primrofe Primrose
+Pri-soner Prisoner
 Prison-er Prisoner
+prjfoner prisoner
 Pro-ceed Proceed
 Produ6t Product
 pro-duce produce
 Pro-duce Produce
+produftive productive
 Profccution Prosecution
 profecu-tor prosecutor
 profefibr professor
@@ -1297,7 +1453,10 @@ punifli punish
 punifti punish
 punijb punish
 punijh punish
+Punilhmen Punishmen
 punilh punish
+Punisb Punish
+Punisn Punish
 Purcbafe Purchase
 pur-chafe purchase
 purchafe purchase
@@ -1317,6 +1476,7 @@ Pur-pofe Purpose
 Purpofe Purpose
 Pur-pole Purpose
 Pur-pose Purpose
+P°wer Power
 qbftruftion obstruction
 Qbftruftion Obstructions
 Qffice Office
@@ -1326,9 +1486,12 @@ quadragesimopri quadragesimo\ pri
 quadragesimoq quadragesimo\ q
 quadragesimotertio quadragesimo\ tertio
 Quartcr Quarter
+quar-ter quarter
+Quar-ter Quarter
 quartoGe quarto\ Ge
 quartoGE quarto\ GE
 queftion question
+Queft Quest
 quintoGEO quinto\ GEO
 quintoGe quinto\ Ge
 quintoGE quinto\ GE
@@ -1350,6 +1513,7 @@ rcgiftcr register
 rcgjfter register
 reafcn reason
 reafon reason
+rea-sonable reasonable
 re-cognifance recognisance
 recoyer recover
 Redriftion Restriction
@@ -1402,6 +1566,7 @@ refpeft respect
 re-fpe& respect
 reftify rectify
 Reftndion Restriction
+re<ft rect
 reftric-tion restriction
 Reftric-tion Restriction
 ReftriCtion Restriction
@@ -1427,9 +1592,12 @@ relpeft respect
 re-move remove
 respeAive respective
 respecfive respective
+respecft respect
 respec-\ tive respective
 Restriftion Restriction
 Reve-nue Revenue
+rlng ring
+rnagistrate magistrate
 rtotwith notwith
 sbould should
 Scbool School
@@ -1443,6 +1611,8 @@ Scottiih Scottish
 Scottijb Scottish
 Scottijh Scottish
 Scottisb Scottish
+secondyear second\ year
+Secre-tary Secretary
 Sef-fion Session
 Sefflon Session
 Sefiion Session
@@ -1453,6 +1623,7 @@ Seilion Session
 Sei&on Session
 Se(lions Sessions
 shall\ t>e shall\ be
+Smitb Smith
 soidier soldier
 Somcrfct Somerset
 Somcrfet Somerset
@@ -1462,7 +1633,9 @@ Somerfet Somerset
 soutb south
 Soutb South
 speCt spect
+spiritualand spiritual\ and
 Sqaare Square
+struCt struct
 Subdivilion Subdivision
 Subfcrib Subscrib
 Subfiftence Subsistence
@@ -1497,6 +1670,8 @@ Sur-\ geon Surgeon
 Sur-geon Surgeon
 Sur-\ name Surname
 Surplufage Surplusage
+T10N TION
+T7HERE WHERE
 Tafkmaster Taskmaster
 (tatute statute
 tbefaid the\ said
@@ -1506,11 +1681,7 @@ Tbirty Thirty
 tborp thorp
 tbwnlhip township
 tbwnship township
-tccnth teenth
-tcenth teenth
 tcrtio tertio
-tecnth teenth
-teentb teenth
 Teftament Testament
 T>E\ it BE\ it
 tertioE tertio\ E
@@ -1523,9 +1694,17 @@ theCommission the\ Commission
 theExpen the\ Expen
 theirc their\ c
 theJaid the\ said
+theKing the\ King
+TheKing The\ King
 theparifh the\ parish
 theParifh the\ Parish
+thePerson the\ Person
+the-petitio the\ petitio
+thepetitio the\ petitio
+the-Petitio the\ Petitio
+thePetitio the\ Petitio
 thereef thereof
+theTerm the\ Term
 thirtv thirty
 Thirtv Thirty
 thjrty thirty
@@ -1550,6 +1729,9 @@ Townfhip Township
 Townfhjp Township
 Townfliip Township
 Townftiip Township
+townJhip township
+Townjhip Township
+TownJhip Township
 townlhip township
 Townlnip Township
 tranf-port transport
@@ -1560,6 +1742,8 @@ tranlcript transcript
 Tranlcript Transcript
 transeript transcript
 Transeript Transcript
+transfcr transfer
+traufport transport
 trea-furer treasurer
 treafur-er treasurer
 treafurer treasurer
@@ -1604,6 +1788,7 @@ ublickaft ublick\ act
 ufbandrv usbandry
 ufual usual
 unjkilful unskilful
+-upou- -upon-
 urifdidion urisdiction
 urifdidtion urisdiction
 urifdiilion urisdiction
@@ -1648,11 +1833,12 @@ Warehoufc Warehouse
 warehouie warehouse
 Warehouie Warehouse
 warehoul warehous
-wbite white
-Wbite White
+wbit whit
+Wbit Whit
 Weflmin Westmin
 Weftmtn Westmin
 Weftm Westm
+WeftRiding West\ Riding
 Wejhnin Westmin
 Wejimin Westmin
 Wejlmin Westmin
@@ -1666,15 +1852,21 @@ Westminft Westminst
 Westminjl Westminst
 Westminj Westmins
 WestminJ Westmins
+Westmtn Westmin
 Wettmin Westmin
 wifhftand withstand
 Wincbe Winche
 witbftand withstand
+witbstand withstand
 withfland withstand
 withftand withstand
 withliand withstand
 withlland withstand
 withoutlic without\ lic
+witnefi witness
+Witnefi Witness
+witnefl witness
+Witnefl Witness
 witneft witness
 witnefT witness
 Witneft Witness
@@ -1683,6 +1875,8 @@ WiUiam William
 Worcefter Worcester
 worfted worsted
 worjhip worship
+workbouse workhouse
+Workbouse Workhouse
 yearof year\ of
 Yisconte Visconte
 yourmaje your\ maje
@@ -1691,91 +1885,33 @@ yvarehouse warehouse
 YVarehouse Warehouse
 zvater-bailiff water-bailiff
 zvhicb which
-Nottingbam Nottingham
-ExceUent Excellent
-Cutkbert Cuthbert
-Quar-ter Quarter
-quar-ter quarter
-Discliarg Discharg
-discliarg discharg
-Secre-tary Secretary
-cornfaftor cornfactor
-Cornfaftor Cornfactor
-Cornfac-tor Cornfactor
-cornfac-tor cornfactor
-Cornfa&or Cornfactor
-cornfa&or cornfactor
-Cornfadlor Cornfactor
-cornfadlor cornfactor
-Efquire Esquire
-Ffquire Esquire
-ftipulate stipulate
-Onethouland One\ thousand
-OneThouland One\ Thousand
-Ma-\ jesty Majesty
-Loca1 Local
-Pas-senger Passenger
-Pri-soner Prisoner
-Allow-ance Allowance
-ofiicer officer
-feafaring seafaring
-prjfoner prisoner
-infant\ fon infant\ son
-fucceftive successive
-cliarge charge
-secondyear second\ year
-Debentnre Debenture
-Debeuture Debenture
-impo-fition imposition
-Impo-fition Imposition
-co-venant covenant
-Dc-feription Description
-de-fendant defendant
-De-fendant Defendant
-defen-dant defendant
-Defen-dant Defendant
-defend-ant defendant
-Defend-ant Defendant
-cor-poration corporation
-Corpora-tion Corporation
-corpora-tion corporation
-Cor-poration Corporation
-Ncwf-paper Newspaper
-Certi-ficat Certificat
-Certifi-cat Certificat
-certifi-cat certificat
-certi-ficat certificat
-Dimenfion Dimension
-Commision Commission
-commision commission
-inclufive inclusive
-Inclufive Inclusive
-fubfidy subsidy
-TownJhip Township
-townJhip township
-Townjhip Township
-townJhip township
-Exerciie Exercise
-exerciie exercise
-theKing the\ King
-TheKing The\ King
-authorife authorise
-authorifc authorise
-T10N TION
-f10n fion
-Archbilhop Archbishop
-Biftioprick Bishoprick
-Dircftor Director
-Perfia Persia
-JucceJfor successor
-WeftRiding West\ Riding
-Archbilhop Archbishop
-archbilhop archbishop
-inagistrate magistrate
-rnagistrate magistrate
-cpmmission commission
-Cpmmission Commission
-diviiion division
-Punisb Punish
-Punisn Punish
--nnd- -and-
+pe<ft pect
+je<ft ject
+re<ft rect
+Queft Quest
+biihop bishop
+biffiop bishop
+bifiiop bishop
+bifliop bishop
+biftiop bishop
+bijbop bishop
+V0L VOL
+pojjible possible
+witneff witness
+withffand withstand
+afftgn assign
+ftgn sign
+queft quest
+ceJJ cess
+f0n fon
+peCtiv pectiv
+quifition quisition
+knigbt knight
+tanceof tance\ of
+bishopof bishop\ of
+ferjcant serjeant
+moreeffect more\ effect
+moreeffect more\ effect
+ftable stable
+proteftant protestant
+overfeer overseer
