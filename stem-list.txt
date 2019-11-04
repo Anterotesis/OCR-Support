@@ -15,8 +15,6 @@ accomplilh accomplish
 accord-ing according
 Acknowied Acknowled
 ad-\ dition addition
-adminiffrator administrator
-Adminiffrator Administrator
 adminiftra administra
 Adminillrat Administrat
 Ad-ministrator Administrator
@@ -40,6 +38,7 @@ Affeflor Assessor
 AffefTment Assessment
 Affiftant Assistant
 affign assign
+afftgn assign
 afiemble assemble
 Afiemble Assemble
 afleffment assessment
@@ -146,6 +145,7 @@ bijbop bishop
 Bijbop Bishop
 bijhop bishop
 Bijhop Bishop
+bishopof bishop\ of
 Bishop-rick Bishoprick
 bis\ Maje his\ Maje
 Bis\ Maje His\ Maje
@@ -189,6 +189,7 @@ cburch church
 cclcsiadi cclesiasti
 ccmmiff commiss
 ccnfider consider
+ceJJ cess
 cejter cester
 certi-ficat certificat
 certifi-cat certificat
@@ -577,9 +578,6 @@ eftabfifh establish
 eftabiilh establish
 eftabli establi
 efta-blifh establish
-eftablifh establish
-Eftablifh Establish
-eftablijh establish
 efta-blilh establish
 efta-blish establish
 eftahlifh establish
@@ -613,6 +611,8 @@ engliji english
 Engliji English
 englijl english
 Englijl English
+Engli(h English
+engli(h english
 EngU Engli
 eonftable constable
 Ereftion Erection
@@ -647,6 +647,7 @@ Ex-port Export
 expreff express
 extraA extract
 ExtraA Extract
+f0n fon
 f10n fion
 fa&ion faction
 fartherprov farther\ prov
@@ -676,6 +677,7 @@ feiiion fession
 feijeant serjeant
 feilion fession
 Fenaltie Penaltie
+ferjcant serjeant
 ferjeant serjeant
 fervice service
 fetfhire setshire
@@ -753,6 +755,7 @@ Frifoner Prisoner
 f°rty forty
 ftabiifb stablish
 ftabiifh stablish
+ftable stable
 ftablifb stablish
 ftablifh stablish
 ftablilh stablish
@@ -761,6 +764,7 @@ ftances stances
 ftanding standing
 ftatuteof statute\ of
 ftatute statute
+ftgn sign
 ftipulate stipulate
 ftitute stitute
 ftminster stminster
@@ -849,7 +853,6 @@ Glafgow Glasgow
 glafs glass
 Glafs Glass
 Glajgow Glasgow
-GlaJgow Glasgow
 Gloucefter Gloucester
 Gloucejler Gloucester
 GlouceJler Gloucester
@@ -872,13 +875,7 @@ HisMaJ His\ Maj
 Hit\ Maje His\ Maje
 hofpitai hospital
 Hofpitai Hospital
-hofpital hospital
-Hofpital Hospital
-hojpital hospital
-Hojpital Hospital
 Holpiral Hospital
-holpital hospital
-Holpital Hospital
 Homeftead Homestead
 honeft honest
 (hopkeeper shopkeeper
@@ -964,16 +961,6 @@ iritereft interest
 i(Tue issue
 I(Tue Issue
 iubftitute substitute
-IVefim Westm
-IVeflm Westm
-iveftmin Westmin
-Iveftmin Westmin
-IVeftm Westm
-IVeJimin Westmin
-ivejlmin Westmin
-Ivejlmin Westmin
-IVejlmin Westmin
-IVeJlmin Westmin
 Jberiff sheriff
 jbip ship
 Jbip ship
@@ -1043,11 +1030,8 @@ Jupport support
 jurifdid jurisdict
 Jurifdift Jurisdict
 jurifdi jurisdi
-jurisdi6tion jurisdiction
 jurisdift jurisdict
 Jurisdift Jurisdict
-jurisdi£lion jurisdiction
-jurisdi£tion jurisdiction
 Jurrender surrender
 juslice justice
 Juslice Justice
@@ -1068,6 +1052,7 @@ Keftridion Restriction
 Keftri&ion Restriction
 Kiddcrm Kidderm
 Kiugston Kingston
+knigbt knight
 largingthe larging\ the
 lheriff sheriff
 licenfe license
@@ -1119,12 +1104,6 @@ Majejly Majesty
 Majelly Majesty
 majelt majest
 Majelty Majesty
-majesfy majesty
-Majesfy Majesty
-majesiy majesty
-Majesiy Majesty
-majesly majesty
-Majesly Majesty
 majestv majesty
 Majestv Majesty
 Ma-\ jesty Majesty
@@ -1207,6 +1186,7 @@ mnjesty majesty
 Mnjesty Majesty
 moGeo mo\ Geo
 Mojefly Majesty
+moreeffect more\ effect
 moutb mouth
 Mqjesty Majesty
 Mufcovy Muscovy
@@ -1222,16 +1202,6 @@ ne-ver never
 neVer never
 nevertbe neverthe
 neverthc neverthe
-Newcafile Newcastle
-Newcafllc Newcastle
-Newcaflle Newcastle
-Newcaftlc Newcastle
-Newcajllc Newcastle
-NewcaJllc Newcastle
-New-cajlle Newcastle
-Newcajlle Newcastle
-NewcaJlle Newcastle
-New-castle Newcastle
 news-paper newspaper
 News-paper Newspaper
 -nnd- -and-
@@ -1294,6 +1264,7 @@ ordsspiritual ords\ spiritual
 othcrw otherw
 otherperson other\ person
 otherwife otherwise
+overfeer overseer
 Oyfter Oyster
 Paf-fage Passage
 Paffage Passage
@@ -1332,6 +1303,7 @@ pcrfon person
 pCrfon person
 Pcrfon Person
 PCrfon Person
+peCtiv pectiv
 pe<ft pect
 Pen-fioner Pensioner
 penfion pension
@@ -1382,6 +1354,7 @@ Pojfession Possession
 PoJfession Possession
 pojjejf possess
 pojjejj possess
+pojjible possible
 polfellion possession
 Polfellion Possession
 pos-session possession
@@ -1425,6 +1398,7 @@ Protcflant Protestant
 Protcjlant Protestant
 ProtcJlant Protestant
 Proteflant Protestant
+proteftant protestant
 Protejlant Protestant
 ProteJlant Protestant
 provi-fion provision
@@ -1491,7 +1465,9 @@ Quar-ter Quarter
 quartoGe quarto\ Ge
 quartoGE quarto\ GE
 queftion question
+queft quest
 Queft Quest
+quifition quisition
 quintoGEO quinto\ GEO
 quintoGe quinto\ Ge
 quintoGE quinto\ GE
@@ -1605,11 +1581,7 @@ scffion session
 Scffion Session
 scflion session
 Scflion Session
-Scottifh Scottish
 Scottifli Scottish
-Scottiih Scottish
-Scottijb Scottish
-Scottijh Scottish
 Scottisb Scottish
 secondyear second\ year
 Secre-tary Secretary
@@ -1671,8 +1643,10 @@ Sur-geon Surgeon
 Sur-\ name Surname
 Surplufage Surplusage
 T10N TION
+t1on tion
 T7HERE WHERE
 Tafkmaster Taskmaster
+tanceof tance\ of
 (tatute statute
 tbefaid the\ said
 tbere there
@@ -1708,12 +1682,9 @@ theTerm the\ Term
 thirtv thirty
 Thirtv Thirty
 thjrty thirty
-thoufand thousand
 thoufimd thousand
 thoufond thousand
 thoufund thousand
-thoujand thousand
-thouJand thousand
 thousandpound thousand\ pound
 thousandsix thousand\ six
 ti(h tish
@@ -1796,6 +1767,7 @@ urisdicfion urisdiction
 urisdichon urisdiction
 urisdiciion urisdiction
 Utenfil Utensil
+V0L VOL
 vcffcl vessel
 Vcffcl Vessel
 vcffel vessel
@@ -1858,11 +1830,13 @@ wifhftand withstand
 Wincbe Winche
 witbftand withstand
 witbstand withstand
+withffand withstand
 withfland withstand
 withftand withstand
 withliand withstand
 withlland withstand
 withoutlic without\ lic
+witneff witness
 witnefi witness
 Witnefi Witness
 witnefl witness
@@ -1885,33 +1859,10 @@ yvarehouse warehouse
 YVarehouse Warehouse
 zvater-bailiff water-bailiff
 zvhicb which
-pe<ft pect
-je<ft ject
-re<ft rect
-Queft Quest
-biihop bishop
-biffiop bishop
-bifiiop bishop
-bifliop bishop
-biftiop bishop
-bijbop bishop
-V0L VOL
-pojjible possible
-witneff witness
-withffand withstand
-afftgn assign
-ftgn sign
-queft quest
-ceJJ cess
-f0n fon
-peCtiv pectiv
-quifition quisition
-knigbt knight
-tanceof tance\ of
-bishopof bishop\ of
-ferjcant serjeant
-moreeffect more\ effect
-moreeffect more\ effect
-ftable stable
-proteftant protestant
-overfeer overseer
+ubfeript ubscript
+profecut prosecut
+tranfmit transmit
+mijjton mission
+adimnistra administra
+paymafler paymaster
+Jndia India
