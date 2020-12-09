@@ -12,3 +12,4 @@
 *.txt~
 
 places-corrections.txt~
+.DS_Store
